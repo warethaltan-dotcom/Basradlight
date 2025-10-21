@@ -1,0 +1,3358 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <descriptor>
+    <name>Croatian</name>
+    <description>Croatian</description>
+    <doc_ver>1.0.0</doc_ver>
+    <schema_ver>1.0.0</schema_ver>
+  </descriptor>
+  <category id="CIPTextBox">
+    <item id="IP">
+      <message>IP</message>
+    </item>
+    <item id="Please specify a value between 1 and 223">
+      <message>Molim navedite vrijednost između 1 i 223</message>
+    </item>
+    <item id="Please specify a value between 0 and 255">
+      <message>Molim navedite vrijednost između 0 i 255</message>
+    </item>
+  </category>
+  <category id="CMainForm">
+    <item id="Communication Assistant">
+      <message>Komunikacijski asistent</message>
+    </item>
+  </category>
+  <category id="MailerInterface">
+    <item id="Failed to start Mail Client. Please try again.">
+      <message>Neuspješno pokretanje Mail klijenta. Molim pokušajte ponovno.</message>
+    </item>
+  </category>
+  <category id="CMessageBox">
+    <item id="Communication Assistant">
+      <message>Komunikacijski asistent</message>
+    </item>
+    <item id="&amp;Ok">
+      <message>&amp;U redu</message>
+    </item>
+    <item id="&amp;Cancel">
+      <message>&amp;Odustani</message>
+    </item>
+    <item id="&amp;Yes">
+      <message>&amp;Da</message>
+    </item>
+    <item id="&amp;No">
+      <message>&amp;Ne</message>
+    </item>
+  </category>
+  <category id="CConstant">
+    <item id="Paging in progress">
+      <message>Poziv na razglas</message>
+    </item>
+    <item id="Paging busy">
+      <message>Poz. razglasa zauzet</message>
+    </item>
+    <item id="Please make a call with the main window.">
+      <message>Molim uspostavite poziv iz glavnog prozora.</message>
+    </item>
+    <item id="Do not show this again.">
+      <message>Ne prikazuj ponovno ovu poruku.</message>
+    </item>
+    <item id="Available">
+      <message>Dostupan</message>
+    </item>
+    <item id="Urgent Only">
+      <message>Samo hitan poziv</message>
+    </item>
+    <item id="Will Return Soon">
+      <message>Uskoro se vraćam</message>
+    </item>
+    <item id="In a meeting">
+      <message>Na sastanku</message>
+    </item>
+    <item id="Not At My Desk">
+      <message>Nisam uz telefon</message>
+    </item>
+    <item id="Gone Home">
+      <message>Otisao kuci</message>
+    </item>
+    <item id="Do you want to close CA?">
+      <message>Da li želite zatvoriti Komunikacijski asistent?</message>
+    </item>
+    <item id="Communication Assistant">
+      <message>Komunikacijski asistent</message>
+    </item>
+    <item id="&amp;OK">
+      <message>&amp;U redu</message>
+    </item>
+    <item id="&amp;Cancel">
+      <message>&amp;Odustani</message>
+    </item>
+    <item id="&amp;Yes">
+      <message>&amp;Da</message>
+    </item>
+    <item id="&amp;No">
+      <message>&amp;Ne</message>
+    </item>
+    <item id="&amp;Delete">
+      <message>&amp;Izbriši</message>
+    </item>
+    <item id="&amp;Close">
+      <message>&amp;Zatvori</message>
+    </item>
+    <item id="General">
+      <message>Općenito</message>
+    </item>
+    <item id="Contact">
+      <message>Kontakt</message>
+    </item>
+    <item id="Company">
+      <message>Tvrtka</message>
+    </item>
+    <item id="Popup">
+      <message>Popup</message>
+    </item>
+    <item id="Contact Name:">
+      <message>Kontakt ime:</message>
+    </item>
+    <item id="E-mail:">
+      <message>E-mail:</message>
+    </item>
+    <item id="Phone (Office):">
+      <message>Telefon (Ured):</message>
+    </item>
+    <item id="Phone (Mobile):">
+      <message>Telefon (Mobilni):</message>
+    </item>
+    <item id="Phone (Home):">
+      <message>Telefon (Privatni):</message>
+    </item>
+    <item id="Company Name:">
+      <message>Naziv tvrtke:</message>
+    </item>
+    <item id="Department:">
+      <message>Odjel:</message>
+    </item>
+    <item id="Section:">
+      <message>Sekcija:</message>
+    </item>
+    <item id="Address:">
+      <message>Adresa:</message>
+    </item>
+    <item id="Postal Code:">
+      <message>Poštanski broj:</message>
+    </item>
+    <item id="Fax:">
+      <message>Fax:</message>
+    </item>
+    <item id="1st URL:">
+      <message>1. URL:</message>
+    </item>
+    <item id="2nd URL:">
+      <message>2. URL:</message>
+    </item>
+    <item id="3rd URL:">
+      <message>3. URL:</message>
+    </item>
+    <item id="Memo:">
+      <message>Memo:</message>
+    </item>
+    <item id="Profile">
+      <message>Profil</message>
+    </item>
+    <item id="Last Name:">
+      <message>Prezime:</message>
+    </item>
+    <item id="First Name:">
+      <message>Ime:</message>
+    </item>
+    <item id="Type:">
+      <message>Vrsta:</message>
+    </item>
+    <item id="Phone">
+      <message>Telefon</message>
+    </item>
+    <item id="Door">
+      <message>Vrata</message>
+    </item>
+    <item id="Sensor">
+      <message>Senzor</message>
+    </item>
+    <item id="Door:">
+      <message>Vrata:</message>
+    </item>
+    <item id="Sensor:">
+      <message>Senzor:</message>
+    </item>
+    <item id="Image File">
+      <message>Slikovna datoteka</message>
+    </item>
+    <item id="Ring File">
+      <message>Datoteka zvuka zvona</message>
+    </item>
+    <item id="URL">
+      <message>URL</message>
+    </item>
+    <item id="1st URL for Network Camera \n(Automatic pop-up for call/Automatic close after call)">
+      <message>1. URL za mrežnu kameru \n(Automatski pop-up za poziv/Automatski zatvori nakon poziva)</message>
+    </item>
+    <item id="2nd URL for Database \n(Automatic pop-up for phone call)">
+      <message>2. URL za bazu podataka \n(Automatski pop-up za telefonski poziv)</message>
+    </item>
+    <item id="3rd URL for Database (Access from main menu)">
+      <message>3. URL za bazu podataka (Pristup iz glavnog izbornika)</message>
+    </item>
+    <item id="Browse">
+      <message>Pretraži</message>
+    </item>
+    <item id="Image file not found">
+      <message>Slikovna datoteka nije pronađena</message>
+    </item>
+    <item id="Please enter the Contact Name">
+      <message>Molim unesite kontakt ime</message>
+    </item>
+    <item id="Contact Name too long. \n Please enter a shorter name.">
+      <message>Kontakt ime je predugačko. \n Molim unesite kraće ime.</message>
+    </item>
+    <item id="Contact Name not valid.\nMake sure the contact name does not contain any Chinese and Japanese characters.">
+      <message>Kontakt ime nije valjano.\nProvjerite da li kontakt ime sadrži kineske ili japanske znakove.</message>
+    </item>
+    <item id="Please enter the Phone Number.">
+      <message>Molim unesite telefonski broj.</message>
+    </item>
+    <item id="Please enter the Doorphone Number">
+      <message>Molim unesite broj portafona</message>
+    </item>
+    <item id="Please enter the Sensor Number">
+      <message>Molim unesite broj senzora</message>
+    </item>
+    <item id="Please enter the Image Path">
+      <message>Molim unesite putanju do slikovne datoteke</message>
+    </item>
+    <item id="Please enter the Sound Path">
+      <message>Molim unesite putanju do zvukovne datoteke</message>
+    </item>
+    <item id="The image file path is not valid, CA is unable to load the image file.">
+      <message>Putanja do slikovne datoteke nije valjana, Komunikacijski asistent ne može učitati slikovnu datoteku.</message>
+    </item>
+    <item id="The sound file path is not valid, CA is unable to play the sound file.">
+      <message>Putanja do zvukovne datoteke nije valjana, Komunikacijski asistent ne može reproducirati zvukovnu datoteku.</message>
+    </item>
+    <item id="The path will not be saved.">
+      <message>Putanja neće biti spremljena.</message>
+    </item>
+    <item id="The file path is too long, it should be less than or equal to 256 characters.\n Please enter a shorter path.">
+      <message>Putanja do datoteke je predugačka, treba biti kraća ili jednaka 256 znakova.\n Molim unesite kraću putanju.</message>
+    </item>
+    <item id="Unable to play the sound file. Maybe the file is invalid or there is a problem in your PC sound device.">
+      <message>Nije moguće reproducirati zvukovnu datoteku. Možda je datoteka neispravna ili je problem u PC zvučnom sklopu.</message>
+    </item>
+    <item id="Image Files">
+      <message>Slike</message>
+    </item>
+    <item id="Media Files">
+      <message>Media datoteke</message>
+    </item>
+    <item id="All Files">
+      <message>Sve datoteke</message>
+    </item>
+    <item id="Open">
+      <message>Otvori</message>
+    </item>
+    <item id="Unable to load the database. CA Application had to be closed.">
+      <message>Nije moguće učitati bazu podataka. Aplikacija Komunikacijski asistent mora se zatvoriti.</message>
+    </item>
+    <item id="CA Application">
+      <message>Kom. asist. apli</message>
+    </item>
+    <item id="Connection to database failed">
+      <message>Neuspješno povezivanje s bazom podataka</message>
+    </item>
+    <item id="History">
+      <message>Povijest poziva</message>
+    </item>
+    <item id="Contact &amp;List">
+      <message>&amp;Kontakt lista</message>
+    </item>
+    <item id="S&amp;peed Dial">
+      <message>&amp;Skraćeno biranje</message>
+    </item>
+    <item id="&amp;Save to CSV">
+      <message>&amp;Spremi u CSV datoteku</message>
+    </item>
+    <item id="&amp;Memo Open">
+      <message>&amp;Otvori memo</message>
+    </item>
+    <item id="&amp;Call">
+      <message>&amp;Poziv</message>
+    </item>
+    <item id="Speed Dial">
+      <message>Brzo biranje</message>
+    </item>
+    <item id="Show:">
+      <message>Prikaži:</message>
+    </item>
+    <item id="Search">
+      <message>Traži</message>
+    </item>
+    <item id="Search In:">
+      <message>Traži: </message>
+    </item>
+    <item id="Name">
+      <message>Ime</message>
+    </item>
+    <item id="Phone Number">
+      <message>Telefonski broj</message>
+    </item>
+    <item id="Type">
+      <message>Vrsta</message>
+    </item>
+    <item id="Start Time">
+      <message>Vrijeme početka</message>
+    </item>
+    <item id="Disconnect Time">
+      <message>Vrijeme prekida</message>
+    </item>
+    <item id="Duration">
+      <message>Trajanje</message>
+    </item>
+    <item id="Ring">
+      <message>Zvono</message>
+    </item>
+    <item id="Call Condition">
+      <message>Stanje poziva</message>
+    </item>
+    <item id="Call For">
+      <message>Poziv za</message>
+    </item>
+    <item id="Memo">
+      <message>Memo</message>
+    </item>
+    <item id="Trunk Group Number">
+      <message>Prijenosn. gr. broj</message>
+    </item>
+    <item id="Intercom">
+      <message>Kućni poziv</message>
+    </item>
+    <item id="Outside">
+      <message>Vanjski</message>
+    </item>
+    <item id="Blank">
+      <message>Prazno</message>
+    </item>
+    <item id="Transfer">
+      <message>Proslijedi</message>
+    </item>
+    <item id="Park">
+      <message>Parkiranje</message>
+    </item>
+    <item id="No Answer">
+      <message>Ne odgovara</message>
+    </item>
+    <item id="Import File">
+      <message>Import datoteke</message>
+    </item>
+    <item id="Export File">
+      <message>Eksport datoteke</message>
+    </item>
+    <item id="Save As">
+      <message>Spremi kao</message>
+    </item>
+    <item id="min">
+      <message>min</message>
+    </item>
+    <item id="s">
+      <message>s</message>
+    </item>
+    <item id="All Calls">
+      <message>Svi pozivi</message>
+    </item>
+    <item id="Incoming Missed Calls">
+      <message>Dolazni propušteni pozivi</message>
+    </item>
+    <item id="Incoming Received Calls">
+      <message>Dolazni primljeni pozivi</message>
+    </item>
+    <item id="Outgoing Answered Calls">
+      <message>Odlazni odgovoreni pozivi</message>
+    </item>
+    <item id="Outgoing Unanswered Calls">
+      <message>Odlazni neodgovoreni pozivi</message>
+    </item>
+    <item id="A file error has occurred in the export file">
+      <message>Greška nastala u eksportiranoj datoteci</message>
+    </item>
+    <item id="A file error has occurred in the text file">
+      <message>Greška nastala u tekstualnoj datoteci</message>
+    </item>
+    <item id="Unable to update the grid view setting. The grid view setting will not be saved.">
+      <message>Nije moguće obnoviti tabelarni prikaz. Tabelarni prikaz neće biti spremljen.</message>
+    </item>
+    <item id="Specific data will be deleted">
+      <message>Zadani podaci bit će izbrisani</message>
+    </item>
+    <item id="Please fill in the Speed Dial No">
+      <message>Molim upišite memo broj broja za brzo biranje</message>
+    </item>
+    <item id="Please fill in the Speed Dial Name">
+      <message>Molim upišite naziv/ime broja za brzo biranje</message>
+    </item>
+    <item id="Please fill in the Speed Dial Phone Number">
+      <message>Molim upišite telefonski broj za brzo biranje</message>
+    </item>
+    <item id="Illegal Request">
+      <message>Nedopušten zahtjev</message>
+    </item>
+    <item id="The Speed Dial Number is already registered in the PBX.">
+      <message>Broj za skraćeno biranje već je registriran pri kućnoj centrali.</message>
+    </item>
+    <item id="The current contact list will be deleted and replaced by new data. Do you want to continue?">
+      <message>Aktivna kontakt lista bit će izbrisana i zamijenjena novim podacima. Da li želite nastaviti?</message>
+    </item>
+    <item id="The composition of CSV content is either not correct or incorrect version, import fail.">
+      <message>Uvoz nije uspio zbog neodgovarajućeg sastava ili verzije CSV sadržaja.</message>
+    </item>
+    <item id="The composition of XML content is either not correct or incorrect version, import fail.">
+      <message>Uvoz nije uspio zbog neodgovarajućeg sastava ili verzije XML sadržaja.</message>
+    </item>
+    <item id="The contact list successfully imported">
+      <message>Kontakt lista je uspješno importirana</message>
+    </item>
+    <item id="This operation will delete all data about ">
+      <message>Ova radnja će izbrisati sve podatke o </message>
+    </item>
+    <item id=". Do you wish to continue?">
+      <message>. Da li želite nastaviti?</message>
+    </item>
+    <item id=" successfully deleted.">
+      <message> uspješno izbrisan.</message>
+    </item>
+    <item id="Contact List successfully exported.">
+      <message>Kontakt lista uspješno eksportirana.</message>
+    </item>
+    <item id="Contact List unable to export. A error occur during the exportation">
+      <message>Nije moguće eksportirati kontakt listu. Dogodila se greška tijekom eksportiranja</message>
+    </item>
+    <item id="The maximum contacts ">
+      <message>Maksimum kontakata </message>
+    </item>
+    <item id=" had already registered. To make a new contact, please delete some contacts in the contact list.">
+      <message> je već registriran. Da bi se kreirao novi kontakt molim izbrišite neke od kontakata u kontakt listi.</message>
+    </item>
+    <item id="Extension numbers from the PBX already exist in the contact list.">
+      <message>Kućni brojevi centrale već se nalaze u kontakt listi.</message>
+    </item>
+    <item id="No Extension found.">
+      <message>Kućni broj nije nađen.</message>
+    </item>
+    <item id="Error occurs.">
+      <message>Dogodila se greška.</message>
+    </item>
+    <item id="Import is unable to proceed. The file is being used by another process.">
+      <message>Uvoz nije moguće nastaviti. Datoteka je zauzeta od strane drugog procesa.</message>
+    </item>
+    <item id="Connection with PBX is disconnected">
+      <message>Veza s kućnom centralom je prekinuta</message>
+    </item>
+    <item id="No Response from PBX">
+      <message>Kućna centrala ne daje odziv</message>
+    </item>
+    <item id="Select language">
+      <message>Odabir jezika</message>
+    </item>
+    <item id="Dial Modification for Dial Copy Setting">
+      <message>Preinaka biranja za broj koji se kopira</message>
+    </item>
+    <item id="Enter Access Code for International Call">
+      <message>Unesite pristupni kod za pozivanje međunarodnih tel. brojeva</message>
+    </item>
+    <item id="Setting">
+      <message>Postavke</message>
+    </item>
+    <item id="International Call">
+      <message>Međunarodni poziv</message>
+    </item>
+    <item id="Enter International Area Code">
+      <message>Unesite međunarodni pozivni broj</message>
+    </item>
+    <item id="For example '81' for Japan or '44' for UK">
+      <message>Na primjer '81' za Japan ili '44' za Veliku Britaniju</message>
+    </item>
+    <item id="CA User Mode">
+      <message>Korisnički način rada Komunikacijskog asistenta</message>
+    </item>
+    <item id="Standard user (CA Pro)">
+      <message>Standardni korisnik (CA Pro)</message>
+    </item>
+    <item id="Standard user (CA Basic)">
+      <message>Standardni korisnik (CA Basic)</message>
+    </item>
+    <item id="ICD Group Supervisor (CA Supervisor)">
+      <message>Nadzornik ICD grupe (CA Supervisor)</message>
+    </item>
+    <item id="Use softphone">
+      <message>Koristi softphone</message>
+    </item>
+    <item id="Use ICD group agent feature">
+      <message>Koristi svojstva posrednika ICD grupe</message>
+    </item>
+    <item id="&amp;Save">
+      <message>&amp;Spremi</message>
+    </item>
+    <item id="&amp;Exit">
+      <message>&amp;Izađi</message>
+    </item>
+    <item id="English">
+      <message>English</message>
+    </item>
+    <item id="Spanish">
+      <message>Español</message>
+    </item>
+    <item id="French">
+      <message>Français</message>
+    </item>
+    <item id="Portuguese">
+      <message>Português</message>
+    </item>
+    <item id="German">
+      <message>Deutsch</message>
+    </item>
+    <item id="Italian">
+      <message>Italiano</message>
+    </item>
+    <item id="Russian">
+      <message>Русский</message>
+    </item>
+    <item id="Ukrainian">
+      <message>Українська</message>
+    </item>
+    <item id="Chinese">
+      <message>中文</message>
+    </item>
+    <item id="IP address of PBX">
+      <message>IP adresa kućne centrale</message>
+    </item>
+    <item id="Extension Number">
+      <message>Kućni broj</message>
+    </item>
+    <item id="Password">
+      <message>Zaporka</message>
+    </item>
+    <item id="&amp;Login">
+      <message>&amp;Prijava</message>
+    </item>
+    <item id="&amp;Quit">
+      <message>&amp;Završi</message>
+    </item>
+    <item id="User Login">
+      <message>Prijava korisnika</message>
+    </item>
+    <item id="Password must be assigned.">
+      <message>Zaporka mora biti dodijeljena.</message>
+    </item>
+    <item id="A-Z, a-z, 0-9, * and # can be used for password.">
+      <message>A-Z, a-z, 0-9, * i # mogu biti korišteni za zaporku.</message>
+    </item>
+    <item id="New Password (Max.16 characters)">
+      <message>Nova zaporka (Maks. 16 znakova)</message>
+    </item>
+    <item id="Verify Password">
+      <message>Provjeri zaporku</message>
+    </item>
+    <item id="Communication Assistant - Password">
+      <message>Komunikacijski asistent - zaporka</message>
+    </item>
+    <item id="You can log-in to Basic mode for now">
+      <message>Možete se prijaviti u Basic način rada za sada</message>
+    </item>
+    <item id="Limitations for Basic mode:">
+      <message>Ograničenja na Basic način rada:</message>
+    </item>
+    <item id="- Contact List is limited to 10 calls.">
+      <message>- Kontakt lista ograničena je na 10 poziva.</message>
+    </item>
+    <item id="- Contact History is limited to 10 calls.">
+      <message>- Povijest poziva ograničena je na 10 poziva.</message>
+    </item>
+    <item id="- Presence feature is not available.">
+      <message>- Svojstvo prikaza nazočnosti nije raspoloživo.</message>
+    </item>
+    <item id="You can log-in to Pro Trial for now">
+      <message>Možete se prijaviti u Pro Trial način rada za sada</message>
+    </item>
+    <item id="After 60 days, license registration is required.">
+      <message>Nakon 60 dana, potrebna je registracija licence.</message>
+    </item>
+    <item id="Installation Date:">
+      <message>Datum instaliranja:</message>
+    </item>
+    <item id="Expiration Date:">
+      <message>Datum isteka:</message>
+    </item>
+    <item id="I agree to the above condition and continue to use this application">
+      <message>Slažem se s gore navedenim uvjetima i želim nastaviti koristiti ovu aplikaciju</message>
+    </item>
+    <item id="IP Address is empty. Please enter a valid IP address">
+      <message>Nije unešena IP adresa. Molim unesite valjanu IP adresu</message>
+    </item>
+    <item id="Empty IP address">
+      <message>Nije unešena IP adresa</message>
+    </item>
+    <item id="No extension number has been entered. Please enter a valid extension number.">
+      <message>Nije unešen kućni broj. Molim unesite valjan kućni broj.</message>
+    </item>
+    <item id="Empty Extension number">
+      <message>Izbriši kućni broj</message>
+    </item>
+    <item id="The password you entered is not valid.">
+      <message>Zaporka koju ste unijeli nije valjana.</message>
+    </item>
+    <item id="The extension number is incorrect.">
+      <message>Kućni broj  nije valjan.</message>
+    </item>
+    <item id="Error Extension Number">
+      <message>Greška kućnog broja</message>
+    </item>
+    <item id="Password is incorrect">
+      <message>Zaporka nije valjana</message>
+    </item>
+    <item id="Incorrect Password">
+      <message>Nije valjana zaporka</message>
+    </item>
+    <item id="Password is locked.">
+      <message>Zaporka je zaključana.</message>
+    </item>
+    <item id="Please contact your manager of PBX">
+      <message>Molim obratite se osobi zaduženoj za administriranje kućne centrale</message>
+    </item>
+    <item id="Password Locked">
+      <message>Zaporka zaključana</message>
+    </item>
+    <item id="This extension is restricted to use CA">
+      <message>Ovom kućnom broju uporaba Komunikacij. asistenta određena je</message>
+    </item>
+    <item id="by PBX setting">
+      <message>spram postavki kućne centrale</message>
+    </item>
+    <item id="Please contact your manager of PBX.">
+      <message>Molim obratite se osobi zaduženoj za administriranje kućne centrale.</message>
+    </item>
+    <item id="Invalid extension setting">
+      <message>Neispravna postavka kuć. br.</message>
+    </item>
+    <item id="Number of users had exceeded the limit">
+      <message>Broj korisnika veći je od ograničenja</message>
+    </item>
+    <item id="Exceed Maximum Users">
+      <message>Prekoračen maks. br. korisnika</message>
+    </item>
+    <item id="The number of license is not enough">
+      <message>Broj licenci nije dovoljan</message>
+    </item>
+    <item id="Exceed Maximum Licenses">
+      <message>Prekoračen maks. broj licenci</message>
+    </item>
+    <item id="Failed to connect to server.">
+      <message>Neuspješno povezivanje sa poslužiteljem.</message>
+    </item>
+    <item id="API Failure">
+      <message>API greška</message>
+    </item>
+    <item id="Connection device is not supported. Unable to create connection">
+      <message>Konekcijski uređaj  nije podržan. Nije moguće uspostaviti vezu</message>
+    </item>
+    <item id="Non-support Connection Device">
+      <message>Nepodržan konekcijski uređaj</message>
+    </item>
+    <item id="Password mismatch. Please enter your new password again">
+      <message>Neodgovarajuća zaporka. Molim unesite zaporku ponovno</message>
+    </item>
+    <item id="Phone type is incorrect">
+      <message>Vrsta telefona nije valjana</message>
+    </item>
+    <item id="New password is empty. Please enter the password">
+      <message>Nova zaporka nije unešena. Molim unesite zaporku</message>
+    </item>
+    <item id="Verify password is empty. Please enter the password">
+      <message>Provjera zaporke nije unešena. Molim unesite zaporku</message>
+    </item>
+    <item id="The values entered in New Password and Verify Password do not match.">
+      <message>Unešena nova zaporka i provjera zaporke nisu iste.</message>
+    </item>
+    <item id="The minimum password length is 6 characters.">
+      <message>Duljina zaporke je minimalno 6 znakova.</message>
+    </item>
+    <item id="Are you sure you want to exit this application">
+      <message>Želite li izaći iz ove aplikacije</message>
+    </item>
+    <item id="Please Wait...">
+      <message>Molim pričekajte...</message>
+    </item>
+    <item id="Forward/DND Setting">
+      <message>Postavke Preusmjeri/Ne smetaj</message>
+    </item>
+    <item id="Forward / DND">
+      <message>Preusmjeri/Ne smetaj</message>
+    </item>
+    <item id="BroadCasting Group:">
+      <message>Broadcasting grupa:</message>
+    </item>
+    <item id="&amp;Release">
+      <message>&amp;Oslobodi</message>
+    </item>
+    <item id="Members (Dial Number)">
+      <message>Članovi (broj za biranje)</message>
+    </item>
+    <item id="Member Name">
+      <message>Ime člana</message>
+    </item>
+    <item id="Call Status">
+      <message>Status poziva</message>
+    </item>
+    <item id="Connected">
+      <message>Spojen</message>
+    </item>
+    <item id="Not Connected">
+      <message>Nije spojen</message>
+    </item>
+    <item id="Group Page">
+      <message>Grupa na razgl.</message>
+    </item>
+    <item id="Park Retrieve">
+      <message>Preuz. park. p.</message>
+    </item>
+    <item id="Account">
+      <message>Korisnič. račun</message>
+    </item>
+    <item id="Copy &amp; Call">
+      <message>Kopiran &amp; zovi</message>
+    </item>
+    <item id="TRS Change">
+      <message>Preinači TRS</message>
+    </item>
+    <item id="Time Service">
+      <message>Vrem. prog. rad</message>
+    </item>
+    <item id="Function Key">
+      <message>Funkcijske tipke</message>
+    </item>
+    <item id="Please enter Group No.(01-32)">
+      <message>Molim unesite broj grupe (01-32)</message>
+    </item>
+    <item id="A target's call status is not acceptable">
+      <message>Odredišni status poziva nije prihvatljiv</message>
+    </item>
+    <item id="Invalid Group Paging">
+      <message>Poziv grupe na razglas nije valjan</message>
+    </item>
+    <item id="Please enter specific park area number">
+      <message>Molim unesite konkretni broj zone za parkiranje poziva</message>
+    </item>
+    <item id="(0-99)">
+      <message>(0-99)</message>
+    </item>
+    <item id="Specific call (connection) does not exist.">
+      <message>Konkretni poziv (veza) ne postoji.</message>
+    </item>
+    <item id="Error on Park Retrieve">
+      <message>Greška pri preuzimanju parkiranog poziva</message>
+    </item>
+    <item id="Please enter an account number">
+      <message>Molim unesite broj korisničkog računa</message>
+    </item>
+    <item id="Not Valid and cannot make a call">
+      <message>Nije valjan i ne može se uspostaviti poziv</message>
+    </item>
+    <item id="Please set TRS Level">
+      <message>Molim postavite TRS nivo</message>
+    </item>
+    <item id="Error on TRS Change">
+      <message>Greška pri TRS preinaci</message>
+    </item>
+    <item id="Please Select System Mode">
+      <message>Molim odaberite način rada sistema</message>
+    </item>
+    <item id="Day">
+      <message>Dan</message>
+    </item>
+    <item id="Break">
+      <message>Stanka</message>
+    </item>
+    <item id="Night">
+      <message>Noć</message>
+    </item>
+    <item id="Lunch">
+      <message>Ručak</message>
+    </item>
+    <item id="ICD Group Extension Number">
+      <message>Kućni broj ICD grupe</message>
+    </item>
+    <item id="ICD Group Name">
+      <message>Naziv ICD grupe</message>
+    </item>
+    <item id="My Status">
+      <message>Moj status</message>
+    </item>
+    <item id="Ready">
+      <message>Pripravan</message>
+    </item>
+    <item id="Not Ready">
+      <message>Nije pripravan</message>
+    </item>
+    <item id="Wrap Up">
+      <message>Primanje poziva s odgodom</message>
+    </item>
+    <item id="Busy">
+      <message>Zauzet</message>
+    </item>
+    <item id="All Log-in">
+      <message>Sve prijave</message>
+    </item>
+    <item id="All Log-out">
+      <message>Sve odjave</message>
+    </item>
+    <item id="Log in">
+      <message>Prijava</message>
+    </item>
+    <item id="Log-in">
+      <message>Prijava</message>
+    </item>
+    <item id="Log out">
+      <message>Odjava</message>
+    </item>
+    <item id="Log-out">
+      <message>Odjava</message>
+    </item>
+    <item id="Start Wrap Up">
+      <message>Počet. primanja poz. s odgodom</message>
+    </item>
+    <item id="Stop Wrap Up">
+      <message>Prekid primanja poz s odgodom</message>
+    </item>
+    <item id="Extend Wrap Up">
+      <message>Nastavak primanja poz. s odgod</message>
+    </item>
+    <item id="On the phone">
+      <message>Na telefonu</message>
+    </item>
+    <item id="Ringing">
+      <message>Zvoni</message>
+    </item>
+    <item id="Idle">
+      <message>Slobodan</message>
+    </item>
+    <item id="Wrap up Status cannot be changed\n\rCause is one of followings\n\r- Wrap up feature number is not assigned in PBX\n\r- Paired telephone is not PT\n\rPT is not connected with PBX\n\r">
+      <message>Status primanja poziva s odgodom ne može se promijeniti\n\rRazlozi su sljedeći\n\r- Svojstvo primanja poziva s odgodom nije dodijeljeno na kuć. centrali\n\r- Upareni telefon nije sistemski telefon\n\rsistemski tel. nije priključen na kuć. centralu\n\r</message>
+    </item>
+    <item id="ICD Group">
+      <message>ICD grupa</message>
+    </item>
+    <item id="Phone Status">
+      <message>Status telefona</message>
+    </item>
+    <item id="Wrap up">
+      <message>Prim. poz. s odgodom</message>
+    </item>
+    <item id="Redirect">
+      <message>Preusmjeravanje</message>
+    </item>
+    <item id="Listen-In">
+      <message>Prisluškivanje</message>
+    </item>
+    <item id="Busy Override">
+      <message>Ubacivanje u poziv</message>
+    </item>
+    <item id="Take Over">
+      <message>Preuzimanje poziva</message>
+    </item>
+    <item id="&amp;Redirect the incoming call">
+      <message>&amp;Preusmjeravanje dolaznog poziva</message>
+    </item>
+    <item id="Log-&amp;in to the group">
+      <message>Prijava&amp; u grupu</message>
+    </item>
+    <item id="Log-o&amp;ut from the group">
+      <message>Odjava&amp; iz grupe</message>
+    </item>
+    <item id="&amp;Listen in the talking">
+      <message>&amp;Prisluškivanje razgovora</message>
+    </item>
+    <item id="Overri&amp;de the talking (Conference)">
+      <message>&amp;Ubacivanje u razgovor (Konferencija)</message>
+    </item>
+    <item id="&amp;Take over the talking">
+      <message>&amp;Preuzimanje razgovora</message>
+    </item>
+    <item id="Supervisor function was disabled">
+      <message>Funkcija Nadzornik je bila onemogućena</message>
+    </item>
+    <item id="Are you sure you want to clear report?">
+      <message>Jeste li sigurni da želite izbrisati izvješće?</message>
+    </item>
+    <item id="Supervisor">
+      <message>Nadzornik</message>
+    </item>
+    <item id="Group">
+      <message>Grupa</message>
+    </item>
+    <item id="Display only ICD Group Member">
+      <message>Prikaži samo članove ICD grupe</message>
+    </item>
+    <item id="Group Call Monitor">
+      <message>Nadzor poziva grupe</message>
+    </item>
+    <item id="Current Waiting Call">
+      <message>Pozivi na čekanju</message>
+    </item>
+    <item id="Longest Waiting Time">
+      <message>Najdulje na čekanju</message>
+    </item>
+    <item id="Current Member Status">
+      <message>Status članova grupe</message>
+    </item>
+    <item id="Group Call Report">
+      <message>Izvješće poz na grup</message>
+    </item>
+    <item id="Lost Call">
+      <message>Propušteni pozivi</message>
+    </item>
+    <item id="Report Start Date:">
+      <message>Poč datum izvješća: </message>
+    </item>
+    <item id="Report Start Time:">
+      <message>Poč vrij. izvješća: </message>
+    </item>
+    <item id="&amp;Utility">
+      <message>&amp;Korisne funkcije</message>
+    </item>
+    <item id="Get Latest Report">
+      <message>Preuzmi zadnje izvješće</message>
+    </item>
+    <item id="&amp;Clear Report">
+      <message>&amp;Izbriši izvješće</message>
+    </item>
+    <item id="The Number of Current Call :">
+      <message>Broj poziva u tijeku :</message>
+    </item>
+    <item id="Font Color :">
+      <message>Boja slova :</message>
+    </item>
+    <item id="Background Color :">
+      <message>Boja pozadine :</message>
+    </item>
+    <item id="Blink">
+      <message>Treptanje</message>
+    </item>
+    <item id="Preview :">
+      <message>Predpregled :</message>
+    </item>
+    <item id=" The Waiting Time (MM'SS) :">
+      <message> Vrijeme čekanja (MM'SS) :</message>
+    </item>
+    <item id="Choose...(&amp;B)">
+      <message>Odaberi...(&amp;B)</message>
+    </item>
+    <item id="Choose ...(&amp;F)">
+      <message>Odaberi...(&amp;F)</message>
+    </item>
+    <item id="Supervisor Option">
+      <message>Supervizor opcije</message>
+    </item>
+    <item id="When the number of current call is preprogrammed number or more, display changes for warning.">
+      <message>Kada je broj poziva u tijeku jednak predprogramiranom broju ili veći, izmjeni prikaz kao upozorenje.</message>
+    </item>
+    <item id="When the time of longest waiting call is preprogrammed number or more, display changes for warning.">
+      <message>Kada je vrijeme najdužeg čekanja poziva jednako predprogramiranom broju ili duže, izmjeni prikaz kao upozorenje.</message>
+    </item>
+    <item id="Dial">
+      <message>Biraj</message>
+    </item>
+    <item id="Contact Name">
+      <message>Kontakt ime</message>
+    </item>
+    <item id="Incoming Missed Calls: ">
+      <message>Dolazni propušteni pozivi: </message>
+    </item>
+    <item id="Message Waiting">
+      <message>Poruka na čekanju</message>
+    </item>
+    <item id="Call VM">
+      <message>Poziv govorne pošte</message>
+    </item>
+    <item id="&amp;Call Voice Mail">
+      <message>&amp;Poziv govorne pošte</message>
+    </item>
+    <item id="&amp;Record my Voice Message">
+      <message>&amp;Snimi moju govornu poruku</message>
+    </item>
+    <item id="&amp;Display Message Waiting List">
+      <message>&amp;Prikaz popisa poruka na čekanju</message>
+    </item>
+    <item id="Call &amp;Back">
+      <message>Povratni &amp;poziv</message>
+    </item>
+    <item id="No Connection">
+      <message>Veza nije uspostavljena</message>
+    </item>
+    <item id="Dial or Answer">
+      <message>Biranje tel. broja ili odgovor</message>
+    </item>
+    <item id="For internal calls :">
+      <message>Za kućne pozive kada:</message>
+    </item>
+    <item id="For external calls :">
+      <message>Za vanjske pozive kada:</message>
+    </item>
+    <item id="Forward / DND :">
+      <message>Preusmjeri/Ne smetaj:</message>
+    </item>
+    <item id="Not Assigned">
+      <message>Nije dodijeljen</message>
+    </item>
+    <item id="Fwd All ">
+      <message>Preusmjeri sve </message>
+    </item>
+    <item id="Fwd Busy ">
+      <message>Preusmjeri ako zauz </message>
+    </item>
+    <item id="Fwd N/A ">
+      <message>Preusmjeri nedostup </message>
+    </item>
+    <item id="Fwd Busy / N/A ">
+      <message>Preusmj. zauz/nedos </message>
+    </item>
+    <item id="Do Not Disturb">
+      <message>Ne smetaj</message>
+    </item>
+    <item id="&amp;Dial">
+      <message>&amp;Biraj</message>
+    </item>
+    <item id="&amp;Copy &amp;&amp; Call">
+      <message>&amp;Kopiran &amp;&amp; zovi</message>
+    </item>
+    <item id="&amp;History">
+      <message>&amp;Povijest poz.</message>
+    </item>
+    <item id="&amp;All Calls">
+      <message>&amp;Svi pozivi</message>
+    </item>
+    <item id="Incoming &amp;Missed Calls">
+      <message>Dolazni &amp;propušteni pozivi</message>
+    </item>
+    <item id="Incoming &amp;Received Calls">
+      <message>Dolazni p&amp;rimljeni pozivi</message>
+    </item>
+    <item id="Outgoing A&amp;nswered Calls">
+      <message>Odlazni &amp;odgovoreni pozivi</message>
+    </item>
+    <item id="Outgoing &amp;Unanswered Calls">
+      <message>Odlazni &amp;neodgovoreni pozivi</message>
+    </item>
+    <item id="&amp;Go To">
+      <message>&amp;Idi na</message>
+    </item>
+    <item id="&amp;Option">
+      <message>&amp;Opcije</message>
+    </item>
+    <item id="&amp;Function Key">
+      <message>&amp;Funkcijske tipke</message>
+    </item>
+    <item id="&amp;ICD Group">
+      <message>&amp;ICD grupa</message>
+    </item>
+    <item id="Modify">
+      <message>Preinači</message>
+    </item>
+    <item id="New Setting">
+      <message>Nove postavke</message>
+    </item>
+    <item id="Message left by">
+      <message>Poruku ostavio</message>
+    </item>
+    <item id="Absent message is assigned automatically, when PC is not used pre programmed time.">
+      <message>Poruka o odsutnosti automatski će se postaviti, ukoliko se PC ne koristi kroz predprogramirani vremenski period.</message>
+    </item>
+    <item id="Absent message is cleared automatically, when CA is started.">
+      <message>Poruka o odsutnosti automatski će biti uklonjena, kada se Komunikacijski asistent pokreće.</message>
+    </item>
+    <item id="Absent message is assigned automatically, when CA is closed.">
+      <message>Poruka o odsutnosti automatski će se postaviti, kada se Komunikacijski asistent zatvori.</message>
+    </item>
+    <item id="Absent Message Options">
+      <message>Opcije poruke o odsutnosti</message>
+    </item>
+    <item id="MM:SS:">
+      <message>MM:SS:</message>
+    </item>
+    <item id="Please enter phone number.">
+      <message>Molim unesite telefonski broj.</message>
+    </item>
+    <item id="Phone (Office)">
+      <message>Telefon (Ured)</message>
+    </item>
+    <item id="Phone (Mobile)">
+      <message>Telefon (Mobilni)</message>
+    </item>
+    <item id="Phone (Home)">
+      <message>Telefon (Privatni)</message>
+    </item>
+    <item id="Voice Message">
+      <message>Govorna poruka</message>
+    </item>
+    <item id="Send E-mail">
+      <message>Pošalji e-mail </message>
+    </item>
+    <item id="More">
+      <message>Više</message>
+    </item>
+    <item id="Send Chat">
+      <message>Pošalji chat-poruku</message>
+    </item>
+    <item id="Leave Voice Message">
+      <message>Ostavi govornu poruku</message>
+    </item>
+    <item id="WEB Access">
+      <message>WEB pristup</message>
+    </item>
+    <item id="Call phone (Office): ">
+      <message>Telefonski poziv (Ured): </message>
+    </item>
+    <item id="Call phone (Mobile): ">
+      <message>Telefonski poziv (Mobilni): </message>
+    </item>
+    <item id="Call phone (Home): ">
+      <message>Telefonski poziv (Privatni): </message>
+    </item>
+    <item id="&amp;Pick up the incoming call">
+      <message>&amp;Preuzmi dolazni poziv</message>
+    </item>
+    <item id="&amp;View and modify this contact">
+      <message>&amp;Preinači kontakt podatke</message>
+    </item>
+    <item id="&amp;Add new contact">
+      <message>&amp;Dodaj nove kontakt podatke</message>
+    </item>
+    <item id="&amp;Delete this contact ">
+      <message>&amp;Izbriši kontakt podatke</message>
+    </item>
+    <item id="Add contact list from PB&amp;X extension">
+      <message>Dodaj kontakt listu iz liste kućnih brojeva centrale&amp;</message>
+    </item>
+    <item id="&amp;Copy contact list from CSV file">
+      <message>&amp;Preuzmi kontakt listu iz CSV datoteke</message>
+    </item>
+    <item id="&amp;Save contact list to CSV file">
+      <message>&amp;Spremi kontakt listu u CSV datoteku</message>
+    </item>
+    <item id="Leave voice message">
+      <message>Ostavi govornu poruku</message>
+    </item>
+    <item id="Send E-mail: ">
+      <message>Pošalji e-mail:</message>
+    </item>
+    <item id="Access Web">
+      <message>Pristupi WEB-u</message>
+    </item>
+    <item id="Start Chat">
+      <message>Započni chat</message>
+    </item>
+    <item id="View and modify contact">
+      <message>Pregledaj i preinači kontakt podatke</message>
+    </item>
+    <item id="Absent Message">
+      <message>Poruka o odsutnosti</message>
+    </item>
+    <item id="Function List">
+      <message>Funkcijska lista</message>
+    </item>
+    <item id="Move &amp;Up">
+      <message>Pomjeri &amp;gore</message>
+    </item>
+    <item id="Move &amp;Down">
+      <message>Pomjeri &amp;dolje</message>
+    </item>
+    <item id="&amp;Edit">
+      <message>&amp;Uredi</message>
+    </item>
+    <item id="Edit">
+      <message>Uredi</message>
+    </item>
+    <item id="Save to Function List">
+      <message>Spremi u funkcijsku listu</message>
+    </item>
+    <item id="Function List Name (Max. 16 characters):">
+      <message>Naziv funkcijske liste (Maks. 16 znakova):</message>
+    </item>
+    <item id="Same as function list name.">
+      <message>Isto kao naziv funkcijske liste.</message>
+    </item>
+    <item id="Set absent message (Max. 16 characters):">
+      <message>Postavi poruku o odsutnosti (Maks. 16 znakova):</message>
+    </item>
+    <item id="Do not change absent message.">
+      <message>Ne mijenjaj poruku o odsutnosti.</message>
+    </item>
+    <item id="Clear absent message.">
+      <message>Izbriši poruku o odsutnosti.</message>
+    </item>
+    <item id="Enable">
+      <message>Omogući</message>
+    </item>
+    <item id="Feature Number">
+      <message>Broj svojstva</message>
+    </item>
+    <item id="Change2">
+      <message>Preinači</message>
+    </item>
+    <item id="For both external calls and internal calls">
+      <message>Za vanjske i kućne pozive</message>
+    </item>
+    <item id="For external calls">
+      <message>Za vanjske pozive</message>
+    </item>
+    <item id="For internal calls">
+      <message>Za kućne pozive</message>
+    </item>
+    <item id="Always (All)">
+      <message>Uvijek (Sve)</message>
+    </item>
+    <item id="Busy / No Answer">
+      <message>Zauzet/Ne odgovara</message>
+    </item>
+    <item id="Off">
+      <message>Deaktiviraj</message>
+    </item>
+    <item id="The maximum 20 function lists have already been assigned. This new setting cannot be saved.">
+      <message>Maksimalno 20 funkcijskih listi već je dodijeljeno. Nove postavke nije moguće spremiti.</message>
+    </item>
+    <item id="&amp;Modify">
+      <message>&amp;Preinači</message>
+    </item>
+    <item id="&amp;Add New">
+      <message>&amp;Dodaj novi</message>
+    </item>
+    <item id="Modify Speed Dial">
+      <message>Preinači skraćeno biranje</message>
+    </item>
+    <item id="Speed dial no.">
+      <message>Skraćeno biranje br.</message>
+    </item>
+    <item id="Add Speed Dial">
+      <message>Dodaj broj za skraćeno biranje</message>
+    </item>
+    <item id="Forward">
+      <message>Preusmjeri</message>
+    </item>
+    <item id="Exit">
+      <message>Izađi</message>
+    </item>
+    <item id="Show">
+      <message>Prikaži</message>
+    </item>
+    <item id="Mon">
+      <message>Pon</message>
+    </item>
+    <item id="Tue">
+      <message>Uto</message>
+    </item>
+    <item id="Wed">
+      <message>Sri</message>
+    </item>
+    <item id="Thu">
+      <message>Čet</message>
+    </item>
+    <item id="Fri">
+      <message>Pet</message>
+    </item>
+    <item id="Sat">
+      <message>Sub</message>
+    </item>
+    <item id="Sun">
+      <message>Ned</message>
+    </item>
+    <item id="AM">
+      <message>AM</message>
+    </item>
+    <item id="PM">
+      <message>PM</message>
+    </item>
+    <item id="Enter password of your mailbox:">
+      <message>Unesite zaporku vašeg poštanskog pretinca:</message>
+    </item>
+    <item id="Voice Mail">
+      <message>Govorna pošta</message>
+    </item>
+    <item id="Call Control">
+      <message>Nadzor poziva</message>
+    </item>
+    <item id="Incoming Call">
+      <message>Dolazni poziv</message>
+    </item>
+    <item id="Calling">
+      <message>Poziv</message>
+    </item>
+    <item id="Recall">
+      <message>Ponovni poziv</message>
+    </item>
+    <item id="Text Memo">
+      <message>Tekstualni memo</message>
+    </item>
+    <item id="Text Memo Reminder">
+      <message>Podsjet tekst memo</message>
+    </item>
+    <item id="DTMF Tone">
+      <message>DTMF ton</message>
+    </item>
+    <item id="Broadcasting Group:">
+      <message>Broadcasting grupa:</message>
+    </item>
+    <item id="Manual Park">
+      <message>Ručno parkiranje</message>
+    </item>
+    <item id="Call Parked">
+      <message>Poziv park.</message>
+    </item>
+    <item id="VM Transfer">
+      <message>Prosljeđivanje g.poš</message>
+    </item>
+    <item id="Caller Information">
+      <message>Info o pozivatelju</message>
+    </item>
+    <item id="Redirect to">
+      <message>Preusmjeri na</message>
+    </item>
+    <item id="Active Calls">
+      <message>Akt. pozivi</message>
+    </item>
+    <item id="Direct In:">
+      <message>Izravan ul.:</message>
+    </item>
+    <item id="Outside Line:">
+      <message>Vanjska linija:</message>
+    </item>
+    <item id="Call For:">
+      <message>Poziv za:</message>
+    </item>
+    <item id="Duration:">
+      <message>Trajanje:</message>
+    </item>
+    <item id="On Hold">
+      <message>Zadržan poziv</message>
+    </item>
+    <item id="Not Valid">
+      <message>Nije Valjan</message>
+    </item>
+    <item id="Dial is incorrect.">
+      <message>Biranje nije valjano</message>
+    </item>
+    <item id="Please enter specific park area">
+      <message>Molim unesite konkret. parking zonu</message>
+    </item>
+    <item id="Parked number">
+      <message>Parkiran broj</message>
+    </item>
+    <item id="Extension  number">
+      <message>Kućni broj</message>
+    </item>
+    <item id="Paging Group">
+      <message>Razglas grupe</message>
+    </item>
+    <item id="Set call back">
+      <message>Postavi povratni poziv</message>
+    </item>
+    <item id="Wait and send call waiting tone">
+      <message>Čekaj i pošalji signal poziva na čekanju</message>
+    </item>
+    <item id="Leave message waiting">
+      <message>Ostavi poruku na čekanju</message>
+    </item>
+    <item id="Listen in">
+      <message>Prisluškivanje</message>
+    </item>
+    <item id="Override (Conference)">
+      <message>Ubacivanje u razgovor (Konferencija)</message>
+    </item>
+    <item id="Take over">
+      <message>Preuzimanje poziva</message>
+    </item>
+    <item id="Call by override">
+      <message>Poziv ubacivanjem</message>
+    </item>
+    <item id="Send e-mail">
+      <message>Pošalji e-mail</message>
+    </item>
+    <item id="Transfer the call">
+      <message>Proslijedi poziv</message>
+    </item>
+    <item id="Put the call on hold">
+      <message>Zadrži poziv</message>
+    </item>
+    <item id="Make a conference">
+      <message>Uspostavi konferencijski razgovor</message>
+    </item>
+    <item id="Park the call (Automatic)">
+      <message>Parkiraj poziv (Automatski)</message>
+    </item>
+    <item id="Park the call (Manual)">
+      <message>Parkiraj poziv (Ručno)</message>
+    </item>
+    <item id="Transfer to VM">
+      <message>Proslijedi na govornu poštu</message>
+    </item>
+    <item id="Record to VM">
+      <message>Snimi na govornu poštu</message>
+    </item>
+    <item id="Stop recording">
+      <message>Zaustavi snimanje</message>
+    </item>
+    <item id="Send DTMF">
+      <message>Pošalji DTMF</message>
+    </item>
+    <item id="Send Flash (EFA)">
+      <message>Pošalji flash signal (EFA)</message>
+    </item>
+    <item id="Write memo">
+      <message>Upiši memo</message>
+    </item>
+    <item id="Split the call">
+      <message>Razdijeli poziv</message>
+    </item>
+    <item id="Retrieve the call">
+      <message>Preuzmi poziv</message>
+    </item>
+    <item id="Hang up">
+      <message>Prekini</message>
+    </item>
+    <item id="Answer the call">
+      <message>Odgovori na poziv</message>
+    </item>
+    <item id="Redirect the call">
+      <message>Preusmjeri poziv</message>
+    </item>
+    <item id="Release">
+      <message>Oslobodi</message>
+    </item>
+    <item id="VM:">
+      <message>G. pošta:</message>
+    </item>
+    <item id="E-mail">
+      <message>E-mail</message>
+    </item>
+    <item id="Message">
+      <message>Poruka</message>
+    </item>
+    <item id="Close">
+      <message>Zatvori</message>
+    </item>
+    <item id="Cancel">
+      <message>Odustani</message>
+    </item>
+    <item id="OK">
+      <message>U redu</message>
+    </item>
+    <item id="External">
+      <message>Vanjski</message>
+    </item>
+    <item id="Internal">
+      <message>Kućni</message>
+    </item>
+    <item id="IN">
+      <message>Ul</message>
+    </item>
+    <item id="OUT">
+      <message>Izl</message>
+    </item>
+    <item id="Total Time:">
+      <message>UkupVrijem:</message>
+    </item>
+    <item id="Ringing Time:">
+      <message>Traj. zvona:</message>
+    </item>
+    <item id="Connecting Time:">
+      <message>Trajanje veze:</message>
+    </item>
+    <item id="Holding Time:">
+      <message>TrajanjZadrž:</message>
+    </item>
+    <item id="Failed to set call back.">
+      <message>Neuspješno postavljanje povratnog poziva.</message>
+    </item>
+    <item id="Failed to send call waiting.">
+      <message>Neuspješno postavljanje poziva na čekanju.</message>
+    </item>
+    <item id="Failed to override the selected ongoing call.">
+      <message>Neuspješno ubacivanje u aktivan poziv.</message>
+    </item>
+    <item id="Failed to make this call.">
+      <message>Neuspješna uspostava ovog poziva.</message>
+    </item>
+    <item id="Failed to answer the call.">
+      <message>Neuspješan odgovor na poziv.</message>
+    </item>
+    <item id="Failed to hang up the call.">
+      <message>Neuspješan prekid poziva.</message>
+    </item>
+    <item id="The phone number you entered is not valid.">
+      <message>Telefonski broj koji ste unijeli nije valjan.</message>
+    </item>
+    <item id="Options">
+      <message>Opcije</message>
+    </item>
+    <item id="Key Assign">
+      <message>Dodjeljivanje tipke</message>
+    </item>
+    <item id="Display">
+      <message>Prikaz</message>
+    </item>
+    <item id="Preferences">
+      <message>Odrednice</message>
+    </item>
+    <item id="Key Mappings">
+      <message>Mapiranje tipki</message>
+    </item>
+    <item id="Sounds">
+      <message>Zvukovi</message>
+    </item>
+    <item id="Dial Modification">
+      <message>Preinaka biranja</message>
+    </item>
+    <item id="PBX System Alarm">
+      <message>Sist alarm kuć centr</message>
+    </item>
+    <item id="Logon and Security">
+      <message>Prijava i sigurnost</message>
+    </item>
+    <item id="About">
+      <message>O aplikaciji</message>
+    </item>
+    <item id="Disable">
+      <message>Onemogući</message>
+    </item>
+    <item id="Language">
+      <message>Jezik</message>
+    </item>
+    <item id="Minimise application to">
+      <message>Minimiziraj aplikaciju na</message>
+    </item>
+    <item id="Incoming call pop-up for CA">
+      <message>Pop-up dolaznog poziva za Komunikac. asistenta</message>
+    </item>
+    <item id="Incoming call pop-up for Microsoft Outlook">
+      <message>Pop-up dolaznog poziva za Microsoft Outlook</message>
+    </item>
+    <item id="Notice">
+      <message>Upozorenje</message>
+    </item>
+    <item id="Software version">
+      <message>Softverska verzija</message>
+    </item>
+    <item id="Pre-installed language">
+      <message>Predinstalirani jezik</message>
+    </item>
+    <item id="Additional language">
+      <message>Dodatni jezik</message>
+    </item>
+    <item id="Taskbar">
+      <message>Traka sa zadacima</message>
+    </item>
+    <item id="System tray">
+      <message>Sistemska traka</message>
+    </item>
+    <item id="Transfer automatically when new call is made during talking">
+      <message>Proslijedi autom. kada se uspostavi novi poziv tijekom razgovora</message>
+    </item>
+    <item id="Save ICD group incoming call to history">
+      <message>Spremi dolazni poziv ICD grupe u povijest poziva</message>
+    </item>
+    <item id="Record to VM automatically">
+      <message>Snimi automatski na govornu poštu</message>
+    </item>
+    <item id="Use Voice Mail Assistant">
+      <message>Koristi Asistenta govorne pošte</message>
+    </item>
+    <item id="Remove \&quot;(0)\&quot;">
+      <message>Ukloni \"(0)\*</message>
+    </item>
+    <item id="Inform PBX system alarm using e-mail">
+      <message>Info o sist. alarmu cent. šalji e-mailom</message>
+    </item>
+    <item id="Automatically login">
+      <message>Automatska prijava</message>
+    </item>
+    <item id="Automatic minimise after automatically login">
+      <message>Autom. minimiziraj nakon autom. prijave</message>
+    </item>
+    <item id="Key:">
+      <message>Tipka:</message>
+    </item>
+    <item id="Key Name:">
+      <message>Naziv tipke:</message>
+    </item>
+    <item id="Doorphone">
+      <message>Portafon</message>
+    </item>
+    <item id="Call Back">
+      <message>Povratni poziv</message>
+    </item>
+    <item id="Voice Mail:">
+      <message>Govorna pošta:</message>
+    </item>
+    <item id="Minimum digits for public telephone number:">
+      <message>Minimalno znamenki za javni telefonski broj:</message>
+    </item>
+    <item id="Telephone Number Modification">
+      <message>Preinaka telefonskog br.</message>
+    </item>
+    <item id="No.">
+      <message>Br.</message>
+    </item>
+    <item id="Leading Digits to Remove\n(Max. 16 digits)">
+      <message>Vodeće znamenke za ukloniti\n(Maks. 16 znamenki)</message>
+    </item>
+    <item id="Added Number\n(Max. 8 digits)">
+      <message>Dodane znamenke\n(Maks. 8 znamenki)</message>
+    </item>
+    <item id="Other:">
+      <message>Ostalo:</message>
+    </item>
+    <item id="E-mail address">
+      <message>E-mail adresa</message>
+    </item>
+    <item id="E-mail title">
+      <message>E-mail naslov</message>
+    </item>
+    <item id="Current Password">
+      <message>Aktivna zaporka</message>
+    </item>
+    <item id="New Password">
+      <message>Nova zaporka</message>
+    </item>
+    <item id="Verify password">
+      <message>Provjeri zaporku</message>
+    </item>
+    <item id="When voice volume is not enough, adjustment of microphone and speaker of the PC is required using Control Panel.\nAdjustment for microphone using \&quot;Options\&quot; is also available.\nAdjustment for speaker using \&quot;Navigation Key\&quot; during talking is also available.\nPage key is available when IP softphone is connected with MPR card of KX-TDE PBX, VM-Menu on LCD is not supported. It is required to disable VM-Menu feature using COS programming of VM.">
+      <message>Kada je glasnoća nedovoljna potrebno je prilagoditi mikrofon i zvučnike PC-a putem Control Panel.\nPrilagodba mikrofona putem \"Options\" također moguća.\nPrilagodba zvučnika putem \"Navigation Key\" za vrijeme govora također moguća.\nTipka razglas poz. raspoloživa ako je IP softphone povezan s MPR KX-TDE centrale, izbornik govorne pošte na LCD nije podržan. Potrebno isključiti opciju Izbornik govorne pošte uporabom COS programiranja g. pošte</message>
+    </item>
+    <item id="Delete">
+      <message>Izbriši</message>
+    </item>
+    <item id="Change &amp;Password">
+      <message>Preinači &amp;zaporku</message>
+    </item>
+    <item id="Key Name">
+      <message>Naz. tipke</message>
+    </item>
+    <item id="Assign Key">
+      <message>Dod. tipku</message>
+    </item>
+    <item id="Dial/Answer">
+      <message>Biraj/Javi se</message>
+    </item>
+    <item id="Hold">
+      <message>Zadrži poziv</message>
+    </item>
+    <item id="Conference">
+      <message>Konferencijski razgovor</message>
+    </item>
+    <item id="Auto Park">
+      <message>Automatsko parkiranje</message>
+    </item>
+    <item id="Redial">
+      <message>Ponovno zovi</message>
+    </item>
+    <item id="Pick Up">
+      <message>Preuzmi</message>
+    </item>
+    <item id="Transfer to Voice Mail">
+      <message>Proslijedi na gov. poštu</message>
+    </item>
+    <item id="Split">
+      <message>Razdijeli</message>
+    </item>
+    <item id="Forward / Do Not Disturb">
+      <message>Preusmjeri/Ne smetaj</message>
+    </item>
+    <item id="Record to Voice Mail">
+      <message>Snimanje na govor. poštu</message>
+    </item>
+    <item id="Send Tone (DTMF)">
+      <message>Pošalji DTMF ton</message>
+    </item>
+    <item id="Copy &amp; Call &lt;Global Key&gt;">
+      <message>Kopir. &amp; zovi &lt;Opća tip.&gt;</message>
+    </item>
+    <item id="The function key (F1-F10) cannot be assigned.">
+      <message>Funkc. tipka (F1-F10) ne može biti dodiljena.</message>
+    </item>
+    <item id="This character cannot be assigned.">
+      <message>Ovaj znak ne može biti dodijeljen.</message>
+    </item>
+    <item id="Do you want to save your settings?">
+      <message>Da li želite spremiti svoje postavke?</message>
+    </item>
+    <item id="Please enter a setting.">
+      <message>Molim unesite postavke.</message>
+    </item>
+    <item id="Validation error">
+      <message>Greška kod provjere valjanosti</message>
+    </item>
+    <item id="The specified path does not exist.">
+      <message>Zadana putanja ne postoji.</message>
+    </item>
+    <item id="Password mismatch. Please enter your new password again.">
+      <message>Upisana i zaporka provjere nisu iste. Molim unesite ponovno novu zaporku.</message>
+    </item>
+    <item id="Password changed successfully.">
+      <message>Zaporka je uspješno preinačena.</message>
+    </item>
+    <item id="Password change failed!">
+      <message>Neuspješna preinaka zaporke!</message>
+    </item>
+    <item id="&amp;Send">
+      <message>&amp;Pošalji</message>
+    </item>
+    <item id="&amp;Clear">
+      <message>&amp;Izbriši</message>
+    </item>
+    <item id="Chat">
+      <message>Chat</message>
+    </item>
+    <item id="No Last Message...">
+      <message>Nema zadnje poruke...</message>
+    </item>
+    <item id="Last Message: ">
+      <message>Zadnja poruka: </message>
+    </item>
+    <item id="Save to email software.">
+      <message>Spremi u email aplikaciju.</message>
+    </item>
+    <item id="Do you want to close chat?">
+      <message>Da li želite zatvoriti chat?</message>
+    </item>
+    <item id="Chat will close">
+      <message>Chat će se zatvoriti</message>
+    </item>
+    <item id="You have reached 4 chat sessions.\nChat is not available.">
+      <message>Dosegnuli ste 4 chat sesije.\nChat nije moguć.</message>
+    </item>
+    <item id="The other party has reached the maximum of 4 chat sessions.\nChat is not available.">
+      <message>Korisnik na drugoj strani je dosegnuo maksimalne 4 chat sesije.\nChat nije moguć.</message>
+    </item>
+    <item id="The other party has logged off.">
+      <message>Korisnik na drugoj strani se odjavio.</message>
+    </item>
+    <item id="Failed to establish chat with the other party.">
+      <message>Neuspješna uspostava chat-a s korisnikom na drugoj strani.</message>
+    </item>
+    <item id="The other party is not logged in.">
+      <message>Korisnik na drugoj strani nije prijavljen.</message>
+    </item>
+    <item id="Unknown Error">
+      <message>Nepoznat uzrok greške</message>
+    </item>
+    <item id="Unable Establish Chat with own extension number">
+      <message>Nije moguće uspostaviti chat sa svojim kućnim brojem</message>
+    </item>
+    <item id="Failed to launch VMA application.">
+      <message>Neuspješno pokretanje VMA aplikacije.</message>
+    </item>
+    <item id="Answer">
+      <message>Javi se</message>
+    </item>
+    <item id="Drop">
+      <message>Prekini</message>
+    </item>
+    <item id="Dial Number">
+      <message>Biraj broj</message>
+    </item>
+    <item id="Assistant">
+      <message>Asistent</message>
+    </item>
+    <item id="Business">
+      <message>Posao</message>
+    </item>
+    <item id="Business 2">
+      <message>Posao2</message>
+    </item>
+    <item id="Callback">
+      <message>Povratni poziv</message>
+    </item>
+    <item id="Car">
+      <message>Auto</message>
+    </item>
+    <item id="Company (Main)">
+      <message>Tvrtka (Glavni)</message>
+    </item>
+    <item id="Home 2">
+      <message>Privatni 2</message>
+    </item>
+    <item id="ISDN">
+      <message>ISDN</message>
+    </item>
+    <item id="Mobile">
+      <message>Mobilni</message>
+    </item>
+    <item id="Other">
+      <message>Ostalo</message>
+    </item>
+    <item id="Primary">
+      <message>Primarni</message>
+    </item>
+    <item id="Retrieving contact data.">
+      <message>Preuzimanje kontakt podataka.</message>
+    </item>
+    <item id="Contact data limit reached.">
+      <message>Dosegnuto ograničenje kontakt podataka.</message>
+    </item>
+    <item id="Function name cannot be empty.">
+      <message>Naziv funkcije ne može biti prazan.</message>
+    </item>
+    <item id="Absent message cannot be empty.">
+      <message>Poruka o odsutnosti ne može biti prazna.</message>
+    </item>
+    <item id="Please enter feature number.">
+      <message>Molim unesite broj svojstva.</message>
+    </item>
+    <item id="Are you sure you want to delete this function list?">
+      <message>Jeste li sigurni da želite izbrisati ovu funkcijsku listu?</message>
+    </item>
+    <item id="Redirect feature for incoming call does not work for ICD group call.">
+      <message>Svojstvo preusmjeravanja dolaznih poziva ne funkcionira za pozive na ICD grupu.</message>
+    </item>
+    <item id="Public telephone number is modified automatically, when dial is copied from other application or call is made using contact list or history.">
+      <message>Biranje javnog telefonskog broja automatski će se preinačiti kada se broj kopirao iz druge aplikacije ili se poziv uspostavlja uz pomoć kontakt liste ili iz povijesti poziva.</message>
+    </item>
+    <item id="&lt;Explanation&gt;">
+      <message>&lt;Pojašnjenje&gt;</message>
+    </item>
+    <item id="PBX system alarm can be sent to programmed e-mail address. Local alarm feature should be enabled for your extension by PBX Unified Maintenance Console.">
+      <message>Sistemski alarm kućne centrale može biti poslan na predprogramiranu e-mail adresu. Svojstvo lokalnog alarma treba biti omogućeno za vaš kućni broj uz pomoć konzole za programiranje kućne centrale.</message>
+    </item>
+    <item id="Extension Setting">
+      <message>Postavke kućnog broja</message>
+    </item>
+    <item id="&amp;FWD/DND">
+      <message>&amp;Preusmjeri/Ne smetaj</message>
+    </item>
+    <item id="Ext Pin Clear">
+      <message>Izbriši PIN kućnog broja</message>
+    </item>
+    <item id="Wake Up Call">
+      <message>Poziv za buđenje</message>
+    </item>
+    <item id="Extension &amp;Lock">
+      <message>Kućni broj &amp;Zaključaj</message>
+    </item>
+    <item id="Extension &amp;Unlock">
+      <message>Kućni broj &amp;Otključaj</message>
+    </item>
+    <item id="Clearing Extension PIN OK?">
+      <message>Da li želite izbrisati PIN kućnog broja?</message>
+    </item>
+    <item id="PC Console">
+      <message>PC konzola</message>
+    </item>
+    <item id="Wake Up Call Setting">
+      <message>Postavke poziva za buđenje</message>
+    </item>
+    <item id="h">
+      <message>h</message>
+    </item>
+    <item id="Daily Setting">
+      <message>Dnevno postavke</message>
+    </item>
+    <item id="Daily">
+      <message>Dnevno</message>
+    </item>
+    <item id="Once">
+      <message>Jednom</message>
+    </item>
+    <item id="Number">
+      <message>Broj</message>
+    </item>
+    <item id="FWD/DND (Internal)">
+      <message>Preusmjeri/Ne smetaj (kućni)</message>
+    </item>
+    <item id="FWD/DND (External)">
+      <message>Preusmjeri/Ne smetaj (vanjski)</message>
+    </item>
+    <item id="Display Lock">
+      <message>Blokiranje pokazivača</message>
+    </item>
+    <item id="Dial Lock">
+      <message>Zaključaj/onemogući pozivanje</message>
+    </item>
+    <item id="Wake Up">
+      <message>Buđenje</message>
+    </item>
+    <item id="Lock">
+      <message>Zaključavanje</message>
+    </item>
+    <item id="&amp;Unlock">
+      <message>&amp;Otključavanje</message>
+    </item>
+    <item id="On">
+      <message>Uključen</message>
+    </item>
+    <item id="Outside Line Group">
+      <message>Grupa vanjskih linija</message>
+    </item>
+    <item id="Outside Line Number">
+      <message>Broj vanjske linije</message>
+    </item>
+    <item id="Status">
+      <message>Status</message>
+    </item>
+    <item id="Call secretary">
+      <message>Poziv tajnici</message>
+    </item>
+    <item id="Contact List Group:">
+      <message>Grupa kont. Listi:</message>
+    </item>
+    <item id="Contact List Groups">
+      <message>Grupe kontakt listi</message>
+    </item>
+    <item id="&amp;New">
+      <message>&amp;Novi</message>
+    </item>
+    <item id="Move D&amp;own">
+      <message>Pomjeri d&amp;olje</message>
+    </item>
+    <item id="All">
+      <message>Svi</message>
+    </item>
+    <item id="Customise">
+      <message>Prilagodba</message>
+    </item>
+    <item id="Private">
+      <message>Privatni</message>
+    </item>
+    <item id="Please enter a name">
+      <message>Molim unesite ime</message>
+    </item>
+    <item id="Communication Assistant Pro">
+      <message>Komunikacijski Asistent Pro (CA Pro)</message>
+    </item>
+    <item id="Are you sure you want to remove this record?">
+      <message>Jeste li sigurni da želite izbrisati ovaj zapis?</message>
+    </item>
+    <item id="Contact Group Name:">
+      <message>Naziv kont. gr:</message>
+    </item>
+    <item id="Chat call back">
+      <message>Chat povratni poziv</message>
+    </item>
+    <item id="is typing a message">
+      <message>tipka poruku</message>
+    </item>
+    <item id="Operator Console (CA Operator Console)">
+      <message>Operator konzole (CA Operator Console)</message>
+    </item>
+    <item id="Use Network">
+      <message>Koristi mrežu</message>
+    </item>
+    <item id="IP Address of CA Server">
+      <message>Adr. CA poslužitelja</message>
+    </item>
+    <item id="Local Address">
+      <message>Prvi</message>
+    </item>
+    <item id="Remote Address">
+      <message>Drugi</message>
+    </item>
+    <item id="FQDN Error">
+      <message>FQDN Greška</message>
+    </item>
+    <item id="You can log-in to Operator Console Trial for now">
+      <message>Možete se prijaviti kao operator konzole probno za sada</message>
+    </item>
+    <item id="The number of license is not enough. Do you continue to login without network?">
+      <message>Broj licenci nije dovoljan. Da li se želite prijaviti bez mreže?</message>
+    </item>
+    <item id="Function Name:">
+      <message>Naziv funkcije:</message>
+    </item>
+    <item id="Function is executed automatically when CA is started.">
+      <message>Funkcija se automatski izvršila nakon pokretanja Komunikacijskog asistenta</message>
+    </item>
+    <item id="Function is executed automatically when CA is closed.">
+      <message>Funkcija se automatski izvršila nakon zatvaranja Komunikacijskog asistenta</message>
+    </item>
+    <item id="My Contact">
+      <message>Moj kontakt</message>
+    </item>
+    <item id="Paging (Flexible)">
+      <message>Poz razgl(Flex)</message>
+    </item>
+    <item id="Account Code">
+      <message>Korisn. račun</message>
+    </item>
+    <item id="Extension Call">
+      <message>Poziv kućnog broja</message>
+    </item>
+    <item id="Group Call">
+      <message>Poziv grupe</message>
+    </item>
+    <item id="Paging (Fixed)">
+      <message>Poz razgl (Fix)</message>
+    </item>
+    <item id="Parameter:">
+      <message>Parametar</message>
+    </item>
+    <item id="Label:">
+      <message>Oznaka:</message>
+    </item>
+    <item id="Please enter Group No.">
+      <message>Molim unesite broj grupe</message>
+    </item>
+    <item id="CA Pro License is required">
+      <message>CA Pro licenca je potrebna</message>
+    </item>
+    <item id="Missing or unregistered client.">
+      <message>Klijent ne postoji ili nije registriran</message>
+    </item>
+    <item id="Failed to open email software.">
+      <message>Neuspješno otvaranje e-mail programa.</message>
+    </item>
+    <item id="Name:">
+      <message>Ime:</message>
+    </item>
+    <item id="Find">
+      <message>Pronađi</message>
+    </item>
+    <item id="Call this contact">
+      <message>Pozovi ovaj kontakt</message>
+    </item>
+    <item id="Add to contact list">
+      <message>Dodaj u kontakt listu</message>
+    </item>
+    <item id="Email Address">
+      <message>E-mail adresa</message>
+    </item>
+    <item id="Cannot connect to server.">
+      <message>Nije moguće spojiti se na poslužitelj.</message>
+    </item>
+    <item id="No results found.">
+      <message>Nema pronađenih.</message>
+    </item>
+    <item id="Number of search result exceeded the limit. Only first 100 results shown.">
+      <message>Broj pronađenih nadilazi limit. Bit će prikazano samo prvih 100.</message>
+    </item>
+    <item id="Error while searching for results.">
+      <message>Greška tijekom pretraživanja.</message>
+    </item>
+    <item id="Cannot make call. No telephone number.">
+      <message>Nije moguće pozvati. Ne postoji telefonski broj.</message>
+    </item>
+    <item id="&amp;New...">
+      <message>&amp;Novi...</message>
+    </item>
+    <item id="Cannot add more than 10 servers to list.">
+      <message>Nije moguće dodati više od 10 poslužitelja na listu.</message>
+    </item>
+    <item id="LDAP Server settings">
+      <message>LDAP postavke poslužitelja</message>
+    </item>
+    <item id="Server Address:">
+      <message>Adresa poslužitelja:</message>
+    </item>
+    <item id="Port Number:">
+      <message>Broj porta:</message>
+    </item>
+    <item id="Account Name:">
+      <message>Naziv korisničkog računa:</message>
+    </item>
+    <item id="Password:">
+      <message>Zaporka:</message>
+    </item>
+    <item id="Use SSL">
+      <message>Koristi SSL</message>
+    </item>
+    <item id="Ok">
+      <message>U redu</message>
+    </item>
+    <item id="Server address cannot be empty.">
+      <message>Adresa poslužitelja ne može biti prazna.</message>
+    </item>
+    <item id="Invalid port number.">
+      <message>Neodgovarajući broj porta.</message>
+    </item>
+    <item id="Account name / password cannot be empty.">
+      <message>Naziv korisničkog računa / zaporka ne može biti prazna.</message>
+    </item>
+    <item id="Park (Auto)">
+      <message>Parkiranje (Automatski)</message>
+    </item>
+    <item id="Park (Manual)">
+      <message>Parkiranje (Ručno)</message>
+    </item>
+    <item id="Call waiting tone">
+      <message>Signal poziva na čekanju</message>
+    </item>
+    <item id="login now">
+      <message>sada se prijavi</message>
+    </item>
+    <item id="chat is disabled. Callback is cancelled.">
+      <message>chat je onemogućen. Povratni poziv je poništen.</message>
+    </item>
+    <item id="Extension">
+      <message>Kućni broj</message>
+    </item>
+    <item id="Extension PIN Clear">
+      <message>Brisanje PIN-a kućnog broja</message>
+    </item>
+    <item id="Transfer to phone (Office): ">
+      <message>Proslijedi na telefon (Ured) :</message>
+    </item>
+    <item id="Transfer to phone (Mobile): ">
+      <message>Proslijedi na telefon (Mobilni) :</message>
+    </item>
+    <item id="Transfer to phone (Home): ">
+      <message>Proslijedi na telefon (Privatni) :</message>
+    </item>
+    <item id="Transfer to phone (secretary): ">
+      <message>Proslijedi na telefon (Tajnica) :</message>
+    </item>
+    <item id="Email this contact">
+      <message>Pošalji e-mail ovom kontaktu</message>
+    </item>
+    <item id="Key-1">
+      <message>Tipka-1</message>
+    </item>
+    <item id="Key-2">
+      <message>Tipka-2</message>
+    </item>
+    <item id="Key-3">
+      <message>Tipka-3</message>
+    </item>
+    <item id="Key-4">
+      <message>Tipka-4</message>
+    </item>
+    <item id="Key-5">
+      <message>Tipka-5</message>
+    </item>
+    <item id="Key-6">
+      <message>Tipka-6</message>
+    </item>
+    <item id="Key-7">
+      <message>Tipka-7</message>
+    </item>
+    <item id="Key-8">
+      <message>Tipka-8</message>
+    </item>
+    <item id="Key-9">
+      <message>Tipka-9</message>
+    </item>
+    <item id="Key-10">
+      <message>Tipka-10</message>
+    </item>
+    <item id="Key-11">
+      <message>Tipka-11</message>
+    </item>
+    <item id="Key-12">
+      <message>Tipka-12</message>
+    </item>
+    <item id="Select by group number">
+      <message>Odaberi po broju grupe</message>
+    </item>
+    <item id="Group number: 01">
+      <message>Broj grupe: 01</message>
+    </item>
+    <item id="Group number: 02">
+      <message>Broj grupe: 02</message>
+    </item>
+    <item id="Group number: 03">
+      <message>Broj grupe: 03</message>
+    </item>
+    <item id="Group number: 04">
+      <message>Broj grupe: 04</message>
+    </item>
+    <item id="Group number: 05">
+      <message>Broj grupe: 05</message>
+    </item>
+    <item id="Group number: 06">
+      <message>Broj grupe: 06</message>
+    </item>
+    <item id="Group number: 07">
+      <message>Broj grupe: 07</message>
+    </item>
+    <item id="Group number: 08">
+      <message>Broj grupe: 08</message>
+    </item>
+    <item id="Group number: 09">
+      <message>Broj grupe: 09</message>
+    </item>
+    <item id="Group number: 10">
+      <message>Broj grupe: 10</message>
+    </item>
+    <item id="Group number: 11">
+      <message>Broj grupe: 11</message>
+    </item>
+    <item id="Group number: 12">
+      <message>Broj grupe: 12</message>
+    </item>
+    <item id="Group number: 13">
+      <message>Broj grupe: 13</message>
+    </item>
+    <item id="Group number: 14">
+      <message>Broj grupe: 14</message>
+    </item>
+    <item id="Group number: 15">
+      <message>Broj grupe: 15</message>
+    </item>
+    <item id="Group number: 16">
+      <message>Broj grupe: 16</message>
+    </item>
+    <item id="Group number: 17">
+      <message>Broj grupe: 17</message>
+    </item>
+    <item id="Group number: 18">
+      <message>Broj grupe: 18</message>
+    </item>
+    <item id="Group number: 19">
+      <message>Broj grupe: 19</message>
+    </item>
+    <item id="Group number: 20">
+      <message>Broj grupe: 20</message>
+    </item>
+    <item id="Group number: 21">
+      <message>Broj grupe: 21</message>
+    </item>
+    <item id="Group number: 22">
+      <message>Broj grupe: 22</message>
+    </item>
+    <item id="Group number: 23">
+      <message>Broj grupe: 23</message>
+    </item>
+    <item id="Group number: 24">
+      <message>Broj grupe: 24</message>
+    </item>
+    <item id="Group number: 25">
+      <message>Broj grupe: 25</message>
+    </item>
+    <item id="Group number: 26">
+      <message>Broj grupe: 26</message>
+    </item>
+    <item id="Group number: 27">
+      <message>Broj grupe: 27</message>
+    </item>
+    <item id="Group number: 28">
+      <message>Broj grupe: 28</message>
+    </item>
+    <item id="Group number: 29">
+      <message>Broj grupe: 29</message>
+    </item>
+    <item id="Group number: 30">
+      <message>Broj grupe: 30</message>
+    </item>
+    <item id="Group number: 31">
+      <message>Broj grupe: 31</message>
+    </item>
+    <item id="Group number: 32">
+      <message>Broj grupe: 32</message>
+    </item>
+    <item id="Please enter Group Number.">
+      <message>Molim unesite broj grupe.</message>
+    </item>
+    <item id="&amp;Edit...">
+      <message>&amp;Uredi...</message>
+    </item>
+    <item id="Please enter a group name.">
+      <message>Molim unesite naziv grupe.</message>
+    </item>
+    <item id="Unable load user Profile.">
+      <message>Nije moguće učitati korisnički profil.</message>
+    </item>
+    <item id="Request Fail.">
+      <message>Zahtjev nije uspio.</message>
+    </item>
+    <item id="Fail to connect to the selected Network Server.">
+      <message>Povezivanje s odabranim mrežnim poslužiteljem nije uspjelo.</message>
+    </item>
+    <item id="Network Call Flag">
+      <message>Indikator mrežnog poziva</message>
+    </item>
+    <item id="Connection with Network Server is Disconnected, CA will connect back to Own Server.">
+      <message>Veza s mrežnim poslužiteljem je prekinuta, CA će se povezati natrag na svoj poslužitelj.</message>
+    </item>
+    <item id="Call Park">
+      <message>Parkir. poziv</message>
+    </item>
+    <item id="Park Number">
+      <message>Broj parkiran. poz.</message>
+    </item>
+    <item id="Function Name">
+      <message>Naziv funkcije</message>
+    </item>
+    <item id="Start date and time">
+      <message>Početni datum i vrijeme</message>
+    </item>
+    <item id="End date and time">
+      <message>Završni datum i vrijeme</message>
+    </item>
+    <item id="Function List - Schedule">
+      <message>Funkcijska lista - Raspored</message>
+    </item>
+    <item id="Function name for End :">
+      <message>Naziv funkcije za završetak :</message>
+    </item>
+    <item id="Callback message was cancelled for the timeout.">
+      <message>Poruka povratnog poziva poništena je zbog isteka vremena.</message>
+    </item>
+    <item id="Outside Line : ">
+      <message>Vanjska linija :</message>
+    </item>
+    <item id="DEFAULT LDAP SRV">
+      <message>Stand. LDP SRV</message>
+    </item>
+    <item id="Searching for LDAP contacts...">
+      <message>Pretraživanje LDAP kontakata...</message>
+    </item>
+    <item id="Connecting to LDAP server...">
+      <message>Povezivanje s LDAP serverom...</message>
+    </item>
+    <item id="Location:">
+      <message>Lokacija:</message>
+    </item>
+    <item id="LDAP Location List">
+      <message>LDAP lista lokacija</message>
+    </item>
+    <item id="Are you sure you want to delete this location?">
+      <message>Jeste li sigurni da želite izbrisati ovu lokaciju?</message>
+    </item>
+    <item id="Cannot add new location. Location already exists. Do you want to edit existing location instead?">
+      <message>Nije moguće dodati novu lokaciju. Lokacija već postoji. Da li pak želite urediti podatke postojeće lokacije?</message>
+    </item>
+    <item id="Location cannot be empty.">
+      <message>Lokacija ne može biti prazna.</message>
+    </item>
+    <item id="Location cannot be the same as server address.">
+      <message>Lokacija ne može imati istu adresu kao poslužitelj.</message>
+    </item>
+    <item id="&amp;LDAP Link">
+      <message>&amp;LDAP veza</message>
+    </item>
+    <item id="Function Key:">
+      <message>Funkcijska tipka:</message>
+    </item>
+    <item id="Outside &amp;Line Group">
+      <message>Grupa vanjskih &amp;linija</message>
+    </item>
+    <item id="Incoming Group">
+      <message>ICD grupa</message>
+    </item>
+    <item id="Icon">
+      <message>Simbol</message>
+    </item>
+    <item id="List">
+      <message>Lista</message>
+    </item>
+    <item id="Contact List Display Format">
+      <message>Format prikaza kontakt liste</message>
+    </item>
+    <item id="This is the default group. Default group cannot be deleted.">
+      <message>Ovo je standardna grupa. Standardna grupa ne može se izbrisati.</message>
+    </item>
+    <item id="The password supplied does not meet the minimum complexity requirement. \n Please select another password that meet all of the following  criteria: \n -is at least 5 characters; \n-not same as extension number;\n-must contains different data types (nemera">
+      <message>Dana zaporka ne zadovolj min. kompleksnosti. \n Odaberite zaporku koja zadovoljava sve uvjete: \n -ima min 5 znak; \n-nije ista kao kuć broj;\n-sadrž različ vrste znak (broj[0-9], slova [A-Z,a-z];simb[*,#])</message>
+    </item>
+    <item id="The maximum contact group had been registered. To add a new contact group, please delete some contact group.">
+      <message>Maks. br. kont. grupa je registriran. Da bi se dodala nova kont. gr. molim izbris. neku od kont. gr.</message>
+    </item>
+    <item id="Cannot log in. This may be cause by one of the following causes: \n -you entered an incorrect password \n -The extension number does not exist.">
+      <message>Prijava nije moguća. Razlog može biti: \n -unijeli ste krivu zaporku \n -Kućni broj ne postoji.</message>
+    </item>
+    <item id="Unable to set user profile.">
+      <message>Nije moguće postaviti korisnički profil</message>
+    </item>
+    <item id="Uable to delete the selected user profile.">
+      <message>Nije moguće izbrisati odabrani korisnički profil.</message>
+    </item>
+    <item id="Available Contact">
+      <message>Dostupni kontakti</message>
+    </item>
+    <item id="Available Contact (External Server Mode Only)">
+      <message>Dostupni kontakti (Samo za način rada vanjskog posluž.)</message>
+    </item>
+    <item id="Secretary">
+      <message>Tajnica</message>
+    </item>
+    <item id="Duration : ">
+      <message>Trajanje :</message>
+    </item>
+    <item id="Absent Message Icon List">
+      <message>Lista simbola poruke Nedostupan</message>
+    </item>
+    <item id="Do Not Disturb Icon">
+      <message>Simbol poruke Ne smetaj</message>
+    </item>
+    <item id="Are you sure want to delete?">
+      <message>Jeste li sigurni da želite izbrisati ?</message>
+    </item>
+    <item id="Add">
+      <message>Dodaj</message>
+    </item>
+    <item id="Fail to forward. Phone number is exceeded 32 digits">
+      <message>Neuspješno preusmjeravanje. Telefonski broj nadilazi 32 znamenke</message>
+    </item>
+    <item id="Acquiring Ldap info from server.">
+      <message>Preuzimanje Ldap informacija s poslužitelja.</message>
+    </item>
+    <item id="Unable to get Ldap info from Server.">
+      <message>Nije moguće preuzeti Ldap informacije s poslužitelja.</message>
+    </item>
+    <item id="&amp;Location:">
+      <message>&amp;Lokacija:</message>
+    </item>
+    <item id="Clear Forward / Do Not Disturb">
+      <message>Poništi funkc Preusm/Ne smetaj</message>
+    </item>
+    <item id="Forward VM : ">
+      <message>Preusmj. na govor. poštu :</message>
+    </item>
+    <item id="Forward Phone (Home) : ">
+      <message>Preusm. na tel. (Privatni) :</message>
+    </item>
+    <item id="Forward Phone (Mobile) : ">
+      <message>Preusm. na tel. (Mobilni) :</message>
+    </item>
+    <item id="Forward Phone (Secretary) : ">
+      <message>Preusm. na tel. (Tajnica) :</message>
+    </item>
+    <item id="Advanced setting">
+      <message>Napredne postavke</message>
+    </item>
+    <item id="Connection to the PBX is lost. Call control functions will no longer work.">
+      <message>Veza s kućnom telefonskom centralom je prekinuta. Funkcije kontrole poziva više ne rade.</message>
+    </item>
+    <item id="Connection to the PBX has been regained.">
+      <message>Veza s kućnom telefonskom centralom ponovno je uspostavljena.</message>
+    </item>
+    <item id="&amp;Log-in">
+      <message>&amp;Prijava</message>
+    </item>
+    <item id="Log-&amp;out">
+      <message>&amp;Odjava</message>
+    </item>
+    <item id="&amp;More">
+      <message>&amp;Više</message>
+    </item>
+    <item id="Call phone (&amp;Office): ">
+      <message>Telefonski poziv (&amp;Ured): </message>
+    </item>
+    <item id="Call phone (&amp;Mobile): ">
+      <message>Telefonski poziv (&amp;Mobilni): </message>
+    </item>
+    <item id="Call phone (Hom&amp;e): ">
+      <message>Telefonski poziv (&amp;Privatni): </message>
+    </item>
+    <item id="Transfer to phone (&amp;Office): ">
+      <message>Proslijedi na telefon (&amp;Ured) :</message>
+    </item>
+    <item id="Transfer to phone (&amp;Mobile): ">
+      <message>Proslijedi na telefon (&amp;Mobilni) :</message>
+    </item>
+    <item id="Transfer to phone (Hom&amp;e): ">
+      <message>Proslijedi na telefon (&amp;Privatni) :</message>
+    </item>
+    <item id="Call phone (Secretar&amp;y): ">
+      <message>Poziv tajnici (&amp;Tajnica) :</message>
+    </item>
+    <item id="Leave vo&amp;ice message">
+      <message>Ostavi &amp;govornu poruku</message>
+    </item>
+    <item id="Se&amp;nd E-mail : ">
+      <message>Pošalji &amp;e-mail :</message>
+    </item>
+    <item id="Access &amp;Web">
+      <message>Pristupi &amp;Web-u</message>
+    </item>
+    <item id="Start c&amp;hat">
+      <message>Započni &amp;chat</message>
+    </item>
+    <item id="Chat call &amp;back">
+      <message>Chat p&amp;ovratni poziv</message>
+    </item>
+    <item id="Transfer to phone (Secretar&amp;y): ">
+      <message>Proslijedi poziv tajnici (&amp;Tajnica):</message>
+    </item>
+    <item id="&amp;Get Latest Report">
+      <message>Preuzmi zadnje &amp;izvješće</message>
+    </item>
+    <item id="Extension &amp;Pin Clear">
+      <message>Izbriši &amp;PIN kućnog broja</message>
+    </item>
+    <item id="&amp;Wake Up">
+      <message>&amp;Buđenje</message>
+    </item>
+    <item id="&amp;Absent Message ">
+      <message>Poruka &amp;nedostupan</message>
+    </item>
+    <item id="&amp;Extension">
+      <message>&amp;Kućni broj</message>
+    </item>
+    <item id="&amp;Lock">
+      <message>&amp;Zaključaj</message>
+    </item>
+    <item id="&amp;Wake Up Call">
+      <message>&amp;Poziv za buđenje</message>
+    </item>
+    <item id="Ext &amp;Pin Clear">
+      <message>Brisanje &amp;PIN-a kućnog broja</message>
+    </item>
+    <item id="&amp;Call this contact">
+      <message>&amp;Pozovi ovaj kontakt</message>
+    </item>
+    <item id="&amp;Add to contact list">
+      <message>&amp;Dodaj u kontakt listu</message>
+    </item>
+    <item id="&amp;Email this contact">
+      <message>Pošalji &amp;e-mail ovom kontaktu</message>
+    </item>
+    <item id="&amp;Name:">
+      <message>&amp;Ime:</message>
+    </item>
+    <item id="Please select another password with at least 5 characters, not same as \nextension number, and contains at least two of the following three character \ngroups: English uppercase (A through Z) or lowercase (a through z) characters; \nNumerals (0-9); Non-alphabetic characters (*,#).">
+      <message>Odaberite drugu zaporku od najmanje 5 znakova, koja nije jednaka \nkućnom broju, a sadrži najmanje dvije od sljedeće tri \nskupine znakova: veliko slovo (A do Z) ili malo slovo (a do z); \nbroj (0-9); nealfabetski znak (*,#).</message>
+    </item>
+    <item id="Server is busy. Please try to login later.">
+      <message>Poslužitelj je zauzet. Pokušajte se prijaviti kasnije.</message>
+    </item>
+    <item id="Option">
+      <message>Opcije</message>
+    </item>
+    <item id="Forward/Do Not Disturb">
+      <message>Preusmjeri/Ne smetaj</message>
+    </item>
+    <item id="Cannot log in. This may be caused by one of the following causes: \n - you entered an incorrect password \n - the extension number does not exist.">
+      <message>Nije moguća prijava. Razlog tome može biti jedan od sljedećih uzroka: \n - upisali ste netočnu lozinku \n - kućni broj ne postoji.</message>
+    </item>
+    <item id="Unable to load User Profile.">
+      <message>Ne može se učitati korisnički profil.</message>
+    </item>
+    <item id="Language file not found, CA will use default language (English)">
+      <message>Datoteka jezika nije pronađena, CA će koristiti zadani jezik (engleski)</message>
+    </item>
+    <item id="&amp;Add">
+      <message>Dod&amp;aj</message>
+    </item>
+    <item id="A&amp;dd">
+      <message>&amp;Dodaj</message>
+    </item>
+    <item id="De&amp;lete">
+      <message>Iz&amp;briši</message>
+    </item>
+    <item id="Dele&amp;te">
+      <message>Izb&amp;riši</message>
+    </item>
+    <item id="&amp;Server Address:">
+      <message>Adre&amp;sa poslužitelja:</message>
+    </item>
+    <item id="Port &amp;Number:">
+      <message>Broj &amp;priključka:</message>
+    </item>
+    <item id="&amp;Account Name:">
+      <message>N&amp;aziv računa:</message>
+    </item>
+    <item id="&amp;Password:">
+      <message>&amp;Lozinka:</message>
+    </item>
+    <item id="Advanced Setting">
+      <message>Napredno podešavanje</message>
+    </item>
+    <item id="Server is busy, Please try later.">
+      <message>Poslužitelj je zauzet, pokušajte kasnije.</message>
+    </item>
+    <item id="The image file is not valid, CA is unable to load the image file.">
+      <message>Slikovna datoteka nije valjana, CA ne može učitati slikovnu datoteku.</message>
+    </item>
+    <item id="Dutch">
+      <message>Nederlands</message>
+    </item>
+    <item id="Polish">
+      <message>Polski</message>
+    </item>
+    <item id="Croatian ">
+      <message>Hrvatski</message>
+    </item>
+    <item id="Hungarian ">
+      <message>Magyar</message>
+    </item>
+    <item id="Czech ">
+      <message>Česky</message>
+    </item>
+    <item id="PBX Connection Lost …">
+      <message>PBX veza je prekinuta…</message>
+    </item>
+    <item id="Log-in to the group">
+      <message>Prijava u grupu</message>
+    </item>
+    <item id="Log-out from the group">
+      <message>Odjava iz grupe</message>
+    </item>
+    <item id="Se&amp;nd E-mail: ">
+      <message>Po&amp;šalji e-mail </message>
+    </item>
+    <item id="Start C&amp;hat">
+      <message>Započni c&amp;hat</message>
+    </item>
+    <item id="Save">
+      <message>Spremi</message>
+    </item>
+    <item id="&amp;Extension Setting">
+      <message>&amp;Postavke kućnog broja</message>
+    </item>
+    <item id="Phone (Secretary):">
+      <message>Telefon (Tajnica):</message>
+    </item>
+    <item id="Cannot login PBX mode in Thin Client environment.">
+      <message>Nije moguća prijava u PBX načinu rada u okruženju Thin Client.</message>
+    </item>
+    <item id="Local Alarm Message:">
+      <message>Poruka lokalnog alarma:</message>
+    </item>
+    <item id="&amp;Speed Dial">
+      <message>&amp;Skraćeno biranje</message>
+    </item>
+    <item id="Call phone (Secretary): ">
+      <message>Telefonski poziv (Tajnica): </message>
+    </item>
+    <item id="&amp;Ok">
+      <message>&amp;U redu</message>
+    </item>
+    <item id="Total Incoming Call">
+      <message>Ukup. dolazni poz.</message>
+    </item>
+    <item id="Overflow Call">
+      <message>Višak poziva</message>
+    </item>
+    <item id="Average Waiting Time">
+      <message>Prosj. vrijeme ček.</message>
+    </item>
+    <item id="This Console feature is beta version.">
+      <message>Ova značajka konzole je u beta verziji.</message>
+    </item>
+    <item id="Communication Assistant failed to log in.\nPlease try to log in again.">
+      <message>Prijava u Komunikacijski asistent nije uspjela. \n Molimo pokušajte ponovno.</message>
+    </item>
+    <item id="&amp;View this contact">
+      <message>&amp;Pogledajte ovaj kontakt</message>
+    </item>
+    <item id="Open Doo&amp;r">
+      <message>O&amp;tv.vrata</message>
+    </item>
+    <item id="Open Door">
+      <message>Otv.vrata</message>
+    </item>
+    <item id="Call D&amp;oorphone">
+      <message>Zovi d&amp;oorphone</message>
+    </item>
+    <item id="Call Doorphone">
+      <message>Zovi doorphone</message>
+    </item>
+    <item id="Search / Dial">
+      <message>Traži/Biraj</message>
+    </item>
+    <item id="Combine Search and Dial">
+      <message>Spoji pretragu i biranje</message>
+    </item>
+    <item id="Call Control Display Mode">
+      <message>Kont.poziva/Način prikaza</message>
+    </item>
+    <item id="Extension Setting Authentication Setting">
+      <message>Postavka ekstenzije/Postavka autentik.</message>
+    </item>
+    <item id="Settings below are needed to get information from PBX">
+      <message>Donje postav. su potrebne za dobivanje info.od PBX-a.</message>
+    </item>
+    <item id="Maintenance Port Number">
+      <message>Broj ulaza za održav.</message>
+    </item>
+    <item id="Absent message is assigned automatically when PC is not used pre programmed time.">
+      <message>Ako se rač. ne koristi tijekom zadanog vrem.razd., automatski se konfig. "Por.o odsutnosti".</message>
+    </item>
+    <item id="Unable to establish chat with own extension number.">
+      <message>Nemoguće uspostaviti komun. s osobn.intern.brojem.</message>
+    </item>
+    <item id="Contact list successfully exported.">
+      <message>Kontakt. popis uspješno je izveden.</message>
+    </item>
+    <item id="Contact list unable to export. An error occur during the exportation">
+      <message>Nemoguće je izvesti kontakt.popis.Pojavila se greška tokom izvoza.</message>
+    </item>
+    <item id="Use Extension Setting feature">
+      <message>Koristite "Namješt.kuć.br."</message>
+    </item>
+    <item id="\&quot;Extension Setting\&quot; menu is not available temporarily because PBX information is not retrieved.\nPlease ask your PBX administrator.">
+      <message>Izbornik \"Namještanje kućnog broja\" trenutno nije dostupan jer nisu pronađene PBX informacije. \nObratite se PBX administratoru.</message>
+    </item>
+    <item id="Automatic unscreened transfer">
+      <message>Auto.izravno prebacivanje</message>
+    </item>
+    <item id="Automatic Unscreened Transfer for Operator Console">
+      <message>Auto.izravno prebacivanje za operatersku konzolu</message>
+    </item>
+    <item id="Standard user (CA Basic-Express)">
+      <message>Standardni korisnik (CA Basic-Express)</message>
+    </item>
+    <item id="You can log-in to Basic-Express mode for now">
+      <message>Možete se prijaviti u Basic-Express način rada za sada</message>
+    </item>
+    <item id="Limitations for Basic-Express mode:">
+      <message>Ograničenja na Basic-Express način rada:</message>
+    </item>
+    <item id="Sound">
+      <message>Zvuk</message>
+    </item>
+    <item id="Mute">
+      <message>Bez zvuka</message>
+    </item>
+    <item id="Move to Dial Box">
+      <message>Premjesti u pozivni okvir</message>
+    </item>
+    <item id="Answer">
+      <message>Javi se</message>
+    </item>
+    <item id="Redirect">
+      <message>Preusmjeravanje</message>
+    </item>
+    <item id="Write Memo">
+      <message>Napiši dopis</message>
+    </item>
+    <item id="Set Call Back">
+      <message>Namjesti uzvratni poziv</message>
+    </item>
+    <item id="Call waiting tone">
+      <message>Signal poziva na čekanju</message>
+    </item>
+    <item id="Listen in">
+      <message>Prisluškivanje</message>
+    </item>
+    <item id="Override(Conference)">
+      <message>Ubacivanje u razgovor (Konferencija)</message>
+    </item>
+    <item id="Take Over">
+      <message>Preuzimanje poziva</message>
+    </item>
+    <item id="Start Chat">
+      <message>Započni chat</message>
+    </item>
+    <item id="Move Call focus(up)">
+      <message>Pomakni fokus poziva (gore)</message>
+    </item>
+    <item id="Move Call focus(down)">
+      <message>Pomakni fokus poziva (dolje)</message>
+    </item>
+    <item id="Group Conference">
+      <message>Grupna konferencija</message>
+    </item>
+    <item id="Total length of Email-to-SMS address(es) exceeded the maximum limit.\n\nYour Email-to-SMS address(es) may be truncated.">
+      <message>Ukupna duljina e-pošta-na-SMS adresa premašila je maksimalno ograničenje.\n\nVaša e-pošta-na-SMS adresa će biti skraćena.</message>
+    </item>
+    <item id="Office">
+      <message>Ured</message>
+    </item>
+    <item id="PBX Code">
+      <message>PBX šifra</message>
+    </item>
+    <item id="Mobile">
+      <message>Mobilni</message>
+    </item>
+    <item id="Home">
+      <message>Kuća</message>
+    </item>
+    <item id="Secretary">
+      <message>Tajnica</message>
+    </item>
+    <item id="&amp;Office">
+      <message>&amp;Ured</message>
+    </item>
+    <item id="&amp;PBX Code">
+      <message>&amp;PBX šifra</message>
+    </item>
+    <item id="Mo&amp;bile">
+      <message>Mo&amp;bilni</message>
+    </item>
+    <item id="&amp;Home">
+      <message>&amp;Kuća</message>
+    </item>
+    <item id="&amp;Secretary">
+      <message>&amp;Tajnica</message>
+    </item>
+    <item id="&amp;E-mail">
+      <message>&amp;E-pošta</message>
+    </item>
+    <item id="S&amp;MS">
+      <message>S&amp;MS</message>
+    </item>
+    <item id="CRM Integration">
+      <message>CRM integracija</message>
+    </item>
+    <item id="Add Member To Co&amp;nference">
+      <message>Dodaj člana ko&amp;nferenciji</message>
+    </item>
+    <item id="Conference Group">
+      <message>Konferencijska grupa</message>
+    </item>
+    <item id="Conference Room">
+      <message>Konferencijska dvorana</message>
+    </item>
+    <item id="ID">
+      <message>ID</message>
+    </item>
+    <item id="Conference Setting">
+      <message>Konferencijska postavka</message>
+    </item>
+    <item id="Name:">
+      <message>Ime:</message>
+    </item>
+    <item id="PIN:">
+      <message>PIN:</message>
+    </item>
+    <item id="Number:">
+      <message>Broj:</message>
+    </item>
+    <item id="Add New Member">
+      <message>Dodaj novog člana</message>
+    </item>
+    <item id="Number already exist">
+      <message>Broj već postoji.</message>
+    </item>
+    <item id="&amp;End Conference">
+      <message>&amp;Završi konferenciju</message>
+    </item>
+    <item id="You are invited to this conference. Do you want to accept?">
+      <message>Pozvani ste na ovu konferenciju. Želite li prihvatiti poziv?</message>
+    </item>
+    <item id="Invitation">
+      <message>Poziv</message>
+    </item>
+    <item id="Join">
+      <message>Uključi se</message>
+    </item>
+    <item id="Start">
+      <message>Započni</message>
+    </item>
+    <item id="Disconnect">
+      <message>Odspoji</message>
+    </item>
+    <item id="32 (Default: one-way)">
+      <message>32 (Zadana postavka: jednosmjerno)</message>
+    </item>
+    <item id="8 (Default: two-way)">
+      <message>8 (Zadana postavka: dvosmjerno)</message>
+    </item>
+    <item id="I would like to join this conference.\nCould you please add me into this conference?">
+      <message>Želim se uključiti u konferenciju.\nMogu li se uključiti u konferenciju?</message>
+    </item>
+    <item id="Empty Slot - Add Party">
+      <message>Prazno mjesto - dodaj korisnika</message>
+    </item>
+    <item id="Empty Slot">
+      <message>Prazno mjesto</message>
+    </item>
+    <item id="Invite">
+      <message>Pozovi</message>
+    </item>
+    <item id="Yes">
+      <message>Da</message>
+    </item>
+    <item id="No">
+      <message>Ne</message>
+    </item>
+    <item id="Server is busy. Please try again later.">
+      <message>Poslužitelj je zauzet. Molimo pokušajte kasnije.</message>
+    </item>
+    <item id="Conference members exceed the limit.">
+      <message>Broj članova konferencije premašuje ograničenje.</message>
+    </item>
+    <item id="Please wait...">
+      <message>Molimo pričekajte...</message>
+    </item>
+    <item id="Conference room is not available.">
+      <message>Konferencijska dvorana nije dostupna.</message>
+    </item>
+    <item id="No member in conference room.">
+      <message>U konferencijskoj dvorani nema članova.</message>
+    </item>
+    <item id="Invalid group number.">
+      <message>Nevažeći broj grupe.</message>
+    </item>
+    <item id="Network is busy.">
+      <message>Mreža je zauzeta.</message>
+    </item>
+    <item id="Failed to start conference.">
+      <message>Početak konferencije nije uspio.</message>
+    </item>
+    <item id="Do you want to remove this user from the conference?">
+      <message>Želite li ukloniti ovog korisnika iz konferencije?</message>
+    </item>
+    <item id="Do you want to disconnect this member from the conference?">
+      <message>Želite li isključiti ovog člana iz konferencije?</message>
+    </item>
+    <item id="Conference details already deleted.">
+      <message>Pojedinosti konferencije već su izbrisane.</message>
+    </item>
+    <item id="The current members will be removed and replaced by new data. Do you want to continue?">
+      <message>Trenutni članovi bit će uklonjeni i zamijenjeni novim podacima. Želite li nastaviti?</message>
+    </item>
+    <item id="Exceed maximum no. of group.">
+      <message>Premašen je maksimalni broj članova grupe.</message>
+    </item>
+    <item id="Do you want to end the conference?">
+      <message>Želite li završiti konferenciju?</message>
+    </item>
+    <item id="Own extension is not allowed.">
+      <message>Vlastiti kućni broj nije dozvoljen.</message>
+    </item>
+    <item id="The initiator is not CA user. Join cannot be done. Please dial the number which the conference initiator informed to you to join this conference.">
+      <message>Pokretač nije CA korisnik. Ne može se izvršiti pridruživanje. Ako se želite pridružiti, birajte broj koji ste dobili od pokretača konferencije.</message>
+    </item>
+    <item id="Sorry, you are not able to join this conference.">
+      <message>Nažalost, ne možete se uključiti u konferenciju.</message>
+    </item>
+    <item id="Are you sure you want to delete?">
+      <message>Jeste li sigurni da želite izbrisati?</message>
+    </item>
+    <item id="Name already exist.">
+      <message>Ime već postoji.</message>
+    </item>
+    <item id="Do you want to save conference member?">
+      <message>Želite li spremiti člana konferencije?</message>
+    </item>
+    <item id="Some of the items could not be added due to the reasons below:\n\n* Invalid contact type.\n* Duplicated phone number.\n* Own number is added.\n* Exceed the maximum member limit.\n* No phone number found.">
+      <message>Neke stavke ne mogu se dodati iz sljedećih razloga:\n\n* Nevažeća vrsta kontakta.\n* Duplikatni broj telefona.\n* Dodan je vlastiti broj.\n* Premašeno je maksimalno ograničenje broja članova.\n* Nije pronađen nijedan broj telefona.</message>
+    </item>
+    <item id="Normal">
+      <message>Normalno</message>
+    </item>
+    <item id="Mute">
+      <message>Bez zvuka</message>
+    </item>
+    <item id="Send E-mail 1">
+      <message>Pošalji poruku e-pošte 1</message>
+    </item>
+    <item id="Send E-mail 1:">
+      <message>Pošalji poruku e-pošte 1:</message>
+    </item>
+    <item id="Send &amp;E-mail 1:">
+      <message>Pošalji poruku &amp;e-pošte 1:</message>
+    </item>
+    <item id="Send E-mail 2:">
+      <message>Pošalji poruku e-pošte 2:</message>
+    </item>
+    <item id="Se&amp;nd E-mail 2:">
+      <message>Po&amp;šalji poruku e-pošte 2:</message>
+    </item>
+    <item id="E-mail 1:">
+      <message>E-pošta 1:</message>
+    </item>
+    <item id="E-mail 1">
+      <message>E-pošta 1</message>
+    </item>
+    <item id="&amp;E-mail 1">
+      <message>&amp;E-pošta 1</message>
+    </item>
+    <item id="E-&amp;mail 2">
+      <message>E-&amp;pošta 2</message>
+    </item>
+    <item id="E-mail 2:">
+      <message>E-pošta 2:</message>
+    </item>
+    <item id="E-mail 2">
+      <message>E-pošta 2</message>
+    </item>
+    <item id="Search All">
+      <message>Pretraži sve</message>
+    </item>
+    <item id="Search">
+      <message>Traži</message>
+    </item>
+    <item id="Call">
+      <message>Poziv</message>
+    </item>
+    <item id="E-mail">
+      <message>E-pošta</message>
+    </item>
+    <item id="Contact List">
+      <message>Popis kontakata</message>
+    </item>
+    <item id="Search CA contacts">
+      <message>Pretraži CA kontakte</message>
+    </item>
+    <item id="Search LDAP contacts from following LDAP server">
+      <message>Pretraži LDAP kontakte sa sljedećeg LDAP poslužitelja</message>
+    </item>
+    <item id="&amp;Call this contact">
+      <message>&amp;Pozovi ovaj kontakt</message>
+    </item>
+    <item id="&amp;Email this contact">
+      <message>Pošalji &amp;e-mail ovom kontaktu</message>
+    </item>
+    <item id="&amp;Add to contact list">
+      <message>&amp;Dodaj u kontakt listu</message>
+    </item>
+    <item id="Location">
+      <message>Lokacija</message>
+    </item>
+    <item id="&amp;Location">
+      <message>&amp;Lokacija</message>
+    </item>
+    <item id="No result found.">
+      <message>Nema pronađenih rezultata.</message>
+    </item>
+    <item id="No contact available to export.">
+      <message>Nema kontakata za izvoz.</message>
+    </item>
+    <item id="Changes on the Network Server setting will reflect only in the next login.">
+      <message>Promjene postavki mrežnog poslužitelja aktivirat će se tek nakon sljedeće prijave.</message>
+    </item>
+    <item id="All the my list contacts belong to this group will be deleted. \nAre you sure you want to remove this record?">
+      <message>Svi kontakti s mojeg popisa koji pripadaju ovog grupi bit će izbrisani. \nJeste li sigurni da želite izbrisati ovaj zapis?</message>
+    </item>
+    <item id="The maximum my list had been registered.To add a new my list,please delete some my list.">
+      <message>Zabilježen je maksimalni broj mojih popisa. Kako biste mogli dodati nove moje popise, izbrišite neke od postojećih.</message>
+    </item>
+    <item id="Location:">
+      <message>Lokacija:</message>
+    </item>
+    <item id="Amount of contacts that you attempt to add is over the limit. To make new contacts, please delete some contacts in the contact list.">
+      <message>Broj kontakata koje ste pokušali dodati premašuje ograničenje. Kako biste mogli stvoriti nove kontakte, s popisa kontakata izbrišite neke od postojećih.</message>
+    </item>
+    <item id="Please specify a value between 1 and 65535.">
+      <message>Molimo navedite vrijednost između 1 i 65535.</message>
+    </item>
+    <item id="No port number has been entered. Please enter a valid port number.">
+      <message>Nije unešen broj porta. Molimo unesite važeći broj ulaza.</message>
+    </item>
+    <item id="PBX Name">
+      <message>PBX ime</message>
+    </item>
+    <item id="Add to My List">
+      <message>Dodaj u Moj popis</message>
+    </item>
+    <item id="Network Server">
+      <message>Mrežni poslužitelj</message>
+    </item>
+    <item id="Network Server Information">
+      <message>Podaci o mrežnom poslužitelju</message>
+    </item>
+    <item id="Current Status">
+      <message>Trenutni status</message>
+    </item>
+    <item id="S&amp;earch All">
+      <message>P&amp;retraži sve</message>
+    </item>
+    <item id="Items">
+      <message>Stavke</message>
+    </item>
+    <item id="My List">
+      <message>Moj popis</message>
+    </item>
+    <item id="S&amp;earch All">
+      <message>P&amp;retraži sve</message>
+    </item>
+    <item id="MPR version is not supported.">
+      <message>MPR verzija nije podržana.</message>
+    </item>
+    <item id="Operation failed.">
+      <message>Radnja nije uspjela.</message>
+    </item>
+    <item id="Pickup">
+      <message>Preuzimanje poziva</message>
+    </item>
+    <item id="C&amp;onference">
+      <message>K&amp;onferencija</message>
+    </item>
+    <item id="CRM Integration">
+      <message>CRM integracija</message>
+    </item>
+    <item id="Enable CRM Integration">
+      <message>Omogući CRM integraciju</message>
+    </item>
+    <item id="Select format:">
+      <message>Odaberi format:</message>
+    </item>
+    <item id="Select folder:">
+      <message>Odaberi mapu:</message>
+    </item>
+    <item id="Browse...">
+      <message>Traži…</message>
+    </item>
+    <item id="The output file path is empty. Please try again!">
+      <message>Putanja izlazne datoteke je prazna. Molimo pokušajte ponovno!</message>
+    </item>
+    <item id="Invalid output file path. Please try again!">
+      <message>Neodgovarajuća putanja izlazne datoteke. Molimo pokušajte ponovno!</message>
+    </item>
+    <item id="The output file path is not accessible. Please try again!">
+      <message>Putanja izlazne datoteke nije dostupna. Molimo pokušajte ponovno!</message>
+    </item>
+    <item id="The CRM Integration output file path set in Option is not accessible. \nThe CRM Integration might not work correctly.">
+      <message>Putanja izlazne datoteke za CRM integraciju koja je podešena u Opciji nije dostupna. \nCRM integracija neće moći raditi kako treba.</message>
+    </item>
+    <item id="&amp;Edit Conference Setting">
+      <message>&amp;Uredi konferencijsku postavku</message>
+    </item>
+    <item id="&amp;Copy contact list from">
+      <message>&amp;Kopiraj kontakt listu iz</message>
+    </item>
+    <item id="&amp;Save contact list to">
+      <message>&amp;Spremi popis kontakata u</message>
+    </item>
+    <item id="CSV file">
+      <message>CSV datoteka</message>
+    </item>
+    <item id="XML file">
+      <message>XML datoteka</message>
+    </item>
+    <item id="The result grid view encountered error. Please try again!">
+      <message>U prikazu mreže s rezultatima došlo je do pogreške. Molimo pokušajte ponovno!</message>
+    </item>
+    <item id="There are data changes without save.\nDo you want to close?">
+      <message>Promjene podataka nisu spremljene.\nJeste li sigurni da želite zatvoriti?</message>
+    </item>
+    <item id="row">
+      <message>redak</message>
+    </item>
+    <item id="column">
+      <message>stupac</message>
+    </item>
+    <item id="Input validation error">
+      <message>Pogreška potvrde unosa</message>
+    </item>
+    <item id="Maximum input length reached">
+      <message>Dosegnuta je maksimalna duljina unosa</message>
+    </item>
+    <item id="The selected items contain contact(s) displayed with [ ], the contact(s) will not be removed.">
+      <message>Odabrane stavke sadrže kontakt(e) koji su prikazani s [ ], kontakt(i) neće biti uklonjen(i).</message>
+    </item>
+    <item id="Searching for contacts...">
+      <message>Pretraživanje kontakata u tijeku…</message>
+    </item>
+    <item id="Error while searching for LDAP result.">
+      <message>Pogreška pri pretraživanju LDAP rezultata.</message>
+    </item>
+    <item id="&amp;Extension Lock/Unlock">
+      <message>&amp;Kućni broj zaključaj/otključaj</message>
+    </item>
+    <item id="Number of LDAP search result exceeds the limit. Only first 100 result entries displayed.">
+      <message>Broj pronađenih rezultata LDAP pretraživanja prelazi granicu. Prikazat će se samo prvih 100 rezultata.</message>
+    </item>
+    <item id="Connection to LDAP Server failed.">
+      <message>Povezivanje na LDAP poslužitelj nije uspjelo.</message>
+    </item>
+    <item id="This character cannot be assigned. (For Operator Console only)">
+      <message>Ovaj znak ne može se dodijeliti. (Samo za Operator Console)</message>
+    </item>
+    <item id="Personal contact data will not be assured if you connect to different Server/PBX from previous login.\nPlease check the data again.">
+      <message>Osobni podaci za kontakt neće biti osigurani ako se povežete s poslužiteljem/PBX koji se razlikuje od prijašnje prijave.\nProvjerite još jednom podatke.</message>
+    </item>
+    <item id="Add to">
+      <message>Dodaj na</message>
+    </item>
+    <item id="Conference Group Setting">
+      <message>Podešavanje konferencijske grupe</message>
+    </item>
+    <item id="Save Group">
+      <message>Spremi grupu</message>
+    </item>
+    <item id="Delete Group">
+      <message>Izbriši grupu</message>
+    </item>
+    <item id="Delete Member">
+      <message>Izbriši člana</message>
+    </item>
+    <item id="Enable (without new contact window popup)">
+      <message>Omogući (bez skočnog prozora za novi kontakt)</message>
+    </item>
+    <item id="Enable (with new contact window popup)">
+      <message>Omogući (sa skočnim prozora za novi kontakt)</message>
+    </item>
+    <item id="Redirect the incoming call">
+      <message>Preusmjeravanje dolaznog poziva</message>
+    </item>
+    <item id="Remove the first \&quot;1\&quot; when caller ID is 11 digits">
+      <message>Ukloni prvu znamenku \"1\" kad ID pozivatelja ima 11 znamenki</message>
+    </item>
+    <item id="Disconnected">
+      <message>Isključeno</message>
+    </item>
+    <item id="Network Connected">
+      <message>Mreža je spojena.</message>
+    </item>
+    <item id="Delete these contacts">
+      <message>Izbriši ove kontakte</message>
+    </item>
+    <item id="Port">
+      <message>Port</message>
+    </item>
+    <item id="Automatic contact name update for Hotel">
+      <message>Automatsko ažuriranje kontakt imena za Hotel</message>
+    </item>
+    <item id="Note">
+      <message>Bilješka</message>
+    </item>
+    <item id="The operation will delete selected contacts">
+      <message>Ova radnja će izbrisati odabrane kontakte</message>
+    </item>
+    <item id="Network Note">
+      <message>Morate ponovno pokrenuti Komunikacijski asistent da bi nove postavke proradile. </message>
+    </item>
+    <item id="Allow Join">
+      <message>Dopusti pridruživanje</message>
+    </item>
+    <item id="UM Personal Greeting Number">
+      <message>UM broj osobnog pozdrava</message>
+    </item>
+    <item id="Change">
+      <message>Promijeni</message>
+    </item>
+    <item id="None">
+      <message>Ništa</message>
+    </item>
+    <item id="Schedule Keyword">
+      <message>Ključna riječ rasporeda</message>
+    </item>
+    <item id="Function List Name">
+      <message>Naziv popisa funkcija</message>
+    </item>
+    <item id="Keyword Mapping Setting">
+      <message>Postavke mapiranja ključne riječi</message>
+    </item>
+    <item id="Call Control Window pop-up for CA">
+      <message>Pop up prozor Kontrola poziva za CA</message>
+    </item>
+    <item id="TVA/TVM">
+      <message>TVM/TVA</message>
+    </item>
+    <item id="UM">
+      <message>UM</message>
+    </item>
+    <item id="IP Address">
+      <message>IP Adresa</message>
+    </item>
+    <item id="Mailbox">
+      <message>Poštanski pretinac</message>
+    </item>
+    <item id="WebMC URL">
+      <message>WebMC URL</message>
+    </item>
+    <item id="Automatically close playback window by Timer">
+      <message>Automatski zatvori prozor za reprodukciju pomoću Timera</message>
+    </item>
+    <item id="seconds">
+      <message>sekundi</message>
+    </item>
+    <item id="Limitless">
+      <message>Neograničeno</message>
+    </item>
+    <item id="Please enter valid presence tile width value from 150 to 1500.">
+      <message>Molimo unesite važeću karticu za prisutnost koja ima vrijednost of 150 do 1500.</message>
+    </item>
+    <item id="Maximum 40 schedule keywords are registered. \nPlease delete existing schedule keyword to add a new schedule keyword.">
+      <message>Registrirano je maksimalno 40 ključnih riječi rasporeda. \nMolimo izbrišite postojeću ključnu riječ rasporeda da biste dodali novu.</message>
+    </item>
+    <item id="Third Party CRM Integration">
+      <message>CRM integracija treće strane</message>
+    </item>
+    <item id="MS Exchange Integration">
+      <message>MS Exchange integracija</message>
+    </item>
+    <item id="Enable Exchange Schedule Integration">
+      <message>Uključi integraciju Exchange rasporeda</message>
+    </item>
+    <item id="Exchange User Account">
+      <message>Exchange korisnički račun (abc@xyz)</message>
+    </item>
+    <item id="Outlook Integration">
+      <message>Outlook integracija</message>
+    </item>
+    <item id="Presence Tile Width">
+      <message>Širina kartice za pristunost</message>
+    </item>
+    <item id="Enable Call Information File">
+      <message>Omogući datoteku Informacija o pozivu </message>
+    </item>
+    <item id="Call Information File">
+      <message>Datoteka Informacija o pozivu</message>
+    </item>
+    <item id="The exchange user account has exceeded the maximum byte length.">
+      <message>exchange korisnički račun je premašio maksimalnu dužinu bitova.  </message>
+    </item>
+    <item id="Failed to connect to iLink middleware. \nPlease check the iLink middleware and CRM connection. \nRelogin CA to connect to iLink middleware.">
+      <message>Povezivanje s iLink middlewarem nije uspjelo. \nMolimo provjerite iLink middleware i CRM vezu \nPonovo se prijavite u CA da biste se spojili na iLink middleware.</message>
+    </item>
+    <item id="Connection to iLink middleware is lost. \nThird Party CRM Integration will no longer work.">
+      <message>Veza s iLink middlewareom je prekinuta. \nIntegracija CRM-a treće strane neće raditi.</message>
+    </item>
+    <item id="ACD Report">
+      <message>ACD izvješće</message>
+    </item>
+    <item id="&amp;Call from Clipboard">
+      <message>&amp;Poziv iz privremene memo.</message>
+    </item>
+    <item id="Call from Clipboard">
+      <message>Poziv iz privremene memo.</message>
+    </item>
+    <item id="Phone  Number">
+      <message>Telefonski broj.</message>
+    </item>
+    <item id="Phone Number:">
+      <message>Telefonski broj. :</message>
+    </item>
+    <item id="Phone(Office) : ">
+      <message>Telefon (Ured) :</message>
+    </item>
+    <item id="Phone(Mobile) : ">
+      <message>Telefon (Mobilni) :</message>
+    </item>
+    <item id="Phone(Home) : ">
+      <message>Telefon (Privatni) :</message>
+    </item>
+    <item id="Custom Phone Number ">
+      <message>Custom telefonski broj </message>
+    </item>
+    <item id="Custom Phone Number">
+      <message>Custom telefonski broj </message>
+    </item>
+    <item id="At Extension ...">
+      <message>Na Extension ...</message>
+    </item>
+    <item id="Back at ...">
+      <message>Povratak na ...</message>
+    </item>
+    <item id="Out until ...">
+      <message>Od do ...</message>
+    </item>
+    <item id="User Custom">
+      <message>Korisnik Custom</message>
+    </item>
+    <item id="Cannot login. Cause is one of followings.\n- Extension number is incorrect.\n- Password is incorrect or expired.\n- CA operator console is not selected.\n- CA is disabled for this extension.\n- Login capacity is exceeded.\n- Required AK is not installed in PBX.">
+      <message>Ne možete se prijaviti. Uzrok je jedan od sljedećih.\n   - Broj ekstenzije nije točan.\n  - Lozinka je netočna ili je istekla.\n - CA je nevažeći za ovu ekstenziju.\n  - Premašen je kapacitet prijave\n  - Potrebni aktivacijski ključ nije instaliran na PBX. </message>
+    </item>
+    <item id="White">
+      <message>Bijela</message>
+    </item>
+    <item id="Black">
+      <message>Crno</message>
+    </item>
+    <item id="ICD">
+      <message>ICD</message>
+    </item>
+    <item id="\&quot;Conference Setting\&quot; menu is not available temporarily.\nPlease ask your PBX administrator.">
+      <message>Izbornik \"Namještanje kućnog broja\" trenutno nije dostupan. \nObratite se PBX administratoru.</message>
+    </item>
+    <item id="Minimise">
+      <message>Umanjiti</message>
+    </item>
+    <item id="Maximise">
+      <message>Povećati</message>
+    </item>
+    <item id="Restore">
+      <message>Vratiti</message>
+    </item>
+    <item id="Close">
+      <message>Zatvori</message>
+    </item>
+  </category>
+</language>

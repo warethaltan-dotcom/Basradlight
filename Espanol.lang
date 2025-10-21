@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Language>Espanol</Language> 
+  <Control>
+    <CLogin>Voice Mail Assistant</CLogin>
+    <lblIPAdd>Dirección del SPV</lblIPAdd>
+    <lblMailboxNum>Número de buzón</lblMailboxNum>
+    <lblPwd>Contraseña del buzón</lblPwd>
+    <chkLogin>Inicio automático</chkLogin>
+    <btnLogin>&amp;Registro</btnLogin>
+    <btnQuit>&amp;Salir</btnQuit>
+    <CVMA>Voice Mail Assistant (ver.1.0.31.1)</CVMA>
+    <lblPlaySpeed>Velocidad de reproducción</lblPlaySpeed>
+    <btnCallback>Devolver la &amp;llamada</btnCallback>
+    <btnEmail>Transferencia a correo &amp;electrónico</btnEmail>
+    <btnDelete>Borra&amp;do</btnDelete>
+    <btnMoreAction>&amp;Más acciones</btnMoreAction>
+    <btnFindNext>&amp;Siguiente</btnFindNext>
+    <btnHangUp>&amp;Colgar</btnHangUp>
+    <linkMoreMenu>&amp;Más acciones</linkMoreMenu>
+    <tabRecv>Recibido</tabRecv>
+    <tabDel>Borrado</tabDel>
+    <ColName>Nombre del llamante</ColName>
+    <ColID>Número de teléfono</ColID>
+    <ColRecvDate>Recepción</ColRecvDate>
+    <ColLength>Longitud</ColLength>
+    <ColRetDate>Retención</ColRetDate>
+    <ColMode>Modo</ColMode>
+    <playToolStripMenuItem>Reproducir</playToolStripMenuItem>
+    <markAsReadToolStripMenuItem>Marcar como &amp;leído</markAsReadToolStripMenuItem>
+    <markAsUnreadToolStripMenuItem>Marcar como &amp;no leído</markAsUnreadToolStripMenuItem>
+    <moveToReceivedFolderToolStripMenuItem>Mover a "Recibi&amp;dos"</moveToReceivedFolderToolStripMenuItem>
+    <moveToDeletedFolderToolStripMenuItem>Mover a "&amp;Borrados"</moveToDeletedFolderToolStripMenuItem>
+    <deleteToolStripMenuItem>Borra&amp;do</deleteToolStripMenuItem>
+    <emailTransferToolStripMenuItem>Transferencia a correo &amp;electrónico</emailTransferToolStripMenuItem>
+    <exportMessageToolStripMenuItem>&amp;Guardar mensaje en el PC</exportMessageToolStripMenuItem>
+    <callbackToolStripMenuItem>Devolver la &amp;llamada</callbackToolStripMenuItem>
+    <menuMarkRead>Marcar como &amp;leído</menuMarkRead>
+    <menuMarkUnread>Marcar como &amp;no leído</menuMarkUnread>
+    <menuMoveToRecv>Mover a "Recibi&amp;dos"</menuMoveToRecv>
+    <menuMoveToDel>Mover a "&amp;Borrados"</menuMoveToDel>
+    <menuExport>&amp;Guardar mensaje en el PC</menuExport>
+    <menuOption>&amp;Opciones</menuOption>
+    <CTransferInfo>Información de transferencia</CTransferInfo>
+    <COption>Voice Mail Assistant</COption>
+    <Logon_and_Security>Inicio y seguridad</Logon_and_Security>
+    <Incomplete_Call_Handling>Gestión de llamadas incompletas</Incomplete_Call_Handling>
+    <Notification_Parameters>Parámetros de notificación</Notification_Parameters>
+    <Notification_Schedule>Horario de notificación</Notification_Schedule>
+    <Auto_Forwarding>Desvío automático</Auto_Forwarding>
+    <E-mail_Options>Opción de e-mail</E-mail_Options>
+    <Personal_Custom_Service>Servicio personalizado individual</Personal_Custom_Service>
+    <lblMbxNo>Número de buzón</lblMbxNo>
+    <grpPassword>Establecimiento de contraseña</grpPassword>
+    <lblNewPassword>Nueva contraseña (hasta 16 dígitos)</lblNewPassword>
+    <lblVerifyPassword>Verificar la contraseña (hasta 16 dígitos)</lblVerifyPassword>
+    <btnChangePassword>Cambiar &amp;contrasena</btnChangePassword>
+    <chkAutoLogin>Inicio automático</chkAutoLogin>
+    <grpLogoutTimer>Baja automática por tiempo</grpLogoutTimer>
+    <cmbLogoutTimer>30 seg.|1 min|3 min|5 min|10 min|30 min|Sin límite</cmbLogoutTimer>
+    <lblLogon>Puede proteger su buzon con una contraseña para evitar el acceso no autorizado a su buzón.\nSi su buzón tiene contraseña, debe introducirla usando las teclas del teléfono cuando acceda\na su buzón. La contraseña para el teléfono y para el Asistente del SPV son la misma.</lblLogon>
+    <tabNoAnswer>en caso de No contesta</tabNoAnswer>
+    <tabBusy>en caso de Ocupado</tabBusy>
+    <chkLeaveMessageA>Dejar un mensaje</chkLeaveMessageA>
+    <chkTransferExtA>Transferir a una extensión de cobertura</chkTransferExtA>
+    <chkPageOwnerA>Enviar megafonía al propietario del buzón a través de la megafonía interna</chkPageOwnerA>
+    <chkNotifyOwnerA>Notificación del propietario del buzón a través de un busca</chkNotifyOwnerA>
+    <chkTransferOperatorA>Transferir a operadora</chkTransferOperatorA>
+    <chkReturnTopA>Volver al menú principal</chkReturnTopA>
+    <chkTransferCustomA>Transferir al menú de servicio personalizado específico</chkTransferCustomA>
+    <lblServiceNoA>Transferir a un menú de servicios personalizados</lblServiceNoA>
+    <lblRangeA>(rango: 1-100)</lblRangeA>
+    <chkLeaveMessageB>Dejar un mensaje</chkLeaveMessageB>
+    <chkTransferExtB>Transferir a una extensión de cobertura</chkTransferExtB>
+    <chkPageOwnerB>Enviar megafonía al propietario del buzón a través de la megafonía interna</chkPageOwnerB>
+    <chkNotifyOwnerB>Notificación del propietario del buzón a través de un busca</chkNotifyOwnerB>
+    <chkTransferOperatorB>Transferir a operadora</chkTransferOperatorB>
+    <chkReturnTopB>Volver al menú principal</chkReturnTopB>
+    <chkTransferCustomB>Transferir al menú de servicio personalizado específico</chkTransferCustomB>
+    <lblServiceNoB>Transferir a un menú de servicios personalizados</lblServiceNoB>
+    <lblRangeB>(rango: 1-100)</lblRangeB>
+    <lblIncompleteCallHandling>Cuando una llamada se dirije a su extensión mediante el servicio de Asistente Automático, el\nmanejo de llamadas incompletas manejará las llamadas, en caso de que:\n   a) No conteste a la llamada (esa llamada será considerada como "sin respuesta").\n   b) Esté ocupado con otra llamada en curso. (esa llamada será considerada como\n      "ocupado".)</lblIncompleteCallHandling>
+    <grpWaitingLamp>Indicador de mensaje en espera</grpWaitingLamp>
+    <rdEnable>Activar</rdEnable>
+    <rdDisable>Desactivar</rdDisable>
+    <grpDeviceNotification>Notificación de dispositivos para los mensajes no recibidos</grpDeviceNotification>
+    <rdYes>Sí</rdYes>
+    <rdNo>No</rdNo>
+    <grpCallbackMode>Modo de entrada para el n° de retrollamada al busca</grpCallbackMode>
+    <cmbCallbackMode>Selección del llamante|Sin|Antes|Después|Desactivar</cmbCallbackMode>
+    <grpTimer>Temporizador de la notificación de dispositivos</grpTimer>
+    <lblStartDelay>Tiempo de retardo inicial del dispositivo (0-120 min)</lblStartDelay>
+    <lblInterval1>Tiempo del intervalo entre dispositivos, entre el Dispositivo1 y el dispositivo siguiente (0-120 min)</lblInterval1>
+    <lblInterval2>Tiempo del intervalo entre dispositivos, entre el Dispositivo2 y el dispositivo siguiente (0-120 min)</lblInterval2>
+    <lblInterval3>Tiempo del intervalo entre dispositivos, entre el Dispositivo3 y el dispositivo siguiente (0-120 min)</lblInterval3>
+    <lblNotificationParameters>La función de notificación de mensajes en espera le permite saber si ha recibido mensajes en su\nbuzón</lblNotificationParameters>
+    <tabDevice1>N° de dispositivo 1</tabDevice1>
+    <tabDevice2>N° de dispositivo 2</tabDevice2>
+    <tabDevice3>N° de dispositivo 3</tabDevice3>
+    <grpUseMode>Modo de uso</grpUseMode>
+    <rdNotUse>No usar</rdNotUse>
+    <rdContinuously>De forma continua</rdContinuously>
+    <rdScheduled>Programad</rdScheduled>
+    <grpNotificationType>Tipo de notificación</grpNotificationType>
+    <cmbNotificationType>Todos los mensajes|Sólo mensajes urgentes</cmbNotificationType>
+    <grpDeviceType>Tipo de dispositivo</grpDeviceType>
+    <cmbDeviceType>Teléfono|Busca</cmbDeviceType>
+    <lblDialNumber>Márque el número (hasta 32 carácteres: de 0 a 9,*,#,T,X)</lblDialNumber>
+    <lblRetries>N° de reintentos</lblRetries>
+    <lblBusyDelay>Tiempo retard ocup</lblBusyDelay>
+    <lblNoAnswerDelay>Tiem retar Sin res</lblNoAnswerDelay>
+    <tabScheduleSun>LUN</tabScheduleSun>
+    <tabScheduleMon>MAR</tabScheduleMon>
+    <tabScheduleTue>MIÉ</tabScheduleTue>
+    <tabScheduleWed>JUE</tabScheduleWed>
+    <tabScheduleThu>VIE</tabScheduleThu>
+    <tabScheduleFri>SÁB</tabScheduleFri>
+    <tabScheduleSat>DOM</tabScheduleSat>
+    <rdNone>Ninguno</rdNone>
+    <rdOne>Trama de tiempo 1</rdOne>
+    <rdBoth>Trama de tiempo 1 y 2</rdBoth>
+    <lblTimeFrame1>Trama de tiempo 1</lblTimeFrame1>
+    <lblStart1>Inic en:</lblStart1>
+    <lblEnd1>Fin en:</lblEnd1>
+    <lblTimeFrame2>Trama de tiempo 2</lblTimeFrame2>
+    <lblStart2>Inic en:</lblStart2>
+    <lblEnd2>Fin en:</lblEnd2>
+    <grpActive>Activo</grpActive>
+    <rdActiveYes>Sí</rdActiveYes>
+    <rdActiveNo>No</rdActiveNo>
+    <grpMbxNo>Número de buzón</grpMbxNo>
+    <grpDelayTime>Tiempo de retardo</grpDelayTime>
+    <lblDelayTime>(HH:MM / [00:05-99:59])</lblDelayTime>
+    <grpForwardingMode>Modo de desvío</grpForwardingMode>
+    <rdMove>Mover</rdMove>
+    <rdCopy>Copiar</rdCopy>
+    <lblAutoForwarding>Puede hacer que sus mensajes no reproducidos sean copiados o movidos automáticamente a\notro buzón después de un periodo de tiempo especificado.</lblAutoForwarding>
+    <grpSendEmail>Enviar e-mail con los mensajes nuevos</grpSendEmail>
+    <rdEmailEnable>Activar</rdEmailEnable>
+    <rdEmailDisable>Desactivar</rdEmailDisable>
+    <grpUsername>Nombre de usuario</grpUsername>
+    <lblUsername>(hasta 64 caracteres ASCII)</lblUsername>
+    <grpEmailAdd>Dirección de e-mail</grpEmailAdd>
+    <lblEmailAdd>(hasta 128 caracteres ASCII)</lblEmailAdd>
+    <grpAttachVoice>Adjuntar archivo de voz</grpAttachVoice>
+    <rdVoiceEnable>Activar</rdVoiceEnable>
+    <rdVoiceDisable>Desactivar</rdVoiceDisable>
+    <grpEmailSchedule>Calendario</grpEmailSchedule>
+    <tabEmailSun>LUN</tabEmailSun>
+    <tabEmailMon>MAR</tabEmailMon>
+    <tabEmailTue>MIÉ</tabEmailTue>
+    <tabEmailWed>JUE</tabEmailWed>
+    <tabEmailThu>VIE</tabEmailThu>
+    <tabEmailFri>SÁB</tabEmailFri>
+    <tabEmailSat>DOM</tabEmailSat>
+    <rdEmailNotUse>No usar</rdEmailNotUse>
+    <rdEmailAllDay>Todo el día</rdEmailAllDay>
+    <rdEmailScheduled>Programad</rdEmailScheduled>
+    <chkDelete>Enviar y eliminar</chkDelete>
+    <lblTimeFrame>Trama de tiempo</lblTimeFrame>
+    <lblStart>Inic en:</lblStart>
+    <lblEnd>Fin en:</lblEnd>
+    <chkReversal>Inverso</chkReversal>
+    <lblEmailOptions>Cuando reciba nuevos mensajes en su buzón, puede recibir una notificación de ello por\ncorreo electrónico.</lblEmailOptions>
+    <grpKeyAssignment>Asign teclas</grpKeyAssignment>
+    <lblKey>Tecla</lblKey>
+    <lblOperation>Operación asignada</lblOperation>
+    <lblValue>Valor</lblValue>
+    <cmbOpKey>Ninguno|Transferir a buzón específico|Transferir a extensión específica|Transferir a servicio de correo vocal|Transferir al servicio de operadora automática|Transferir al menú de servicio personalizado específico (1-100)|Transferir a operadora|Transferir a línea externa (número específico)|Enviar megafonía al interlocutor|Repetir el mensaje de bienvenida</cmbOpKey>
+    <cmbValKey>Número externo #1|Número externo #2|Número externo #3|Número externo #4</cmbValKey>
+    <lblNotes>Nota 1: Las siguientes teclas están asignadas y no pueden cambiarse [1], [2], [*]\nNota 2: Para usar esta función debe tener grabado un mensaje personal de\nbienvenida Véa el manual de usuario acerca de cómo grabar mensajes.</lblNotes>
+    <grpOutsideNumbers>Núm externos</grpOutsideNumbers>
+    <lblOutNo1>N° externo  #1 (hasta 32 caract / [0-9 * # T , ;])</lblOutNo1>
+    <lblOutNo2>N° externo  #2 (hasta 32 caract / [0-9 * # T , ;])</lblOutNo2>
+    <lblOutNo3>N° externo  #3 (hasta 32 caract / [0-9 * # T , ;])</lblOutNo3>
+    <lblOutNo4>N° externo  #4 (hasta 32 caract / [0-9 * # T , ;])</lblOutNo4>
+    <grpNoInput>Sin oper entrada tonos</grpNoInput>
+    <cmbNoInput>Grabación| Desconectar (Todo el día)| Desconectar (Sólo fuera de horas de oficina)</cmbNoInput>
+    <lblPersonalCustomService>Un servicio personalizado es un conjunto de opciones que puede presentar a sus llamantes,\npermitiendo que ellos accedan a ciertas funciones mediante el teclado del teléfono.</lblPersonalCustomService>
+    <btnOK>&amp;Correcto</btnOK>
+    <btnCancel>&amp;Cancelar</btnCancel>
+    <CProgressBar>Voice Mail Assistant</CProgressBar>
+    <CWaitDlg>Voice Mail Assistant</CWaitDlg>
+    <CMsgDlg>Voice Mail Assistant</CMsgDlg>
+    <lblMessage>Error desconocido</lblMessage>
+    <btnYes>&amp;Si</btnYes>
+    <btnNo>&amp;No</btnNo>
+    <minutes>min</minutes>
+  </Control>
+  <Message>
+    <EA10001>Estado de API no válido.</EA10001>
+    <EA10002>Error de intervalo de valores del parámetro.</EA10002>
+    <EA10003>Indicador de dirección no válido.</EA10003>
+    <EA10004>Error de estructura.</EA10004>
+    <EA10005>El buzón especificado no se encuentra</EA10005>
+    <EA10006>La extensión especificada no se encuentra</EA10006>
+    <EA20001>Error de recepción local.</EA20001>
+    <EA20002>Error de procesamiento múltiple.</EA20002>
+    <EA20003>Error de inicio de sesión.</EA20003>
+    <EA20004>Error de configuración de hora.</EA20004>
+    <EA20005>Error de almacenamiento interno.</EA20005>
+    <EA20006>Error de número de datos.</EA20006>
+    <EA20007>Error de estado de mensaje.</EA20007>
+    <EA20008>Error de tipo de mensaje.</EA20008>
+    <EA20009>Error de tipo de exportación de mensaje.</EA20009>
+    <EA20010>Error de secuencia de escritura de archivo Wav.</EA20010>
+    <EA20011>Error de acceso de archivo Wav.</EA20011>
+    <EA20012>Error de recuento de parámetros.</EA20012>
+    <EA20013>Exportación de archivo cancelada.</EA20013>
+    <EA21001>Se ha superado el tiempo máximo para el inicio de sesión.</EA21001>
+    <EA21002>Error en la identificación para el inicio de sesión.</EA21002>
+    <EA21011>Se ha superado el tiempo máximo para recibir la lectura de datos.</EA21011>
+    <EA21012>Error en la identificación para recibir la lectura de datos.</EA21012>
+    <EA21021>Se ha superado el tiempo máximo para obtener los datos de la lista de mensajes.</EA21021>
+    <EA21022>Error en la identificación para obtener los datos de la lista de mensajes.</EA21022>
+    <EA21031>Se ha superado el tiempo máximo para obtener el ID del mensaje.</EA21031>
+    <EA21032>Error en la identificación para obtener el ID del mensaje.</EA21032>
+    <EA21041>Se ha superado el tiempo máximo para cambiar el estado del mensaje.</EA21041>
+    <EA21042>Error en la identificación para cambiar el estado del mensaje.</EA21042>
+    <EA21051>Se ha superado el tiempo máximo para recibir la escritura de datos.</EA21051>
+    <EA21052>Error en la identificación para recibir la escritura de datos.</EA21052>
+    <EA21061>Se ha superado el tiempo máximo para reproducir el mensaje.</EA21061>
+    <EA21062>Error en la identificación para reproducir el mensaje.</EA21062>
+    <EA21071>Se ha superado el tiempo máximo para detener o hacer una pausa en el mensaje.</EA21071>
+    <EA21072>Error en la identificación para detener o hacer una pausa en el mensaje.</EA21072>
+    <EA21081>Se ha superado el tiempo máximo para avanzar el mensaje.</EA21081>
+    <EA21082>Error en la identificación para avanzar el mensaje.</EA21082>
+    <EA21091>Se ha superado el tiempo máximo para retroceder el mensaje.</EA21091>
+    <EA21092>Error en la identificación para retroceder el mensaje.</EA21092>
+    <EA21101>Se ha superado el tiempo máximo para configurar la velocidad de reproducción.</EA21101>
+    <EA21102>Error en la identificación para configurar la velocidad de reproducción.</EA21102>
+    <EA21111>Se ha superado el tiempo máximo para borrar el mensaje.</EA21111>
+    <EA21112>Error en la identificación para borrar el mensaje.</EA21112>
+    <EA21121>Se ha superado el tiempo máximo para obtener la autorización.</EA21121>
+    <EA21122>Error en la identificación para obtener la autorización.</EA21122>
+    <EA21131>Se ha superado el tiempo máximo de recepción de la disponibilidad del llamante.</EA21131>
+    <EA21132>Error en la identificación de recepción de la disponibilidad del llamante.</EA21132>
+    <EA21141>Se ha superado el tiempo máximo de recepción del llamante.</EA21141>
+    <EA21142>Error en la identificación de recepción del llamante.</EA21142>
+    <EA21151>Se ha superado el tiempo máximo para exportar el mensaje.</EA21151>
+    <EA21152>Error en la identificación de recepción para exportar el mensaje.</EA21152>
+    <EA30001>Error de conexión a LAN</EA30001>
+    <EA30002>Error de transmisión de LAN.</EA30002>
+    <EA30003>Error de recepción de LAN.</EA30003>
+    <EA30004>Error de tiempo de espera de recepción de LAN.</EA30004>
+    <EA30005>Error de sin conexión a LAN.</EA30005>
+    <EA30006>Desconexión de LAN.</EA30006>
+    <EAFFFFF>Error de desconexión física.</EAFFFFF>
+    <W000001>Su buzón está casi lleno.\n Por favor, borre sus mensajes innecesarios.</W000001>
+    <W000002>Está seguro de querer borrar los mensajes seleccionados?</W000002>
+    <W000003>Quiere guardar los cambios?</W000003>
+    <W000004>Está seguro de querer darse de baja?</W000004>
+    <E003009>Error en el registro. No hay líneas libres</E003009>
+    <E003029>Error en el registro. No caben más usuarios</E003029>
+    <E003001>Error en el registro. El buzón especificado no se encuentra.</E003001>
+    <E003026>Error en el registro. El acceso mediante el gestor de mensajes no está permitido.</E003026>
+    <E003005>Error en el registro. El buzón está bloqueado porque se ha superado el número máximo de intentos fallidos de entrada de contraseña.</E003005>
+    <E003004>Error en el registro. La contraseña es errónea.</E003004>
+    <E003003>Error en el registro. El registro no está permitido puesto que ya hay otro usuario manejando ese buzón.</E003003>
+    <E003006>Error en el registro. No se ha completado el tutorial de acceso.</E003006>
+    <E11B00E>Error en la recuperación de la lista de mensajes.\nMessage ID type is out of value range.</E11B00E>
+    <E11B00F>Error en la recuperación de la lista de mensajes.\nNo se ha encontrado el tipo de mensaje especificado.</E11B00F>
+    <E10000E>Error en la recuperación de la lista de mensajes.\nEl tipo de la lista de mensajes está fuera del intervalo de valor.</E10000E>
+    <E10000F>Error en la recuperación de la lista de mensajes.\nNo hay mensajes en la lista especificada.</E10000F>
+    <E11800E>Error al cambiar el estado del mensaje.\nEl parámetro está fuera del intervalo de valor. No se ha encontrado el ID especificado.</E11800E>
+    <E10200E>Error en la reproducción.\nNo se ha encontrado el ID del mensaje especificado.</E10200E>
+    <E10200A>Error en la reproducción.\nEl mensaje especificado no tiene mensajes reproducibles, o la solicitud no se ha registrado.</E10200A>
+    <E11700E>Error en el cambio de velocidad del mensaje.n\La velocidad de reproducción especificada está fuera del intervalo de valor.</E11700E>
+    <E11900E>Error al borrar el mensaje.\nNo se ha encontrado el ID del mensaje especificado.</E11900E>
+    <E10100E>Error al obtener el mensaje.n\No se ha encontrado el ID del mensaje especificado.</E10100E>
+    <E10100A>Error al obtener el mensaje.\nEl mensaje especificado no tiene mensajes reproducibles, o la solicitud no se ha registrado.</E10100A>
+    <E101029>Error al obtener el mensaje.\nEl número de clientes que envían y reciben archivos WAV ha alcanzado el valor especificado por lo que las funciones de envío y recepción de archivos WAV no están disponibles.</E101029>
+    <E30500E>No se ha encontrado el ID del mensaje especificado.</E30500E>
+    <E30400E>Llamada fallida al llamante.\nEl ID del mensaje especificado no se ha encontrado, o el número de teléfono no se ha utilizado.</E30400E>
+    <E30400C>Llamada fallida al llamante. No hay líneas libres</E30400C>
+    <E30400B>Llamada fallida al llamante. No hbay respuesa en el tiempo especificado (puede deberse a tiempos de "sin respuesta" cortos de la central o del SPV)</E30400B>
+    <E20000E>Error en la recuperación de datos.\nEl número de la tabla de datos está fuera del intervalo de valor especificado.</E20000E>
+    <E20200E>Error en la configuración de datos.\nEl número de la tabla de datos está fuera del rango de valor especificado.</E20200E>
+    <E202010>Error en la configuración de datos.\nEl valor (datos de buzón, etc) está fuera del intervalo especificado.\nEl límite de la variable del miembro que ha producido un error está ajustado en ERROR_CODE.wErrorDetail.</E202010>
+    <E20201B>Error en la configuración de datos.\nLa relevancia entre los datos es incorrecta.</E20201B>
+    <E406004>Error al borrar el mensaje.\nLa contraseña del Administrador no es válida.</E406004>
+    <E406023>Error al borrar el mensaje.\nNo se puede iniciar sesión porque se está utilizando la autorización del Administrador del sistema.</E406023>
+    <E406001>Error al borrar el mensaje.\nNo se encuentra el número de buzón especificado.</E406001>
+    <E406003>Error al borrar el mensaje.\nEl buzón especificado no puede borrarse porque se está utilizando por otro usuario o por el sistema.</E406003>
+    <E40600E>Error al borrar el mensaje.\nEl tipo de borrado especificado está fuera del intervalo de valores.</E40600E>
+    <E000007>Error grave.</E000007>
+    <E000008>El comando especificado no está definido.</E000008>
+    <G003001>Error en el registro. Dirección inválida</G003001>
+    <G003002>Error en el registro. Número de buzón inválido</G003002>
+    <G003003>Error en el registro. Contraseña inválida</G003003>
+    <G202001>La contraseña es demasiado corta.</G202001>
+    <G202002>Error en la verficación de la contraseña. Repita la introducción de la contraseña.</G202002>
+    <G101001>El cliente de correo electrónico por defecto no se ha encontrado.</G101001>
+    <G000004>El idioma especificado no es compatible.</G000004>
+    <G000005>Error en la configuración de escritura del sistema.</G000005>
+    <G000006>Error en la conexión de llamada. Se ha superado el tiempo máximo.</G000006>
+    <G000007>Llamada desconectada.\nVMA se desconectará.</G000007>
+    <G000008>No se ha recibido una respuesta al registro de entrada.\nEl cliente VMA se desconectará.</G000008>
+    <G000009>Se ha detectado una desconexión anómala.\nEl cliente VMA se desconectará.</G000009>
+    <G000011>Llamada fallida al llamante. No hay número de llamante.</G000011>
+    <GA00001>PARAM0 no es una entrada válida. Especifique un valor entre PARAM1 y PARAM2.</GA00001>
+    <I304001>Devolviendo la llamada al llamante ...</I304001>
+    <I202001>La contraseña se ha cambiado satisfactoriamente. Use esta nueva contrasela la próxima vez.</I202001>
+    <I000001>Por favor, espere.</I000001>
+    <I000003>No se ha detectado ninguna operación en el intervalo determinado.\nEl cliente VMA se desconectará.</I000003>
+    <IA00001>Transfiriendo el mensaje PARAM0 de PARAM1...</IA00001>
+    <E502010>La contraseña introducida es demasiado corta.</E502010>
+    <E2B201B>El número de buzón de transferencia del servicio personalizado individual no existe.</E2B201B>
+    <E29201B>El número de buzón de desvío automático no existe.</E29201B>
+  </Message>
+  <ToolTip>
+    <btnCallback>Devolver la llamada</btnCallback>
+    <btnEmail>Transferencia a correo electrónico</btnEmail>
+    <btnDelete>Borra&amp;do</btnDelete>
+    <btnMoreAction>Más acciones</btnMoreAction>
+    <btnFindNext>Siguiente</btnFindNext>
+    <btnHangUp>Colgar</btnHangUp>
+    <linkMoreMenu>Más acciones</linkMoreMenu>
+    <btnPlay>Reproducir</btnPlay>
+    <btnPause>Pausa</btnPause>
+    <btnStop>Parada</btnStop>
+    <btnRewind>Retroceso</btnRewind>
+    <btnForward>Avence</btnForward>
+    <status2>Urgente</status2>
+    <status3>Privado</status3>
+    <status4>Privado y urgente</status4>
+    <status5>Leído</status5>
+    <status6>No leído</status6>
+    <status7>Leído y transferido</status7>
+    <status8>No leído y transferido</status8>
+    <status9>Leído, transferido y comentado</status9>
+    <status10>No leído, transferido y comentado</status10>
+  </ToolTip>
+  <MsgList>
+    <mode00>Grabación de conversaciones</mode00>
+    <mode10>Grabación de conversaciones en buzón ajeno</mode10>
+    <mode20>Transferido</mode20>
+    <mode30>Entrevista</mode30>
+    <mode40>Multidifusión</mode40>
+    <mode50>Recibido</mode50>
+    <modeF0>Normal</modeF0>
+    <comment>Comentario</comment>
+    <mbx>Buzón</mbx>
+    <mbxDel>Buzón borrado</mbxDel>
+    <nonSub>No usuario</nonSub>
+  </MsgList>
+</Root>

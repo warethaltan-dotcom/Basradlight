@@ -1,0 +1,3358 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <descriptor>
+    <name>Hungarian</name>
+    <description>Hungarian</description>
+    <doc_ver>1.0.0</doc_ver>
+    <schema_ver>1.0.0</schema_ver>
+  </descriptor>
+  <category id="CIPTextBox">
+    <item id="IP">
+      <message>IP</message>
+    </item>
+    <item id="Please specify a value between 1 and 223">
+      <message>Kérjük, adjon meg egy 1 és 223 közötti értéket</message>
+    </item>
+    <item id="Please specify a value between 0 and 255">
+      <message>Kérjük, adjon meg egy 0 és 225 közötti értéket</message>
+    </item>
+  </category>
+  <category id="CMainForm">
+    <item id="Communication Assistant">
+      <message>Kommunikációs asszisztens</message>
+    </item>
+  </category>
+  <category id="MailerInterface">
+    <item id="Failed to start Mail Client. Please try again.">
+      <message>A levelező kliens indítása nem sikerült. Kérjük, próbálja meg újra.</message>
+    </item>
+  </category>
+  <category id="CMessageBox">
+    <item id="Communication Assistant">
+      <message>Kommunikációs asszisztens</message>
+    </item>
+    <item id="&amp;Ok">
+      <message>&amp;OK</message>
+    </item>
+    <item id="&amp;Cancel">
+      <message>&amp;Mégsem</message>
+    </item>
+    <item id="&amp;Yes">
+      <message>&amp;Igen</message>
+    </item>
+    <item id="&amp;No">
+      <message>&amp;Nem</message>
+    </item>
+  </category>
+  <category id="CConstant">
+    <item id="Paging in progress">
+      <message>Személyker. foly-ban</message>
+    </item>
+    <item id="Paging busy">
+      <message>Személyker. foglalt</message>
+    </item>
+    <item id="Please make a call with the main window.">
+      <message>Kérjük, hívjon a fő ablakból.</message>
+    </item>
+    <item id="Do not show this again.">
+      <message>Ez ne jelenjen meg többé.</message>
+    </item>
+    <item id="Available">
+      <message>Elérhető</message>
+    </item>
+    <item id="Urgent Only">
+      <message>Sürgősség esetén</message>
+    </item>
+    <item id="Will Return Soon">
+      <message>Rögtön jövök</message>
+    </item>
+    <item id="In a meeting">
+      <message>Tárgyalok</message>
+    </item>
+    <item id="Not At My Desk">
+      <message>Házon kívül</message>
+    </item>
+    <item id="Gone Home">
+      <message>Hazamentem</message>
+    </item>
+    <item id="Do you want to close CA?">
+      <message>Bezárja a CA programot?</message>
+    </item>
+    <item id="Communication Assistant">
+      <message>Kommunikációs asszisztens</message>
+    </item>
+    <item id="&amp;OK">
+      <message>&amp;OK</message>
+    </item>
+    <item id="&amp;Cancel">
+      <message>&amp;Mégsem</message>
+    </item>
+    <item id="&amp;Yes">
+      <message>&amp;Igen</message>
+    </item>
+    <item id="&amp;No">
+      <message>&amp;Nem</message>
+    </item>
+    <item id="&amp;Delete">
+      <message>&amp;Törlés</message>
+    </item>
+    <item id="&amp;Close">
+      <message>&amp;Bezár</message>
+    </item>
+    <item id="General">
+      <message>Általános</message>
+    </item>
+    <item id="Contact">
+      <message>Kapcsolatfelvétel</message>
+    </item>
+    <item id="Company">
+      <message>Cég</message>
+    </item>
+    <item id="Popup">
+      <message>Előugró</message>
+    </item>
+    <item id="Contact Name:">
+      <message>Kapcsolat neve:</message>
+    </item>
+    <item id="E-mail:">
+      <message>E-mail:</message>
+    </item>
+    <item id="Phone (Office):">
+      <message>Telefon (Munkahelyi):</message>
+    </item>
+    <item id="Phone (Mobile):">
+      <message>Telefon (Mobil):</message>
+    </item>
+    <item id="Phone (Home):">
+      <message>Telefon (Otthoni):</message>
+    </item>
+    <item id="Company Name:">
+      <message>Cégnév:</message>
+    </item>
+    <item id="Department:">
+      <message>Osztály:</message>
+    </item>
+    <item id="Section:">
+      <message>Részleg:</message>
+    </item>
+    <item id="Address:">
+      <message>Cím:</message>
+    </item>
+    <item id="Postal Code:">
+      <message>Irányítószám:</message>
+    </item>
+    <item id="Fax:">
+      <message>Fax:</message>
+    </item>
+    <item id="1st URL:">
+      <message>1. URL:</message>
+    </item>
+    <item id="2nd URL:">
+      <message>2. URL:</message>
+    </item>
+    <item id="3rd URL:">
+      <message>3. URL:</message>
+    </item>
+    <item id="Memo:">
+      <message>Megjegyzés:</message>
+    </item>
+    <item id="Profile">
+      <message>Profil:</message>
+    </item>
+    <item id="Last Name:">
+      <message>Vezetéknév:</message>
+    </item>
+    <item id="First Name:">
+      <message>Utónév:</message>
+    </item>
+    <item id="Type:">
+      <message>Típus:</message>
+    </item>
+    <item id="Phone">
+      <message>Telefon</message>
+    </item>
+    <item id="Door">
+      <message>Ajtó</message>
+    </item>
+    <item id="Sensor">
+      <message>Szenzor</message>
+    </item>
+    <item id="Door:">
+      <message>Ajtó:</message>
+    </item>
+    <item id="Sensor:">
+      <message>Szenzor:</message>
+    </item>
+    <item id="Image File">
+      <message>Képfájl</message>
+    </item>
+    <item id="Ring File">
+      <message>Csengőhang fájl</message>
+    </item>
+    <item id="URL">
+      <message>URL</message>
+    </item>
+    <item id="1st URL for Network Camera \n(Automatic pop-up for call/Automatic close after call)">
+      <message>1. URL hálózati kamerához \n(Automatikus előugrás híváshoz/Automatikus bezárás hívás után)</message>
+    </item>
+    <item id="2nd URL for Database \n(Automatic pop-up for phone call)">
+      <message>2. URL adatbázishoz \n(Automatikus előugrás telefonhíváshoz)</message>
+    </item>
+    <item id="3rd URL for Database (Access from main menu)">
+      <message>3. URL adatbázishoz (Elérés a főmenüből)</message>
+    </item>
+    <item id="Browse">
+      <message>Böngész</message>
+    </item>
+    <item id="Image file not found">
+      <message>Képfájl nem található</message>
+    </item>
+    <item id="Please enter the Contact Name">
+      <message>Kérjük, adja meg a kapcsolat nevét</message>
+    </item>
+    <item id="Contact Name too long. \n Please enter a shorter name.">
+      <message>A kapcsolat név túl hosszú. \n Kérjük, adjon meg rövidebb nevet.</message>
+    </item>
+    <item id="Contact Name not valid.\nMake sure the contact name does not contain any Chinese and Japanese characters.">
+      <message>A kapcsolat név nem érvényes.\n Ellenőrizze, hogy a kapcsolat név nem tartalmaz kínai vagy japán karaktereket.</message>
+    </item>
+    <item id="Please enter the Phone Number.">
+      <message>Kérjük, adja meg a telefonszámot.</message>
+    </item>
+    <item id="Please enter the Doorphone Number">
+      <message>Kérjük, adja meg a kaputelefon számot.</message>
+    </item>
+    <item id="Please enter the Sensor Number">
+      <message>Kérjük, adja meg a szenzor számot.</message>
+    </item>
+    <item id="Please enter the Image Path">
+      <message>Kérjük, adja meg a kép elérési útját</message>
+    </item>
+    <item id="Please enter the Sound Path">
+      <message>Kérjük, adja meg a hang elérési útját</message>
+    </item>
+    <item id="The image file path is not valid, CA is unable to load the image file.">
+      <message>A képfájl elérési útja érvénytelen, a CA nem tudja betölteni a képfájlt.</message>
+    </item>
+    <item id="The sound file path is not valid, CA is unable to play the sound file.">
+      <message>A hang elérési útja érvénytelen, a CA nem tudja betölteni a hangfájlt.</message>
+    </item>
+    <item id="The path will not be saved.">
+      <message>Az elérési út nem lesz mentve.</message>
+    </item>
+    <item id="The file path is too long, it should be less than or equal to 256 characters.\n Please enter a shorter path.">
+      <message>Az elérési út túl hosszú, legfeljebb 256 karakteres lehet. \n Kérjük, adjon meg rövidebb elérési utat.</message>
+    </item>
+    <item id="Unable to play the sound file. Maybe the file is invalid or there is a problem in your PC sound device.">
+      <message>Nem lehet lejátszani a hangfájlt. Lehet, hogy a hangfájl érvénytelen, vagy probléma van a PC hangeszközével.</message>
+    </item>
+    <item id="Image Files">
+      <message>Képfájlok</message>
+    </item>
+    <item id="Media Files">
+      <message>Média fájlok</message>
+    </item>
+    <item id="All Files">
+      <message>Minden fájl</message>
+    </item>
+    <item id="Open">
+      <message>Megnyitás</message>
+    </item>
+    <item id="Unable to load the database. CA Application had to be closed.">
+      <message>Nem lehet betöltetni az adatbázist. A CA alkalmazást be kellett zárni.</message>
+    </item>
+    <item id="CA Application">
+      <message>CA alkalmazás</message>
+    </item>
+    <item id="Connection to database failed">
+      <message>Nem sikerült a kapcsolódás az adatbázishoz</message>
+    </item>
+    <item id="History">
+      <message>Előzmények</message>
+    </item>
+    <item id="Contact &amp;List">
+      <message>&amp;Kapcsolatlista</message>
+    </item>
+    <item id="S&amp;peed Dial">
+      <message>&amp;Gyorstárcsázás</message>
+    </item>
+    <item id="&amp;Save to CSV">
+      <message>&amp;Mentés a CSV-be</message>
+    </item>
+    <item id="&amp;Memo Open">
+      <message>&amp;Megjegyzés megnyitás</message>
+    </item>
+    <item id="&amp;Call">
+      <message>&amp;Hívás</message>
+    </item>
+    <item id="Speed Dial">
+      <message>Gyorstárcsázás</message>
+    </item>
+    <item id="Show:">
+      <message>Megjelenítés:</message>
+    </item>
+    <item id="Search">
+      <message>Keresés</message>
+    </item>
+    <item id="Search In:">
+      <message>Keresés:</message>
+    </item>
+    <item id="Name">
+      <message>Név</message>
+    </item>
+    <item id="Phone Number">
+      <message>Telefonszám</message>
+    </item>
+    <item id="Type">
+      <message>Típus</message>
+    </item>
+    <item id="Start Time">
+      <message>Indítási időpont</message>
+    </item>
+    <item id="Disconnect Time">
+      <message>Bontási időpont</message>
+    </item>
+    <item id="Duration">
+      <message>Időtartam</message>
+    </item>
+    <item id="Ring">
+      <message>Csengetés</message>
+    </item>
+    <item id="Call Condition">
+      <message>Hívásállapot</message>
+    </item>
+    <item id="Call For">
+      <message>Hívás</message>
+    </item>
+    <item id="Memo">
+      <message>Megjegyzés</message>
+    </item>
+    <item id="Trunk Group Number">
+      <message>Trönkcsoport szám</message>
+    </item>
+    <item id="Intercom">
+      <message>Belső hívás</message>
+    </item>
+    <item id="Outside">
+      <message>Külső</message>
+    </item>
+    <item id="Blank">
+      <message>Üres</message>
+    </item>
+    <item id="Transfer">
+      <message>Átadás</message>
+    </item>
+    <item id="Park">
+      <message>Parkolás</message>
+    </item>
+    <item id="No Answer">
+      <message>Nem jelentkezik</message>
+    </item>
+    <item id="Import File">
+      <message>Fájl importálás</message>
+    </item>
+    <item id="Export File">
+      <message>Fájl exportálás</message>
+    </item>
+    <item id="Save As">
+      <message>Mentés másként</message>
+    </item>
+    <item id="min">
+      <message>perc</message>
+    </item>
+    <item id="s">
+      <message>mp</message>
+    </item>
+    <item id="All Calls">
+      <message>Minden hívás</message>
+    </item>
+    <item id="Incoming Missed Calls">
+      <message>Bejövő nem fogadott hívások</message>
+    </item>
+    <item id="Incoming Received Calls">
+      <message>Bejövő fogadott hívások</message>
+    </item>
+    <item id="Outgoing Answered Calls">
+      <message>Kimenő fogadott hívások</message>
+    </item>
+    <item id="Outgoing Unanswered Calls">
+      <message>Kimenő nem fogadott hívások</message>
+    </item>
+    <item id="A file error has occurred in the export file">
+      <message>Fájlhiba történt a fájl exportálásnál</message>
+    </item>
+    <item id="A file error has occurred in the text file">
+      <message>Fájlhiba történt a szövegfájlban</message>
+    </item>
+    <item id="Unable to update the grid view setting. The grid view setting will not be saved.">
+      <message>Nem lehet frissíteni a többképes megjelenítés beállítást. Ennek a beállítása nem lesz elmentve.</message>
+    </item>
+    <item id="Specific data will be deleted">
+      <message>A megadott adatok törlődnek</message>
+    </item>
+    <item id="Please fill in the Speed Dial No">
+      <message>Kérjük, töltse ki a gyorstárcsázási számot</message>
+    </item>
+    <item id="Please fill in the Speed Dial Name">
+      <message>Kérjük, töltse ki a gyorstárcsázási nevet</message>
+    </item>
+    <item id="Please fill in the Speed Dial Phone Number">
+      <message>Kérjük, töltse ki a gyorstárcsázási telefonszámot</message>
+    </item>
+    <item id="Illegal Request">
+      <message>Nem megengedett kérés</message>
+    </item>
+    <item id="The Speed Dial Number is already registered in the PBX.">
+      <message>A gyorstárcsázási szám már tárolva van az alközpontban.</message>
+    </item>
+    <item id="The current contact list will be deleted and replaced by new data. Do you want to continue?">
+      <message>Az aktuális kapcsolatlista törlődik, és lecserélődik az új adatokra. Kívánja folytatni?</message>
+    </item>
+    <item id="The composition of CSV content is either not correct or incorrect version, import fail.">
+      <message>Az import sikertelen, mert a CSV tartalom összetétele vagy a verziószáma nem megfelelő.</message>
+    </item>
+    <item id="The composition of XML content is either not correct or incorrect version, import fail.">
+      <message>Az import sikertelen, mert az XML tartalom összetétele vagy a verziószáma nem megfelelő.</message>
+    </item>
+    <item id="The contact list successfully imported">
+      <message>A kapcsolatlista importálása sikeres</message>
+    </item>
+    <item id="This operation will delete all data about ">
+      <message>Ez a művelet törli az összes adatot </message>
+    </item>
+    <item id=". Do you wish to continue?">
+      <message>. Kívánja folytatni?</message>
+    </item>
+    <item id=" successfully deleted.">
+      <message>sikeresen törölve.</message>
+    </item>
+    <item id="Contact List successfully exported.">
+      <message>A kapcsolatlista exportálása sikeres</message>
+    </item>
+    <item id="Contact List unable to export. A error occur during the exportation">
+      <message>Nem lehet exportálni a kapcsolatlistát. Az exportálás során hiba történt</message>
+    </item>
+    <item id="The maximum contacts ">
+      <message>A maximális számú kapcsolat</message>
+    </item>
+    <item id=" had already registered. To make a new contact, please delete some contacts in the contact list.">
+      <message>már tárolásra került. Egy új kapcsolat létrehozásához kérjük, töröljön néhány kapcsolatot a kapcsolatlistáról.</message>
+    </item>
+    <item id="Extension numbers from the PBX already exist in the contact list.">
+      <message>Az alközpont mellékállomási számai már szerepelnek a kapcsolatlistában.</message>
+    </item>
+    <item id="No Extension found.">
+      <message>Nincs mellékállomás.</message>
+    </item>
+    <item id="Error occurs.">
+      <message>Hiba történt.</message>
+    </item>
+    <item id="Import is unable to proceed. The file is being used by another process.">
+      <message>Az importálást nem lehet folytatni. A fájlt éppen egy másik folyamat használja.</message>
+    </item>
+    <item id="Connection with PBX is disconnected">
+      <message>Megszakadt a kapcsolat az alközponttal</message>
+    </item>
+    <item id="No Response from PBX">
+      <message>Nincs válasz az alközponttól</message>
+    </item>
+    <item id="Select language">
+      <message>Válassza ki a nyelvet</message>
+    </item>
+    <item id="Dial Modification for Dial Copy Setting">
+      <message>Tárcs. mód. a tárcs. másolás beáll-nál</message>
+    </item>
+    <item id="Enter Access Code for International Call">
+      <message>Adja be a nemzetközi hívás előtétszámát</message>
+    </item>
+    <item id="Setting">
+      <message>Beállítás</message>
+    </item>
+    <item id="International Call">
+      <message>Nemzetközi hívás</message>
+    </item>
+    <item id="Enter International Area Code">
+      <message>Adja be a nemzetközi körzetszámot</message>
+    </item>
+    <item id="For example '81' for Japan or '44' for UK">
+      <message>Például Japán: 81 vagy UK: 44</message>
+    </item>
+    <item id="CA User Mode">
+      <message>CA felhasználói üzemmód</message>
+    </item>
+    <item id="Standard user (CA Pro)">
+      <message>Normál felhasználó (CA Pro)</message>
+    </item>
+    <item id="Standard user (CA Basic)">
+      <message>Normál felhasználó (CA Basic)</message>
+    </item>
+    <item id="ICD Group Supervisor (CA Supervisor)">
+      <message>ICD csoport felügyelő (CA Supervisor)</message>
+    </item>
+    <item id="Use softphone">
+      <message>Használjon szoftver telefont</message>
+    </item>
+    <item id="Use ICD group agent feature">
+      <message>Használja az ICD csoport tag szolgáltatását</message>
+    </item>
+    <item id="&amp;Save">
+      <message>&amp;Mentés</message>
+    </item>
+    <item id="&amp;Exit">
+      <message>&amp;Kilépés</message>
+    </item>
+    <item id="English">
+      <message>English</message>
+    </item>
+    <item id="Spanish">
+      <message>Español</message>
+    </item>
+    <item id="French">
+      <message>Français</message>
+    </item>
+    <item id="Portuguese">
+      <message>Português</message>
+    </item>
+    <item id="German">
+      <message>Deutsch</message>
+    </item>
+    <item id="Italian">
+      <message>Italiano</message>
+    </item>
+    <item id="Russian">
+      <message>Русский</message>
+    </item>
+    <item id="Ukrainian">
+      <message>Українська</message>
+    </item>
+    <item id="Chinese">
+      <message>中文</message>
+    </item>
+    <item id="IP address of PBX">
+      <message>Az alközpont IP címe</message>
+    </item>
+    <item id="Extension Number">
+      <message>Mellékállomási hívószám</message>
+    </item>
+    <item id="Password">
+      <message>Jelszó</message>
+    </item>
+    <item id="&amp;Login">
+      <message>&amp;Belépés</message>
+    </item>
+    <item id="&amp;Quit">
+      <message>&amp;Kilépés</message>
+    </item>
+    <item id="User Login">
+      <message>Felhasználói belépés</message>
+    </item>
+    <item id="Password must be assigned.">
+      <message>Ki kell jelölni a jelszót.</message>
+    </item>
+    <item id="A-Z, a-z, 0-9, * and # can be used for password.">
+      <message>A jelszóhoz az A-Z, a-z, 0-9, * és # karakter használható.</message>
+    </item>
+    <item id="New Password (Max.16 characters)">
+      <message>Új jelszó (max. 16 karakter)</message>
+    </item>
+    <item id="Verify Password">
+      <message>Jelszó megerősítés</message>
+    </item>
+    <item id="Communication Assistant - Password">
+      <message>Kommunikációs asszisztens - Jelszó</message>
+    </item>
+    <item id="You can log-in to Basic mode for now">
+      <message>Most beléphet az alapüzemmódba</message>
+    </item>
+    <item id="Limitations for Basic mode:">
+      <message>Korlátozások az alapüzemmódnál:</message>
+    </item>
+    <item id="- Contact List is limited to 10 calls.">
+      <message>­ A kapcsolatlista 10 hívásra korlátozódik.</message>
+    </item>
+    <item id="- Contact History is limited to 10 calls.">
+      <message>­ Az előzménylista 10 hívásra korlátozódik.</message>
+    </item>
+    <item id="- Presence feature is not available.">
+      <message>­ A jelenlét szolgáltatás nem érhető el.</message>
+    </item>
+    <item id="You can log-in to Pro Trial for now">
+      <message>Most beléphet a Pro próba üzemmódba</message>
+    </item>
+    <item id="After 60 days, license registration is required.">
+      <message>60 nap után licenc regisztrálás szükséges.</message>
+    </item>
+    <item id="Installation Date:">
+      <message>Telepítés dátuma:</message>
+    </item>
+    <item id="Expiration Date:">
+      <message>Lejárat dátuma:</message>
+    </item>
+    <item id="I agree to the above condition and continue to use this application">
+      <message>Egyetértek a fenti feltételekkel és folytatom az alkalmazás használatát</message>
+    </item>
+    <item id="IP Address is empty. Please enter a valid IP address">
+      <message>Az IP cím üres. Kérjük, adjon meg egy érvényes IP címet</message>
+    </item>
+    <item id="Empty IP address">
+      <message>Üres IP cím</message>
+    </item>
+    <item id="No extension number has been entered. Please enter a valid extension number.">
+      <message>Nincs mellékállomási hívószám beadva. Kérjük, adjon meg egy érvényes mellékállomási hívószámot.</message>
+    </item>
+    <item id="Empty Extension number">
+      <message>Üres mellékállomási hívószám</message>
+    </item>
+    <item id="The password you entered is not valid.">
+      <message>A beadott jelszó nem érvényes.</message>
+    </item>
+    <item id="The extension number is incorrect.">
+      <message>A mellékállomási hívószám helytelen.</message>
+    </item>
+    <item id="Error Extension Number">
+      <message>Hibás mellékállomási hívószám</message>
+    </item>
+    <item id="Password is incorrect">
+      <message>A jelszó helytelen</message>
+    </item>
+    <item id="Incorrect Password">
+      <message>Helytelen jelszó</message>
+    </item>
+    <item id="Password is locked.">
+      <message>A jelszó le van zárva.</message>
+    </item>
+    <item id="Please contact your manager of PBX">
+      <message>Kérjük, forduljon az alközponti menedzserhez</message>
+    </item>
+    <item id="Password Locked">
+      <message>Jelszó lezárva</message>
+    </item>
+    <item id="This extension is restricted to use CA">
+      <message>Ez a mellékállomás nem használhatja a CA-t</message>
+    </item>
+    <item id="by PBX setting">
+      <message>az alközponti beállítás miatt</message>
+    </item>
+    <item id="Please contact your manager of PBX.">
+      <message>Kérjük, forduljon az alközponti menedzserhez.</message>
+    </item>
+    <item id="Invalid extension setting">
+      <message>Érvénytelen mellék beállítás</message>
+    </item>
+    <item id="Number of users had exceeded the limit">
+      <message>A felhasználók száma túllépte a korlátot</message>
+    </item>
+    <item id="Exceed Maximum Users">
+      <message>Max. felhasználószám túllépve</message>
+    </item>
+    <item id="The number of license is not enough">
+      <message>A licenc szám nem elég</message>
+    </item>
+    <item id="Exceed Maximum Licenses">
+      <message>Maximális licenc túllépve</message>
+    </item>
+    <item id="Failed to connect to server.">
+      <message>Nem sikerült a kapcsolódás a szerverhez.</message>
+    </item>
+    <item id="API Failure">
+      <message>API hiba</message>
+    </item>
+    <item id="Connection device is not supported. Unable to create connection">
+      <message>A csatlakozó eszköz nincs támogatva. Nem lehet csatlakozást létrehozni</message>
+    </item>
+    <item id="Non-support Connection Device">
+      <message>Nem támogatott eszköz</message>
+    </item>
+    <item id="Password mismatch. Please enter your new password again">
+      <message>Nem megfelelő jelszó. Kérjük, adja be ismét az új jelszót.</message>
+    </item>
+    <item id="Phone type is incorrect">
+      <message>Nem megfelelő telefontípus</message>
+    </item>
+    <item id="New password is empty. Please enter the password">
+      <message>Az új jelszó üres. Kérjük, adja be a jelszót</message>
+    </item>
+    <item id="Verify password is empty. Please enter the password">
+      <message>A jelszó megerősítés üres. Kérjük, adja be a jelszót</message>
+    </item>
+    <item id="The values entered in New Password and Verify Password do not match.">
+      <message>Az új jelszó és a megerősített jelszó értékei nem egyeznek.</message>
+    </item>
+    <item id="The minimum password length is 6 characters.">
+      <message>A jelszó minimális hossza 6 karakter.</message>
+    </item>
+    <item id="Are you sure you want to exit this application">
+      <message>Biztos, hogy kilép ebből az alkalmazásból?</message>
+    </item>
+    <item id="Please Wait...">
+      <message>Kérem várjon…</message>
+    </item>
+    <item id="Forward/DND Setting">
+      <message>Átirányítás/DND beállítás</message>
+    </item>
+    <item id="Forward / DND">
+      <message>Átirányítás/DND</message>
+    </item>
+    <item id="BroadCasting Group:">
+      <message>Közvetítési csoport:</message>
+    </item>
+    <item id="&amp;Release">
+      <message>&amp;Feloldás</message>
+    </item>
+    <item id="Members (Dial Number)">
+      <message>Tagok (Hívószám)</message>
+    </item>
+    <item id="Member Name">
+      <message>Tag neve</message>
+    </item>
+    <item id="Call Status">
+      <message>Hívásállapot</message>
+    </item>
+    <item id="Connected">
+      <message>Csatlakozva</message>
+    </item>
+    <item id="Not Connected">
+      <message>Nem csatlakozik</message>
+    </item>
+    <item id="Group Page">
+      <message>Csoportkeresés</message>
+    </item>
+    <item id="Park Retrieve">
+      <message>Kivét. park-ból</message>
+    </item>
+    <item id="Account">
+      <message>Díjközlés</message>
+    </item>
+    <item id="Copy &amp; Call">
+      <message>Másol &amp; hív</message>
+    </item>
+    <item id="TRS Change">
+      <message>TRS váltás</message>
+    </item>
+    <item id="Time Service">
+      <message>Időszolgálat</message>
+    </item>
+    <item id="Function Key">
+      <message>Funkciógomb</message>
+    </item>
+    <item id="Please enter Group No.(01-32)">
+      <message>Kérjük, adja be a csoportszámot (01-32)</message>
+    </item>
+    <item id="A target's call status is not acceptable">
+      <message>A cél hívásállapota nem elfogadható</message>
+    </item>
+    <item id="Invalid Group Paging">
+      <message>Érvénytelen csoportkeresés</message>
+    </item>
+    <item id="Please enter specific park area number">
+      <message>Kérjük, adja be az adott parkolózóna számot</message>
+    </item>
+    <item id="(0-99)">
+      <message>(0-99)</message>
+    </item>
+    <item id="Specific call (connection) does not exist.">
+      <message>Speciális hívás (csatlakozás) nem létezik.</message>
+    </item>
+    <item id="Error on Park Retrieve">
+      <message>Hiba a parkolásból való kivételnél</message>
+    </item>
+    <item id="Please enter an account number">
+      <message>Kérjük, adjon be egy díjközlési számot</message>
+    </item>
+    <item id="Not Valid and cannot make a call">
+      <message>Érvénytelen és nem lehet hívást kezdeményezni</message>
+    </item>
+    <item id="Please set TRS Level">
+      <message>Kérjük, állítsa be a TRS szintet</message>
+    </item>
+    <item id="Error on TRS Change">
+      <message>Hiba a TRS váltásnál</message>
+    </item>
+    <item id="Please Select System Mode">
+      <message>Kérjük, válassza ki a rendszer üzemmódot</message>
+    </item>
+    <item id="Day">
+      <message>Nappali</message>
+    </item>
+    <item id="Break">
+      <message>Kávészünet</message>
+    </item>
+    <item id="Night">
+      <message>Éjszakai</message>
+    </item>
+    <item id="Lunch">
+      <message>Ebédidő</message>
+    </item>
+    <item id="ICD Group Extension Number">
+      <message>ICD csoport mellékállomási hívószám</message>
+    </item>
+    <item id="ICD Group Name">
+      <message>ICD csoport név</message>
+    </item>
+    <item id="My Status">
+      <message>Saját állapot</message>
+    </item>
+    <item id="Ready">
+      <message>Készenlét</message>
+    </item>
+    <item id="Not Ready">
+      <message>Nincs készenlétben</message>
+    </item>
+    <item id="Wrap Up">
+      <message>Hívás szünet</message>
+    </item>
+    <item id="Busy">
+      <message>Foglalt</message>
+    </item>
+    <item id="All Log-in">
+      <message>Mindenki belépve</message>
+    </item>
+    <item id="All Log-out">
+      <message>Mindenki kilépve</message>
+    </item>
+    <item id="Log in">
+      <message>Belépés</message>
+    </item>
+    <item id="Log-in">
+      <message>Belépés</message>
+    </item>
+    <item id="Log out">
+      <message>Kilépés</message>
+    </item>
+    <item id="Log-out">
+      <message>Kilépés</message>
+    </item>
+    <item id="Start Wrap Up">
+      <message>Hívás szünet indítás</message>
+    </item>
+    <item id="Stop Wrap Up">
+      <message>Hívás szünet leállítás</message>
+    </item>
+    <item id="Extend Wrap Up">
+      <message>Hívás szünet hosszabbítás</message>
+    </item>
+    <item id="On the phone">
+      <message>Telefonál</message>
+    </item>
+    <item id="Ringing">
+      <message>Csengetés</message>
+    </item>
+    <item id="Idle">
+      <message>Szabad</message>
+    </item>
+    <item id="Wrap up Status cannot be changed\n\rCause is one of followings\n\r- Wrap up feature number is not assigned in PBX\n\r- Paired telephone is not PT\n\rPT is not connected with PBX\n\r">
+      <message>A hívás szünet állapot nem változtatható meg\n\rA következők egyike miatt\n\r- Nincs kijelölve a Tranzakció (Ügyviteli idő) szolgáltatás száma az alközpontban\n\r- A párhuzamos telefonkészülék nem PT\n\rA PT nem csatlakozik az alközponthoz\n\r</message>
+    </item>
+    <item id="ICD Group">
+      <message>ICD csoport</message>
+    </item>
+    <item id="Phone Status">
+      <message>Telefon állapot</message>
+    </item>
+    <item id="Wrap up">
+      <message>Hívás szünet</message>
+    </item>
+    <item id="Redirect">
+      <message>Újrairányítás</message>
+    </item>
+    <item id="Listen-In">
+      <message>Behallgatás</message>
+    </item>
+    <item id="Busy Override">
+      <message>Befigyelés foglalt vonalra</message>
+    </item>
+    <item id="Take Over">
+      <message>Átvétel</message>
+    </item>
+    <item id="&amp;Redirect the incoming call">
+      <message>&amp;A bejövő hívás újrairányítása</message>
+    </item>
+    <item id="Log-&amp;in to the group">
+      <message>Be&amp;lépés a csoportba</message>
+    </item>
+    <item id="Log-o&amp;ut from the group">
+      <message>Ki&amp;lépés a csoportból</message>
+    </item>
+    <item id="&amp;Listen in the talking">
+      <message>&amp;Behallgatás a beszélgetésbe</message>
+    </item>
+    <item id="Overri&amp;de the talking (Conference)">
+      <message>Belép&amp;és a beszélgetésbe (Konferencia)</message>
+    </item>
+    <item id="&amp;Take over the talking">
+      <message>&amp;A beszélgetés átvétele</message>
+    </item>
+    <item id="Supervisor function was disabled">
+      <message>A felügyelő funkció le lett tiltva</message>
+    </item>
+    <item id="Are you sure you want to clear report?">
+      <message>Biztos, hogy törli a jelentést?</message>
+    </item>
+    <item id="Supervisor">
+      <message>Felügyelő</message>
+    </item>
+    <item id="Group">
+      <message>Csoport</message>
+    </item>
+    <item id="Display only ICD Group Member">
+      <message>Csak az ICD csoporttagot jelenítse meg</message>
+    </item>
+    <item id="Group Call Monitor">
+      <message>Csoporthívásfigyelés</message>
+    </item>
+    <item id="Current Waiting Call">
+      <message>Folyó várakozó hívás</message>
+    </item>
+    <item id="Longest Waiting Time">
+      <message>Leghosszabb váróidő</message>
+    </item>
+    <item id="Current Member Status">
+      <message>Aktuális tag állapot</message>
+    </item>
+    <item id="Group Call Report">
+      <message>CsoporthívásJelentés</message>
+    </item>
+    <item id="Lost Call">
+      <message>Nem fogadott hívás</message>
+    </item>
+    <item id="Report Start Date:">
+      <message>Jelentés ind. dátum:</message>
+    </item>
+    <item id="Report Start Time:">
+      <message>Jelentés ind. idő:</message>
+    </item>
+    <item id="&amp;Utility">
+      <message>&amp;Segédprogram</message>
+    </item>
+    <item id="Get Latest Report">
+      <message>Legutóbbi jelentés lekérdezése</message>
+    </item>
+    <item id="&amp;Clear Report">
+      <message>&amp;Jelentés törlése</message>
+    </item>
+    <item id="The Number of Current Call :">
+      <message>Az aktuális hívás száma :</message>
+    </item>
+    <item id="Font Color :">
+      <message>Betűszín :</message>
+    </item>
+    <item id="Background Color :">
+      <message>Háttérszín :</message>
+    </item>
+    <item id="Blink">
+      <message>Villog</message>
+    </item>
+    <item id="Preview :">
+      <message>Előnézet:</message>
+    </item>
+    <item id=" The Waiting Time (MM'SS) :">
+      <message>A várakozási idő (PP'MM)</message>
+    </item>
+    <item id="Choose...(&amp;B)">
+      <message>Kiválasztás...(&amp;B)</message>
+    </item>
+    <item id="Choose ...(&amp;F)">
+      <message>Kiválasztás ...(&amp;F)</message>
+    </item>
+    <item id="Supervisor Option">
+      <message>Felügyelő opció</message>
+    </item>
+    <item id="When the number of current call is preprogrammed number or more, display changes for warning.">
+      <message>Amikor az aktuális hívás száma előre programozott szám vagy több, a kijelzés figyelmeztetésre vált át.</message>
+    </item>
+    <item id="When the time of longest waiting call is preprogrammed number or more, display changes for warning.">
+      <message>Amikor a legrégebben várakozó hívás ideje előre programozott szám vagy több, a kijelzés figyelmeztetésre vált át.</message>
+    </item>
+    <item id="Dial">
+      <message>Tárcsázás</message>
+    </item>
+    <item id="Contact Name">
+      <message>Kapcsolat neve</message>
+    </item>
+    <item id="Incoming Missed Calls: ">
+      <message>Bejövő nem fogadott hívások:</message>
+    </item>
+    <item id="Message Waiting">
+      <message>Várakozó üzenet jelzése</message>
+    </item>
+    <item id="Call VM">
+      <message>Hívja a hangpostát</message>
+    </item>
+    <item id="&amp;Call Voice Mail">
+      <message>&amp;Hívja a hangpostát</message>
+    </item>
+    <item id="&amp;Record my Voice Message">
+      <message>&amp;Üzenet rögzítése</message>
+    </item>
+    <item id="&amp;Display Message Waiting List">
+      <message>&amp;A várakozó üzenet lista megjelenítése</message>
+    </item>
+    <item id="Call &amp;Back">
+      <message>Vissza&amp;hívás</message>
+    </item>
+    <item id="No Connection">
+      <message>Nincs kapcsolat</message>
+    </item>
+    <item id="Dial or Answer">
+      <message>Tárcsázás vagy hívásfogadás</message>
+    </item>
+    <item id="For internal calls :">
+      <message>Belső hívásoknál:</message>
+    </item>
+    <item id="For external calls :">
+      <message>Külső hívásoknál:</message>
+    </item>
+    <item id="Forward / DND :">
+      <message>Átirányítás/DND</message>
+    </item>
+    <item id="Not Assigned">
+      <message>Nincs kijelölve</message>
+    </item>
+    <item id="Fwd All ">
+      <message>Átir.feltétel nélkül</message>
+    </item>
+    <item id="Fwd Busy ">
+      <message>Átir. ha foglalt</message>
+    </item>
+    <item id="Fwd N/A ">
+      <message>Átir.ha nem jelentk.</message>
+    </item>
+    <item id="Fwd Busy / N/A ">
+      <message>Átir.foglalt/nem jel</message>
+    </item>
+    <item id="Do Not Disturb">
+      <message>Ne zavarj</message>
+    </item>
+    <item id="&amp;Dial">
+      <message>&amp;Tárcsázás</message>
+    </item>
+    <item id="&amp;Copy &amp;&amp; Call">
+      <message>&amp;Másolás &amp;&amp; hívás</message>
+    </item>
+    <item id="&amp;History">
+      <message>&amp;Előzmények</message>
+    </item>
+    <item id="&amp;All Calls">
+      <message>&amp;Minden hívás</message>
+    </item>
+    <item id="Incoming &amp;Missed Calls">
+      <message>Bejövő &amp;nem fogadott hívások</message>
+    </item>
+    <item id="Incoming &amp;Received Calls">
+      <message>Bejövő &amp;fogadott hívások</message>
+    </item>
+    <item id="Outgoing A&amp;nswered Calls">
+      <message>Kimenő &amp;fogadott hívások</message>
+    </item>
+    <item id="Outgoing &amp;Unanswered Calls">
+      <message>Kimenő &amp;nem fogadott hívások</message>
+    </item>
+    <item id="&amp;Go To">
+      <message>&amp;Eszközök</message>
+    </item>
+    <item id="&amp;Option">
+      <message>&amp;Opció</message>
+    </item>
+    <item id="&amp;Function Key">
+      <message>&amp;Funkciógomb</message>
+    </item>
+    <item id="&amp;ICD Group">
+      <message>&amp;ICD csoport</message>
+    </item>
+    <item id="Modify">
+      <message>Módosítás</message>
+    </item>
+    <item id="New Setting">
+      <message>Új beállítás</message>
+    </item>
+    <item id="Message left by">
+      <message>Az üzenetet hagyta:</message>
+    </item>
+    <item id="Absent message is assigned automatically, when PC is not used pre programmed time.">
+      <message>Az üzenethagyás automatikusan kijelölésre kerül, ha a PC-t egy előre programozott ideig nem használja.</message>
+    </item>
+    <item id="Absent message is cleared automatically, when CA is started.">
+      <message>Az üzenethagyás automatikusan törlődik, amikor elindítja a CA-t.</message>
+    </item>
+    <item id="Absent message is assigned automatically, when CA is closed.">
+      <message>Az üzenethagyás automatikusan kijelölésre kerül, amikor bezárja a CA-t.</message>
+    </item>
+    <item id="Absent Message Options">
+      <message>Üzenethagyási opciók</message>
+    </item>
+    <item id="MM:SS:">
+      <message>PP:MM:</message>
+    </item>
+    <item id="Please enter phone number.">
+      <message>Kérjük, adja be a telefonszámot.</message>
+    </item>
+    <item id="Phone (Office)">
+      <message>Telefon (Munkahelyi)</message>
+    </item>
+    <item id="Phone (Mobile)">
+      <message>Telefon (Mobil)</message>
+    </item>
+    <item id="Phone (Home)">
+      <message>Telefon (Otthoni)</message>
+    </item>
+    <item id="Voice Message">
+      <message>Hangüzenet</message>
+    </item>
+    <item id="Send E-mail">
+      <message>Küldjön e-mailt</message>
+    </item>
+    <item id="More">
+      <message>Továbbiak</message>
+    </item>
+    <item id="Send Chat">
+      <message>Csevegés indítása</message>
+    </item>
+    <item id="Leave Voice Message">
+      <message>Hagyjon hangüzenetet</message>
+    </item>
+    <item id="WEB Access">
+      <message>Web hozzáférés</message>
+    </item>
+    <item id="Call phone (Office): ">
+      <message>Telefonhívás (Munkahelyi):</message>
+    </item>
+    <item id="Call phone (Mobile): ">
+      <message>Telefonhívás (Mobil):</message>
+    </item>
+    <item id="Call phone (Home): ">
+      <message>Telefonhívás (Otthoni):</message>
+    </item>
+    <item id="&amp;Pick up the incoming call">
+      <message>&amp;Bejövő hívás átvétele</message>
+    </item>
+    <item id="&amp;View and modify this contact">
+      <message>&amp;Kapcsolat megtekintése és módosítása</message>
+    </item>
+    <item id="&amp;Add new contact">
+      <message>&amp;Új kapcsolat hozzáadása</message>
+    </item>
+    <item id="&amp;Delete this contact ">
+      <message>&amp;Kapcsolat törlése</message>
+    </item>
+    <item id="Add contact list from PB&amp;X extension">
+      <message>&amp;Frissítse a kapcsolatlistát az alközpont mellékállomási listájából</message>
+    </item>
+    <item id="&amp;Copy contact list from CSV file">
+      <message>&amp;Töltse be a kapcsolatlistát CSV fájlból</message>
+    </item>
+    <item id="&amp;Save contact list to CSV file">
+      <message>&amp;Mentse a kapcsolatlistát CSV fájlba</message>
+    </item>
+    <item id="Leave voice message">
+      <message>Hagyjon hangüzenetet</message>
+    </item>
+    <item id="Send E-mail: ">
+      <message>Küldjön e-mailt:</message>
+    </item>
+    <item id="Access Web">
+      <message>Web oldal elérés</message>
+    </item>
+    <item id="Start Chat">
+      <message>Indítsa a csevegést</message>
+    </item>
+    <item id="View and modify contact">
+      <message>Kapcsolat megtekintése és módosítása</message>
+    </item>
+    <item id="Absent Message">
+      <message>Üzenethagyás</message>
+    </item>
+    <item id="Function List">
+      <message>Funkciólista</message>
+    </item>
+    <item id="Move &amp;Up">
+      <message>Mozgatás &amp;felfelé</message>
+    </item>
+    <item id="Move &amp;Down">
+      <message>Mozgatás &amp;lefelé</message>
+    </item>
+    <item id="&amp;Edit">
+      <message>&amp;Szerkesztés</message>
+    </item>
+    <item id="Edit">
+      <message>Szerkesztés</message>
+    </item>
+    <item id="Save to Function List">
+      <message>Mentés a funkciólistába</message>
+    </item>
+    <item id="Function List Name (Max. 16 characters):">
+      <message>Funkciólista név (max. 16 karakter):</message>
+    </item>
+    <item id="Same as function list name.">
+      <message>Ugyanaz mint a funkciólista név.</message>
+    </item>
+    <item id="Set absent message (Max. 16 characters):">
+      <message>Állítsa be az üzenetet (max. 16 karakter):</message>
+    </item>
+    <item id="Do not change absent message.">
+      <message>Ne változtassa meg az üzenetet.</message>
+    </item>
+    <item id="Clear absent message.">
+      <message>Törölje az üzenetet.</message>
+    </item>
+    <item id="Enable">
+      <message>Engedélyezés</message>
+    </item>
+    <item id="Feature Number">
+      <message>Szolgáltatás szám</message>
+    </item>
+    <item id="Change2">
+      <message>Változtatás</message>
+    </item>
+    <item id="For both external calls and internal calls">
+      <message>A külső és belső hívásokra is</message>
+    </item>
+    <item id="For external calls">
+      <message>Külső hívásokra</message>
+    </item>
+    <item id="For internal calls">
+      <message>Belső hívásokra</message>
+    </item>
+    <item id="Always (All)">
+      <message>Mindig (Összes)</message>
+    </item>
+    <item id="Busy / No Answer">
+      <message>Foglalt/Nem jelentk.</message>
+    </item>
+    <item id="Off">
+      <message>Ki</message>
+    </item>
+    <item id="The maximum 20 function lists have already been assigned. This new setting cannot be saved.">
+      <message>Már ki lett jelölve a maximálisan 20 funkciólista. Ez a beállítás nem menthető el.</message>
+    </item>
+    <item id="&amp;Modify">
+      <message>&amp;Módosítás</message>
+    </item>
+    <item id="&amp;Add New">
+      <message>&amp;Új hozzáadása</message>
+    </item>
+    <item id="Modify Speed Dial">
+      <message>Gyorstárcsázás módosítása</message>
+    </item>
+    <item id="Speed dial no.">
+      <message>Gyorstárcsázási szám</message>
+    </item>
+    <item id="Add Speed Dial">
+      <message>Hozzáadás a gyorstárcsázáshoz</message>
+    </item>
+    <item id="Forward">
+      <message>Átirányítás</message>
+    </item>
+    <item id="Exit">
+      <message>Kilépés</message>
+    </item>
+    <item id="Show">
+      <message>Megjelenítés</message>
+    </item>
+    <item id="Mon">
+      <message>Hét</message>
+    </item>
+    <item id="Tue">
+      <message>Ked</message>
+    </item>
+    <item id="Wed">
+      <message>Sze</message>
+    </item>
+    <item id="Thu">
+      <message>Csü</message>
+    </item>
+    <item id="Fri">
+      <message>Pén</message>
+    </item>
+    <item id="Sat">
+      <message>Szo</message>
+    </item>
+    <item id="Sun">
+      <message>Vas</message>
+    </item>
+    <item id="AM">
+      <message>de</message>
+    </item>
+    <item id="PM">
+      <message>du</message>
+    </item>
+    <item id="Enter password of your mailbox:">
+      <message>Írja be hangpostafiókja jelszavát:</message>
+    </item>
+    <item id="Voice Mail">
+      <message>Hangposta</message>
+    </item>
+    <item id="Call Control">
+      <message>Hívásvezérlés</message>
+    </item>
+    <item id="Incoming Call">
+      <message>Bejövő hívás</message>
+    </item>
+    <item id="Calling">
+      <message>Hívás</message>
+    </item>
+    <item id="Recall">
+      <message>Újrahívás</message>
+    </item>
+    <item id="Text Memo">
+      <message>Szöveges megjegyzés</message>
+    </item>
+    <item id="Text Memo Reminder">
+      <message>Memo figyelmezt.</message>
+    </item>
+    <item id="DTMF Tone">
+      <message>DTMF hang</message>
+    </item>
+    <item id="Broadcasting Group:">
+      <message>Közvetítési csoport:</message>
+    </item>
+    <item id="Manual Park">
+      <message>Manuális parkolás</message>
+    </item>
+    <item id="Call Parked">
+      <message>ParkoltHívás</message>
+    </item>
+    <item id="VM Transfer">
+      <message>VM átadás</message>
+    </item>
+    <item id="Caller Information">
+      <message>Hívó információ</message>
+    </item>
+    <item id="Redirect to">
+      <message>Továbbirányítás cél:</message>
+    </item>
+    <item id="Active Calls">
+      <message>Akt. hívások</message>
+    </item>
+    <item id="Direct In:">
+      <message>Beválasztás:</message>
+    </item>
+    <item id="Outside Line:">
+      <message>Külső vonal:</message>
+    </item>
+    <item id="Call For:">
+      <message>Hívás:</message>
+    </item>
+    <item id="Duration:">
+      <message>Időtartam:</message>
+    </item>
+    <item id="On Hold">
+      <message>Tartásban</message>
+    </item>
+    <item id="Not Valid">
+      <message>Érvénytelen</message>
+    </item>
+    <item id="Dial is incorrect.">
+      <message>Hibás tárcsázás.</message>
+    </item>
+    <item id="Please enter specific park area">
+      <message>Adja be az adott parkolózónát</message>
+    </item>
+    <item id="Parked number">
+      <message>Parkolt szám</message>
+    </item>
+    <item id="Extension  number">
+      <message>Mellékállomási szám</message>
+    </item>
+    <item id="Paging Group">
+      <message>Személyker. cs.</message>
+    </item>
+    <item id="Set call back">
+      <message>Visszahívás beállítása</message>
+    </item>
+    <item id="Wait and send call waiting tone">
+      <message>Várjon, és küldjön várakozó hívás hangjelzést</message>
+    </item>
+    <item id="Leave message waiting">
+      <message>Hagyjon üzenetet</message>
+    </item>
+    <item id="Listen in">
+      <message>Behallgatás</message>
+    </item>
+    <item id="Override (Conference)">
+      <message>Belépés (Konferencia)</message>
+    </item>
+    <item id="Take over">
+      <message>Átvétel</message>
+    </item>
+    <item id="Call by override">
+      <message>Hívás belépéssel</message>
+    </item>
+    <item id="Send e-mail">
+      <message>E-mail küldés</message>
+    </item>
+    <item id="Transfer the call">
+      <message>A hívás átadása</message>
+    </item>
+    <item id="Put the call on hold">
+      <message>Hívás tartásba tétele</message>
+    </item>
+    <item id="Make a conference">
+      <message>Konferencia létrehozása</message>
+    </item>
+    <item id="Park the call (Automatic)">
+      <message>Parkolja a hívást (automatikus)</message>
+    </item>
+    <item id="Park the call (Manual)">
+      <message>Parkolja a hívást (manuális)</message>
+    </item>
+    <item id="Transfer to VM">
+      <message>Átadás hangpostára</message>
+    </item>
+    <item id="Record to VM">
+      <message>Rögzítés hangpostába</message>
+    </item>
+    <item id="Stop recording">
+      <message>Rögzítés leállítása</message>
+    </item>
+    <item id="Send DTMF">
+      <message>DTMF küldés</message>
+    </item>
+    <item id="Send Flash (EFA)">
+      <message>Flash küldés (EFA)</message>
+    </item>
+    <item id="Write memo">
+      <message>Megjegyzés írása</message>
+    </item>
+    <item id="Split the call">
+      <message>Partnerváltogatás</message>
+    </item>
+    <item id="Retrieve the call">
+      <message>Vegye vissza hívást</message>
+    </item>
+    <item id="Hang up">
+      <message>Bontja a hívást</message>
+    </item>
+    <item id="Answer the call">
+      <message>Fogadja a hívást</message>
+    </item>
+    <item id="Redirect the call">
+      <message>Irányítsa tovább a hívást</message>
+    </item>
+    <item id="Release">
+      <message>Feloldás</message>
+    </item>
+    <item id="VM:">
+      <message>Hangposta:</message>
+    </item>
+    <item id="E-mail">
+      <message>E-mail:</message>
+    </item>
+    <item id="Message">
+      <message>Üzenet</message>
+    </item>
+    <item id="Close">
+      <message>Bezárás</message>
+    </item>
+    <item id="Cancel">
+      <message>Mégsem</message>
+    </item>
+    <item id="OK">
+      <message>OK</message>
+    </item>
+    <item id="External">
+      <message>Külső</message>
+    </item>
+    <item id="Internal">
+      <message>Belső</message>
+    </item>
+    <item id="IN">
+      <message>Be</message>
+    </item>
+    <item id="OUT">
+      <message>Ki</message>
+    </item>
+    <item id="Total Time:">
+      <message>Teljes idő:</message>
+    </item>
+    <item id="Ringing Time:">
+      <message>Cseng. idő:</message>
+    </item>
+    <item id="Connecting Time:">
+      <message>Kapcsolási idő:</message>
+    </item>
+    <item id="Holding Time:">
+      <message>Tartási idő:</message>
+    </item>
+    <item id="Failed to set call back.">
+      <message>Sikertelen visszahívás beállítás.</message>
+    </item>
+    <item id="Failed to send call waiting.">
+      <message>Sikertelen várakozó hívás hangjelzés küldés.</message>
+    </item>
+    <item id="Failed to override the selected ongoing call.">
+      <message>Sikertelen belépés a kiválasztott hívásba.</message>
+    </item>
+    <item id="Failed to make this call.">
+      <message>Ez a híváskezdeményezés nem sikerült.</message>
+    </item>
+    <item id="Failed to answer the call.">
+      <message>Sikertelen hívásfogadás.</message>
+    </item>
+    <item id="Failed to hang up the call.">
+      <message>Sikertelen hívásbontás.</message>
+    </item>
+    <item id="The phone number you entered is not valid.">
+      <message>A beadott telefonszám érvénytelen.</message>
+    </item>
+    <item id="Options">
+      <message>Opciók</message>
+    </item>
+    <item id="Key Assign">
+      <message>Gomb kijelölés</message>
+    </item>
+    <item id="Display">
+      <message>Megjelenítés</message>
+    </item>
+    <item id="Preferences">
+      <message>Beállítások</message>
+    </item>
+    <item id="Key Mappings">
+      <message>Gomb kiosztás</message>
+    </item>
+    <item id="Sounds">
+      <message>Hangok</message>
+    </item>
+    <item id="Dial Modification">
+      <message>Tárcsázás módosítás</message>
+    </item>
+    <item id="PBX System Alarm">
+      <message>Alközponti riasztás</message>
+    </item>
+    <item id="Logon and Security">
+      <message>Bejelentk./Biztonság</message>
+    </item>
+    <item id="About">
+      <message>Névjegy</message>
+    </item>
+    <item id="Disable">
+      <message>Tiltás</message>
+    </item>
+    <item id="Language">
+      <message>Nyelv</message>
+    </item>
+    <item id="Minimise application to">
+      <message>Az alkalmazás kis méretűvé tétele</message>
+    </item>
+    <item id="Incoming call pop-up for CA">
+      <message>Bejövő hívás előugrás a CA-nál</message>
+    </item>
+    <item id="Incoming call pop-up for Microsoft Outlook">
+      <message>Bejövő hívás előugrás a Microsoft Outlook-nál</message>
+    </item>
+    <item id="Notice">
+      <message>Figyelmeztetés</message>
+    </item>
+    <item id="Software version">
+      <message>Szoftver verzió</message>
+    </item>
+    <item id="Pre-installed language">
+      <message>Előre telepített nyelv</message>
+    </item>
+    <item id="Additional language">
+      <message>További nyelv</message>
+    </item>
+    <item id="Taskbar">
+      <message>Tálca</message>
+    </item>
+    <item id="System tray">
+      <message>Rendszer tálca</message>
+    </item>
+    <item id="Transfer automatically when new call is made during talking">
+      <message>Aut. átadás, amikor beszélg. közben új híváskezdeményezés indul</message>
+    </item>
+    <item id="Save ICD group incoming call to history">
+      <message>ICD csoport bejövő hívásának mentése az előzményekbe</message>
+    </item>
+    <item id="Record to VM automatically">
+      <message>Automatikus rögzítés a hangpostába</message>
+    </item>
+    <item id="Use Voice Mail Assistant">
+      <message>Hangposta asszisztens használata</message>
+    </item>
+    <item id="Remove \&quot;(0)\&quot;">
+      <message>Eltávolítás \"(0)\"</message>
+    </item>
+    <item id="Inform PBX system alarm using e-mail">
+      <message>Alközponti riasztás információ e-mailben</message>
+    </item>
+    <item id="Automatically login">
+      <message>Automatikus belépés</message>
+    </item>
+    <item id="Automatic minimise after automatically login">
+      <message>Automatikus kis méret az automatikus belépés után</message>
+    </item>
+    <item id="Key:">
+      <message>Gomb:</message>
+    </item>
+    <item id="Key Name:">
+      <message>Gombnév:</message>
+    </item>
+    <item id="Doorphone">
+      <message>Kaputelefon</message>
+    </item>
+    <item id="Call Back">
+      <message>Visszahívás</message>
+    </item>
+    <item id="Voice Mail:">
+      <message>Hangposta:</message>
+    </item>
+    <item id="Minimum digits for public telephone number:">
+      <message>Fővonali telefonszám minimális számjegyszáma</message>
+    </item>
+    <item id="Telephone Number Modification">
+      <message>Telefonszám módosítás</message>
+    </item>
+    <item id="No.">
+      <message>No.</message>
+    </item>
+    <item id="Leading Digits to Remove\n(Max. 16 digits)">
+      <message>Eltávolítandó kezdő számjegyek\n(max. 16 számjegy)</message>
+    </item>
+    <item id="Added Number\n(Max. 8 digits)">
+      <message>Hozzáadott szám\n(max. 8 számjegy)</message>
+    </item>
+    <item id="Other:">
+      <message>Egyéb:</message>
+    </item>
+    <item id="E-mail address">
+      <message>E-mail cím</message>
+    </item>
+    <item id="E-mail title">
+      <message>E-mail tárgy</message>
+    </item>
+    <item id="Current Password">
+      <message>Aktuális jelszó</message>
+    </item>
+    <item id="New Password">
+      <message>Új jelszó</message>
+    </item>
+    <item id="Verify password">
+      <message>Jelszó megerősítés</message>
+    </item>
+    <item id="When voice volume is not enough, adjustment of microphone and speaker of the PC is required using Control Panel.\nAdjustment for microphone using \&quot;Options\&quot; is also available.\nAdjustment for speaker using \&quot;Navigation Key\&quot; during talking is also available.\nPage key is available when IP softphone is connected with MPR card of KX-TDE PBX, VM-Menu on LCD is not supported. It is required to disable VM-Menu feature using COS programming of VM.">
+      <message>Ha a hangerő nem elegendő, akkor a Vezérlőpulton be kell állítani a PC mikrofonját és hangszóróját.\nA mikrofon beállítása az \"Opciók\"-ban is elérhető.\nA hangszóró beáll. beszélg. közben a \"Navigációs gomb\"-bal is elérhető.\nA személyker. gomb rendelkezésre áll, amikor az IP szoftver tel. a KX-TDE alközpont MPR kártyájához csatlakozik, a VM-menü az LCD-n nem támogatott. A VM COS programozással le kell tiltani a VM-menü szolgáltatást.</message>
+    </item>
+    <item id="Delete">
+      <message>Törlés</message>
+    </item>
+    <item id="Change &amp;Password">
+      <message>&amp;Jelszó módosítás</message>
+    </item>
+    <item id="Key Name">
+      <message>Gombnév</message>
+    </item>
+    <item id="Assign Key">
+      <message>Gomb kijel</message>
+    </item>
+    <item id="Dial/Answer">
+      <message>Tárcsázás/Fogadás</message>
+    </item>
+    <item id="Hold">
+      <message>Tartás</message>
+    </item>
+    <item id="Conference">
+      <message>Konferencia</message>
+    </item>
+    <item id="Auto Park">
+      <message>Automatikus parkolás</message>
+    </item>
+    <item id="Redial">
+      <message>Újratárcsázás</message>
+    </item>
+    <item id="Pick Up">
+      <message>Hívásátvétel</message>
+    </item>
+    <item id="Transfer to Voice Mail">
+      <message>Átadás hangpostára</message>
+    </item>
+    <item id="Split">
+      <message>Partnervált.</message>
+    </item>
+    <item id="Forward / Do Not Disturb">
+      <message>Átirányítás/Ne zavarj</message>
+    </item>
+    <item id="Record to Voice Mail">
+      <message>Rögzítés hangpostába</message>
+    </item>
+    <item id="Send Tone (DTMF)">
+      <message>Hangküldés (DTMF)</message>
+    </item>
+    <item id="Copy &amp; Call &lt;Global Key&gt;">
+      <message>Másol &amp; hív &lt;Glob. gomb&gt;</message>
+    </item>
+    <item id="The function key (F1-F10) cannot be assigned.">
+      <message>Az (F1-F10) funkciógomb nem jelölhető ki.</message>
+    </item>
+    <item id="This character cannot be assigned.">
+      <message>Ez a karakter nem jelölhető ki.</message>
+    </item>
+    <item id="Do you want to save your settings?">
+      <message>El kívánja menteni a beállításait?</message>
+    </item>
+    <item id="Please enter a setting.">
+      <message>Kérjük, adjon be egy beállítást.</message>
+    </item>
+    <item id="Validation error">
+      <message>Érvényesítési hiba</message>
+    </item>
+    <item id="The specified path does not exist.">
+      <message>A megadott út nem létezik.</message>
+    </item>
+    <item id="Password mismatch. Please enter your new password again.">
+      <message>Nem megfelelő jelszó. Kérjük, adja be ismét az új jelszót.</message>
+    </item>
+    <item id="Password changed successfully.">
+      <message>A jelszó megváltoztatása sikerült.</message>
+    </item>
+    <item id="Password change failed!">
+      <message>A jelszó megváltoztatása nem sikerült!</message>
+    </item>
+    <item id="&amp;Send">
+      <message>&amp;Küldés</message>
+    </item>
+    <item id="&amp;Clear">
+      <message>&amp;Törlés</message>
+    </item>
+    <item id="Chat">
+      <message>Csevegés</message>
+    </item>
+    <item id="No Last Message...">
+      <message>Nincs utolsó üzenet…</message>
+    </item>
+    <item id="Last Message: ">
+      <message>Utolsó üzenet:</message>
+    </item>
+    <item id="Save to email software.">
+      <message>Mentés az e-mail szoftverbe.</message>
+    </item>
+    <item id="Do you want to close chat?">
+      <message>Bezárja a csevegést?</message>
+    </item>
+    <item id="Chat will close">
+      <message>A csevegés bezáródik</message>
+    </item>
+    <item id="You have reached 4 chat sessions.\nChat is not available.">
+      <message>Már 4 csevegés van folyamatban.\nNem érhető el több csevegés.</message>
+    </item>
+    <item id="The other party has reached the maximum of 4 chat sessions.\nChat is not available.">
+      <message>A másik félnek már 4 csevegése van folyamatban.\nNem érhető el több csevegés.</message>
+    </item>
+    <item id="The other party has logged off.">
+      <message>A másik fél kijelentkezett.</message>
+    </item>
+    <item id="Failed to establish chat with the other party.">
+      <message>Nem sikerült a csevegés a másik féllel.</message>
+    </item>
+    <item id="The other party is not logged in.">
+      <message>A másik fél nem jelentkezett be.</message>
+    </item>
+    <item id="Unknown Error">
+      <message>Ismeretlen hiba</message>
+    </item>
+    <item id="Unable Establish Chat with own extension number">
+      <message>Nem lehet csevegést létrehozni a saját mellékállomási hívószámmal</message>
+    </item>
+    <item id="Failed to launch VMA application.">
+      <message>Nem sikerült a VMA alkalmazást elindítani.</message>
+    </item>
+    <item id="Answer">
+      <message>Hívásfogadás</message>
+    </item>
+    <item id="Drop">
+      <message>Dobás</message>
+    </item>
+    <item id="Dial Number">
+      <message>Hívószám</message>
+    </item>
+    <item id="Assistant">
+      <message>Asszisztens</message>
+    </item>
+    <item id="Business">
+      <message>Üzleti</message>
+    </item>
+    <item id="Business 2">
+      <message>Üzleti 2</message>
+    </item>
+    <item id="Callback">
+      <message>Visszahívás</message>
+    </item>
+    <item id="Car">
+      <message>Autó</message>
+    </item>
+    <item id="Company (Main)">
+      <message>Cég</message>
+    </item>
+    <item id="Home 2">
+      <message>Otthoni 2</message>
+    </item>
+    <item id="ISDN">
+      <message>ISDN</message>
+    </item>
+    <item id="Mobile">
+      <message>Mobil</message>
+    </item>
+    <item id="Other">
+      <message>Egyéb:</message>
+    </item>
+    <item id="Primary">
+      <message>Elsődleges</message>
+    </item>
+    <item id="Retrieving contact data.">
+      <message>A kapcsolat adatok lekérése.</message>
+    </item>
+    <item id="Contact data limit reached.">
+      <message>Elérte a kapcsolatadatok határát.</message>
+    </item>
+    <item id="Function name cannot be empty.">
+      <message>A funkciónevet nem lehet üresen hagyni.</message>
+    </item>
+    <item id="Absent message cannot be empty.">
+      <message>Az üzenethagyás helyet nem lehet üresen hagyni.</message>
+    </item>
+    <item id="Please enter feature number.">
+      <message>Kérjük, adja be a szolgáltatás számát.</message>
+    </item>
+    <item id="Are you sure you want to delete this function list?">
+      <message>Biztos törli ezt a funkciólistát?</message>
+    </item>
+    <item id="Redirect feature for incoming call does not work for ICD group call.">
+      <message>A bejövő hívás továbbirányítása nem használható ICD csoport hívás esetén.</message>
+    </item>
+    <item id="Public telephone number is modified automatically, when dial is copied from other application or call is made using contact list or history.">
+      <message>A telefonszám automatikusan módosul, amikor bemásolja más alkalmazásból, vagy ha a hívást a kontaktlistából vagy az előzményből indítja.</message>
+    </item>
+    <item id="&lt;Explanation&gt;">
+      <message>&lt;Magyarázat&gt;</message>
+    </item>
+    <item id="PBX system alarm can be sent to programmed e-mail address. Local alarm feature should be enabled for your extension by PBX Unified Maintenance Console.">
+      <message>Alközponti rendszer riasztás küldhető a megadott e-mail címre. A helyi riasztás funkciót engedélyezni kell a melléken a programozó konzol segítségével.</message>
+    </item>
+    <item id="Extension Setting">
+      <message>Mellékállomás beállítás</message>
+    </item>
+    <item id="&amp;FWD/DND">
+      <message>&amp;Átirányítás/DND</message>
+    </item>
+    <item id="Ext Pin Clear">
+      <message>Mellékállomási PIN kód törlése</message>
+    </item>
+    <item id="Wake Up Call">
+      <message>Ébresztés</message>
+    </item>
+    <item id="Extension &amp;Lock">
+      <message>Mellékállomás &amp;lezárása</message>
+    </item>
+    <item id="Extension &amp;Unlock">
+      <message>Mellékállomás &amp;lezárás feloldása</message>
+    </item>
+    <item id="Clearing Extension PIN OK?">
+      <message>Mellékállomás PIN törlés OK?</message>
+    </item>
+    <item id="PC Console">
+      <message>PC konzol</message>
+    </item>
+    <item id="Wake Up Call Setting">
+      <message>Ébresztés beállítás</message>
+    </item>
+    <item id="h">
+      <message>ó</message>
+    </item>
+    <item id="Daily Setting">
+      <message>Napi beállítás</message>
+    </item>
+    <item id="Daily">
+      <message>Naponta</message>
+    </item>
+    <item id="Once">
+      <message>Egyszer</message>
+    </item>
+    <item id="Number">
+      <message>Szám</message>
+    </item>
+    <item id="FWD/DND (Internal)">
+      <message>Átirányítás/DND (Belső)</message>
+    </item>
+    <item id="FWD/DND (External)">
+      <message>Átirányítás/DND (Külső)</message>
+    </item>
+    <item id="Display Lock">
+      <message>Kijelző lezárás</message>
+    </item>
+    <item id="Dial Lock">
+      <message>Tárcsázógomb lezárás / billentyűzet lezárás</message>
+    </item>
+    <item id="Wake Up">
+      <message>Ébresztés</message>
+    </item>
+    <item id="Lock">
+      <message>Lezárás</message>
+    </item>
+    <item id="&amp;Unlock">
+      <message>&amp;Feloldás</message>
+    </item>
+    <item id="On">
+      <message>Bekapcsolva</message>
+    </item>
+    <item id="Outside Line Group">
+      <message>Külső vonal csoport</message>
+    </item>
+    <item id="Outside Line Number">
+      <message>Külső vonal száma</message>
+    </item>
+    <item id="Status">
+      <message>Állapot</message>
+    </item>
+    <item id="Call secretary">
+      <message>Titkár hívása</message>
+    </item>
+    <item id="Contact List Group:">
+      <message>Kapcsolatlista csoport:</message>
+    </item>
+    <item id="Contact List Groups">
+      <message>Kapcsolatlista csoportok:</message>
+    </item>
+    <item id="&amp;New">
+      <message>&amp;Új</message>
+    </item>
+    <item id="Move D&amp;own">
+      <message>Mozgatás &amp;lefelé</message>
+    </item>
+    <item id="All">
+      <message>Mind</message>
+    </item>
+    <item id="Customise">
+      <message>Testreszabás</message>
+    </item>
+    <item id="Private">
+      <message>Saját</message>
+    </item>
+    <item id="Please enter a name">
+      <message>Kérjük, adjon be egy nevet</message>
+    </item>
+    <item id="Communication Assistant Pro">
+      <message>Kommunikációs asszisztens professzionális</message>
+    </item>
+    <item id="Are you sure you want to remove this record?">
+      <message>Biztosan el akarja távolítani ezt a rekordot?</message>
+    </item>
+    <item id="Contact Group Name:">
+      <message>Kapcs. csoport neve:</message>
+    </item>
+    <item id="Chat call back">
+      <message>Csevegés visszahívás</message>
+    </item>
+    <item id="is typing a message">
+      <message>éppen üzenetet ír</message>
+    </item>
+    <item id="Operator Console (CA Operator Console)">
+      <message>Kezelői konzol (CA Operator Console)</message>
+    </item>
+    <item id="Use Network">
+      <message>Használja a hálózatot</message>
+    </item>
+    <item id="IP Address of CA Server">
+      <message>CA szerver címe</message>
+    </item>
+    <item id="Local Address">
+      <message>Első</message>
+    </item>
+    <item id="Remote Address">
+      <message>Második</message>
+    </item>
+    <item id="FQDN Error">
+      <message>FQDN Hiba</message>
+    </item>
+    <item id="You can log-in to Operator Console Trial for now">
+      <message>Most beléphet a Kezelői konzol próba üzemmódba</message>
+    </item>
+    <item id="The number of license is not enough. Do you continue to login without network?">
+      <message>A licenc szám nem elég. Folytatja a belépést hálózat nélkül?</message>
+    </item>
+    <item id="Function Name:">
+      <message>Funkció név:</message>
+    </item>
+    <item id="Function is executed automatically when CA is started.">
+      <message>A funkció automatikusan végrehajtásra kerül a CA indításakor.</message>
+    </item>
+    <item id="Function is executed automatically when CA is closed.">
+      <message>A funkció automatikusan végrehajtásra kerül a CA bezárásakor.</message>
+    </item>
+    <item id="My Contact">
+      <message>Saját kapcsolat</message>
+    </item>
+    <item id="Paging (Flexible)">
+      <message>Személyk.(Rugalm)</message>
+    </item>
+    <item id="Account Code">
+      <message>Díjközlési kód</message>
+    </item>
+    <item id="Extension Call">
+      <message>Mellékállomási hívás</message>
+    </item>
+    <item id="Group Call">
+      <message>Csoporthívás</message>
+    </item>
+    <item id="Paging (Fixed)">
+      <message>Személyk. (fix)</message>
+    </item>
+    <item id="Parameter:">
+      <message>Paraméter:</message>
+    </item>
+    <item id="Label:">
+      <message>Címke:</message>
+    </item>
+    <item id="Please enter Group No.">
+      <message>Kérjük, adja be a csoportszámot.</message>
+    </item>
+    <item id="CA Pro License is required">
+      <message>CA Pro licenc szükséges</message>
+    </item>
+    <item id="Missing or unregistered client.">
+      <message>Hiányzó vagy nem regisztrált kliens.</message>
+    </item>
+    <item id="Failed to open email software.">
+      <message>Az email szoftver megnyitása nem sikerült.</message>
+    </item>
+    <item id="Name:">
+      <message>Név:</message>
+    </item>
+    <item id="Find">
+      <message>Keresés</message>
+    </item>
+    <item id="Call this contact">
+      <message>Hívja ezt a kapcsolatot</message>
+    </item>
+    <item id="Add to contact list">
+      <message>Hozzáadás a kapcsolatlistához</message>
+    </item>
+    <item id="Email Address">
+      <message>Email cím</message>
+    </item>
+    <item id="Cannot connect to server.">
+      <message>Nem lehet csatlakozni a szerverhez.</message>
+    </item>
+    <item id="No results found.">
+      <message>Nincs eredmény.</message>
+    </item>
+    <item id="Number of search result exceeded the limit. Only first 100 results shown.">
+      <message>A keresési eredmények száma túllépte a korlátot. Csak az első 100 eredmény látható.</message>
+    </item>
+    <item id="Error while searching for results.">
+      <message>Hiba az eredmények keresésekor.</message>
+    </item>
+    <item id="Cannot make call. No telephone number.">
+      <message>Nem lehet hívást kezdeményezni. Nincs telefonszám.</message>
+    </item>
+    <item id="&amp;New...">
+      <message>&amp;Új…</message>
+    </item>
+    <item id="Cannot add more than 10 servers to list.">
+      <message>A listához nem lehet 10 szervernél többet hozzáadni.</message>
+    </item>
+    <item id="LDAP Server settings">
+      <message>LDAP szerver beállítások</message>
+    </item>
+    <item id="Server Address:">
+      <message>Szerver cím:</message>
+    </item>
+    <item id="Port Number:">
+      <message>Port szám:</message>
+    </item>
+    <item id="Account Name:">
+      <message>Fióknév:</message>
+    </item>
+    <item id="Password:">
+      <message>Jelszó:</message>
+    </item>
+    <item id="Use SSL">
+      <message>SSL használata</message>
+    </item>
+    <item id="Ok">
+      <message>OK</message>
+    </item>
+    <item id="Server address cannot be empty.">
+      <message>A szerver címet nem lehet üresen hagyni.</message>
+    </item>
+    <item id="Invalid port number.">
+      <message>Érvénytelen port szám.</message>
+    </item>
+    <item id="Account name / password cannot be empty.">
+      <message>A fióknevet / jelszót nem lehet üresen hagyni.</message>
+    </item>
+    <item id="Park (Auto)">
+      <message>Parkolás (Automatikus)</message>
+    </item>
+    <item id="Park (Manual)">
+      <message>Parkolás (Manuális)</message>
+    </item>
+    <item id="Call waiting tone">
+      <message>Várakozó hívás hangjelzés</message>
+    </item>
+    <item id="login now">
+      <message>belépés most</message>
+    </item>
+    <item id="chat is disabled. Callback is cancelled.">
+      <message>csevegés letiltva. Visszahívás törölve.</message>
+    </item>
+    <item id="Extension">
+      <message>Mellékállomás</message>
+    </item>
+    <item id="Extension PIN Clear">
+      <message>Mellékállomási PIN törlés</message>
+    </item>
+    <item id="Transfer to phone (Office): ">
+      <message>Hívásátadás (Munkahelyire) :</message>
+    </item>
+    <item id="Transfer to phone (Mobile): ">
+      <message>Hívásátadás (Mobilra) :</message>
+    </item>
+    <item id="Transfer to phone (Home): ">
+      <message>Hívásátadás (Otthonira) :</message>
+    </item>
+    <item id="Transfer to phone (secretary): ">
+      <message>Hívásátadás (titkárra) :</message>
+    </item>
+    <item id="Email this contact">
+      <message>Küldjön emailt erre a helyre</message>
+    </item>
+    <item id="Key-1">
+      <message>Kulcs-1</message>
+    </item>
+    <item id="Key-2">
+      <message>Kulcs-2</message>
+    </item>
+    <item id="Key-3">
+      <message>Kulcs-3</message>
+    </item>
+    <item id="Key-4">
+      <message>Kulcs-4</message>
+    </item>
+    <item id="Key-5">
+      <message>Kulcs-5</message>
+    </item>
+    <item id="Key-6">
+      <message>Kulcs-6</message>
+    </item>
+    <item id="Key-7">
+      <message>Kulcs-7</message>
+    </item>
+    <item id="Key-8">
+      <message>Kulcs-8</message>
+    </item>
+    <item id="Key-9">
+      <message>Kulcs-9</message>
+    </item>
+    <item id="Key-10">
+      <message>Kulcs-10</message>
+    </item>
+    <item id="Key-11">
+      <message>Kulcs-11</message>
+    </item>
+    <item id="Key-12">
+      <message>Kulcs-12</message>
+    </item>
+    <item id="Select by group number">
+      <message>Válassza ki csoportszámmal</message>
+    </item>
+    <item id="Group number: 01">
+      <message>Csoportszám: 01</message>
+    </item>
+    <item id="Group number: 02">
+      <message>Csoportszám: 02</message>
+    </item>
+    <item id="Group number: 03">
+      <message>Csoportszám: 03</message>
+    </item>
+    <item id="Group number: 04">
+      <message>Csoportszám: 04</message>
+    </item>
+    <item id="Group number: 05">
+      <message>Csoportszám: 05</message>
+    </item>
+    <item id="Group number: 06">
+      <message>Csoportszám: 06</message>
+    </item>
+    <item id="Group number: 07">
+      <message>Csoportszám: 07</message>
+    </item>
+    <item id="Group number: 08">
+      <message>Csoportszám: 08</message>
+    </item>
+    <item id="Group number: 09">
+      <message>Csoportszám: 09</message>
+    </item>
+    <item id="Group number: 10">
+      <message>Csoportszám: 10</message>
+    </item>
+    <item id="Group number: 11">
+      <message>Csoportszám: 11</message>
+    </item>
+    <item id="Group number: 12">
+      <message>Csoportszám: 12</message>
+    </item>
+    <item id="Group number: 13">
+      <message>Csoportszám: 13</message>
+    </item>
+    <item id="Group number: 14">
+      <message>Csoportszám: 14</message>
+    </item>
+    <item id="Group number: 15">
+      <message>Csoportszám: 15</message>
+    </item>
+    <item id="Group number: 16">
+      <message>Csoportszám: 16</message>
+    </item>
+    <item id="Group number: 17">
+      <message>Csoportszám: 17</message>
+    </item>
+    <item id="Group number: 18">
+      <message>Csoportszám: 18</message>
+    </item>
+    <item id="Group number: 19">
+      <message>Csoportszám: 19</message>
+    </item>
+    <item id="Group number: 20">
+      <message>Csoportszám: 20</message>
+    </item>
+    <item id="Group number: 21">
+      <message>Csoportszám: 21</message>
+    </item>
+    <item id="Group number: 22">
+      <message>Csoportszám: 22</message>
+    </item>
+    <item id="Group number: 23">
+      <message>Csoportszám: 23</message>
+    </item>
+    <item id="Group number: 24">
+      <message>Csoportszám: 24</message>
+    </item>
+    <item id="Group number: 25">
+      <message>Csoportszám: 25</message>
+    </item>
+    <item id="Group number: 26">
+      <message>Csoportszám: 26</message>
+    </item>
+    <item id="Group number: 27">
+      <message>Csoportszám: 27</message>
+    </item>
+    <item id="Group number: 28">
+      <message>Csoportszám: 28</message>
+    </item>
+    <item id="Group number: 29">
+      <message>Csoportszám: 29</message>
+    </item>
+    <item id="Group number: 30">
+      <message>Csoportszám: 30</message>
+    </item>
+    <item id="Group number: 31">
+      <message>Csoportszám: 31</message>
+    </item>
+    <item id="Group number: 32">
+      <message>Csoportszám: 32</message>
+    </item>
+    <item id="Please enter Group Number.">
+      <message>Kérjük, adja be a csoportszámot.</message>
+    </item>
+    <item id="&amp;Edit...">
+      <message>&amp;Szerkesztés…</message>
+    </item>
+    <item id="Please enter a group name.">
+      <message>Kérjük, adjon be egy csoportnevet.</message>
+    </item>
+    <item id="Unable load user Profile.">
+      <message>Nem lehet betölteni a felhasználói profilt.</message>
+    </item>
+    <item id="Request Fail.">
+      <message>A kérés sikertelen.</message>
+    </item>
+    <item id="Fail to connect to the selected Network Server.">
+      <message>Nem sikerül a kapcsolódás a kiválasztott hálózati szerverhez.</message>
+    </item>
+    <item id="Network Call Flag">
+      <message>Hálózati hívás jelző</message>
+    </item>
+    <item id="Connection with Network Server is Disconnected, CA will connect back to Own Server.">
+      <message>A hálózati szerverrel megszakadt a kapcsolat, a CA visszakapcsol a saját szerverre.</message>
+    </item>
+    <item id="Call Park">
+      <message>Hívás parkolás</message>
+    </item>
+    <item id="Park Number">
+      <message>Parkolási szám</message>
+    </item>
+    <item id="Function Name">
+      <message>Funkció név</message>
+    </item>
+    <item id="Start date and time">
+      <message>Kezdés dátuma és ideje</message>
+    </item>
+    <item id="End date and time">
+      <message>Befejezés dátuma és ideje</message>
+    </item>
+    <item id="Function List - Schedule">
+      <message>Funkciólista - Ütemezés</message>
+    </item>
+    <item id="Function name for End :">
+      <message>Funkciónév a befejezéshez :</message>
+    </item>
+    <item id="Callback message was cancelled for the timeout.">
+      <message>A visszahívás üzenet időtúllépés miatt törlődött.</message>
+    </item>
+    <item id="Outside Line : ">
+      <message>Külső vonal :</message>
+    </item>
+    <item id="DEFAULT LDAP SRV">
+      <message>ALAPÉRT.LDAP SRV</message>
+    </item>
+    <item id="Searching for LDAP contacts...">
+      <message>LDAP kapcsolatok keresése...</message>
+    </item>
+    <item id="Connecting to LDAP server...">
+      <message>Csatlakozás az LDAP szerverhez...</message>
+    </item>
+    <item id="Location:">
+      <message>Hely:</message>
+    </item>
+    <item id="LDAP Location List">
+      <message>LDAP hely lista</message>
+    </item>
+    <item id="Are you sure you want to delete this location?">
+      <message>Biztosan törli ezt a helyet?</message>
+    </item>
+    <item id="Cannot add new location. Location already exists. Do you want to edit existing location instead?">
+      <message>Nem lehet új helyet hozzáadni. A hely már létezik. Helyette inkább szerkeszteni kívánja a meglévő helyet?</message>
+    </item>
+    <item id="Location cannot be empty.">
+      <message>A helyet nem lehet üresen hagyni.</message>
+    </item>
+    <item id="Location cannot be the same as server address.">
+      <message>A hely nem egyezhet meg a szerver címmel.</message>
+    </item>
+    <item id="&amp;LDAP Link">
+      <message>&amp;LDAP link</message>
+    </item>
+    <item id="Function Key:">
+      <message>Funkciógomb:</message>
+    </item>
+    <item id="Outside &amp;Line Group">
+      <message>Külső &amp;vonal csoport</message>
+    </item>
+    <item id="Incoming Group">
+      <message>Bejövő csoport</message>
+    </item>
+    <item id="Icon">
+      <message>Ikon</message>
+    </item>
+    <item id="List">
+      <message>Lista</message>
+    </item>
+    <item id="Contact List Display Format">
+      <message>Kapcsolat lista megjelenési formátuma</message>
+    </item>
+    <item id="This is the default group. Default group cannot be deleted.">
+      <message>Ez az alapértelmezett csoport. Az alapértelmezett csoportot nem lehet törölni.</message>
+    </item>
+    <item id="The password supplied does not meet the minimum complexity requirement. \n Please select another password that meet all of the following  criteria: \n -is at least 5 characters; \n-not same as extension number;\n-must contains different data types (nemera">
+      <message>A megadott jelszó nem elégíti ki a minimális összetettségi követelményt. \n Kérjük, válasszon másik jelszót, hogy megfeleljen az alábbi kritériumok mindegyikének: \n -legalább 5 karakteres; \n-nem azonos a mellékállomási hívószámmal;\n-különböző adattípusokat tartalmaz (számokat, betűket)</message>
+    </item>
+    <item id="The maximum contact group had been registered. To add a new contact group, please delete some contact group.">
+      <message>Már a maximális számú kapcsolatcsoport van tárolva. Egy új kapcsolatcsoport hozzáadásához kérjük, töröljön néhány kapcsolatcsoportot.</message>
+    </item>
+    <item id="Cannot log in. This may be cause by one of the following causes: \n -you entered an incorrect password \n -The extension number does not exist.">
+      <message>Nem lehet belépni. Ezt az alábbiak egyike okozhatja: \n –hibás jelszót adott meg \n –A mellékállomási hívószám nem létezik.</message>
+    </item>
+    <item id="Unable to set user profile.">
+      <message>Nem lehet beállítani a felhasználói profilt</message>
+    </item>
+    <item id="Uable to delete the selected user profile.">
+      <message>Nem lehet törölni a kiválasztott felhasználói profilt.</message>
+    </item>
+    <item id="Available Contact">
+      <message>Elérhető kapcsolat</message>
+    </item>
+    <item id="Available Contact (External Server Mode Only)">
+      <message>Elérhető kapcsolat (Csak külső szerver üzemmódban)</message>
+    </item>
+    <item id="Secretary">
+      <message>Titkár</message>
+    </item>
+    <item id="Duration : ">
+      <message>Időtartam :</message>
+    </item>
+    <item id="Absent Message Icon List">
+      <message>Üzenethagyás ikon lista</message>
+    </item>
+    <item id="Do Not Disturb Icon">
+      <message>Ne zavarj ikon</message>
+    </item>
+    <item id="Are you sure want to delete?">
+      <message>Biztos abban, hogy törli?</message>
+    </item>
+    <item id="Add">
+      <message>Hozzáadás</message>
+    </item>
+    <item id="Fail to forward. Phone number is exceeded 32 digits">
+      <message>Átirányítási hiba. A telefonszám hosszabb 32 számjegynél</message>
+    </item>
+    <item id="Acquiring Ldap info from server.">
+      <message>Ldap információ lekérdezése a szerverről.</message>
+    </item>
+    <item id="Unable to get Ldap info from Server.">
+      <message>Nem lehet lekérdezni az Ldap információt a szervertől.</message>
+    </item>
+    <item id="&amp;Location:">
+      <message>&amp;Hely:</message>
+    </item>
+    <item id="Clear Forward / Do Not Disturb">
+      <message>Átirányítás/Ne zavarj törlése</message>
+    </item>
+    <item id="Forward VM : ">
+      <message>Átirányítás hangpostára :</message>
+    </item>
+    <item id="Forward Phone (Home) : ">
+      <message>Átirányítás (Otthonira):</message>
+    </item>
+    <item id="Forward Phone (Mobile) : ">
+      <message>Átirányítás (Mobilra):</message>
+    </item>
+    <item id="Forward Phone (Secretary) : ">
+      <message>Átirányítás (Titkárra):</message>
+    </item>
+    <item id="Advanced setting">
+      <message>Speciális beállítás</message>
+    </item>
+    <item id="Connection to the PBX is lost. Call control functions will no longer work.">
+      <message>Megszakadt a kapcsolat az alközponttal. A hívásvezérlés funkciók tovább nem működnek.</message>
+    </item>
+    <item id="Connection to the PBX has been regained.">
+      <message>Visszaállt a kapcsolat az alközponttal.</message>
+    </item>
+    <item id="&amp;Log-in">
+      <message>&amp;Bejelentkezés</message>
+    </item>
+    <item id="Log-&amp;out">
+      <message>Ki&amp;jelentkezés</message>
+    </item>
+    <item id="&amp;More">
+      <message>&amp;Továbbiak</message>
+    </item>
+    <item id="Call phone (&amp;Office): ">
+      <message>Telefonhívás (&amp;Munkahelyi):</message>
+    </item>
+    <item id="Call phone (&amp;Mobile): ">
+      <message>Telefonhívás (&amp;Mobil):</message>
+    </item>
+    <item id="Call phone (Hom&amp;e): ">
+      <message>Telefonhívás (Ottho&amp;ni) :</message>
+    </item>
+    <item id="Transfer to phone (&amp;Office): ">
+      <message>Hívásátadás (&amp;Munkahelyire) :</message>
+    </item>
+    <item id="Transfer to phone (&amp;Mobile): ">
+      <message>Hívásátadás (&amp;Mobilra) :</message>
+    </item>
+    <item id="Transfer to phone (Hom&amp;e): ">
+      <message>Hívásátadás (Ottho&amp;nira) :</message>
+    </item>
+    <item id="Call phone (Secretar&amp;y): ">
+      <message>Telefonhívás (Tit&amp;kár):</message>
+    </item>
+    <item id="Leave vo&amp;ice message">
+      <message>Hagyjon hang&amp;üzenetet</message>
+    </item>
+    <item id="Se&amp;nd E-mail : ">
+      <message>E-mail kül&amp;dés :</message>
+    </item>
+    <item id="Access &amp;Web">
+      <message>Web &amp;oldal elérés</message>
+    </item>
+    <item id="Start c&amp;hat">
+      <message>Indítsa a cse&amp;vegést</message>
+    </item>
+    <item id="Chat call &amp;back">
+      <message>Csevegés &amp;visszahívás</message>
+    </item>
+    <item id="Transfer to phone (Secretar&amp;y): ">
+      <message>Hívásátadás (Tit&amp;kárra):</message>
+    </item>
+    <item id="&amp;Get Latest Report">
+      <message>&amp;Legutóbbi jelentés lekérdezése</message>
+    </item>
+    <item id="Extension &amp;Pin Clear">
+      <message>Mellékállomási &amp;PIN törlés</message>
+    </item>
+    <item id="&amp;Wake Up">
+      <message>&amp;Ébresztés</message>
+    </item>
+    <item id="&amp;Absent Message ">
+      <message>&amp;Üzenethagyás</message>
+    </item>
+    <item id="&amp;Extension">
+      <message>&amp;Mellékállomás</message>
+    </item>
+    <item id="&amp;Lock">
+      <message>&amp;Lezárás</message>
+    </item>
+    <item id="&amp;Wake Up Call">
+      <message>&amp;Ébresztés</message>
+    </item>
+    <item id="Ext &amp;Pin Clear">
+      <message>Mellékállomási &amp;PIN kód törlése</message>
+    </item>
+    <item id="&amp;Call this contact">
+      <message>&amp;Hívja ezt a kapcsolatot</message>
+    </item>
+    <item id="&amp;Add to contact list">
+      <message>&amp;Hozzáadás a kapcsolatlistához</message>
+    </item>
+    <item id="&amp;Email this contact">
+      <message>&amp;Küldjön emailt erre a helyre</message>
+    </item>
+    <item id="&amp;Name:">
+      <message>&amp;Név:</message>
+    </item>
+    <item id="Please select another password with at least 5 characters, not same as \nextension number, and contains at least two of the following three character \ngroups: English uppercase (A through Z) or lowercase (a through z) characters; \nNumerals (0-9); Non-alphabetic characters (*,#).">
+      <message>Kérjük, válasszon másik, legalább 5 karakteres jelszót, ami nem egyezik a \nmellék számával és legalább 2-t tartalmaz a köv. 3 karakter \ncsoportból: Angol nagybetűk (A-Z) vagy kisbetűk (a-z); \nszámok (0-9); nem alfabetikus karakterek (*,#).</message>
+    </item>
+    <item id="Server is busy. Please try to login later.">
+      <message>A szerver foglalt. Kérjük, próbálkozzon később a belépéssel.</message>
+    </item>
+    <item id="Option">
+      <message>Opció</message>
+    </item>
+    <item id="Forward/Do Not Disturb">
+      <message>Átirányítás/Ne zavarj</message>
+    </item>
+    <item id="Cannot log in. This may be caused by one of the following causes: \n - you entered an incorrect password \n - the extension number does not exist.">
+      <message>Bejelentkezés nem lehetséges. Ennek az oka az alábbiak egyike lehet: \n - nem megfelelő jelszót írt be \n - a mellékállomás száma nem létezik.</message>
+    </item>
+    <item id="Unable to load User Profile.">
+      <message>A felhasználói profil betöltése nem lehetséges.</message>
+    </item>
+    <item id="Language file not found, CA will use default language (English)">
+      <message>A nyelv fájl nem található, a CA program az alapértelmezett nyelvet fogja használni (angol)</message>
+    </item>
+    <item id="&amp;Add">
+      <message>&amp;Hozzáadás</message>
+    </item>
+    <item id="A&amp;dd">
+      <message>H&amp;ozzáadás</message>
+    </item>
+    <item id="De&amp;lete">
+      <message>Tör&amp;lés</message>
+    </item>
+    <item id="Dele&amp;te">
+      <message>Törl&amp;és</message>
+    </item>
+    <item id="&amp;Server Address:">
+      <message>&amp;Szerver címe:</message>
+    </item>
+    <item id="Port &amp;Number:">
+      <message>Port &amp;Szám:</message>
+    </item>
+    <item id="&amp;Account Name:">
+      <message>&amp;Fióknév:</message>
+    </item>
+    <item id="&amp;Password:">
+      <message>&amp;Jelszó:</message>
+    </item>
+    <item id="Advanced Setting">
+      <message>Speciális beállítás</message>
+    </item>
+    <item id="Server is busy, Please try later.">
+      <message>A szerver foglalt. Próbálja meg később.</message>
+    </item>
+    <item id="The image file is not valid, CA is unable to load the image file.">
+      <message>A kép fájl neve nem érvényes, a CA program nem tudja megnyitni a kép fájlt.</message>
+    </item>
+    <item id="Dutch">
+      <message>Nederlands</message>
+    </item>
+    <item id="Polish">
+      <message>Polski</message>
+    </item>
+    <item id="Croatian ">
+      <message>Hrvatski</message>
+    </item>
+    <item id="Hungarian ">
+      <message>Magyar</message>
+    </item>
+    <item id="Czech ">
+      <message>Česky</message>
+    </item>
+    <item id="PBX Connection Lost …">
+      <message>Megszakadt a kapcsolat az alközponttal …</message>
+    </item>
+    <item id="Log-in to the group">
+      <message>Belépés a csoportba</message>
+    </item>
+    <item id="Log-out from the group">
+      <message>Kilépés a csoportból</message>
+    </item>
+    <item id="Se&amp;nd E-mail: ">
+      <message>Küld&amp;jön e-mailt</message>
+    </item>
+    <item id="Start C&amp;hat">
+      <message>Indítsa a cs&amp;evegést</message>
+    </item>
+    <item id="Save">
+      <message>Mentés</message>
+    </item>
+    <item id="&amp;Extension Setting">
+      <message>&amp;Mellékállomás beállítás</message>
+    </item>
+    <item id="Phone (Secretary):">
+      <message>Telefon (Titkár):</message>
+    </item>
+    <item id="Cannot login PBX mode in Thin Client environment.">
+      <message>Alközpont üzemmódban a bejelentkezés nem lehetséges vékony kliens környezet esetén.</message>
+    </item>
+    <item id="Local Alarm Message:">
+      <message>Helyi riasztási üzenet:</message>
+    </item>
+    <item id="&amp;Speed Dial">
+      <message>&amp;Gyorstárcsázás</message>
+    </item>
+    <item id="Call phone (Secretary): ">
+      <message>Telefonhívás (Titkár):</message>
+    </item>
+    <item id="&amp;Ok">
+      <message>&amp;OK</message>
+    </item>
+    <item id="Total Incoming Call">
+      <message>Össz. bejövő hívás</message>
+    </item>
+    <item id="Overflow Call">
+      <message>Túlcsorduló hívások</message>
+    </item>
+    <item id="Average Waiting Time">
+      <message>Átl. várakozási idő</message>
+    </item>
+    <item id="This Console feature is beta version.">
+      <message>Ez a Console funkció beta verzió.</message>
+    </item>
+    <item id="Communication Assistant failed to log in.\nPlease try to log in again.">
+      <message>A Kommunikációs Asszisztens bejelentkezése nem sikerült.\nKérjük, jelentkezzen be újra.</message>
+    </item>
+    <item id="&amp;View this contact">
+      <message>&amp;Kapcsolat megtekintése</message>
+    </item>
+    <item id="Open Doo&amp;r">
+      <message>Ajt&amp;ó nyit</message>
+    </item>
+    <item id="Open Door">
+      <message>Ajtó nyit</message>
+    </item>
+    <item id="Call D&amp;oorphone">
+      <message>A&amp;jtótel hívás</message>
+    </item>
+    <item id="Call Doorphone">
+      <message>Ajtótel hívás</message>
+    </item>
+    <item id="Search / Dial">
+      <message>Keres / Tárcs</message>
+    </item>
+    <item id="Combine Search and Dial">
+      <message>Keres és Tárcs egyszerre</message>
+    </item>
+    <item id="Call Control Display Mode">
+      <message>Hívás ell / Kijelző mód</message>
+    </item>
+    <item id="Extension Setting Authentication Setting">
+      <message>Mellékáll. beáll. / Hitelesítési beáll.</message>
+    </item>
+    <item id="Settings below are needed to get information from PBX">
+      <message>Lenti beállítások szükségesek az alközp infokhoz</message>
+    </item>
+    <item id="Maintenance Port Number">
+      <message>Karbantartás Port Szám</message>
+    </item>
+    <item id="Absent message is assigned automatically when PC is not used pre programmed time.">
+      <message>Ha a PC-t nem használják az előre beáll. ideig, automat. "Üzenethagyás" konfig.</message>
+    </item>
+    <item id="Unable to establish chat with own extension number.">
+      <message>Chat létrehoz. a saját mellékáll-sal nem lehetséges.</message>
+    </item>
+    <item id="Contact list successfully exported.">
+      <message>Kapcsolatlista export sikeres</message>
+    </item>
+    <item id="Contact list unable to export. An error occur during the exportation">
+      <message>Kapcsolatlista exp. nem lehetséges. Hiba az exportálás közben.</message>
+    </item>
+    <item id="Use Extension Setting feature">
+      <message>Mellékáll. beáll. használata</message>
+    </item>
+    <item id="\&quot;Extension Setting\&quot; menu is not available temporarily because PBX information is not retrieved.\nPlease ask your PBX administrator.">
+      <message>\"Mellékáll. beáll."\ menü ideigl. nem érhető el, mert a PBX inform lekérése sikertelen.\nKérdezze az alközpont üzemeltetőjét</message>
+    </item>
+    <item id="Automatic unscreened transfer">
+      <message>Aut. bejelentés nélküli átkapcsolás</message>
+    </item>
+    <item id="Automatic Unscreened Transfer for Operator Console">
+      <message>Aut. bejelentés nélküli átkapcs. kezelői konzolról</message>
+    </item>
+    <item id="Standard user (CA Basic-Express)">
+      <message>Normál felhasználó (CA Basic-Express)</message>
+    </item>
+    <item id="You can log-in to Basic-Express mode for now">
+      <message>Most beléphet a Basic-Express módba.</message>
+    </item>
+    <item id="Limitations for Basic-Express mode:">
+      <message>Korlátozások Basic-Express mód esetén:</message>
+    </item>
+    <item id="Sound">
+      <message>Hang</message>
+    </item>
+    <item id="Mute">
+      <message>Némítás</message>
+    </item>
+    <item id="Move to Dial Box">
+      <message>Ugrás a tárcsázó ablakba</message>
+    </item>
+    <item id="Answer">
+      <message>Hívásfogadás</message>
+    </item>
+    <item id="Redirect">
+      <message>Újrairányítás</message>
+    </item>
+    <item id="Write Memo">
+      <message>Megjegyzés írás</message>
+    </item>
+    <item id="Set Call Back">
+      <message>Visszahívás beállítás</message>
+    </item>
+    <item id="Call waiting tone">
+      <message>Várakozó hívás hangjelzés</message>
+    </item>
+    <item id="Listen in">
+      <message>Behallgatás</message>
+    </item>
+    <item id="Override(Conference)">
+      <message>Belépés (Konferencia)</message>
+    </item>
+    <item id="Take Over">
+      <message>Átvétel</message>
+    </item>
+    <item id="Start Chat">
+      <message>Indítsa a csevegést</message>
+    </item>
+    <item id="Move Call focus(up)">
+      <message>Hívás fókusz beállítása (fel)</message>
+    </item>
+    <item id="Move Call focus(down)">
+      <message>Hívás fókusz beállítása (le)</message>
+    </item>
+    <item id="Group Conference">
+      <message>Csoportos konferencia</message>
+    </item>
+    <item id="Total length of Email-to-SMS address(es) exceeded the maximum limit.\n\nYour Email-to-SMS address(es) may be truncated.">
+      <message>Az E-mail-az-SMSre címek teljes hossza elérte a maximális limitet.\n\nAz E-mail-az-SMSre címlistájának egy része levágásra kerülhet.</message>
+    </item>
+    <item id="Office">
+      <message>Iroda</message>
+    </item>
+    <item id="PBX Code">
+      <message>Alközponti kód</message>
+    </item>
+    <item id="Mobile">
+      <message>Mobil</message>
+    </item>
+    <item id="Home">
+      <message>Otthoni</message>
+    </item>
+    <item id="Secretary">
+      <message>Titkár</message>
+    </item>
+    <item id="&amp;Office">
+      <message>&amp;Iroda</message>
+    </item>
+    <item id="&amp;PBX Code">
+      <message>&amp;Alközponti kód</message>
+    </item>
+    <item id="Mo&amp;bile">
+      <message>Mo&amp;bil</message>
+    </item>
+    <item id="&amp;Home">
+      <message>&amp;Otthoni</message>
+    </item>
+    <item id="&amp;Secretary">
+      <message>&amp;Titkár</message>
+    </item>
+    <item id="&amp;E-mail">
+      <message>&amp;E-mail</message>
+    </item>
+    <item id="S&amp;MS">
+      <message>S&amp;MS</message>
+    </item>
+    <item id="CRM Integration">
+      <message>CRM integráció</message>
+    </item>
+    <item id="Add Member To Co&amp;nference">
+      <message>Tag hozzáadása a ko&amp;nferenciához</message>
+    </item>
+    <item id="Conference Group">
+      <message>Konferencia csoport</message>
+    </item>
+    <item id="Conference Room">
+      <message>Konferencia terem</message>
+    </item>
+    <item id="ID">
+      <message>Azonosító</message>
+    </item>
+    <item id="Conference Setting">
+      <message>Konferencia beállítás</message>
+    </item>
+    <item id="Name:">
+      <message>Név:</message>
+    </item>
+    <item id="PIN:">
+      <message>PIN:</message>
+    </item>
+    <item id="Number:">
+      <message>Szám:</message>
+    </item>
+    <item id="Add New Member">
+      <message>Új tag hozzáadása</message>
+    </item>
+    <item id="Number already exist">
+      <message>A szám már létezik.</message>
+    </item>
+    <item id="&amp;End Conference">
+      <message>&amp;Konferencia befejezése</message>
+    </item>
+    <item id="You are invited to this conference. Do you want to accept?">
+      <message>Önt meghívták erre a konferenciára. Elfogadja?</message>
+    </item>
+    <item id="Invitation">
+      <message>Meghívás</message>
+    </item>
+    <item id="Join">
+      <message>Csatlakozás</message>
+    </item>
+    <item id="Start">
+      <message>Indítás</message>
+    </item>
+    <item id="Disconnect">
+      <message>Bontás</message>
+    </item>
+    <item id="32 (Default: one-way)">
+      <message>33 (Alapértelmezett: egyutas)</message>
+    </item>
+    <item id="8 (Default: two-way)">
+      <message>9 (Alapértelmezett: kétutas)</message>
+    </item>
+    <item id="I would like to join this conference.\nCould you please add me into this conference?">
+      <message>Szeretnék csatlakozni ehhez a konferenciához.\nHozzá tudna adni ehhez a konferenciához?</message>
+    </item>
+    <item id="Empty Slot - Add Party">
+      <message>Szabad hely - Résztvevő hozzáadása</message>
+    </item>
+    <item id="Empty Slot">
+      <message>Szabad hely</message>
+    </item>
+    <item id="Invite">
+      <message>Meghívás</message>
+    </item>
+    <item id="Yes">
+      <message>Igen</message>
+    </item>
+    <item id="No">
+      <message>Nem</message>
+    </item>
+    <item id="Server is busy. Please try again later.">
+      <message>A szerver foglalt. Próbálja meg később.</message>
+    </item>
+    <item id="Conference members exceed the limit.">
+      <message>A konferencián résztvevők száma meghaladja a limitet.</message>
+    </item>
+    <item id="Please wait...">
+      <message>Kérem várjon…</message>
+    </item>
+    <item id="Conference room is not available.">
+      <message>A konferencia terem nem elérhető.</message>
+    </item>
+    <item id="No member in conference room.">
+      <message>Nincs résztvevő a konferencia teremben.</message>
+    </item>
+    <item id="Invalid group number.">
+      <message>Érvénytelen csoport szám.</message>
+    </item>
+    <item id="Network is busy.">
+      <message>A hálózat foglalt.</message>
+    </item>
+    <item id="Failed to start conference.">
+      <message>Konferencia indítása sikertelen.</message>
+    </item>
+    <item id="Do you want to remove this user from the conference?">
+      <message>El akarja távolítani ezt a felhasználót a konferenciából?</message>
+    </item>
+    <item id="Do you want to disconnect this member from the conference?">
+      <message>Bontani akarja ennek a tagnak a konferencia kapcsolatát?</message>
+    </item>
+    <item id="Conference details already deleted.">
+      <message>A konferencia részletei már törlődtek.</message>
+    </item>
+    <item id="The current members will be removed and replaced by new data. Do you want to continue?">
+      <message>A jelenlegi tagok eltávolításra kerülnek és lecserélődnek az új adatokra. Kívánja folytatni?</message>
+    </item>
+    <item id="Exceed maximum no. of group.">
+      <message>Csoportok maximális száma meghaladva.</message>
+    </item>
+    <item id="Do you want to end the conference?">
+      <message>Be akarja fejezni a konferenciát?</message>
+    </item>
+    <item id="Own extension is not allowed.">
+      <message>Saját mellék nem engedélyezett.</message>
+    </item>
+    <item id="The initiator is not CA user. Join cannot be done. Please dial the number which the conference initiator informed to you to join this conference.">
+      <message>A kezdeményező nem CA-felhasználó, a csatlakozás nem lehetséges. A konferenciába való belépéshez tárcsázza a konferenciahívás kezdeményezője által a belépéshez megadott hívószámot.</message>
+    </item>
+    <item id="Sorry, you are not able to join this conference.">
+      <message>Sajnos Ön nem tud ehhez a konferenciához csatlakozni.</message>
+    </item>
+    <item id="Are you sure you want to delete?">
+      <message>Biztos abban, hogy törölni kívánja?</message>
+    </item>
+    <item id="Name already exist.">
+      <message>A név már létezik.</message>
+    </item>
+    <item id="Do you want to save conference member?">
+      <message>El kívánja menteni a konferencia résztvevőit?</message>
+    </item>
+    <item id="Some of the items could not be added due to the reasons below:\n\n* Invalid contact type.\n* Duplicated phone number.\n* Own number is added.\n* Exceed the maximum member limit.\n* No phone number found.">
+      <message>Nem minden tétel hozzáadása sikerült az alábbi okok miatt:\n\n* Érvénytelen kapcsolat típus.\n* Duplikált telefonszám.\n* Saját szám került hozzáadásra.\n* Tagok maximális száma elérésre került.\n* Nincs telefonszám.</message>
+    </item>
+    <item id="Normal">
+      <message>Normál</message>
+    </item>
+    <item id="Mute">
+      <message>Némítás</message>
+    </item>
+    <item id="Send E-mail 1">
+      <message>Küldjön e-mailt 1</message>
+    </item>
+    <item id="Send E-mail 1:">
+      <message>Küldjön e-mailt 1:</message>
+    </item>
+    <item id="Send &amp;E-mail 1:">
+      <message>Küldjön &amp;e-mailt 1:</message>
+    </item>
+    <item id="Send E-mail 2:">
+      <message>Küldjön e-mailt 2:</message>
+    </item>
+    <item id="Se&amp;nd E-mail 2:">
+      <message>Kül&amp;djön e-mailt 2:</message>
+    </item>
+    <item id="E-mail 1:">
+      <message>E-mail 1:</message>
+    </item>
+    <item id="E-mail 1">
+      <message>E-mail 1</message>
+    </item>
+    <item id="&amp;E-mail 1">
+      <message>&amp;E-mail 1</message>
+    </item>
+    <item id="E-&amp;mail 2">
+      <message>E-&amp;mail 2</message>
+    </item>
+    <item id="E-mail 2:">
+      <message>E-mail 2:</message>
+    </item>
+    <item id="E-mail 2">
+      <message>E-mail 2</message>
+    </item>
+    <item id="Search All">
+      <message>Keresés mindnél</message>
+    </item>
+    <item id="Search">
+      <message>Keresés</message>
+    </item>
+    <item id="Call">
+      <message>Hívás</message>
+    </item>
+    <item id="E-mail">
+      <message>E-mail:</message>
+    </item>
+    <item id="Contact List">
+      <message>Kapcsolatlista</message>
+    </item>
+    <item id="Search CA contacts">
+      <message>CA kapcsolatok keresése</message>
+    </item>
+    <item id="Search LDAP contacts from following LDAP server">
+      <message>LDAP kapcsolatok keresése a következő LDAP szerverről</message>
+    </item>
+    <item id="&amp;Call this contact">
+      <message>&amp;Hívja ezt a kapcsolatot</message>
+    </item>
+    <item id="&amp;Email this contact">
+      <message>&amp;Küldje el e-mailben ezt a kapcsolatot</message>
+    </item>
+    <item id="&amp;Add to contact list">
+      <message>&amp;Hozzáadás a kapcsolatlistához</message>
+    </item>
+    <item id="Location">
+      <message>Hely</message>
+    </item>
+    <item id="&amp;Location">
+      <message>&amp;Hely</message>
+    </item>
+    <item id="No result found.">
+      <message>Nincs eredmény.</message>
+    </item>
+    <item id="No contact available to export.">
+      <message>Egy kapcsolat sem érhető el az exporthoz.</message>
+    </item>
+    <item id="Changes on the Network Server setting will reflect only in the next login.">
+      <message>A hálózati szerveren történt változtatások csak a következő bejelentkezés után lesznek érezhetők.</message>
+    </item>
+    <item id="All the my list contacts belong to this group will be deleted. \nAre you sure you want to remove this record?">
+      <message>A csoporthoz tartozó összes saját kapcsolatlista törlésre kerül. \nBiztos abban, hogy el akarja távolítani ezen adatokat?</message>
+    </item>
+    <item id="The maximum my list had been registered.To add a new my list,please delete some my list.">
+      <message>A saját listák maximális számát beregisztrálták. Új saját lista hozzáadásához töröljön néhányat a meglévő saját listák közül.</message>
+    </item>
+    <item id="Location:">
+      <message>Hely:</message>
+    </item>
+    <item id="Amount of contacts that you attempt to add is over the limit. To make new contacts, please delete some contacts in the contact list.">
+      <message>A hozzáadni kívánt kapcsolatok száma meghaladja a limitet. Új kapcsolatok hozzáadásához kérjük töröljön néhány kapcsolatot a kapcsolatlistából.</message>
+    </item>
+    <item id="Please specify a value between 1 and 65535.">
+      <message>Kérjük, adjon meg egy 1 és 65535 közötti értéket.</message>
+    </item>
+    <item id="No port number has been entered. Please enter a valid port number.">
+      <message>Nincs port szám beadva. Kérjük, adjon meg egy érvényes port számot.</message>
+    </item>
+    <item id="PBX Name">
+      <message>Alközpont neve</message>
+    </item>
+    <item id="Add to My List">
+      <message>Adja hozzá a Saját listámhoz</message>
+    </item>
+    <item id="Network Server">
+      <message>Hálózati szerver</message>
+    </item>
+    <item id="Network Server Information">
+      <message>Hálózati szerver információ</message>
+    </item>
+    <item id="Current Status">
+      <message>Jelenlegi állapot</message>
+    </item>
+    <item id="S&amp;earch All">
+      <message>Ke&amp;resés mindben</message>
+    </item>
+    <item id="Items">
+      <message>Elemek</message>
+    </item>
+    <item id="My List">
+      <message>Saját lista</message>
+    </item>
+    <item id="S&amp;earch All">
+      <message>Ke&amp;resés mindben</message>
+    </item>
+    <item id="MPR version is not supported.">
+      <message>Az MPR verzió nem támogatott.</message>
+    </item>
+    <item id="Operation failed.">
+      <message>Művelet sikertelen.</message>
+    </item>
+    <item id="Pickup">
+      <message>Átvesz</message>
+    </item>
+    <item id="C&amp;onference">
+      <message>K&amp;onferencia</message>
+    </item>
+    <item id="CRM Integration">
+      <message>CRM integráció</message>
+    </item>
+    <item id="Enable CRM Integration">
+      <message>CRM integráció engedélyezése</message>
+    </item>
+    <item id="Select format:">
+      <message>Válasszon formátumot:</message>
+    </item>
+    <item id="Select folder:">
+      <message>Válasszon mappát:</message>
+    </item>
+    <item id="Browse...">
+      <message>Böngészés…</message>
+    </item>
+    <item id="The output file path is empty. Please try again!">
+      <message>A kimeneti fájl elérési útja üres. Kérjük, próbálja meg újra!</message>
+    </item>
+    <item id="Invalid output file path. Please try again!">
+      <message>Érvénytelen kimeneti fájl elérési út. Kérjük, próbálja meg újra.</message>
+    </item>
+    <item id="The output file path is not accessible. Please try again!">
+      <message>A kimeneti fájl elérési útja nem érhető el. Kérjük, próbálja meg újra!</message>
+    </item>
+    <item id="The CRM Integration output file path set in Option is not accessible. \nThe CRM Integration might not work correctly.">
+      <message>A CRM integráció kimeneti fájl beállított elérési útja nem érhető el. \nA CRM integráció lehet, hogy nem fog megfelelően működni.</message>
+    </item>
+    <item id="&amp;Edit Conference Setting">
+      <message>&amp;Konferencia beállításainak szerkesztése</message>
+    </item>
+    <item id="&amp;Copy contact list from">
+      <message>&amp;Kapcsolatlista másolása innen</message>
+    </item>
+    <item id="&amp;Save contact list to">
+      <message>&amp;Kapcsolatlista mentése ide</message>
+    </item>
+    <item id="CSV file">
+      <message>CSV fájl</message>
+    </item>
+    <item id="XML file">
+      <message>XML fájl</message>
+    </item>
+    <item id="The result grid view encountered error. Please try again!">
+      <message>Az eredmény többképes megjelenítése közben hiba lépett fel. Kérjük, próbálja meg újra!</message>
+    </item>
+    <item id="There are data changes without save.\nDo you want to close?">
+      <message>Az adatok változtatása nem került elmentésre.\nBiztos benne, hogy be akarja zárni?</message>
+    </item>
+    <item id="row">
+      <message>sor</message>
+    </item>
+    <item id="column">
+      <message>oszlop</message>
+    </item>
+    <item id="Input validation error">
+      <message>Hiba a bevitt adatok érvényesítésekor</message>
+    </item>
+    <item id="Maximum input length reached">
+      <message>A maximális beviteli hossz elérésre került</message>
+    </item>
+    <item id="The selected items contain contact(s) displayed with [ ], the contact(s) will not be removed.">
+      <message>A kiválasztott elemek tartalmaznak [ ]-el megjelölt kapcsolatokat is, ezek a kapcsolatok nem kerülnek eltávolításra.</message>
+    </item>
+    <item id="Searching for contacts...">
+      <message>Kapcsolatok keresése…</message>
+    </item>
+    <item id="Error while searching for LDAP result.">
+      <message>Hiba az LDAP eredmények keresésekor.</message>
+    </item>
+    <item id="&amp;Extension Lock/Unlock">
+      <message>&amp;Mellékállomás lezárása/Feloldása</message>
+    </item>
+    <item id="Number of LDAP search result exceeds the limit. Only first 100 result entries displayed.">
+      <message>Az LDAP keresési eredmények száma túllépi a korlátot. Csak az első 100 eredmény látható.</message>
+    </item>
+    <item id="Connection to LDAP Server failed.">
+      <message>Sikertelen kapcsolódás az LDAP kiszolgálóhoz.</message>
+    </item>
+    <item id="This character cannot be assigned. (For Operator Console only)">
+      <message>Ez a karakter nem jelölhető ki (csak Kezelői konzol esetén).</message>
+    </item>
+    <item id="Personal contact data will not be assured if you connect to different Server/PBX from previous login.\nPlease check the data again.">
+      <message>Az elérhetőségi adatok biztonsága nem szavatolható, ha az előző bejelentkezéssel másik kiszolgálóhoz/alközponthoz csatlakozik.\nEllenőrizze újra az adatokat.</message>
+    </item>
+    <item id="Add to">
+      <message>Hozzáadás ehhez:</message>
+    </item>
+    <item id="Conference Group Setting">
+      <message>Konferenciacsoport beállítása</message>
+    </item>
+    <item id="Save Group">
+      <message>Csoport mentése</message>
+    </item>
+    <item id="Delete Group">
+      <message>Csoport törlése</message>
+    </item>
+    <item id="Delete Member">
+      <message>Csoporttag törlése</message>
+    </item>
+    <item id="Enable (without new contact window popup)">
+      <message>Engedélyezés (előugró új kapcsolat ablak nélkül)</message>
+    </item>
+    <item id="Enable (with new contact window popup)">
+      <message>Engedélyezés (előugró új kapcsolat ablakkal)</message>
+    </item>
+    <item id="Redirect the incoming call">
+      <message>Bejövő hívás továbbirányítása</message>
+    </item>
+    <item id="Remove the first \&quot;1\&quot; when caller ID is 11 digits">
+      <message>Első \"1\" levágása, ha a hívóazonosító 11 számjegyből áll</message>
+    </item>
+    <item id="Disconnected">
+      <message>Elbontva</message>
+    </item>
+    <item id="Network Connected">
+      <message>Csatlakoztatva</message>
+    </item>
+    <item id="Delete these contacts">
+      <message>Törölje ezeket a kapcsolatokat</message>
+    </item>
+    <item id="Port">
+      <message>Port</message>
+    </item>
+    <item id="Automatic contact name update for Hotel">
+      <message>Automatikus kapcsolat név frissítés hotel számára</message>
+    </item>
+    <item id="Note">
+      <message>Megjegyzés</message>
+    </item>
+    <item id="The operation will delete selected contacts">
+      <message>A művelet törli a kiválasztott kapcsolatokat</message>
+    </item>
+    <item id="Network Note">
+      <message>Újra kell indítania Kommunikációs asszisztenst, hogy az új beállítások életbe lépjenek.</message>
+    </item>
+    <item id="Allow Join">
+      <message>Csatlakozás engedélyezés</message>
+    </item>
+    <item id="UM Personal Greeting Number">
+      <message>UM Személyes üzenet szám</message>
+    </item>
+    <item id="Change">
+      <message>Változtatás</message>
+    </item>
+    <item id="None">
+      <message>Nincs</message>
+    </item>
+    <item id="Schedule Keyword">
+      <message>Ütemezés kulcsszó</message>
+    </item>
+    <item id="Function List Name">
+      <message>Funkciólista név</message>
+    </item>
+    <item id="Keyword Mapping Setting">
+      <message>Kulcsszó hozzárendelés beállítás</message>
+    </item>
+    <item id="Call Control Window pop-up for CA">
+      <message>Hívásvezérlés ablak előugrás CA-nál</message>
+    </item>
+    <item id="TVA/TVM">
+      <message>TVM/TVA</message>
+    </item>
+    <item id="UM">
+      <message>UM</message>
+    </item>
+    <item id="IP Address">
+      <message>IP cím</message>
+    </item>
+    <item id="Mailbox">
+      <message>Postafiók</message>
+    </item>
+    <item id="WebMC URL">
+      <message>WebMC URL</message>
+    </item>
+    <item id="Automatically close playback window by Timer">
+      <message>Lejátszás ablak automatikus bezárása időzítővel</message>
+    </item>
+    <item id="seconds">
+      <message>másodperc</message>
+    </item>
+    <item id="Limitless">
+      <message>Korlátlan</message>
+    </item>
+    <item id="Please enter valid presence tile width value from 150 to 1500.">
+      <message>Kérjük, adjon meg egy érvényes jelenlét mozaik szélességet 150 és 1500 között.</message>
+    </item>
+    <item id="Maximum 40 schedule keywords are registered. \nPlease delete existing schedule keyword to add a new schedule keyword.">
+      <message>Maximálisan 40 ütemezés kulcsszó tárolható. \nKérjük, egy új ütemezés kulcsszó beírásához törölje a meglévő ütemezés kulcsszót.</message>
+    </item>
+    <item id="Third Party CRM Integration">
+      <message>Külső CRM integráció</message>
+    </item>
+    <item id="MS Exchange Integration">
+      <message>MS Exchange integráció</message>
+    </item>
+    <item id="Enable Exchange Schedule Integration">
+      <message>Exchange ütemezés integráció engedélyezés</message>
+    </item>
+    <item id="Exchange User Account">
+      <message>Exchange felhasználói fiók (abc@xyz)</message>
+    </item>
+    <item id="Outlook Integration">
+      <message>Outlook integráció</message>
+    </item>
+    <item id="Presence Tile Width">
+      <message>Jelenlét mozaik szélesség</message>
+    </item>
+    <item id="Enable Call Information File">
+      <message>Hívásinfó fájl engedélyezés</message>
+    </item>
+    <item id="Call Information File">
+      <message>Hívásinformáció fájl</message>
+    </item>
+    <item id="The exchange user account has exceeded the maximum byte length.">
+      <message>Az exchange felhasználói fiók túllépte a maximális bájthosszúságot.</message>
+    </item>
+    <item id="Failed to connect to iLink middleware. \nPlease check the iLink middleware and CRM connection. \nRelogin CA to connect to iLink middleware.">
+      <message>Nem sikerült a kapcsolódás az iLink middleware-hez. \nKérjük, ellenőrizze az iLink middleware (köztes szoftver) és a CRM csatlakozását. \nJelentkezzen be újra a CA-ba, hogy csatlakozzon az iLink middleware-hez.</message>
+    </item>
+    <item id="Connection to iLink middleware is lost. \nThird Party CRM Integration will no longer work.">
+      <message>Megszakadt a kapcsolat az iLink middleware-rel. \nA külső CRM integráció már nem működik.</message>
+    </item>
+    <item id="ACD Report">
+      <message>ACD jelentés</message>
+    </item>
+    <item id="&amp;Call from Clipboard">
+      <message>&amp;Hívás a vágólapról</message>
+    </item>
+    <item id="Call from Clipboard">
+      <message>Hívás a vágólapról</message>
+    </item>
+    <item id="Phone  Number">
+      <message>Telefonszám</message>
+    </item>
+    <item id="Phone Number:">
+      <message>Telefonszám :</message>
+    </item>
+    <item id="Phone(Office) : ">
+      <message>Telefon (Munkahelyi) :</message>
+    </item>
+    <item id="Phone(Mobile) : ">
+      <message>Telefon (Mobil) :</message>
+    </item>
+    <item id="Phone(Home) : ">
+      <message>Telefon (Otthoni) :</message>
+    </item>
+    <item id="Custom Phone Number ">
+      <message>Egyéni telefonszám </message>
+    </item>
+    <item id="Custom Phone Number">
+      <message>Egyéni telefonszám </message>
+    </item>
+    <item id="At Extension ...">
+      <message>Az Extension ...</message>
+    </item>
+    <item id="Back at ...">
+      <message>vissza ...</message>
+    </item>
+    <item id="Out until ...">
+      <message>Amíg ...</message>
+    </item>
+    <item id="User Custom">
+      <message>Felhasználó Custom</message>
+    </item>
+    <item id="Cannot login. Cause is one of followings.\n- Extension number is incorrect.\n- Password is incorrect or expired.\n- CA operator console is not selected.\n- CA is disabled for this extension.\n- Login capacity is exceeded.\n- Required AK is not installed in PBX.">
+      <message>Nem tud bejelentkezni. Az okok a következök lehetnek.\n   - A mellékállomás száma helytelen.\n   - A jelszó helytelen vagy lejárt.\n      - A CA érvénytelen ehhez a mellékhez.\n   - A bejelentkezési kapacitás túllépése.\n   - A szükséges AK nincs telepítve az alközponton. </message>
+    </item>
+    <item id="White">
+      <message>Fehér</message>
+    </item>
+    <item id="Black">
+      <message>Fekete</message>
+    </item>
+    <item id="ICD">
+      <message>ICD</message>
+    </item>
+    <item id="\&quot;Conference Setting\&quot; menu is not available temporarily.\nPlease ask your PBX administrator.">
+      <message>\"Konferencia beállítás."\ menü ideigl nem érhető el.\nKérdezze az alközpont üzemeltetőjét</message>
+    </item>
+    <item id="Minimise">
+      <message>Kis méret</message>
+    </item>
+    <item id="Maximise">
+      <message>Maximalizálása</message>
+    </item>
+    <item id="Restore">
+      <message>Visszaállítás</message>
+    </item>
+    <item id="Close">
+      <message>Bezárás</message>
+    </item>
+  </category>
+</language>

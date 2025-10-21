@@ -1,0 +1,3358 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <descriptor>
+    <name>Czech</name>
+    <description>Czech</description>
+    <doc_ver>1.0.0</doc_ver>
+    <schema_ver>1.0.0</schema_ver>
+  </descriptor>
+  <category id="CIPTextBox">
+    <item id="IP">
+      <message>IP</message>
+    </item>
+    <item id="Please specify a value between 1 and 223">
+      <message>Specifikujte hodnotu v rozsahu 1 až 223</message>
+    </item>
+    <item id="Please specify a value between 0 and 255">
+      <message>Specifikujte hodnotu v rozsahu 0 až 225</message>
+    </item>
+  </category>
+  <category id="CMainForm">
+    <item id="Communication Assistant">
+      <message>Communication Assistant</message>
+    </item>
+  </category>
+  <category id="MailerInterface">
+    <item id="Failed to start Mail Client. Please try again.">
+      <message>Neúspěšný start E-mail klienta. Prosím zkuste to znovu.</message>
+    </item>
+  </category>
+  <category id="CMessageBox">
+    <item id="Communication Assistant">
+      <message>Communication Assistant</message>
+    </item>
+    <item id="&amp;Ok">
+      <message>&amp;OK</message>
+    </item>
+    <item id="&amp;Cancel">
+      <message>&amp;Zrušit</message>
+    </item>
+    <item id="&amp;Yes">
+      <message>&amp;Ano</message>
+    </item>
+    <item id="&amp;No">
+      <message>&amp;Ne</message>
+    </item>
+  </category>
+  <category id="CConstant">
+    <item id="Paging in progress">
+      <message>Probíhá výzva</message>
+    </item>
+    <item id="Paging busy">
+      <message>Výzva je obsazena</message>
+    </item>
+    <item id="Please make a call with the main window.">
+      <message>Proveďte volání z hlavní obrazovky</message>
+    </item>
+    <item id="Do not show this again.">
+      <message>Příště nezobrazovat</message>
+    </item>
+    <item id="Available">
+      <message>Dostupný</message>
+    </item>
+    <item id="Urgent Only">
+      <message>Pouze dulezité</message>
+    </item>
+    <item id="Will Return Soon">
+      <message>Vrátím se brzy</message>
+    </item>
+    <item id="In a meeting">
+      <message>Jsem na schuzce</message>
+    </item>
+    <item id="Not At My Desk">
+      <message>Nejsem u stolu</message>
+    </item>
+    <item id="Gone Home">
+      <message>Jsem doma</message>
+    </item>
+    <item id="Do you want to close CA?">
+      <message>Přejete si ukončit aplikaci CA?</message>
+    </item>
+    <item id="Communication Assistant">
+      <message>Communication Assistant</message>
+    </item>
+    <item id="&amp;OK">
+      <message>&amp;OK</message>
+    </item>
+    <item id="&amp;Cancel">
+      <message>&amp;Zrušit</message>
+    </item>
+    <item id="&amp;Yes">
+      <message>&amp;Ano</message>
+    </item>
+    <item id="&amp;No">
+      <message>&amp;Ne</message>
+    </item>
+    <item id="&amp;Delete">
+      <message>&amp;Smazat</message>
+    </item>
+    <item id="&amp;Close">
+      <message>&amp;Uzavřít</message>
+    </item>
+    <item id="General">
+      <message>Obecné</message>
+    </item>
+    <item id="Contact">
+      <message>Kontakt</message>
+    </item>
+    <item id="Company">
+      <message>Společnost</message>
+    </item>
+    <item id="Popup">
+      <message>Informační okno</message>
+    </item>
+    <item id="Contact Name:">
+      <message>Kontaktní jméno:</message>
+    </item>
+    <item id="E-mail:">
+      <message>E-mail:</message>
+    </item>
+    <item id="Phone (Office):">
+      <message>Telefon (práce):</message>
+    </item>
+    <item id="Phone (Mobile):">
+      <message>Telefon (mobilní):</message>
+    </item>
+    <item id="Phone (Home):">
+      <message>Telefon (domů):</message>
+    </item>
+    <item id="Company Name:">
+      <message>Jméno společnosti:</message>
+    </item>
+    <item id="Department:">
+      <message>Oddělení:</message>
+    </item>
+    <item id="Section:">
+      <message>Sekce:</message>
+    </item>
+    <item id="Address:">
+      <message>Adresa:</message>
+    </item>
+    <item id="Postal Code:">
+      <message>PSČ:</message>
+    </item>
+    <item id="Fax:">
+      <message>Fax:</message>
+    </item>
+    <item id="1st URL:">
+      <message>1. URL cesta:</message>
+    </item>
+    <item id="2nd URL:">
+      <message>2. URL cesta:</message>
+    </item>
+    <item id="3rd URL:">
+      <message>3. URL cesta:</message>
+    </item>
+    <item id="Memo:">
+      <message>Poznámka:</message>
+    </item>
+    <item id="Profile">
+      <message>Profil</message>
+    </item>
+    <item id="Last Name:">
+      <message>Příjmení:</message>
+    </item>
+    <item id="First Name:">
+      <message>Jméno:</message>
+    </item>
+    <item id="Type:">
+      <message>Typ:</message>
+    </item>
+    <item id="Phone">
+      <message>Dveřní telefon</message>
+    </item>
+    <item id="Door">
+      <message>Otevírač dveří</message>
+    </item>
+    <item id="Sensor">
+      <message>Senzor</message>
+    </item>
+    <item id="Door:">
+      <message>Dveře:</message>
+    </item>
+    <item id="Sensor:">
+      <message>Senzor:</message>
+    </item>
+    <item id="Image File">
+      <message>Soubor s obrázkem</message>
+    </item>
+    <item id="Ring File">
+      <message>Soubor s vyzváněním</message>
+    </item>
+    <item id="URL">
+      <message>URL</message>
+    </item>
+    <item id="1st URL for Network Camera \n(Automatic pop-up for call/Automatic close after call)">
+      <message>1. URL cesta pro síťovou kameru \n(Automaticky zobrazení inf.okna při hovoru/Uzavření po ukončení hovoru)</message>
+    </item>
+    <item id="2nd URL for Database \n(Automatic pop-up for phone call)">
+      <message>2. URL cesta pro databázi \n(Automaticky zobrazení inf. okna při hovoru)</message>
+    </item>
+    <item id="3rd URL for Database (Access from main menu)">
+      <message>3. URL cesta k databázi (Přístup z hlavního menu)</message>
+    </item>
+    <item id="Browse">
+      <message>Prohlíž.</message>
+    </item>
+    <item id="Image file not found">
+      <message>Soubor s obrázkem nenalezen</message>
+    </item>
+    <item id="Please enter the Contact Name">
+      <message>Vložte kontaktní jméno</message>
+    </item>
+    <item id="Contact Name too long. \n Please enter a shorter name.">
+      <message>Kontaktní jméno je příliš dlouhé. \n Prosím zkraťte jméno.</message>
+    </item>
+    <item id="Contact Name not valid.\nMake sure the contact name does not contain any Chinese and Japanese characters.">
+      <message>Kontaktní jméno není správné. \nUjistěte se, že nebyly použity žádné japonské a čínské znaky.</message>
+    </item>
+    <item id="Please enter the Phone Number.">
+      <message>Vložte telefonní číslo</message>
+    </item>
+    <item id="Please enter the Doorphone Number">
+      <message>Vložte číslo dveřního telefonu</message>
+    </item>
+    <item id="Please enter the Sensor Number">
+      <message>Vložte číslo senzoru</message>
+    </item>
+    <item id="Please enter the Image Path">
+      <message>Vložte cestu k obrazovému souboru</message>
+    </item>
+    <item id="Please enter the Sound Path">
+      <message>Vložte cestu ke zvukovému souboru</message>
+    </item>
+    <item id="The image file path is not valid, CA is unable to load the image file.">
+      <message>Cesta k obrazovému souboru nenalezena, CA nemůže načíst soubor</message>
+    </item>
+    <item id="The sound file path is not valid, CA is unable to play the sound file.">
+      <message>Cesta ke zvukovému souboru nenalezena, CA nemůže načíst soubor</message>
+    </item>
+    <item id="The path will not be saved.">
+      <message>Cesta nebude uložena</message>
+    </item>
+    <item id="The file path is too long, it should be less than or equal to 256 characters.\n Please enter a shorter path.">
+      <message>Cesta k souboru je příliš dlouhá, cesta musí být kratší než 256 znaků. \n Zkraťte cestu.</message>
+    </item>
+    <item id="Unable to play the sound file. Maybe the file is invalid or there is a problem in your PC sound device.">
+      <message>Nelze přehrát zvukový soubor. Možná je soubor poškozen nebo je problém s zvukovým zařízením ve vašem PC.</message>
+    </item>
+    <item id="Image Files">
+      <message>Obraz. soubory</message>
+    </item>
+    <item id="Media Files">
+      <message>Zvukové soubory</message>
+    </item>
+    <item id="All Files">
+      <message>Všechny soubory</message>
+    </item>
+    <item id="Open">
+      <message>Otevřít</message>
+    </item>
+    <item id="Unable to load the database. CA Application had to be closed.">
+      <message>Nelze načíst databázi. Aplikace CA bude uzavřena.</message>
+    </item>
+    <item id="CA Application">
+      <message>Aplikace CA</message>
+    </item>
+    <item id="Connection to database failed">
+      <message>Propojení k databázi se nezdařilo</message>
+    </item>
+    <item id="History">
+      <message>Historie</message>
+    </item>
+    <item id="Contact &amp;List">
+      <message>Seznam &amp;kontaktů</message>
+    </item>
+    <item id="S&amp;peed Dial">
+      <message>R&amp;ychlá volba</message>
+    </item>
+    <item id="&amp;Save to CSV">
+      <message>&amp;Ulož do formátu CSV</message>
+    </item>
+    <item id="&amp;Memo Open">
+      <message>&amp;Otevři poznámku</message>
+    </item>
+    <item id="&amp;Call">
+      <message>&amp;Volat</message>
+    </item>
+    <item id="Speed Dial">
+      <message>Rychlá volba</message>
+    </item>
+    <item id="Show:">
+      <message>Zobrazit:</message>
+    </item>
+    <item id="Search">
+      <message>Vyhledat</message>
+    </item>
+    <item id="Search In:">
+      <message>Vyhledat v:</message>
+    </item>
+    <item id="Name">
+      <message>Jméno</message>
+    </item>
+    <item id="Phone Number">
+      <message>Telefonní číslo</message>
+    </item>
+    <item id="Type">
+      <message>Typ</message>
+    </item>
+    <item id="Start Time">
+      <message>Čas začátku</message>
+    </item>
+    <item id="Disconnect Time">
+      <message>Čas ukončení</message>
+    </item>
+    <item id="Duration">
+      <message>Trvání</message>
+    </item>
+    <item id="Ring">
+      <message>Vyzvánění</message>
+    </item>
+    <item id="Call Condition">
+      <message>Stav volání</message>
+    </item>
+    <item id="Call For">
+      <message>Volání na</message>
+    </item>
+    <item id="Memo">
+      <message>Poznámka</message>
+    </item>
+    <item id="Trunk Group Number">
+      <message>Čís.svaz. vněj.linek</message>
+    </item>
+    <item id="Intercom">
+      <message>Vnitřní volání</message>
+    </item>
+    <item id="Outside">
+      <message>Vnější volání</message>
+    </item>
+    <item id="Blank">
+      <message>Volné</message>
+    </item>
+    <item id="Transfer">
+      <message>Přepojit</message>
+    </item>
+    <item id="Park">
+      <message>Zaparkovat</message>
+    </item>
+    <item id="No Answer">
+      <message>Bez odpovědi</message>
+    </item>
+    <item id="Import File">
+      <message>Importovat soubor</message>
+    </item>
+    <item id="Export File">
+      <message>Exportovat soubor</message>
+    </item>
+    <item id="Save As">
+      <message>Uložit jako</message>
+    </item>
+    <item id="min">
+      <message>min</message>
+    </item>
+    <item id="s">
+      <message>s</message>
+    </item>
+    <item id="All Calls">
+      <message>Všechna volání</message>
+    </item>
+    <item id="Incoming Missed Calls">
+      <message>Příchozí ztracená volání</message>
+    </item>
+    <item id="Incoming Received Calls">
+      <message>Příchozí zodpovězená volání</message>
+    </item>
+    <item id="Outgoing Answered Calls">
+      <message>Odchozí zodpovězená volání</message>
+    </item>
+    <item id="Outgoing Unanswered Calls">
+      <message>Odchozí nezodpovězená volání</message>
+    </item>
+    <item id="A file error has occurred in the export file">
+      <message>V exportovaném souboru se vyskytla chyba</message>
+    </item>
+    <item id="A file error has occurred in the text file">
+      <message>V textovém souboru se vyskytla chyba</message>
+    </item>
+    <item id="Unable to update the grid view setting. The grid view setting will not be saved.">
+      <message>Nelze provést změnu nastavení zobrazení. Změna nastavení nebude uložena</message>
+    </item>
+    <item id="Specific data will be deleted">
+      <message>Specifikovaná data budou smazána</message>
+    </item>
+    <item id="Please fill in the Speed Dial No">
+      <message>Vyplňte číslo rychlé volby</message>
+    </item>
+    <item id="Please fill in the Speed Dial Name">
+      <message>Vyplňte jméno rychlé volby</message>
+    </item>
+    <item id="Please fill in the Speed Dial Phone Number">
+      <message>Vyplňte telefonní číslo rychlé volby</message>
+    </item>
+    <item id="Illegal Request">
+      <message>Nesprávný požadavek</message>
+    </item>
+    <item id="The Speed Dial Number is already registered in the PBX.">
+      <message>Číslo rychlé volby je již přiřazeno v systému ústředny.</message>
+    </item>
+    <item id="The current contact list will be deleted and replaced by new data. Do you want to continue?">
+      <message>Součastný seznam kontaktů bude smazán a nahrazen novými daty. Přejete si pokračovat?</message>
+    </item>
+    <item id="The composition of CSV content is either not correct or incorrect version, import fail.">
+      <message>Import selhal, protože složení obsahu souboru CSV není správné nebo má nesprávnou verzi.</message>
+    </item>
+    <item id="The composition of XML content is either not correct or incorrect version, import fail.">
+      <message>Import selhal, protože složení obsahu souboru XML není správné nebo má nesprávnou verzi.</message>
+    </item>
+    <item id="The contact list successfully imported">
+      <message>Seznam kontaktů byl úspěšně importován</message>
+    </item>
+    <item id="This operation will delete all data about ">
+      <message>Tato operace smaže všechna data o kontaktu</message>
+    </item>
+    <item id=". Do you wish to continue?">
+      <message>. Přejete si pokračovat?</message>
+    </item>
+    <item id=" successfully deleted.">
+      <message> úspěšně smazán.</message>
+    </item>
+    <item id="Contact List successfully exported.">
+      <message>Seznam kontaktů byl úspěšně exportován</message>
+    </item>
+    <item id="Contact List unable to export. A error occur during the exportation">
+      <message>Seznam kontaktů nelze exportovat. Během exportu došlo k chybě</message>
+    </item>
+    <item id="The maximum contacts ">
+      <message>Maximální počet kontaktů</message>
+    </item>
+    <item id=" had already registered. To make a new contact, please delete some contacts in the contact list.">
+      <message> byl již registrován. Pokud chcete přidat nový kontakt, prosím smažte některé nepotřebné záznamy ze seznamu kontaktů.</message>
+    </item>
+    <item id="Extension numbers from the PBX already exist in the contact list.">
+      <message>Čísla vnitřních linek z ústředny jsou již obsažena v seznamu kontaktů.</message>
+    </item>
+    <item id="No Extension found.">
+      <message>Vnitřní linka nenalezena.</message>
+    </item>
+    <item id="Error occurs.">
+      <message>Vyskytla se chyba</message>
+    </item>
+    <item id="Import is unable to proceed. The file is being used by another process.">
+      <message>Import nelze provést. Soubor je právě využíván jiným procesem.</message>
+    </item>
+    <item id="Connection with PBX is disconnected">
+      <message>Propojení s ústřednou bylo přerušeno.</message>
+    </item>
+    <item id="No Response from PBX">
+      <message>Ústředna neodpovídá</message>
+    </item>
+    <item id="Select language">
+      <message>Výběr Jazyka</message>
+    </item>
+    <item id="Dial Modification for Dial Copy Setting">
+      <message>Úprava čísla pro volby kopírování čísla</message>
+    </item>
+    <item id="Enter Access Code for International Call">
+      <message>Vložte přístupový kód pro mezinárodní volání</message>
+    </item>
+    <item id="Setting">
+      <message>Nastavení</message>
+    </item>
+    <item id="International Call">
+      <message>Mezinárodní volání</message>
+    </item>
+    <item id="Enter International Area Code">
+      <message>Vložte oblastní kód mezinárodního volání</message>
+    </item>
+    <item id="For example '81' for Japan or '44' for UK">
+      <message>například 81 pro Japonsko, nebo 44 pro UK</message>
+    </item>
+    <item id="CA User Mode">
+      <message>Uživatelský režim CA</message>
+    </item>
+    <item id="Standard user (CA Pro)">
+      <message>Běžný uživatel  (CA Pro)</message>
+    </item>
+    <item id="Standard user (CA Basic)">
+      <message>Běžný uživatel (CA Basic) </message>
+    </item>
+    <item id="ICD Group Supervisor (CA Supervisor)">
+      <message>ICD skupina Supervisor (CA Supervisor) </message>
+    </item>
+    <item id="Use softphone">
+      <message>Použití softphone</message>
+    </item>
+    <item id="Use ICD group agent feature">
+      <message>Použití funkcí operátora ICD skupiny</message>
+    </item>
+    <item id="&amp;Save">
+      <message>&amp;Uložit</message>
+    </item>
+    <item id="&amp;Exit">
+      <message>&amp;Ukončit</message>
+    </item>
+    <item id="English">
+      <message>English</message>
+    </item>
+    <item id="Spanish">
+      <message>Español</message>
+    </item>
+    <item id="French">
+      <message>Français</message>
+    </item>
+    <item id="Portuguese">
+      <message>Português</message>
+    </item>
+    <item id="German">
+      <message>Deutsch</message>
+    </item>
+    <item id="Italian">
+      <message>Italiano</message>
+    </item>
+    <item id="Russian">
+      <message>Русский</message>
+    </item>
+    <item id="Ukrainian">
+      <message>Українська</message>
+    </item>
+    <item id="Chinese">
+      <message>中文</message>
+    </item>
+    <item id="IP address of PBX">
+      <message>IP adresa ústředny</message>
+    </item>
+    <item id="Extension Number">
+      <message>Číslo vnitřní linky</message>
+    </item>
+    <item id="Password">
+      <message>Heslo</message>
+    </item>
+    <item id="&amp;Login">
+      <message>&amp;Přihásit</message>
+    </item>
+    <item id="&amp;Quit">
+      <message>&amp;Odhlásit</message>
+    </item>
+    <item id="User Login">
+      <message>Jméno uživatele</message>
+    </item>
+    <item id="Password must be assigned.">
+      <message>Heslo musí být přiřazeno.</message>
+    </item>
+    <item id="A-Z, a-z, 0-9, * and # can be used for password.">
+      <message>Použijte znaky A-Z, a-z, 0-9, * a # pro zadání hesla</message>
+    </item>
+    <item id="New Password (Max.16 characters)">
+      <message>Nové heslo (maximálně 16 znaků)</message>
+    </item>
+    <item id="Verify Password">
+      <message>Ověření hesla</message>
+    </item>
+    <item id="Communication Assistant - Password">
+      <message>Communication Assistant - Heslo</message>
+    </item>
+    <item id="You can log-in to Basic mode for now">
+      <message>Nyní se můžete přihlásit do režimu Basic</message>
+    </item>
+    <item id="Limitations for Basic mode:">
+      <message>Omezení pro režim Basic:</message>
+    </item>
+    <item id="- Contact List is limited to 10 calls.">
+      <message>- Seznam kontaktů omezen na 10 záznamů</message>
+    </item>
+    <item id="- Contact History is limited to 10 calls.">
+      <message>­ Seznam historie hovorů omezen na 10 záznamů.</message>
+    </item>
+    <item id="- Presence feature is not available.">
+      <message>- Funkce dostupnosti nejsou k dispozici.</message>
+    </item>
+    <item id="You can log-in to Pro Trial for now">
+      <message>Nyní se můžete přihlásit do zkušební verze režimu Pro</message>
+    </item>
+    <item id="After 60 days, license registration is required.">
+      <message>Po 60 dnech je vyžadována registrace licence.</message>
+    </item>
+    <item id="Installation Date:">
+      <message>Datum instalace:</message>
+    </item>
+    <item id="Expiration Date:">
+      <message>Datum použitelnosti:</message>
+    </item>
+    <item id="I agree to the above condition and continue to use this application">
+      <message>Souhlasím s podmínkami a pokračuji v užívání aplikace</message>
+    </item>
+    <item id="IP Address is empty. Please enter a valid IP address">
+      <message>IP adresa je prázdná. Vložte správnou IP adresu</message>
+    </item>
+    <item id="Empty IP address">
+      <message>Prázdná IP adresa</message>
+    </item>
+    <item id="No extension number has been entered. Please enter a valid extension number.">
+      <message>Nebylo vloženo číslo vnitřní linky. Vložte platné číslo vnitřní linky.</message>
+    </item>
+    <item id="Empty Extension number">
+      <message>Prázdné číslo vnitřní linky</message>
+    </item>
+    <item id="The password you entered is not valid.">
+      <message>Vložené heslo není správné.</message>
+    </item>
+    <item id="The extension number is incorrect.">
+      <message>Číslo vnitřní linky není správné.</message>
+    </item>
+    <item id="Error Extension Number">
+      <message>Chybné číslo vnitřní linky</message>
+    </item>
+    <item id="Password is incorrect">
+      <message>Heslo je chybné</message>
+    </item>
+    <item id="Incorrect Password">
+      <message>Chybné heslo</message>
+    </item>
+    <item id="Password is locked.">
+      <message>Heslo je uzamčeno</message>
+    </item>
+    <item id="Please contact your manager of PBX">
+      <message>Kontaktujte manažera vaší ústředny</message>
+    </item>
+    <item id="Password Locked">
+      <message>Heslo uzamčeno</message>
+    </item>
+    <item id="This extension is restricted to use CA">
+      <message>Této vnitřní lince je zakázáno užití aplikace CA</message>
+    </item>
+    <item id="by PBX setting">
+      <message>nastavením ústředny</message>
+    </item>
+    <item id="Please contact your manager of PBX.">
+      <message>Kontaktujte manažera vaší ústředny</message>
+    </item>
+    <item id="Invalid extension setting">
+      <message>Nesprávné nast. vnitřní linky</message>
+    </item>
+    <item id="Number of users had exceeded the limit">
+      <message>Limit počtu uživatelů byl překročen</message>
+    </item>
+    <item id="Exceed Maximum Users">
+      <message>Překročen počet uživatelů</message>
+    </item>
+    <item id="The number of license is not enough">
+      <message>Počet licencí není dostatečný</message>
+    </item>
+    <item id="Exceed Maximum Licenses">
+      <message>Překročen počet licencí</message>
+    </item>
+    <item id="Failed to connect to server.">
+      <message>Neúspěšné připojení k serveru</message>
+    </item>
+    <item id="API Failure">
+      <message>Chyba na rozhraní API</message>
+    </item>
+    <item id="Connection device is not supported. Unable to create connection">
+      <message>Připojované zařízení není podporováno. Nelze vytvořit spojení</message>
+    </item>
+    <item id="Non-support Connection Device">
+      <message>Nepodporované zařízení</message>
+    </item>
+    <item id="Password mismatch. Please enter your new password again">
+      <message>Heslo se neshoduje. Vložte nové heslo znovu</message>
+    </item>
+    <item id="Phone type is incorrect">
+      <message>Nevhodný typ telefonu </message>
+    </item>
+    <item id="New password is empty. Please enter the password">
+      <message>Nové heslo je prázdné. Prosím vložte heslo</message>
+    </item>
+    <item id="Verify password is empty. Please enter the password">
+      <message>Ověřovací heslo je prázdné Prosím vložte heslo</message>
+    </item>
+    <item id="The values entered in New Password and Verify Password do not match.">
+      <message>Nové heslo a Ověřovací heslo jsou rozdílné</message>
+    </item>
+    <item id="The minimum password length is 6 characters.">
+      <message>Minimální délka hesla je 6 znaků.</message>
+    </item>
+    <item id="Are you sure you want to exit this application">
+      <message>Sklutečně chcete ukončit tuto aplikaci?</message>
+    </item>
+    <item id="Please Wait...">
+      <message>Prosím čekejte…</message>
+    </item>
+    <item id="Forward/DND Setting">
+      <message>Nastavení Přesměrování/Nerušit</message>
+    </item>
+    <item id="Forward / DND">
+      <message>Přesměrování/Nerušit</message>
+    </item>
+    <item id="BroadCasting Group:">
+      <message>Skupina vysílání:</message>
+    </item>
+    <item id="&amp;Release">
+      <message>&amp;Odpojit</message>
+    </item>
+    <item id="Members (Dial Number)">
+      <message>Členové (vytočit číslo)</message>
+    </item>
+    <item id="Member Name">
+      <message>Jméno člena</message>
+    </item>
+    <item id="Call Status">
+      <message>Stav volání</message>
+    </item>
+    <item id="Connected">
+      <message>Spojeno</message>
+    </item>
+    <item id="Not Connected">
+      <message>Nespojeno</message>
+    </item>
+    <item id="Group Page">
+      <message>Výzva skupině</message>
+    </item>
+    <item id="Park Retrieve">
+      <message>Návrat z parkov</message>
+    </item>
+    <item id="Account">
+      <message>Účet</message>
+    </item>
+    <item id="Copy &amp; Call">
+      <message>Zkopír. a vytoč</message>
+    </item>
+    <item id="TRS Change">
+      <message>Změn Třídu Opr.</message>
+    </item>
+    <item id="Time Service">
+      <message>Čašový režim</message>
+    </item>
+    <item id="Function Key">
+      <message>Funkční tlačítko</message>
+    </item>
+    <item id="Please enter Group No.(01-32)">
+      <message>Vložte číslo skupiny (01-32)</message>
+    </item>
+    <item id="A target's call status is not acceptable">
+      <message>Stav cílů volání je nepřípustný</message>
+    </item>
+    <item id="Invalid Group Paging">
+      <message>Neplatná výzva skupině</message>
+    </item>
+    <item id="Please enter specific park area number">
+      <message>Vložte číslo určující oblast parkování</message>
+    </item>
+    <item id="(0-99)">
+      <message>(0-99)</message>
+    </item>
+    <item id="Specific call (connection) does not exist.">
+      <message>Určené volání (propojení) neexistuje.</message>
+    </item>
+    <item id="Error on Park Retrieve">
+      <message>Chyba při návratu z parkování hovoru</message>
+    </item>
+    <item id="Please enter an account number">
+      <message>Vložte účtovací kód</message>
+    </item>
+    <item id="Not Valid and cannot make a call">
+      <message>Nesprávný, nelze provádět odchozí volání</message>
+    </item>
+    <item id="Please set TRS Level">
+      <message>Nastavte úroveň omezení volání</message>
+    </item>
+    <item id="Error on TRS Change">
+      <message>Chyba při změně úrovně omezení volání</message>
+    </item>
+    <item id="Please Select System Mode">
+      <message>Vyberte mód časový režimu</message>
+    </item>
+    <item id="Day">
+      <message>Den</message>
+    </item>
+    <item id="Break">
+      <message>Přestávka</message>
+    </item>
+    <item id="Night">
+      <message>Noc</message>
+    </item>
+    <item id="Lunch">
+      <message>Oběd</message>
+    </item>
+    <item id="ICD Group Extension Number">
+      <message>Číslo ICD skupiny vnitřních linek</message>
+    </item>
+    <item id="ICD Group Name">
+      <message>Jméno ICD skupiny</message>
+    </item>
+    <item id="My Status">
+      <message>Můj stav</message>
+    </item>
+    <item id="Ready">
+      <message>Připraven</message>
+    </item>
+    <item id="Not Ready">
+      <message>Nepřipraven</message>
+    </item>
+    <item id="Wrap Up">
+      <message>Čas pro poznámku</message>
+    </item>
+    <item id="Busy">
+      <message>Obsazeno</message>
+    </item>
+    <item id="All Log-in">
+      <message>Všichni přihlášeni</message>
+    </item>
+    <item id="All Log-out">
+      <message>Všichni odhlášeni</message>
+    </item>
+    <item id="Log in">
+      <message>Přihlásit</message>
+    </item>
+    <item id="Log-in">
+      <message>Přihlásit do skupiny č.</message>
+    </item>
+    <item id="Log out">
+      <message>Odhlásit</message>
+    </item>
+    <item id="Log-out">
+      <message>Odhlásit se ze skupiny č.</message>
+    </item>
+    <item id="Start Wrap Up">
+      <message>Začátek času pro poznámku</message>
+    </item>
+    <item id="Stop Wrap Up">
+      <message>Konec času pro poznámku</message>
+    </item>
+    <item id="Extend Wrap Up">
+      <message>Prodloužení času pro poznámku</message>
+    </item>
+    <item id="On the phone">
+      <message>Na telefonu</message>
+    </item>
+    <item id="Ringing">
+      <message>Vyzvánějící</message>
+    </item>
+    <item id="Idle">
+      <message>Volný</message>
+    </item>
+    <item id="Wrap up Status cannot be changed\n\rCause is one of followings\n\r- Wrap up feature number is not assigned in PBX\n\r- Paired telephone is not PT\n\rPT is not connected with PBX\n\r">
+      <message>Čas pro poznámku nelze změnit\n\rDůvodem může být\n\r- Číslo funkce Čas pro poznámku není přiřazeno v PBÚ\n\rPřiřazený telefon není digitální PT\n\rPT není spojen s PBÚ\n\r</message>
+    </item>
+    <item id="ICD Group">
+      <message>ICD skupina</message>
+    </item>
+    <item id="Phone Status">
+      <message>Stav telefonu</message>
+    </item>
+    <item id="Wrap up">
+      <message>Čas pro poznámku</message>
+    </item>
+    <item id="Redirect">
+      <message>Přesměrovat</message>
+    </item>
+    <item id="Listen-In">
+      <message>Příposlech</message>
+    </item>
+    <item id="Busy Override">
+      <message>Vstup do hovoru</message>
+    </item>
+    <item id="Take Over">
+      <message>Převzít</message>
+    </item>
+    <item id="&amp;Redirect the incoming call">
+      <message>&amp;Přeposlané příchozí volání</message>
+    </item>
+    <item id="Log-&amp;in to the group">
+      <message>Při&amp;hlásit do skupiny</message>
+    </item>
+    <item id="Log-o&amp;ut from the group">
+      <message>Od&amp;hlásit ze skupiny</message>
+    </item>
+    <item id="&amp;Listen in the talking">
+      <message>&amp;Poslouchat rozhovor</message>
+    </item>
+    <item id="Overri&amp;de the talking (Conference)">
+      <message>Vstou&amp;pit do rozhovoru (konference)</message>
+    </item>
+    <item id="&amp;Take over the talking">
+      <message>&amp;Převzít probíhající rozhovor</message>
+    </item>
+    <item id="Supervisor function was disabled">
+      <message>Funkce správce byla zakázána</message>
+    </item>
+    <item id="Are you sure you want to clear report?">
+      <message>Skutečně chcete smazat výpis?</message>
+    </item>
+    <item id="Supervisor">
+      <message>Správce</message>
+    </item>
+    <item id="Group">
+      <message>Skupina</message>
+    </item>
+    <item id="Display only ICD Group Member">
+      <message>Zobrazit pouze členy ICD skupiny</message>
+    </item>
+    <item id="Group Call Monitor">
+      <message>Monitor.hovorů skup.</message>
+    </item>
+    <item id="Current Waiting Call">
+      <message>Čekající ve frontě</message>
+    </item>
+    <item id="Longest Waiting Time">
+      <message>Nejdelší doba čekání</message>
+    </item>
+    <item id="Current Member Status">
+      <message>Stav členů</message>
+    </item>
+    <item id="Group Call Report">
+      <message>Výpis volání skupiny</message>
+    </item>
+    <item id="Lost Call">
+      <message>Ztracená volání</message>
+    </item>
+    <item id="Report Start Date:">
+      <message>Datum zač. výpisu:</message>
+    </item>
+    <item id="Report Start Time:">
+      <message>Čas začátku výpisu:</message>
+    </item>
+    <item id="&amp;Utility">
+      <message>&amp;Nástroje</message>
+    </item>
+    <item id="Get Latest Report">
+      <message>Dostat poslední výpis</message>
+    </item>
+    <item id="&amp;Clear Report">
+      <message>&amp;Smazat výpis</message>
+    </item>
+    <item id="The Number of Current Call :">
+      <message>Počet probíhajících volání :</message>
+    </item>
+    <item id="Font Color :">
+      <message>Barva fontu :</message>
+    </item>
+    <item id="Background Color :">
+      <message>Barva pozadí :</message>
+    </item>
+    <item id="Blink">
+      <message>Blikající</message>
+    </item>
+    <item id="Preview :">
+      <message>Náhled :</message>
+    </item>
+    <item id=" The Waiting Time (MM'SS) :">
+      <message>Doba čekání (MM'SS) :</message>
+    </item>
+    <item id="Choose...(&amp;B)">
+      <message>Výběr…(&amp;B)</message>
+    </item>
+    <item id="Choose ...(&amp;F)">
+      <message>Výběr…(&amp;F)</message>
+    </item>
+    <item id="Supervisor Option">
+      <message>Možnosti správce</message>
+    </item>
+    <item id="When the number of current call is preprogrammed number or more, display changes for warning.">
+      <message>Při překročení předprogramovaného počtu se displej pro upozornění změní.</message>
+    </item>
+    <item id="When the time of longest waiting call is preprogrammed number or more, display changes for warning.">
+      <message>Při překročení předprogramované doby čekajícího hovoru se displej pro upozornění změní.</message>
+    </item>
+    <item id="Dial">
+      <message>Vytočit</message>
+    </item>
+    <item id="Contact Name">
+      <message>Kontaktní jméno</message>
+    </item>
+    <item id="Incoming Missed Calls: ">
+      <message>Příchozí změškaná volání:</message>
+    </item>
+    <item id="Message Waiting">
+      <message>Čekající zpráva</message>
+    </item>
+    <item id="Call VM">
+      <message>Volání hl. schránky</message>
+    </item>
+    <item id="&amp;Call Voice Mail">
+      <message>&amp;Volání hlasové pošty</message>
+    </item>
+    <item id="&amp;Record my Voice Message">
+      <message>&amp;Nahrát moji hlasovou zprávu</message>
+    </item>
+    <item id="&amp;Display Message Waiting List">
+      <message>&amp;Zobrazit seznam čekajících zpráv</message>
+    </item>
+    <item id="Call &amp;Back">
+      <message>Volání &amp;Zpět</message>
+    </item>
+    <item id="No Connection">
+      <message>Nespojeno</message>
+    </item>
+    <item id="Dial or Answer">
+      <message>Volat nebo odpovědět</message>
+    </item>
+    <item id="For internal calls :">
+      <message>Pro vnitřní volání:</message>
+    </item>
+    <item id="For external calls :">
+      <message>Pro vnější volání:</message>
+    </item>
+    <item id="Forward / DND :">
+      <message>Přesměrování/Nerušit:</message>
+    </item>
+    <item id="Not Assigned">
+      <message>Nepřiřazeno</message>
+    </item>
+    <item id="Fwd All ">
+      <message>Přesměrování vše</message>
+    </item>
+    <item id="Fwd Busy ">
+      <message>Přesm. obsazeno</message>
+    </item>
+    <item id="Fwd N/A ">
+      <message>Přesm. Bez odpovědi</message>
+    </item>
+    <item id="Fwd Busy / N/A ">
+      <message>Přesm. Obs./Bez odp.</message>
+    </item>
+    <item id="Do Not Disturb">
+      <message>Nerušit</message>
+    </item>
+    <item id="&amp;Dial">
+      <message>&amp;Volba</message>
+    </item>
+    <item id="&amp;Copy &amp;&amp; Call">
+      <message>&amp;Kopírovat &amp;&amp; Volat</message>
+    </item>
+    <item id="&amp;History">
+      <message>&amp;Historie</message>
+    </item>
+    <item id="&amp;All Calls">
+      <message>&amp;Všechna volání</message>
+    </item>
+    <item id="Incoming &amp;Missed Calls">
+      <message>Příchozí &amp;Ztracená volání</message>
+    </item>
+    <item id="Incoming &amp;Received Calls">
+      <message>Příchozí &amp;Zodpovězená volání</message>
+    </item>
+    <item id="Outgoing A&amp;nswered Calls">
+      <message>Odchozí &amp;Zodpovězená volání</message>
+    </item>
+    <item id="Outgoing &amp;Unanswered Calls">
+      <message>Odchozí &amp;Nezodpovězená volání</message>
+    </item>
+    <item id="&amp;Go To">
+      <message>&amp;Jít na</message>
+    </item>
+    <item id="&amp;Option">
+      <message>&amp;Možnosti</message>
+    </item>
+    <item id="&amp;Function Key">
+      <message>&amp;Funkční tlačítko</message>
+    </item>
+    <item id="&amp;ICD Group">
+      <message>&amp;ICD skupina</message>
+    </item>
+    <item id="Modify">
+      <message>Modifikace</message>
+    </item>
+    <item id="New Setting">
+      <message>Nové nastavení</message>
+    </item>
+    <item id="Message left by">
+      <message>Zanechat zprávu pomocí</message>
+    </item>
+    <item id="Absent message is assigned automatically, when PC is not used pre programmed time.">
+      <message>Zpráva v nepřítomnosti je automaticky vložena, pokud PC není používáno po stanovenou dobu.</message>
+    </item>
+    <item id="Absent message is cleared automatically, when CA is started.">
+      <message>Zpráva v nepřítomnosti je automaticky zrušena po spuštění aplikace CA</message>
+    </item>
+    <item id="Absent message is assigned automatically, when CA is closed.">
+      <message>Zpráva v nepřítomnosti je automaticky vložena, pokud je aplikace CA uzavřena.</message>
+    </item>
+    <item id="Absent Message Options">
+      <message>Možnosti Zpráv v nepřítomnosti</message>
+    </item>
+    <item id="MM:SS:">
+      <message>MM:SS</message>
+    </item>
+    <item id="Please enter phone number.">
+      <message>Vložte telefonní číslo</message>
+    </item>
+    <item id="Phone (Office)">
+      <message>Telefon (práce)</message>
+    </item>
+    <item id="Phone (Mobile)">
+      <message>Telefon (mobilní)</message>
+    </item>
+    <item id="Phone (Home)">
+      <message>Telefon (domů)</message>
+    </item>
+    <item id="Voice Message">
+      <message>Hlasová zpráva</message>
+    </item>
+    <item id="Send E-mail">
+      <message>Poslat E-mail</message>
+    </item>
+    <item id="More">
+      <message>Více</message>
+    </item>
+    <item id="Send Chat">
+      <message>Poslat Chat</message>
+    </item>
+    <item id="Leave Voice Message">
+      <message>Zanechat hlasovou zprávu</message>
+    </item>
+    <item id="WEB Access">
+      <message>Přístup na Web</message>
+    </item>
+    <item id="Call phone (Office): ">
+      <message>Volat Telefon (práce):</message>
+    </item>
+    <item id="Call phone (Mobile): ">
+      <message>Volat Telefon (Mobilní):</message>
+    </item>
+    <item id="Call phone (Home): ">
+      <message>Volat Telefon (domů):</message>
+    </item>
+    <item id="&amp;Pick up the incoming call">
+      <message>&amp;Převzít příchozí hovor</message>
+    </item>
+    <item id="&amp;View and modify this contact">
+      <message>&amp;Upravit kontakt</message>
+    </item>
+    <item id="&amp;Add new contact">
+      <message>&amp;Přidat nový kontakt</message>
+    </item>
+    <item id="&amp;Delete this contact ">
+      <message>&amp;Smazat kontakt</message>
+    </item>
+    <item id="Add contact list from PB&amp;X extension">
+      <message>Přidat seznam kontaktů ze seznamu vnitř. linek PB&amp;X</message>
+    </item>
+    <item id="&amp;Copy contact list from CSV file">
+      <message>&amp;Načíst seznam kontaktů ze souboru CSV</message>
+    </item>
+    <item id="&amp;Save contact list to CSV file">
+      <message>&amp;Uložit seznam kontaktů do souboru CSV</message>
+    </item>
+    <item id="Leave voice message">
+      <message>Zanechat hlasovou zprávu</message>
+    </item>
+    <item id="Send E-mail: ">
+      <message>Poslat E-mail:</message>
+    </item>
+    <item id="Access Web">
+      <message>Přístup na Web</message>
+    </item>
+    <item id="Start Chat">
+      <message>Začít chat</message>
+    </item>
+    <item id="View and modify contact">
+      <message>Zobrazit a upravit kontakt</message>
+    </item>
+    <item id="Absent Message">
+      <message>Zpráva v nepřítomnosti</message>
+    </item>
+    <item id="Function List">
+      <message>Seznam funkcí</message>
+    </item>
+    <item id="Move &amp;Up">
+      <message>Přesunout &amp;Nahoru</message>
+    </item>
+    <item id="Move &amp;Down">
+      <message>Přesunout &amp;Dolů</message>
+    </item>
+    <item id="&amp;Edit">
+      <message>&amp;Upravit</message>
+    </item>
+    <item id="Edit">
+      <message>Upravit</message>
+    </item>
+    <item id="Save to Function List">
+      <message>Uložit do seznamu funkcí</message>
+    </item>
+    <item id="Function List Name (Max. 16 characters):">
+      <message>Název seznamu funkcí (max.16 znaků):</message>
+    </item>
+    <item id="Same as function list name.">
+      <message>Stejné jako název seznamu funkcí.</message>
+    </item>
+    <item id="Set absent message (Max. 16 characters):">
+      <message>Nastavit zprávu v nepřítomnosti (Max. 16 znaků):</message>
+    </item>
+    <item id="Do not change absent message.">
+      <message>Neměnit zprávu v nepřítomnosti.</message>
+    </item>
+    <item id="Clear absent message.">
+      <message>Smazat zprávu v nepřítomnosti.</message>
+    </item>
+    <item id="Enable">
+      <message>Povoleno</message>
+    </item>
+    <item id="Feature Number">
+      <message>Číslo funkce</message>
+    </item>
+    <item id="Change2">
+      <message>Změnit</message>
+    </item>
+    <item id="For both external calls and internal calls">
+      <message>Pro vnitřní i vnější volání</message>
+    </item>
+    <item id="For external calls">
+      <message>Pro vnější volání</message>
+    </item>
+    <item id="For internal calls">
+      <message>Pro vnitřní volání</message>
+    </item>
+    <item id="Always (All)">
+      <message>Vždy (Vše)</message>
+    </item>
+    <item id="Busy / No Answer">
+      <message>Obsazeno/Neodpovídá</message>
+    </item>
+    <item id="Off">
+      <message>Vypnuto</message>
+    </item>
+    <item id="The maximum 20 function lists have already been assigned. This new setting cannot be saved.">
+      <message>Může být přiřazeno maximálně 20 názvů funkcí. Toto nové nastavení nemůže být uloženo. </message>
+    </item>
+    <item id="&amp;Modify">
+      <message>&amp;Modifikovat</message>
+    </item>
+    <item id="&amp;Add New">
+      <message>&amp;Přidat nový</message>
+    </item>
+    <item id="Modify Speed Dial">
+      <message>Modifikovat č. ryché volby</message>
+    </item>
+    <item id="Speed dial no.">
+      <message>Rychlá volba č.</message>
+    </item>
+    <item id="Add Speed Dial">
+      <message>Přidat rychlou volbu</message>
+    </item>
+    <item id="Forward">
+      <message>Přesměrování</message>
+    </item>
+    <item id="Exit">
+      <message>Konec</message>
+    </item>
+    <item id="Show">
+      <message>Zobrazit </message>
+    </item>
+    <item id="Mon">
+      <message>Pon</message>
+    </item>
+    <item id="Tue">
+      <message>Úte</message>
+    </item>
+    <item id="Wed">
+      <message>Stř</message>
+    </item>
+    <item id="Thu">
+      <message>Čtv</message>
+    </item>
+    <item id="Fri">
+      <message>Pát</message>
+    </item>
+    <item id="Sat">
+      <message>Sob</message>
+    </item>
+    <item id="Sun">
+      <message>Ned</message>
+    </item>
+    <item id="AM">
+      <message>DO</message>
+    </item>
+    <item id="PM">
+      <message>OD</message>
+    </item>
+    <item id="Enter password of your mailbox:">
+      <message>Volžte heslo pro přístup do vaší hlasové schránky:</message>
+    </item>
+    <item id="Voice Mail">
+      <message>Hlasová schránka</message>
+    </item>
+    <item id="Call Control">
+      <message>Ovládání hovoru</message>
+    </item>
+    <item id="Incoming Call">
+      <message>Příchozí volání</message>
+    </item>
+    <item id="Calling">
+      <message>Volajcí</message>
+    </item>
+    <item id="Recall">
+      <message>Návrat</message>
+    </item>
+    <item id="Text Memo">
+      <message>Textová poznámka</message>
+    </item>
+    <item id="Text Memo Reminder">
+      <message>Text. připomínka</message>
+    </item>
+    <item id="DTMF Tone">
+      <message>DTMF tón</message>
+    </item>
+    <item id="Broadcasting Group:">
+      <message>Skupina vysílání:</message>
+    </item>
+    <item id="Manual Park">
+      <message>Manuální parkování</message>
+    </item>
+    <item id="Call Parked">
+      <message>Hovor zapar.</message>
+    </item>
+    <item id="VM Transfer">
+      <message>Přepoj. do hl. schr.</message>
+    </item>
+    <item id="Caller Information">
+      <message>Info. o volajícím</message>
+    </item>
+    <item id="Redirect to">
+      <message>Odeslat k</message>
+    </item>
+    <item id="Active Calls">
+      <message>Aktiv.Volání</message>
+    </item>
+    <item id="Direct In:">
+      <message>Přímo na:</message>
+    </item>
+    <item id="Outside Line:">
+      <message>Vnější linka:</message>
+    </item>
+    <item id="Call For:">
+      <message>Volání pro:</message>
+    </item>
+    <item id="Duration:">
+      <message>Trvání:</message>
+    </item>
+    <item id="On Hold">
+      <message>Přidržený</message>
+    </item>
+    <item id="Not Valid">
+      <message>Neplatný</message>
+    </item>
+    <item id="Dial is incorrect.">
+      <message>Neplatná volba</message>
+    </item>
+    <item id="Please enter specific park area">
+      <message>Vložte určení oblasti parkování</message>
+    </item>
+    <item id="Parked number">
+      <message>Číslo parkování</message>
+    </item>
+    <item id="Extension  number">
+      <message>Číslo vnitřní linky</message>
+    </item>
+    <item id="Paging Group">
+      <message>Skup. vysílání</message>
+    </item>
+    <item id="Set call back">
+      <message>Nastav zpětné volání</message>
+    </item>
+    <item id="Wait and send call waiting tone">
+      <message>Čekat a poslat tón čekajícího hovoru</message>
+    </item>
+    <item id="Leave message waiting">
+      <message>Zanechat čekací zprávu</message>
+    </item>
+    <item id="Listen in">
+      <message>Poslouchat v</message>
+    </item>
+    <item id="Override (Conference)">
+      <message>Vstup do hovoru (konference)</message>
+    </item>
+    <item id="Take over">
+      <message>Převzít</message>
+    </item>
+    <item id="Call by override">
+      <message>Volání pomocí převzetí</message>
+    </item>
+    <item id="Send e-mail">
+      <message>Poslat E-mail</message>
+    </item>
+    <item id="Transfer the call">
+      <message>Přepojit volání</message>
+    </item>
+    <item id="Put the call on hold">
+      <message>Přidržet volání</message>
+    </item>
+    <item id="Make a conference">
+      <message>Vytvořit konferenci</message>
+    </item>
+    <item id="Park the call (Automatic)">
+      <message>Parkovat volání (Automaticky)</message>
+    </item>
+    <item id="Park the call (Manual)">
+      <message>Parkovat volání (Manuálně)</message>
+    </item>
+    <item id="Transfer to VM">
+      <message>Přepojit do hlasové schránky</message>
+    </item>
+    <item id="Record to VM">
+      <message>Nahrát do hlasové schránky</message>
+    </item>
+    <item id="Stop recording">
+      <message>Zastavit nahrávání</message>
+    </item>
+    <item id="Send DTMF">
+      <message>Poslat DTMF </message>
+    </item>
+    <item id="Send Flash (EFA)">
+      <message>Poslat Flash (EFA)</message>
+    </item>
+    <item id="Write memo">
+      <message>Zapsat poznámku</message>
+    </item>
+    <item id="Split the call">
+      <message>Přepínat volání</message>
+    </item>
+    <item id="Retrieve the call">
+      <message>Návrat  volání</message>
+    </item>
+    <item id="Hang up">
+      <message>Zavěsit volání</message>
+    </item>
+    <item id="Answer the call">
+      <message>Odpovědět na volání</message>
+    </item>
+    <item id="Redirect the call">
+      <message>Odeslat volání</message>
+    </item>
+    <item id="Release">
+      <message>Uvolnit</message>
+    </item>
+    <item id="VM:">
+      <message>HP:</message>
+    </item>
+    <item id="E-mail">
+      <message>E-mail</message>
+    </item>
+    <item id="Message">
+      <message>Zpráva</message>
+    </item>
+    <item id="Close">
+      <message>Zavřít</message>
+    </item>
+    <item id="Cancel">
+      <message>Zrušit</message>
+    </item>
+    <item id="OK">
+      <message>OK</message>
+    </item>
+    <item id="External">
+      <message>Vnější</message>
+    </item>
+    <item id="Internal">
+      <message>Vnitřní</message>
+    </item>
+    <item id="IN">
+      <message>IN</message>
+    </item>
+    <item id="OUT">
+      <message>OUT</message>
+    </item>
+    <item id="Total Time:">
+      <message>Celkem čas:</message>
+    </item>
+    <item id="Ringing Time:">
+      <message>Čas zvonění:</message>
+    </item>
+    <item id="Connecting Time:">
+      <message>Čas spojení:</message>
+    </item>
+    <item id="Holding Time:">
+      <message>Čas přidrž.:</message>
+    </item>
+    <item id="Failed to set call back.">
+      <message>Neúspěšný pokus o zpětné volání.</message>
+    </item>
+    <item id="Failed to send call waiting.">
+      <message>Neúspěšný pokus zaslání tónu čekajícího hovoru.</message>
+    </item>
+    <item id="Failed to override the selected ongoing call.">
+      <message>Neúspěšný pokus vstupu do vybraného probíhajícího hovoru.</message>
+    </item>
+    <item id="Failed to make this call.">
+      <message>Neúspěšný pokus o volání.</message>
+    </item>
+    <item id="Failed to answer the call.">
+      <message>Neúspěšný pokus zodpovědět volání.</message>
+    </item>
+    <item id="Failed to hang up the call.">
+      <message>Neúspěšný pokus zavěsit volání.</message>
+    </item>
+    <item id="The phone number you entered is not valid.">
+      <message>Vložené telefonní číslo není platné.</message>
+    </item>
+    <item id="Options">
+      <message>Možnosti</message>
+    </item>
+    <item id="Key Assign">
+      <message>Přiřazení tlačítka</message>
+    </item>
+    <item id="Display">
+      <message>Displej</message>
+    </item>
+    <item id="Preferences">
+      <message>Přednostní</message>
+    </item>
+    <item id="Key Mappings">
+      <message>Označení tlačítek</message>
+    </item>
+    <item id="Sounds">
+      <message>Zvuk</message>
+    </item>
+    <item id="Dial Modification">
+      <message>Modifikace čísla</message>
+    </item>
+    <item id="PBX System Alarm">
+      <message>Alarm PBX systému</message>
+    </item>
+    <item id="Logon and Security">
+      <message>Přihlášení a zabezp.</message>
+    </item>
+    <item id="About">
+      <message>O programu</message>
+    </item>
+    <item id="Disable">
+      <message>Zakázáno</message>
+    </item>
+    <item id="Language">
+      <message>Jazyk</message>
+    </item>
+    <item id="Minimise application to">
+      <message>Minimalizace aplikace do</message>
+    </item>
+    <item id="Incoming call pop-up for CA">
+      <message>Příchozí okno zobrazení pro CA</message>
+    </item>
+    <item id="Incoming call pop-up for Microsoft Outlook">
+      <message>Příchozí okno zobrazení pro Microsoft Outlook</message>
+    </item>
+    <item id="Notice">
+      <message>Poznámka</message>
+    </item>
+    <item id="Software version">
+      <message>Verze software</message>
+    </item>
+    <item id="Pre-installed language">
+      <message>Předinstalovaný jazyk</message>
+    </item>
+    <item id="Additional language">
+      <message>Další jazyk</message>
+    </item>
+    <item id="Taskbar">
+      <message>Lišta s nástroji</message>
+    </item>
+    <item id="System tray">
+      <message>Ikona v havní liště</message>
+    </item>
+    <item id="Transfer automatically when new call is made during talking">
+      <message>Automat. přepojení, pokud nový hovor přijde během probíh. hovoru</message>
+    </item>
+    <item id="Save ICD group incoming call to history">
+      <message>Uložit záznam příchozího hovoru ICD skupiny do historie</message>
+    </item>
+    <item id="Record to VM automatically">
+      <message>Automatický záznam do hlasové pošty</message>
+    </item>
+    <item id="Use Voice Mail Assistant">
+      <message>Použití Voice Mail Assistant</message>
+    </item>
+    <item id="Remove \&quot;(0)\&quot;">
+      <message>Odebrat \"(0)"\</message>
+    </item>
+    <item id="Inform PBX system alarm using e-mail">
+      <message>Inormovat o chybách PBX pomocí E-mailu</message>
+    </item>
+    <item id="Automatically login">
+      <message>Automatické přihlášení</message>
+    </item>
+    <item id="Automatic minimise after automatically login">
+      <message>Po automatickém přihlášení minimalizuj do lišty</message>
+    </item>
+    <item id="Key:">
+      <message>Tlačítko:</message>
+    </item>
+    <item id="Key Name:">
+      <message>Jméno tlačítka:</message>
+    </item>
+    <item id="Doorphone">
+      <message>Dveřní telefon</message>
+    </item>
+    <item id="Call Back">
+      <message>Zpětné volání</message>
+    </item>
+    <item id="Voice Mail:">
+      <message>Hlasový systém:</message>
+    </item>
+    <item id="Minimum digits for public telephone number:">
+      <message>Minimální počet čísel pro vnější volání</message>
+    </item>
+    <item id="Telephone Number Modification">
+      <message>Modifikace telefonního čísla</message>
+    </item>
+    <item id="No.">
+      <message>č.</message>
+    </item>
+    <item id="Leading Digits to Remove\n(Max. 16 digits)">
+      <message>Odebrat předčíslí\n(Max. 16 čísel)</message>
+    </item>
+    <item id="Added Number\n(Max. 8 digits)">
+      <message>Přidat číslo\n(Max. 8 čísel)</message>
+    </item>
+    <item id="Other:">
+      <message>Ostatní:</message>
+    </item>
+    <item id="E-mail address">
+      <message>E-mail adresa</message>
+    </item>
+    <item id="E-mail title">
+      <message>Předmět E-mailu</message>
+    </item>
+    <item id="Current Password">
+      <message>Aktuální heslo</message>
+    </item>
+    <item id="New Password">
+      <message>Nové heslo</message>
+    </item>
+    <item id="Verify password">
+      <message>Ověřit heslo</message>
+    </item>
+    <item id="When voice volume is not enough, adjustment of microphone and speaker of the PC is required using Control Panel.\nAdjustment for microphone using \&quot;Options\&quot; is also available.\nAdjustment for speaker using \&quot;Navigation Key\&quot; during talking is also available.\nPage key is available when IP softphone is connected with MPR card of KX-TDE PBX, VM-Menu on LCD is not supported. It is required to disable VM-Menu feature using COS programming of VM.">
+      <message>Je-li hlasitost nedostatečná, tak je nutno nastavit úroveň mikrofonu a reproduktoru PC z ovládacího panelu.\n Nastavení MIC je možné také použitím \"Options\". Nastavení hlasitosti během hovoru je také možné použitím \"Navigační tlačítko\".\nTlačítko Výzva je přístupné pokud je IP softphone připojen přes MPR kartu systému KX-TDE/NCP, menu Hlasové pošty na LCD není podporováno.Zakažte funkci menu HP pomocí programování TS na Hlasovém systému.</message>
+    </item>
+    <item id="Delete">
+      <message>Smazat</message>
+    </item>
+    <item id="Change &amp;Password">
+      <message>Změnit &amp;Heslo</message>
+    </item>
+    <item id="Key Name">
+      <message>Náz. tlač.</message>
+    </item>
+    <item id="Assign Key">
+      <message>Přiřaď tl.</message>
+    </item>
+    <item id="Dial/Answer">
+      <message>Volat/Odpověď</message>
+    </item>
+    <item id="Hold">
+      <message>Přidržet</message>
+    </item>
+    <item id="Conference">
+      <message>Konference</message>
+    </item>
+    <item id="Auto Park">
+      <message>Automatické parkování</message>
+    </item>
+    <item id="Redial">
+      <message>Opakovaná volba</message>
+    </item>
+    <item id="Pick Up">
+      <message>Převzít</message>
+    </item>
+    <item id="Transfer to Voice Mail">
+      <message>Přepojit do hlas. syst.</message>
+    </item>
+    <item id="Split">
+      <message>Přepínat</message>
+    </item>
+    <item id="Forward / Do Not Disturb">
+      <message>Přesměrovat/Nerušit</message>
+    </item>
+    <item id="Record to Voice Mail">
+      <message>Nahrávat do Hlasové pošty</message>
+    </item>
+    <item id="Send Tone (DTMF)">
+      <message>Poslat (DTMF)</message>
+    </item>
+    <item id="Copy &amp; Call &lt;Global Key&gt;">
+      <message>Vytočit kopír. &lt;hl. tl.&gt;</message>
+    </item>
+    <item id="The function key (F1-F10) cannot be assigned.">
+      <message>Funkční tlačítka (F1-F10) nelze přiřadit</message>
+    </item>
+    <item id="This character cannot be assigned.">
+      <message>Tyto znaky nemohou být použity</message>
+    </item>
+    <item id="Do you want to save your settings?">
+      <message>Přejete si uložit vaše nastavení?</message>
+    </item>
+    <item id="Please enter a setting.">
+      <message>Prosím vložte nastavení.</message>
+    </item>
+    <item id="Validation error">
+      <message>Chybné potvrzení</message>
+    </item>
+    <item id="The specified path does not exist.">
+      <message>Zadaná cesta neexistuje.</message>
+    </item>
+    <item id="Password mismatch. Please enter your new password again.">
+      <message>Nesouhlasné heslo. Prosím vložte vaše nové heslo znovu.</message>
+    </item>
+    <item id="Password changed successfully.">
+      <message>Heslo bylo úspěšně změněno.</message>
+    </item>
+    <item id="Password change failed!">
+      <message>Neúspěšná změna hesla!</message>
+    </item>
+    <item id="&amp;Send">
+      <message>&amp;Poslat</message>
+    </item>
+    <item id="&amp;Clear">
+      <message>&amp;Smazat</message>
+    </item>
+    <item id="Chat">
+      <message>Chat</message>
+    </item>
+    <item id="No Last Message...">
+      <message>Žádná poslední zpráva….</message>
+    </item>
+    <item id="Last Message: ">
+      <message>Poslední zpráva:</message>
+    </item>
+    <item id="Save to email software.">
+      <message>Uložit do e-mailu.</message>
+    </item>
+    <item id="Do you want to close chat?">
+      <message>Přejete si ukončit Chat?</message>
+    </item>
+    <item id="Chat will close">
+      <message>Chat bude ukončen</message>
+    </item>
+    <item id="You have reached 4 chat sessions.\nChat is not available.">
+      <message>Máte již 4 Chatová spojení. \nChat není dostupný.</message>
+    </item>
+    <item id="The other party has reached the maximum of 4 chat sessions.\nChat is not available.">
+      <message>Druhá strana má již 4 Chatová spojení.\nChat není dostupný.</message>
+    </item>
+    <item id="The other party has logged off.">
+      <message>Druhá strana se odhlásila.</message>
+    </item>
+    <item id="Failed to establish chat with the other party.">
+      <message>Neúspěšné zřízení Chatu s protější stranou.</message>
+    </item>
+    <item id="The other party is not logged in.">
+      <message>Druhá strana není odhlášena.</message>
+    </item>
+    <item id="Unknown Error">
+      <message>Neznámá chyba</message>
+    </item>
+    <item id="Unable Establish Chat with own extension number">
+      <message>Nelze zřídit Chat s vaší vlastní linkou</message>
+    </item>
+    <item id="Failed to launch VMA application.">
+      <message>Neúspěšné spuštění aplikace VM Assistant.</message>
+    </item>
+    <item id="Answer">
+      <message>Přijmout</message>
+    </item>
+    <item id="Drop">
+      <message>Ukončit</message>
+    </item>
+    <item id="Dial Number">
+      <message>Volba čísla</message>
+    </item>
+    <item id="Assistant">
+      <message>Assistant</message>
+    </item>
+    <item id="Business">
+      <message>Firemní</message>
+    </item>
+    <item id="Business 2">
+      <message>Firemní 2</message>
+    </item>
+    <item id="Callback">
+      <message>Zpětné volání</message>
+    </item>
+    <item id="Car">
+      <message>Auto</message>
+    </item>
+    <item id="Company (Main)">
+      <message>Společnost (obecné)</message>
+    </item>
+    <item id="Home 2">
+      <message>Domů 2</message>
+    </item>
+    <item id="ISDN">
+      <message>ISDN</message>
+    </item>
+    <item id="Mobile">
+      <message>Mobil</message>
+    </item>
+    <item id="Other">
+      <message>Ostatní</message>
+    </item>
+    <item id="Primary">
+      <message>Primární</message>
+    </item>
+    <item id="Retrieving contact data.">
+      <message>Obnovení kontaktních dat.</message>
+    </item>
+    <item id="Contact data limit reached.">
+      <message>Limit dat o kontaktech překročen.</message>
+    </item>
+    <item id="Function name cannot be empty.">
+      <message>Jména funkcí nemohou zůstat prázdná.</message>
+    </item>
+    <item id="Absent message cannot be empty.">
+      <message>Zpráva v nepřítomnosti nemůže být prázdná.</message>
+    </item>
+    <item id="Please enter feature number.">
+      <message>Prosím vložte číslo funkce.</message>
+    </item>
+    <item id="Are you sure you want to delete this function list?">
+      <message>Jste si jist, že chcete smazat tento seznam funkcí?</message>
+    </item>
+    <item id="Redirect feature for incoming call does not work for ICD group call.">
+      <message>Přesměrování příchozího volání není funkční pro skupiny RPH (ICD)</message>
+    </item>
+    <item id="Public telephone number is modified automatically, when dial is copied from other application or call is made using contact list or history.">
+      <message>Vnější telefonní číslo je automaticky upraveno, pokud je kopírováno z jiné aplikace, nebo volání je provedeno z kontaktního listu.</message>
+    </item>
+    <item id="&lt;Explanation&gt;">
+      <message>&lt;Vysvětlení&gt;</message>
+    </item>
+    <item id="PBX system alarm can be sent to programmed e-mail address. Local alarm feature should be enabled for your extension by PBX Unified Maintenance Console.">
+      <message>Systémová chybová hlášení PBX mohou být zaslána pokud je naprogramována E-mail adresa. Zasílání musí být naprogramováno v PBX za pomocí programovací konzoly.</message>
+    </item>
+    <item id="Extension Setting">
+      <message>Nastavení pobočky</message>
+    </item>
+    <item id="&amp;FWD/DND">
+      <message>&amp;PSH/NRS </message>
+    </item>
+    <item id="Ext Pin Clear">
+      <message>Smaž Pin pobočky</message>
+    </item>
+    <item id="Wake Up Call">
+      <message>Buzení</message>
+    </item>
+    <item id="Extension &amp;Lock">
+      <message>&amp;Uzamčení pobočky</message>
+    </item>
+    <item id="Extension &amp;Unlock">
+      <message>&amp;Odemčení pobočky</message>
+    </item>
+    <item id="Clearing Extension PIN OK?">
+      <message>Smazání Pin pobočky je OK</message>
+    </item>
+    <item id="PC Console">
+      <message>PC konzola</message>
+    </item>
+    <item id="Wake Up Call Setting">
+      <message>Nastavení buzení</message>
+    </item>
+    <item id="h">
+      <message>h</message>
+    </item>
+    <item id="Daily Setting">
+      <message>Nastavení buzení</message>
+    </item>
+    <item id="Daily">
+      <message>Denně</message>
+    </item>
+    <item id="Once">
+      <message>Jednou</message>
+    </item>
+    <item id="Number">
+      <message>Číslo</message>
+    </item>
+    <item id="FWD/DND (Internal)">
+      <message>PSH/NRS (vnitřní)</message>
+    </item>
+    <item id="FWD/DND (External)">
+      <message>PSH/NRS (vnější)</message>
+    </item>
+    <item id="Display Lock">
+      <message>Uzamčení displeje</message>
+    </item>
+    <item id="Dial Lock">
+      <message>Uzamčení volby</message>
+    </item>
+    <item id="Wake Up">
+      <message>Buzení</message>
+    </item>
+    <item id="Lock">
+      <message>Zamknout</message>
+    </item>
+    <item id="&amp;Unlock">
+      <message>&amp;Odemknout</message>
+    </item>
+    <item id="On">
+      <message>Zap</message>
+    </item>
+    <item id="Outside Line Group">
+      <message>Skupina odchozích linek</message>
+    </item>
+    <item id="Outside Line Number">
+      <message>číslo odchozí linky</message>
+    </item>
+    <item id="Status">
+      <message>Stav</message>
+    </item>
+    <item id="Call secretary">
+      <message>Volat asistenta</message>
+    </item>
+    <item id="Contact List Group:">
+      <message>Kontakt.list skup:</message>
+    </item>
+    <item id="Contact List Groups">
+      <message>Kontaktní list skupiny</message>
+    </item>
+    <item id="&amp;New">
+      <message>&amp;Nový</message>
+    </item>
+    <item id="Move D&amp;own">
+      <message>Posun D&amp;olů</message>
+    </item>
+    <item id="All">
+      <message>Vše</message>
+    </item>
+    <item id="Customise">
+      <message>Přizpůsobit</message>
+    </item>
+    <item id="Private">
+      <message>Soukromý</message>
+    </item>
+    <item id="Please enter a name">
+      <message>Vložte jméno</message>
+    </item>
+    <item id="Communication Assistant Pro">
+      <message>Komunikační Asistent PRO</message>
+    </item>
+    <item id="Are you sure you want to remove this record?">
+      <message>Jste si jistý smazáním tohoto záznamu?</message>
+    </item>
+    <item id="Contact Group Name:">
+      <message>Kontakt.Jm.List:</message>
+    </item>
+    <item id="Chat call back">
+      <message>Chatovat zpět</message>
+    </item>
+    <item id="is typing a message">
+      <message>psaná zpráva</message>
+    </item>
+    <item id="Operator Console (CA Operator Console)">
+      <message>Operátor Konzoly (CA Operator Console)</message>
+    </item>
+    <item id="Use Network">
+      <message>Použít síť</message>
+    </item>
+    <item id="IP Address of CA Server">
+      <message>Adresa CA serveru</message>
+    </item>
+    <item id="Local Address">
+      <message>První</message>
+    </item>
+    <item id="Remote Address">
+      <message>Druhý</message>
+    </item>
+    <item id="FQDN Error">
+      <message>FQDN Chyba</message>
+    </item>
+    <item id="You can log-in to Operator Console Trial for now">
+      <message>Můžete se přihlásit jako operátor do zkušební verze</message>
+    </item>
+    <item id="The number of license is not enough. Do you continue to login without network?">
+      <message>Počet licencí není dostatečný.Chcete pokračovat bez připojení síťě</message>
+    </item>
+    <item id="Function Name:">
+      <message>Název Funkce:</message>
+    </item>
+    <item id="Function is executed automatically when CA is started.">
+      <message>Funkce se automaticky spustí  při startu aplikace CA</message>
+    </item>
+    <item id="Function is executed automatically when CA is closed.">
+      <message>Funkce se automaticky ukončí  při uzavření aplikace CA</message>
+    </item>
+    <item id="My Contact">
+      <message>Mé kontakty</message>
+    </item>
+    <item id="Paging (Flexible)">
+      <message>Výzva promněnné</message>
+    </item>
+    <item id="Account Code">
+      <message>Účtovací kód</message>
+    </item>
+    <item id="Extension Call">
+      <message>Volat pobočku</message>
+    </item>
+    <item id="Group Call">
+      <message>Volat skupinu</message>
+    </item>
+    <item id="Paging (Fixed)">
+      <message>Výzva (pevné)</message>
+    </item>
+    <item id="Parameter:">
+      <message>Parametr:</message>
+    </item>
+    <item id="Label:">
+      <message>Popis:</message>
+    </item>
+    <item id="Please enter Group No.">
+      <message>Vložte číslo skupiny.</message>
+    </item>
+    <item id="CA Pro License is required">
+      <message>CA Pro licence je vyžadována </message>
+    </item>
+    <item id="Missing or unregistered client.">
+      <message>Nepřítomný nebo neregistrovaný klient.</message>
+    </item>
+    <item id="Failed to open email software.">
+      <message>Neúspěšné otevření e-mail klienta</message>
+    </item>
+    <item id="Name:">
+      <message>Jméno:</message>
+    </item>
+    <item id="Find">
+      <message>Najít</message>
+    </item>
+    <item id="Call this contact">
+      <message>Volat kontakt</message>
+    </item>
+    <item id="Add to contact list">
+      <message>Přidat do kontaktního listu</message>
+    </item>
+    <item id="Email Address">
+      <message>E-mailová adresa</message>
+    </item>
+    <item id="Cannot connect to server.">
+      <message>Nelze se připojit k serveru</message>
+    </item>
+    <item id="No results found.">
+      <message>Žádný výsledek</message>
+    </item>
+    <item id="Number of search result exceeded the limit. Only first 100 results shown.">
+      <message>Počet vyhledávaných záznamů překročil povolený limit.Pouze prvních 100 záznamů je zobrazeno</message>
+    </item>
+    <item id="Error while searching for results.">
+      <message>Chyba během vyhledávání záznamů.</message>
+    </item>
+    <item id="Cannot make call. No telephone number.">
+      <message>Nelze provést volání.Chybí telefonní číslo</message>
+    </item>
+    <item id="&amp;New...">
+      <message>&amp;Nový...</message>
+    </item>
+    <item id="Cannot add more than 10 servers to list.">
+      <message>Nelze přidat více než 10 serverů do listu</message>
+    </item>
+    <item id="LDAP Server settings">
+      <message>LDAP Nastavení Serveru</message>
+    </item>
+    <item id="Server Address:">
+      <message>Adresa serveru:</message>
+    </item>
+    <item id="Port Number:">
+      <message>Číslo portu:</message>
+    </item>
+    <item id="Account Name:">
+      <message>Jméno účtu:</message>
+    </item>
+    <item id="Password:">
+      <message>Heslo:</message>
+    </item>
+    <item id="Use SSL">
+      <message>Použít SSL </message>
+    </item>
+    <item id="Ok">
+      <message>OK</message>
+    </item>
+    <item id="Server address cannot be empty.">
+      <message>Adresa serveru nemůže být prázdná</message>
+    </item>
+    <item id="Invalid port number.">
+      <message>Chybné číslo portu.</message>
+    </item>
+    <item id="Account name / password cannot be empty.">
+      <message>jméno účtu / heslo nemůže být nevyplněno</message>
+    </item>
+    <item id="Park (Auto)">
+      <message>Parkovat (Autorežim)</message>
+    </item>
+    <item id="Park (Manual)">
+      <message>Parkovat (Manuálně)</message>
+    </item>
+    <item id="Call waiting tone">
+      <message>Tón čekajícího hovoru</message>
+    </item>
+    <item id="login now">
+      <message>nyní přihlásit</message>
+    </item>
+    <item id="chat is disabled. Callback is cancelled.">
+      <message>Cat je zakázán.Zpětné volání je zrušeno</message>
+    </item>
+    <item id="Extension">
+      <message>Pobočka</message>
+    </item>
+    <item id="Extension PIN Clear">
+      <message>Smaž Pin pobočky</message>
+    </item>
+    <item id="Transfer to phone (Office): ">
+      <message>Přepoj na tel. (kancelář):</message>
+    </item>
+    <item id="Transfer to phone (Mobile): ">
+      <message>Přepoj na tel. (mobil):</message>
+    </item>
+    <item id="Transfer to phone (Home): ">
+      <message>Přepoj na tel. (domů):</message>
+    </item>
+    <item id="Transfer to phone (secretary): ">
+      <message>Přepoj na tel. (asistentka):</message>
+    </item>
+    <item id="Email this contact">
+      <message>E-mail na tento kontakt</message>
+    </item>
+    <item id="Key-1">
+      <message>Tlč-1</message>
+    </item>
+    <item id="Key-2">
+      <message>Tlč-2</message>
+    </item>
+    <item id="Key-3">
+      <message>Tlč-3</message>
+    </item>
+    <item id="Key-4">
+      <message>Tlč-4</message>
+    </item>
+    <item id="Key-5">
+      <message>Tlč-5</message>
+    </item>
+    <item id="Key-6">
+      <message>Tlč-6</message>
+    </item>
+    <item id="Key-7">
+      <message>Tlč-7</message>
+    </item>
+    <item id="Key-8">
+      <message>Tlč-8</message>
+    </item>
+    <item id="Key-9">
+      <message>Tlč-9</message>
+    </item>
+    <item id="Key-10">
+      <message>Tlč-10</message>
+    </item>
+    <item id="Key-11">
+      <message>Tlč-11</message>
+    </item>
+    <item id="Key-12">
+      <message>Tlč-12</message>
+    </item>
+    <item id="Select by group number">
+      <message>Výběr čísla skupiny</message>
+    </item>
+    <item id="Group number: 01">
+      <message>Skupina číslo: 01</message>
+    </item>
+    <item id="Group number: 02">
+      <message>Skupina číslo: 02</message>
+    </item>
+    <item id="Group number: 03">
+      <message>Skupina číslo: 03</message>
+    </item>
+    <item id="Group number: 04">
+      <message>Skupina číslo: 04</message>
+    </item>
+    <item id="Group number: 05">
+      <message>Skupina číslo: 05</message>
+    </item>
+    <item id="Group number: 06">
+      <message>Skupina číslo: 06</message>
+    </item>
+    <item id="Group number: 07">
+      <message>Skupina číslo: 07</message>
+    </item>
+    <item id="Group number: 08">
+      <message>Skupina číslo: 08</message>
+    </item>
+    <item id="Group number: 09">
+      <message>Skupina číslo: 09</message>
+    </item>
+    <item id="Group number: 10">
+      <message>Skupina číslo: 10</message>
+    </item>
+    <item id="Group number: 11">
+      <message>Skupina číslo: 11</message>
+    </item>
+    <item id="Group number: 12">
+      <message>Skupina číslo: 12</message>
+    </item>
+    <item id="Group number: 13">
+      <message>Skupina číslo: 13</message>
+    </item>
+    <item id="Group number: 14">
+      <message>Skupina číslo: 14</message>
+    </item>
+    <item id="Group number: 15">
+      <message>Skupina číslo: 15</message>
+    </item>
+    <item id="Group number: 16">
+      <message>Skupina číslo: 16</message>
+    </item>
+    <item id="Group number: 17">
+      <message>Skupina číslo: 17</message>
+    </item>
+    <item id="Group number: 18">
+      <message>Skupina číslo: 18</message>
+    </item>
+    <item id="Group number: 19">
+      <message>Skupina číslo: 19</message>
+    </item>
+    <item id="Group number: 20">
+      <message>Skupina číslo: 20</message>
+    </item>
+    <item id="Group number: 21">
+      <message>Skupina číslo: 21</message>
+    </item>
+    <item id="Group number: 22">
+      <message>Skupina číslo: 22</message>
+    </item>
+    <item id="Group number: 23">
+      <message>Skupina číslo: 23</message>
+    </item>
+    <item id="Group number: 24">
+      <message>Skupina číslo: 24</message>
+    </item>
+    <item id="Group number: 25">
+      <message>Skupina číslo: 25</message>
+    </item>
+    <item id="Group number: 26">
+      <message>Skupina číslo: 26</message>
+    </item>
+    <item id="Group number: 27">
+      <message>Skupina číslo: 27</message>
+    </item>
+    <item id="Group number: 28">
+      <message>Skupina číslo: 28</message>
+    </item>
+    <item id="Group number: 29">
+      <message>Skupina číslo: 29</message>
+    </item>
+    <item id="Group number: 30">
+      <message>Skupina číslo: 30</message>
+    </item>
+    <item id="Group number: 31">
+      <message>Skupina číslo: 31</message>
+    </item>
+    <item id="Group number: 32">
+      <message>Skupina číslo: 32</message>
+    </item>
+    <item id="Please enter Group Number.">
+      <message>Prosím vložte číslo skupiny:</message>
+    </item>
+    <item id="&amp;Edit...">
+      <message>&amp;Upravit</message>
+    </item>
+    <item id="Please enter a group name.">
+      <message>Vložte název skupiny</message>
+    </item>
+    <item id="Unable load user Profile.">
+      <message>Nelze načíst uživatelský profil.</message>
+    </item>
+    <item id="Request Fail.">
+      <message>Neúspěšný požadavek</message>
+    </item>
+    <item id="Fail to connect to the selected Network Server.">
+      <message>Neúspěšné připojení k vybranému serveru.</message>
+    </item>
+    <item id="Network Call Flag">
+      <message>Indikátor síťového volání</message>
+    </item>
+    <item id="Connection with Network Server is Disconnected, CA will connect back to Own Server.">
+      <message>Propojení s síťovým serverem je přerušeno, CA aplikace se připojí zpět k vlastnímu serveru.</message>
+    </item>
+    <item id="Call Park">
+      <message>Zaparkovat vol.</message>
+    </item>
+    <item id="Park Number">
+      <message>Číslo parkoviště</message>
+    </item>
+    <item id="Function Name">
+      <message>Název Funkce</message>
+    </item>
+    <item id="Start date and time">
+      <message>Start datum a čas</message>
+    </item>
+    <item id="End date and time">
+      <message>Ukončení datum a čas</message>
+    </item>
+    <item id="Function List - Schedule">
+      <message>Název funkčního listu - rozvrh</message>
+    </item>
+    <item id="Function name for End :">
+      <message>Název funkce pro ukončení:</message>
+    </item>
+    <item id="Callback message was cancelled for the timeout.">
+      <message>Zpětná zpráva po ukončení funkce </message>
+    </item>
+    <item id="Outside Line : ">
+      <message>Odchozí linka:</message>
+    </item>
+    <item id="DEFAULT LDAP SRV">
+      <message>Tovární LDAP SRV</message>
+    </item>
+    <item id="Searching for LDAP contacts...">
+      <message>Vyhledávání kontaktů z LDAP…</message>
+    </item>
+    <item id="Connecting to LDAP server...">
+      <message>Připojení k LDAP serveru…</message>
+    </item>
+    <item id="Location:">
+      <message>Umístění:</message>
+    </item>
+    <item id="LDAP Location List">
+      <message>LDAP umístění listů</message>
+    </item>
+    <item id="Are you sure you want to delete this location?">
+      <message>Jste si jist, že chcete smazat toto umístění?</message>
+    </item>
+    <item id="Cannot add new location. Location already exists. Do you want to edit existing location instead?">
+      <message>Nelze přidat další umístění.Toto umístění již existuje.Chcete toto umístění upravit?</message>
+    </item>
+    <item id="Location cannot be empty.">
+      <message>Umístění musí být vyplněno.</message>
+    </item>
+    <item id="Location cannot be the same as server address.">
+      <message>Umístění nemůže být stejné jako adresa serveru.</message>
+    </item>
+    <item id="&amp;LDAP Link">
+      <message>&amp;LDAP cesta</message>
+    </item>
+    <item id="Function Key:">
+      <message>Funkční tlačítko:</message>
+    </item>
+    <item id="Outside &amp;Line Group">
+      <message>Odchozí &amp;linka skupina</message>
+    </item>
+    <item id="Incoming Group">
+      <message>Příchozí skupina</message>
+    </item>
+    <item id="Icon">
+      <message>Ikona</message>
+    </item>
+    <item id="List">
+      <message>List</message>
+    </item>
+    <item id="Contact List Display Format">
+      <message>Formát zobrazení kontaktního listu</message>
+    </item>
+    <item id="This is the default group. Default group cannot be deleted.">
+      <message>Toto je výchozí skupina.Tato skupina nemůže být smazána.</message>
+    </item>
+    <item id="The password supplied does not meet the minimum complexity requirement. \n Please select another password that meet all of the following  criteria: \n -is at least 5 characters; \n-not same as extension number;\n-must contains different data types (nemera">
+      <message>Heslo nesplňuje minimální požadavkypro užití. \n Prosím vyberte jiné heslo, které splňuje všechny podmínky: \n nejméně 5 znaků; \n-ne stejné jako číslo pobočky;\n-musí obsahovat různé typy dat (0-9);písmena(A-Z,a-z);znaky(*,#).</message>
+    </item>
+    <item id="The maximum contact group had been registered. To add a new contact group, please delete some contact group.">
+      <message>Maximální počet skupin je omezen.Pro přidání nové skupiny prosím smažte nekteré nepotřebné skupiny.</message>
+    </item>
+    <item id="Cannot log in. This may be cause by one of the following causes: \n -you entered an incorrect password \n -The extension number does not exist.">
+      <message>Nelze se přihlásit.Způsobeno jedním z následujících případů: \n-vy jste vložil nesprávné heslo \n-Číslo pobočky neexistuje.</message>
+    </item>
+    <item id="Unable to set user profile.">
+      <message>Nelze nastavit uživatelský profil</message>
+    </item>
+    <item id="Uable to delete the selected user profile.">
+      <message>Nelze smazat vybraný uživatelský profil.</message>
+    </item>
+    <item id="Available Contact">
+      <message>Dostupné kontakty</message>
+    </item>
+    <item id="Available Contact (External Server Mode Only)">
+      <message>Dostupné kontakty (pouze v módu externí server)</message>
+    </item>
+    <item id="Secretary">
+      <message>Asistentka</message>
+    </item>
+    <item id="Duration : ">
+      <message>Délka:</message>
+    </item>
+    <item id="Absent Message Icon List">
+      <message>List ikon pro zprávy v nepřítomnosti</message>
+    </item>
+    <item id="Do Not Disturb Icon">
+      <message>List ikon pro službu Nerušit</message>
+    </item>
+    <item id="Are you sure want to delete?">
+      <message>Jste si opravdu jist co chcete smazat</message>
+    </item>
+    <item id="Add">
+      <message>Přidat</message>
+    </item>
+    <item id="Fail to forward. Phone number is exceeded 32 digits">
+      <message>Chyba přesměrování.Telefonní číslo má více jak 32 číslic</message>
+    </item>
+    <item id="Acquiring Ldap info from server.">
+      <message>Získat LDAP informace z serveru</message>
+    </item>
+    <item id="Unable to get Ldap info from Server.">
+      <message>Nelze dostat informace LDAP z serveru</message>
+    </item>
+    <item id="&amp;Location:">
+      <message>&amp;Umístění:</message>
+    </item>
+    <item id="Clear Forward / Do Not Disturb">
+      <message>Zrušit Přesměrování / Nerušit</message>
+    </item>
+    <item id="Forward VM : ">
+      <message>Přesměrovat do HS:</message>
+    </item>
+    <item id="Forward Phone (Home) : ">
+      <message>Přesměrovat tel. (domů):</message>
+    </item>
+    <item id="Forward Phone (Mobile) : ">
+      <message>Přesměrovat tel. (mobil):</message>
+    </item>
+    <item id="Forward Phone (Secretary) : ">
+      <message>Přesměrovat tel. (asistentka):</message>
+    </item>
+    <item id="Advanced setting">
+      <message>Rozšířené nastavení</message>
+    </item>
+    <item id="Connection to the PBX is lost. Call control functions will no longer work.">
+      <message>Spojení s PBX je ztraceno.Funkce monitorování volání přestanou fungovat. </message>
+    </item>
+    <item id="Connection to the PBX has been regained.">
+      <message>Spojení s PBX bylo obnoveno</message>
+    </item>
+    <item id="&amp;Log-in">
+      <message>&amp;Přihlásit</message>
+    </item>
+    <item id="Log-&amp;out">
+      <message>Odh&amp;lásit</message>
+    </item>
+    <item id="&amp;More">
+      <message>&amp;Více</message>
+    </item>
+    <item id="Call phone (&amp;Office): ">
+      <message>Volat na (&amp;Firmu):</message>
+    </item>
+    <item id="Call phone (&amp;Mobile): ">
+      <message>Volat na(&amp;Mobil):</message>
+    </item>
+    <item id="Call phone (Hom&amp;e): ">
+      <message>Volat (Dom&amp;ů):</message>
+    </item>
+    <item id="Transfer to phone (&amp;Office): ">
+      <message>Přepojit tel.na (&amp;Firmu):</message>
+    </item>
+    <item id="Transfer to phone (&amp;Mobile): ">
+      <message>Přepojit tel.na (&amp;Mobil):</message>
+    </item>
+    <item id="Transfer to phone (Hom&amp;e): ">
+      <message>Přepojit tel. (Dom&amp;ů):</message>
+    </item>
+    <item id="Call phone (Secretar&amp;y): ">
+      <message>Volat (Asistentk&amp;u):</message>
+    </item>
+    <item id="Leave vo&amp;ice message">
+      <message>Zanechat hl&amp;asovou zprávu</message>
+    </item>
+    <item id="Se&amp;nd E-mail : ">
+      <message>Po&amp;slat E-mail:</message>
+    </item>
+    <item id="Access &amp;Web">
+      <message>Přístup &amp;Web</message>
+    </item>
+    <item id="Start c&amp;hat">
+      <message>Začít c&amp;hat</message>
+    </item>
+    <item id="Chat call &amp;back">
+      <message>Zpětné &amp;volání z aplikace Chat</message>
+    </item>
+    <item id="Transfer to phone (Secretar&amp;y): ">
+      <message>Přepojit na (asistentk&amp;u):</message>
+    </item>
+    <item id="&amp;Get Latest Report">
+      <message>&amp;Dostat poslední report</message>
+    </item>
+    <item id="Extension &amp;Pin Clear">
+      <message>Smazat &amp;Pin pobočky</message>
+    </item>
+    <item id="&amp;Wake Up">
+      <message>&amp;Buzení</message>
+    </item>
+    <item id="&amp;Absent Message ">
+      <message>&amp;Zprávy nepřítomen</message>
+    </item>
+    <item id="&amp;Extension">
+      <message>&amp;Pobočka</message>
+    </item>
+    <item id="&amp;Lock">
+      <message>&amp;Zámek</message>
+    </item>
+    <item id="&amp;Wake Up Call">
+      <message>&amp;Vzbudit</message>
+    </item>
+    <item id="Ext &amp;Pin Clear">
+      <message>Pobočka &amp;zruš Pin</message>
+    </item>
+    <item id="&amp;Call this contact">
+      <message>&amp;Volat tento kontakt</message>
+    </item>
+    <item id="&amp;Add to contact list">
+      <message>&amp;Přidat na seznam kontaktů</message>
+    </item>
+    <item id="&amp;Email this contact">
+      <message>&amp;Poslat E-mail</message>
+    </item>
+    <item id="&amp;Name:">
+      <message>&amp;Jméno:</message>
+    </item>
+    <item id="Please select another password with at least 5 characters, not same as \nextension number, and contains at least two of the following three character \ngroups: English uppercase (A through Z) or lowercase (a through z) characters; \nNumerals (0-9); Non-alphabetic characters (*,#).">
+      <message>Prosím vyberte jiné heslo s minimálně 5 znaky, které se liší od \nčísla linky a obsahuje alespoň dvě z následujících skupin \nznaků: znaky velkých písmen (A až Z) nebo malých písmen (a až z) anglické abecedy; \nčíslice (0-9); nealfanumerické znaky (*,#).</message>
+    </item>
+    <item id="Server is busy. Please try to login later.">
+      <message>Server je obsazen.Zkuste se přihlásit později</message>
+    </item>
+    <item id="Option">
+      <message>Možnosti</message>
+    </item>
+    <item id="Forward/Do Not Disturb">
+      <message>Přesměrovat/Nerušit</message>
+    </item>
+    <item id="Cannot log in. This may be caused by one of the following causes: \n - you entered an incorrect password \n - the extension number does not exist.">
+      <message>Nelze provést přihlášení. Příčinou může být jeden z těchto důvodů: \n - zadali jste nesprávné heslo \n - číslo linky neexistuje.</message>
+    </item>
+    <item id="Unable to load User Profile.">
+      <message>Nelze nahrát uživatelský profil.</message>
+    </item>
+    <item id="Language file not found, CA will use default language (English)">
+      <message>Nebyl nalezen jazykový soubor, CA použije základní jazyk (angličtina)</message>
+    </item>
+    <item id="&amp;Add">
+      <message>&amp;Přidat</message>
+    </item>
+    <item id="A&amp;dd">
+      <message>Přid&amp;at</message>
+    </item>
+    <item id="De&amp;lete">
+      <message>Ods&amp;tranit</message>
+    </item>
+    <item id="Dele&amp;te">
+      <message>Odstra&amp;nit</message>
+    </item>
+    <item id="&amp;Server Address:">
+      <message>&amp;Adresa serveru:</message>
+    </item>
+    <item id="Port &amp;Number:">
+      <message>Číslo &amp;portu:</message>
+    </item>
+    <item id="&amp;Account Name:">
+      <message>&amp;Název účtu:</message>
+    </item>
+    <item id="&amp;Password:">
+      <message>&amp;Heslo:</message>
+    </item>
+    <item id="Advanced Setting">
+      <message>Rozšířené nastavení</message>
+    </item>
+    <item id="Server is busy, Please try later.">
+      <message>Server je zaneprázdněn. Opakujte pokus později.</message>
+    </item>
+    <item id="The image file is not valid, CA is unable to load the image file.">
+      <message>Obrázkový soubor není platný. CA nemůže obrázkový soubor nahrát.</message>
+    </item>
+    <item id="Dutch">
+      <message>Nederlands</message>
+    </item>
+    <item id="Polish">
+      <message>Polski</message>
+    </item>
+    <item id="Croatian ">
+      <message>Hrvatski</message>
+    </item>
+    <item id="Hungarian ">
+      <message>Magyar</message>
+    </item>
+    <item id="Czech ">
+      <message>Česky</message>
+    </item>
+    <item id="PBX Connection Lost …">
+      <message>Spojení s pobočkovou ústřednou bylo ztraceno...</message>
+    </item>
+    <item id="Log-in to the group">
+      <message>Při&amp;hlásit do skupiny</message>
+    </item>
+    <item id="Log-out from the group">
+      <message>Od&amp;hlásit ze skupiny</message>
+    </item>
+    <item id="Se&amp;nd E-mail: ">
+      <message>Po&amp;slat E-mail</message>
+    </item>
+    <item id="Start C&amp;hat">
+      <message>Začít c&amp;hat</message>
+    </item>
+    <item id="Save">
+      <message>Uložit</message>
+    </item>
+    <item id="&amp;Extension Setting">
+      <message>&amp;Nastavení pobočky</message>
+    </item>
+    <item id="Phone (Secretary):">
+      <message>Telefon (Asistentka):</message>
+    </item>
+    <item id="Cannot login PBX mode in Thin Client environment.">
+      <message>V prostředí Thin Client nelze spustit režim pobočkové ústředny.</message>
+    </item>
+    <item id="Local Alarm Message:">
+      <message>Místní výstražné hlášení:</message>
+    </item>
+    <item id="&amp;Speed Dial">
+      <message>R&amp;ychlá volba</message>
+    </item>
+    <item id="Call phone (Secretary): ">
+      <message>Volat Telefon (Asistentka):</message>
+    </item>
+    <item id="&amp;Ok">
+      <message>&amp;OK</message>
+    </item>
+    <item id="Total Incoming Call">
+      <message>Celkem přích. hovorů</message>
+    </item>
+    <item id="Overflow Call">
+      <message>Nadbytečné hovory</message>
+    </item>
+    <item id="Average Waiting Time">
+      <message>Průměrná doba čekání</message>
+    </item>
+    <item id="This Console feature is beta version.">
+      <message>Tato funkce v Console je verze beta.</message>
+    </item>
+    <item id="Communication Assistant failed to log in.\nPlease try to log in again.">
+      <message>Communication Assistant se nemohl přihlásit.\nProsím, zkuste se přihlásit znovu.</message>
+    </item>
+    <item id="&amp;View this contact">
+      <message>&amp;Zobrazit tento kontakt</message>
+    </item>
+    <item id="Open Doo&amp;r">
+      <message>Otev. dv&amp;.</message>
+    </item>
+    <item id="Open Door">
+      <message>Otev. dv.</message>
+    </item>
+    <item id="Call D&amp;oorphone">
+      <message>Zavol.d&amp;om.tel.</message>
+    </item>
+    <item id="Call Doorphone">
+      <message>Zavol.dom.tel.</message>
+    </item>
+    <item id="Search / Dial">
+      <message>Hledat/vytoč.</message>
+    </item>
+    <item id="Combine Search and Dial">
+      <message>Kombin. hledání a vytoč.</message>
+    </item>
+    <item id="Call Control Display Mode">
+      <message>Volat ovl./režim zobr.</message>
+    </item>
+    <item id="Extension Setting Authentication Setting">
+      <message>Nastavení linky/Nastavení ověření</message>
+    </item>
+    <item id="Settings below are needed to get information from PBX">
+      <message>Níže uved.nast.jsou nezbyt.pro získ.inf.z poboč.ústř.</message>
+    </item>
+    <item id="Maintenance Port Number">
+      <message>Číslo údržbového portu</message>
+    </item>
+    <item id="Absent message is assigned automatically when PC is not used pre programmed time.">
+      <message>Když se počítač po přednast.čas nepoužívá,autom.se konfig. období „Chybí zpráva“.</message>
+    </item>
+    <item id="Unable to establish chat with own extension number.">
+      <message>S číslem vlastní linky nelze navázat chat.</message>
+    </item>
+    <item id="Contact list successfully exported.">
+      <message>Seznam kontaktů byl úsp.exportován.</message>
+    </item>
+    <item id="Contact list unable to export. An error occur during the exportation">
+      <message>Seznam kontaktů nelze exportovat. Během exportování došlo k chybě.</message>
+    </item>
+    <item id="Use Extension Setting feature">
+      <message>Použijte funkci nast. linky</message>
+    </item>
+    <item id="\&quot;Extension Setting\&quot; menu is not available temporarily because PBX information is not retrieved.\nPlease ask your PBX administrator.">
+      <message>Nabídka\“Nastavení linky\“ není dočasně k dispozici, protože informace o PBX nebyly načteny.\nZeptejte se vašeho správce PBX.</message>
+    </item>
+    <item id="Automatic unscreened transfer">
+      <message>Automatický nechráněný přenos</message>
+    </item>
+    <item id="Automatic Unscreened Transfer for Operator Console">
+      <message>Autom. nechráněný přenos pro konzolu operátora</message>
+    </item>
+    <item id="Standard user (CA Basic-Express)">
+      <message>Běžný uživatel (CA Basic-Express) </message>
+    </item>
+    <item id="You can log-in to Basic-Express mode for now">
+      <message>Nyní se můžete přihlásit do režimu Basic-Express </message>
+    </item>
+    <item id="Limitations for Basic-Express mode:">
+      <message>Omezení pro režim Basic-Express:</message>
+    </item>
+    <item id="Sound">
+      <message>Zvuk</message>
+    </item>
+    <item id="Mute">
+      <message>Ztlumit</message>
+    </item>
+    <item id="Move to Dial Box">
+      <message>Přesunout do pole vytáčení</message>
+    </item>
+    <item id="Answer">
+      <message>Přijmout</message>
+    </item>
+    <item id="Redirect">
+      <message>Přesměrovat</message>
+    </item>
+    <item id="Write Memo">
+      <message>Zapsat poznámku</message>
+    </item>
+    <item id="Set Call Back">
+      <message>Nastavit zpětné volání</message>
+    </item>
+    <item id="Call waiting tone">
+      <message>Tón čekajícího hovoru</message>
+    </item>
+    <item id="Listen in">
+      <message>Poslouchat v</message>
+    </item>
+    <item id="Override(Conference)">
+      <message>Vstup do hovoru (konference)</message>
+    </item>
+    <item id="Take Over">
+      <message>Převzít</message>
+    </item>
+    <item id="Start Chat">
+      <message>Začít chat</message>
+    </item>
+    <item id="Move Call focus(up)">
+      <message>Přesunout zaměření hovoru (nahoru)</message>
+    </item>
+    <item id="Move Call focus(down)">
+      <message>Přesunout zaměření hovoru (dolů)</message>
+    </item>
+    <item id="Group Conference">
+      <message>Skupinová konference</message>
+    </item>
+    <item id="Total length of Email-to-SMS address(es) exceeded the maximum limit.\n\nYour Email-to-SMS address(es) may be truncated.">
+      <message>Celková délka  E-mailu posílaného na SMS překračuje maximální povolenou délku.\n\nVáš E-mail posílaný na SMS bude zkrácen.</message>
+    </item>
+    <item id="Office">
+      <message>Kancelář</message>
+    </item>
+    <item id="PBX Code">
+      <message>Kód ústředny PBX</message>
+    </item>
+    <item id="Mobile">
+      <message>Mobil</message>
+    </item>
+    <item id="Home">
+      <message>Domů</message>
+    </item>
+    <item id="Secretary">
+      <message>Asistentka</message>
+    </item>
+    <item id="&amp;Office">
+      <message>&amp;Kancelář</message>
+    </item>
+    <item id="&amp;PBX Code">
+      <message>&amp;Kód ústředny PBX</message>
+    </item>
+    <item id="Mo&amp;bile">
+      <message>Mo&amp;bil</message>
+    </item>
+    <item id="&amp;Home">
+      <message>&amp;Domů</message>
+    </item>
+    <item id="&amp;Secretary">
+      <message>&amp;Asistentka</message>
+    </item>
+    <item id="&amp;E-mail">
+      <message>&amp;E-mail</message>
+    </item>
+    <item id="S&amp;MS">
+      <message>S&amp;MS</message>
+    </item>
+    <item id="CRM Integration">
+      <message>Integrace CRM</message>
+    </item>
+    <item id="Add Member To Co&amp;nference">
+      <message>Přidat člena do ko&amp;nference</message>
+    </item>
+    <item id="Conference Group">
+      <message>Konferenční skupina</message>
+    </item>
+    <item id="Conference Room">
+      <message>Konferenční místnost</message>
+    </item>
+    <item id="ID">
+      <message>ID</message>
+    </item>
+    <item id="Conference Setting">
+      <message>Nastavení konference</message>
+    </item>
+    <item id="Name:">
+      <message>Jméno:</message>
+    </item>
+    <item id="PIN:">
+      <message>PIN:</message>
+    </item>
+    <item id="Number:">
+      <message>Číslo:</message>
+    </item>
+    <item id="Add New Member">
+      <message>Přidat nového člena</message>
+    </item>
+    <item id="Number already exist">
+      <message>Číslo již existuje.</message>
+    </item>
+    <item id="&amp;End Conference">
+      <message>&amp;Ukončit konferenci</message>
+    </item>
+    <item id="You are invited to this conference. Do you want to accept?">
+      <message>Jste pozván(a) na tuto konferenci. Chcete pozvání přijmout?</message>
+    </item>
+    <item id="Invitation">
+      <message>Pozvánka</message>
+    </item>
+    <item id="Join">
+      <message>Připojit se</message>
+    </item>
+    <item id="Start">
+      <message>Zahájit</message>
+    </item>
+    <item id="Disconnect">
+      <message>Odpojit</message>
+    </item>
+    <item id="32 (Default: one-way)">
+      <message>32 (výchozí: jednosměrná)</message>
+    </item>
+    <item id="8 (Default: two-way)">
+      <message>8 (výchozí: obousměrná)</message>
+    </item>
+    <item id="I would like to join this conference.\nCould you please add me into this conference?">
+      <message>Chci se připojit k této konferenci.\nMůžete mě prosím přidat do této konference?</message>
+    </item>
+    <item id="Empty Slot - Add Party">
+      <message>Prázdný slot – přidat účastníka</message>
+    </item>
+    <item id="Empty Slot">
+      <message>Prázdný slot</message>
+    </item>
+    <item id="Invite">
+      <message>Pozvat</message>
+    </item>
+    <item id="Yes">
+      <message>Ano</message>
+    </item>
+    <item id="No">
+      <message>Ne</message>
+    </item>
+    <item id="Server is busy. Please try again later.">
+      <message>Server je zaneprázdněn. Opakujte pokus znovu později.</message>
+    </item>
+    <item id="Conference members exceed the limit.">
+      <message>Počet členů konference přesahuje maximální stanovený počet.</message>
+    </item>
+    <item id="Please wait...">
+      <message>Prosím čekejte…</message>
+    </item>
+    <item id="Conference room is not available.">
+      <message>Konferenční místnost není k dispozici.</message>
+    </item>
+    <item id="No member in conference room.">
+      <message>V konferenční místnosti není žádný člen.</message>
+    </item>
+    <item id="Invalid group number.">
+      <message>Chybné číslo skupiny.</message>
+    </item>
+    <item id="Network is busy.">
+      <message>Síť je zaneprázdněna.</message>
+    </item>
+    <item id="Failed to start conference.">
+      <message>Zahájení konference selhalo.</message>
+    </item>
+    <item id="Do you want to remove this user from the conference?">
+      <message>Chcete tohoto uživatele odebrat z konference?</message>
+    </item>
+    <item id="Do you want to disconnect this member from the conference?">
+      <message>Chcete tohoto člena odpojit od konference?</message>
+    </item>
+    <item id="Conference details already deleted.">
+      <message>Podrobné informace o konferenci již byly odstraněny.</message>
+    </item>
+    <item id="The current members will be removed and replaced by new data. Do you want to continue?">
+      <message>Aktuální členové budou odstraněni a nahrazeni novými daty. Chcete pokračovat?</message>
+    </item>
+    <item id="Exceed maximum no. of group.">
+      <message>Maximální počet skupin byl překročen.</message>
+    </item>
+    <item id="Do you want to end the conference?">
+      <message>Chcete konferenci ukončit?</message>
+    </item>
+    <item id="Own extension is not allowed.">
+      <message>Vlastní linka není povolena.</message>
+    </item>
+    <item id="The initiator is not CA user. Join cannot be done. Please dial the number which the conference initiator informed to you to join this conference.">
+      <message>Iniciátorem není uživatel CA. Připojení nelze provést. Prosím, vytočte číslo, které vám sdělil iniciátor konferenčního hovoru a připojte se tak k tomuto konferenčnímu hovoru.</message>
+    </item>
+    <item id="Sorry, you are not able to join this conference.">
+      <message>Omlouváme se, ale k této konferenci se nemůžete připojit.</message>
+    </item>
+    <item id="Are you sure you want to delete?">
+      <message>Opravdu chcete provést odstranění?</message>
+    </item>
+    <item id="Name already exist.">
+      <message>Jméno již existuje.</message>
+    </item>
+    <item id="Do you want to save conference member?">
+      <message>Chcete uložit člena konference?</message>
+    </item>
+    <item id="Some of the items could not be added due to the reasons below:\n\n* Invalid contact type.\n* Duplicated phone number.\n* Own number is added.\n* Exceed the maximum member limit.\n* No phone number found.">
+      <message>Některé položky nebylo možné přidat z následujících důvodů:\n\n* Neplatný typ kontaktu.\n* Duplikované telefonní číslo.\n* Přidáno vlastní číslo.\n* Byl překročen maximální počet členů.\n* Nebylo nalezeno žádné číslo.</message>
+    </item>
+    <item id="Normal">
+      <message>Normální</message>
+    </item>
+    <item id="Mute">
+      <message>Ztlumit</message>
+    </item>
+    <item id="Send E-mail 1">
+      <message>Poslat E-mail 1</message>
+    </item>
+    <item id="Send E-mail 1:">
+      <message>Poslat E-mail 1:</message>
+    </item>
+    <item id="Send &amp;E-mail 1:">
+      <message>Poslat &amp;E-mail 1:</message>
+    </item>
+    <item id="Send E-mail 2:">
+      <message>Poslat E-mail 2:</message>
+    </item>
+    <item id="Se&amp;nd E-mail 2:">
+      <message>Pos&amp;lat E-mail 2:</message>
+    </item>
+    <item id="E-mail 1:">
+      <message>E-mail 1:</message>
+    </item>
+    <item id="E-mail 1">
+      <message>E-mail 1</message>
+    </item>
+    <item id="&amp;E-mail 1">
+      <message>&amp;E-mail 1</message>
+    </item>
+    <item id="E-&amp;mail 2">
+      <message>E-&amp;mail 2</message>
+    </item>
+    <item id="E-mail 2:">
+      <message>E-mail 2:</message>
+    </item>
+    <item id="E-mail 2">
+      <message>E-mail 2</message>
+    </item>
+    <item id="Search All">
+      <message>Hledat vše</message>
+    </item>
+    <item id="Search">
+      <message>Hledat</message>
+    </item>
+    <item id="Call">
+      <message>Volat</message>
+    </item>
+    <item id="E-mail">
+      <message>E-mail</message>
+    </item>
+    <item id="Contact List">
+      <message>Seznam kontaktů</message>
+    </item>
+    <item id="Search CA contacts">
+      <message>Hledat kontakty CA</message>
+    </item>
+    <item id="Search LDAP contacts from following LDAP server">
+      <message>Hledat kontakty LDAP na následujícím serveru LDAP</message>
+    </item>
+    <item id="&amp;Call this contact">
+      <message>&amp;Volat tento kontakt</message>
+    </item>
+    <item id="&amp;Email this contact">
+      <message>&amp;Poslat E-mail</message>
+    </item>
+    <item id="&amp;Add to contact list">
+      <message>&amp;Přidat na seznam kontaktů</message>
+    </item>
+    <item id="Location">
+      <message>Umístění</message>
+    </item>
+    <item id="&amp;Location">
+      <message>&amp;Umístění</message>
+    </item>
+    <item id="No result found.">
+      <message>Nebyl nalezen žádný výsledek.</message>
+    </item>
+    <item id="No contact available to export.">
+      <message>K dispozici není žádný kontakt pro exportování.</message>
+    </item>
+    <item id="Changes on the Network Server setting will reflect only in the next login.">
+      <message>Změny nastavení síťového serveru se projeví až po příštím přihlášení.</message>
+    </item>
+    <item id="All the my list contacts belong to this group will be deleted. \nAre you sure you want to remove this record?">
+      <message>Budou odstraněny  veškeré kontakty z mého seznamu, které patří do této skupiny. \nOpravdu chcete odstranit tento záznam?</message>
+    </item>
+    <item id="The maximum my list had been registered.To add a new my list,please delete some my list.">
+      <message>Byl zaregistrován maximální počet mých seznamů. Pokud chcete přidat nové seznamy, odstraňte některé stávající seznamy.</message>
+    </item>
+    <item id="Location:">
+      <message>Umístění:</message>
+    </item>
+    <item id="Amount of contacts that you attempt to add is over the limit. To make new contacts, please delete some contacts in the contact list.">
+      <message>Několik kontaktů, které se snažíte přidat, překračuje stanovený limit. Chcete-li přidat nové kontakty, nejprve odstraňte některé kontakty ze stávajícího seznamu kontaktů.</message>
+    </item>
+    <item id="Please specify a value between 1 and 65535.">
+      <message>Specifikujte hodnotu v rozsahu 1 až 65535.</message>
+    </item>
+    <item id="No port number has been entered. Please enter a valid port number.">
+      <message>Nebylo zadáno číslo portu. Zadejte platné číslo portu.</message>
+    </item>
+    <item id="PBX Name">
+      <message>Název ústředny PBX</message>
+    </item>
+    <item id="Add to My List">
+      <message>Přidat do mého seznamu</message>
+    </item>
+    <item id="Network Server">
+      <message>Síťový server</message>
+    </item>
+    <item id="Network Server Information">
+      <message>Informace o síťovém serveru</message>
+    </item>
+    <item id="Current Status">
+      <message>Aktuální stav</message>
+    </item>
+    <item id="S&amp;earch All">
+      <message>H&amp;ledat vše</message>
+    </item>
+    <item id="Items">
+      <message>Položky</message>
+    </item>
+    <item id="My List">
+      <message>Můj seznam</message>
+    </item>
+    <item id="S&amp;earch All">
+      <message>H&amp;ledat vše</message>
+    </item>
+    <item id="MPR version is not supported.">
+      <message>Verze MPR není podporována.</message>
+    </item>
+    <item id="Operation failed.">
+      <message>Operace selhala.</message>
+    </item>
+    <item id="Pickup">
+      <message>Zvednutí</message>
+    </item>
+    <item id="C&amp;onference">
+      <message>K&amp;onference</message>
+    </item>
+    <item id="CRM Integration">
+      <message>Integrace CRM</message>
+    </item>
+    <item id="Enable CRM Integration">
+      <message>Povolit integraci CRM</message>
+    </item>
+    <item id="Select format:">
+      <message>Vyberte formát:</message>
+    </item>
+    <item id="Select folder:">
+      <message>Vyberte složku:</message>
+    </item>
+    <item id="Browse...">
+      <message>Procházet…</message>
+    </item>
+    <item id="The output file path is empty. Please try again!">
+      <message>Cesta k výstupnímu souboru je prázdná. Pokus opakujte!</message>
+    </item>
+    <item id="Invalid output file path. Please try again!">
+      <message>Chybná cesta k výstupnímu souboru. Pokus opakujte!</message>
+    </item>
+    <item id="The output file path is not accessible. Please try again!">
+      <message>Cesta k výstupnímu souboru není dostupná. Pokus opakujte!</message>
+    </item>
+    <item id="The CRM Integration output file path set in Option is not accessible. \nThe CRM Integration might not work correctly.">
+      <message>Cesta k výstupnímu souboru integrace CRM nastavená v možnostech není dostupná. \nIntegrace CRM nemusí správně pracovat.</message>
+    </item>
+    <item id="&amp;Edit Conference Setting">
+      <message>&amp;Upravit nastavení konference</message>
+    </item>
+    <item id="&amp;Copy contact list from">
+      <message>&amp;Zkopírovat seznam kontaktů z</message>
+    </item>
+    <item id="&amp;Save contact list to">
+      <message>&amp;Uložit seznam kontaktů do</message>
+    </item>
+    <item id="CSV file">
+      <message>soubor CSV</message>
+    </item>
+    <item id="XML file">
+      <message>soubor XML</message>
+    </item>
+    <item id="The result grid view encountered error. Please try again!">
+      <message>Při zobrazení výsledků nastala chyba. Pokus opakujte!</message>
+    </item>
+    <item id="There are data changes without save.\nDo you want to close?">
+      <message>Změny dat nebyly uloženy.\nOpravdu chcete okno zavřít?</message>
+    </item>
+    <item id="row">
+      <message>řádek</message>
+    </item>
+    <item id="column">
+      <message>sloupec</message>
+    </item>
+    <item id="Input validation error">
+      <message>Chyba ověření zadání</message>
+    </item>
+    <item id="Maximum input length reached">
+      <message>Byla dosažena maximální délka</message>
+    </item>
+    <item id="The selected items contain contact(s) displayed with [ ], the contact(s) will not be removed.">
+      <message>Vybrané položky obsahují kontakty zobrazené s [ ]. Tyto kontakty nebudou odstraněny.</message>
+    </item>
+    <item id="Searching for contacts...">
+      <message>Hledání kontaktů…</message>
+    </item>
+    <item id="Error while searching for LDAP result.">
+      <message>Chyba během vyhledávání záznamů LDAP.</message>
+    </item>
+    <item id="&amp;Extension Lock/Unlock">
+      <message>&amp;Uzamčení/odemčení pobočky</message>
+    </item>
+    <item id="Number of LDAP search result exceeds the limit. Only first 100 result entries displayed.">
+      <message>Počet vyhledávaných záznamů LDAP překročil povolený limit. Zobrazeno je pouze prvních 100 výsledků.</message>
+    </item>
+    <item id="Connection to LDAP Server failed.">
+      <message>Připojení k serveru LDAP selhalo.</message>
+    </item>
+    <item id="This character cannot be assigned. (For Operator Console only)">
+      <message>Tento znak nelze použít (pouze pro Operator Console).</message>
+    </item>
+    <item id="Personal contact data will not be assured if you connect to different Server/PBX from previous login.\nPlease check the data again.">
+      <message>Osobní kontaktní údaje nebudou zajištěny v případě, že se připojíte k jinému serveru/ústředně PBX než při předchozím přihlášení.\nÚdaje znovu zkontrolujte.</message>
+    </item>
+    <item id="Add to">
+      <message>Přidat do</message>
+    </item>
+    <item id="Conference Group Setting">
+      <message>Nastavení konferenční skupiny</message>
+    </item>
+    <item id="Save Group">
+      <message>Uložit skupinu</message>
+    </item>
+    <item id="Delete Group">
+      <message>Odstranit skupinu</message>
+    </item>
+    <item id="Delete Member">
+      <message>Odstranit člena</message>
+    </item>
+    <item id="Enable (without new contact window popup)">
+      <message>Povolit (bez vyskakovacího okna nového kontaktu)</message>
+    </item>
+    <item id="Enable (with new contact window popup)">
+      <message>Povolit (s vyskakovacím oknem nového kontaktu)</message>
+    </item>
+    <item id="Redirect the incoming call">
+      <message>Přesměrovat příchozí volání</message>
+    </item>
+    <item id="Remove the first \&quot;1\&quot; when caller ID is 11 digits">
+      <message>Pokud ID volajícího obsahuje 11 číslic, odstranit první \"1\"</message>
+    </item>
+    <item id="Disconnected">
+      <message>Odpojeno</message>
+    </item>
+    <item id="Network Connected">
+      <message>Připojeno</message>
+    </item>
+    <item id="Delete these contacts">
+      <message>Odstranit tyto kontakty</message>
+    </item>
+    <item id="Port">
+      <message>Port</message>
+    </item>
+    <item id="Automatic contact name update for Hotel">
+      <message>Automatická aktualizace kontaktního jména pro hotel</message>
+    </item>
+    <item id="Note">
+      <message>Poznámka</message>
+    </item>
+    <item id="The operation will delete selected contacts">
+      <message>Tato operace vymaže vybrané kontakty</message>
+    </item>
+    <item id="Network Note">
+      <message>Aby se projevilo Vaše nové nastavení, musíte restartovat Communication Assistant.</message>
+    </item>
+    <item id="Allow Join">
+      <message>Povolit spojení</message>
+    </item>
+    <item id="UM Personal Greeting Number">
+      <message>UM osobní uvítací číslo</message>
+    </item>
+    <item id="Change">
+      <message>Změna</message>
+    </item>
+    <item id="None">
+      <message>Není</message>
+    </item>
+    <item id="Schedule Keyword">
+      <message>Plán klíčových slov</message>
+    </item>
+    <item id="Function List Name">
+      <message>Seznam funkcí</message>
+    </item>
+    <item id="Keyword Mapping Setting">
+      <message>Nastavení mapování klíčového slova</message>
+    </item>
+    <item id="Call Control Window pop-up for CA">
+      <message>Vyskakovací okno ovládání hovoru pro CA</message>
+    </item>
+    <item id="TVA/TVM">
+      <message>TVM/TVA</message>
+    </item>
+    <item id="UM">
+      <message>UM </message>
+    </item>
+    <item id="IP Address">
+      <message>IP adresa</message>
+    </item>
+    <item id="Mailbox">
+      <message>Hlasová schránka</message>
+    </item>
+    <item id="WebMC URL">
+      <message>WebMC URL</message>
+    </item>
+    <item id="Automatically close playback window by Timer">
+      <message>Automaticky zavřít okno přehrávky dle časovače</message>
+    </item>
+    <item id="seconds">
+      <message>sekund</message>
+    </item>
+    <item id="Limitless">
+      <message>Neomezeno</message>
+    </item>
+    <item id="Please enter valid presence tile width value from 150 to 1500.">
+      <message>Zadejte platnou přítomnost v šíři 150 až1500.</message>
+    </item>
+    <item id="Maximum 40 schedule keywords are registered. \nPlease delete existing schedule keyword to add a new schedule keyword.">
+      <message>Je registrováno 40 plánů klíčových slov, což je maximální počet. \nMusíte nejdříve smazat stávající plán klíčového slova a až po té můžete přidat nový plán klíčového slova.</message>
+    </item>
+    <item id="Third Party CRM Integration">
+      <message>CRM integrace třetích stran</message>
+    </item>
+    <item id="MS Exchange Integration">
+      <message>MS Exchange integrace</message>
+    </item>
+    <item id="Enable Exchange Schedule Integration">
+      <message>Povolit integraci Exchange plánu</message>
+    </item>
+    <item id="Exchange User Account">
+      <message>Exchange uživatelský účet (abc@xyz)</message>
+    </item>
+    <item id="Outlook Integration">
+      <message>Outlook integrace</message>
+    </item>
+    <item id="Presence Tile Width">
+      <message>Přítomnost v šíři</message>
+    </item>
+    <item id="Enable Call Information File">
+      <message>Povolit soubor s informacemi o volání</message>
+    </item>
+    <item id="Call Information File">
+      <message>Soubor s informacemi o volání</message>
+    </item>
+    <item id="The exchange user account has exceeded the maximum byte length.">
+      <message>Exchange uživatelský účet překročil maximální délku byte.</message>
+    </item>
+    <item id="Failed to connect to iLink middleware. \nPlease check the iLink middleware and CRM connection. \nRelogin CA to connect to iLink middleware.">
+      <message>Nepodařilo se připojit k iLink middleware. \nZkontrolujte připojení iLink middlewareu a CRM. \nRelogin CA pro připojení iLink middewareu.</message>
+    </item>
+    <item id="Connection to iLink middleware is lost. \nThird Party CRM Integration will no longer work.">
+      <message>Připojení do iLink middlewareu selhalo. \nIntegrace CRM třetích stran nebude fungovat. </message>
+    </item>
+    <item id="ACD Report">
+      <message>ACD report</message>
+    </item>
+    <item id="&amp;Call from Clipboard">
+      <message>&amp;Volat ze schránky OS</message>
+    </item>
+    <item id="Call from Clipboard">
+      <message>Volat ze schránky OS</message>
+    </item>
+    <item id="Phone  Number">
+      <message>Telefonní číslo</message>
+    </item>
+    <item id="Phone Number:">
+      <message>Telefonní číslo :</message>
+    </item>
+    <item id="Phone(Office) : ">
+      <message>Telefon (práce) :</message>
+    </item>
+    <item id="Phone(Mobile) : ">
+      <message>Telefon (mobilní) :</message>
+    </item>
+    <item id="Phone(Home) : ">
+      <message>Telefon (domů) :</message>
+    </item>
+    <item id="Custom Phone Number ">
+      <message>Vlastní telefonní číslo </message>
+    </item>
+    <item id="Custom Phone Number">
+      <message>Vlastní telefonní číslo </message>
+    </item>
+    <item id="At Extension ...">
+      <message>na rozšíření ...</message>
+    </item>
+    <item id="Back at ...">
+      <message>Povratak na ...</message>
+    </item>
+    <item id="Out until ...">
+      <message>Odjezd do ...</message>
+    </item>
+    <item id="User Custom">
+      <message>Uživatel Vlastní</message>
+    </item>
+    <item id="Cannot login. Cause is one of followings.\n- Extension number is incorrect.\n- Password is incorrect or expired.\n- CA operator console is not selected.\n- CA is disabled for this extension.\n- Login capacity is exceeded.\n- Required AK is not installed in PBX.">
+      <message>Nemůžete se přihlásit. Příčina je jedna z následujících.\n   - Číslo pobočky není správné.\n   - Heslo není správné nebo vypršela jeho platnost.\n   - CA  pro tuto pobočku není platný.\n   - Přihlašovací kapacita je překročena.\n   - Požadovaný AK není na ústředně nainstalován. </message>
+    </item>
+    <item id="White">
+      <message>Bílý</message>
+    </item>
+    <item id="Black">
+      <message>Černá</message>
+    </item>
+    <item id="ICD">
+      <message>ICD</message>
+    </item>
+    <item id="\&quot;Conference Setting\&quot; menu is not available temporarily.\nPlease ask your PBX administrator.">
+      <message>Nabídka\“Nastavení konference\“ není dočasně k dispozici.\nZeptejte se vašeho správce PBX.</message>
+    </item>
+    <item id="Minimise">
+      <message>Minimalizovat</message>
+    </item>
+    <item id="Maximise">
+      <message>Maximalizovat</message>
+    </item>
+    <item id="Restore">
+      <message>Obnovit</message>
+    </item>
+    <item id="Close">
+      <message>Zavřít</message>
+    </item>
+  </category>
+</language>

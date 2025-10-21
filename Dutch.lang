@@ -1,0 +1,3359 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <descriptor>
+    <name>Dutch</name>
+    <description>Dutch</description>
+    <doc_ver>1.0.0</doc_ver>
+    <schema_ver>1.0.0</schema_ver>
+  </descriptor>
+  <category id="CIPTextBox">
+    <item id="IP">
+      <message>IP</message>
+    </item>
+    <item id="Please specify a value between 1 and 223">
+      <message>Voer een getal in tussen 1 en 223</message>
+    </item>
+    <item id="Please specify a value between 0 and 255">
+      <message>Voer een getal in tussen 0 en 255</message>
+    </item>
+  </category>
+  <category id="CMainForm">
+    <item id="Communication Assistant">
+      <message>Communication Assistant</message>
+    </item>
+  </category>
+  <category id="MailerInterface">
+    <item id="Failed to start Mail Client. Please try again.">
+      <message>Kan Mail Client niet opstarten. Probeer het nogmaals.</message>
+    </item>
+  </category>
+  <category id="CMessageBox">
+    <item id="Communication Assistant">
+      <message>Communication Assistant</message>
+    </item>
+    <item id="&amp;Ok">
+      <message>&amp;OK</message>
+    </item>
+    <item id="&amp;Cancel">
+      <message>&amp;Annuleer</message>
+    </item>
+    <item id="&amp;Yes">
+      <message>&amp;Ja</message>
+    </item>
+    <item id="&amp;No">
+      <message>&amp;Nee</message>
+    </item>
+  </category>
+  <category id="CConstant">
+    <item id="Paging in progress">
+      <message>Oproep gestart</message>
+    </item>
+    <item id="Paging busy">
+      <message>Oproep bezig </message>
+    </item>
+    <item id="Please make a call with the main window.">
+      <message>Start gesprek via hoofdmenu</message>
+    </item>
+    <item id="Do not show this again.">
+      <message>Niet meer tonen.</message>
+    </item>
+    <item id="Available">
+      <message>Beschikbaar</message>
+    </item>
+    <item id="Urgent Only">
+      <message>Urgentie</message>
+    </item>
+    <item id="Will Return Soon">
+      <message>Ben zo terug</message>
+    </item>
+    <item id="In a meeting">
+      <message>In bespreking</message>
+    </item>
+    <item id="Not At My Desk">
+      <message>Elders</message>
+    </item>
+    <item id="Gone Home">
+      <message>Naar huis</message>
+    </item>
+    <item id="Do you want to close CA?">
+      <message>Wilt u CA afsluiten?</message>
+    </item>
+    <item id="Communication Assistant">
+      <message>Communication Assistant</message>
+    </item>
+    <item id="&amp;OK">
+      <message>&amp;OK</message>
+    </item>
+    <item id="&amp;Cancel">
+      <message>&amp;Annuleer</message>
+    </item>
+    <item id="&amp;Yes">
+      <message>&amp;Ja</message>
+    </item>
+    <item id="&amp;No">
+      <message>&amp;Nee</message>
+    </item>
+    <item id="&amp;Delete">
+      <message>&amp;WIS</message>
+    </item>
+    <item id="&amp;Close">
+      <message>&amp;Sluiten</message>
+    </item>
+    <item id="General">
+      <message>Algemeen</message>
+    </item>
+    <item id="Contact">
+      <message>Contact</message>
+    </item>
+    <item id="Company">
+      <message>Bedrijf</message>
+    </item>
+    <item id="Popup">
+      <message>Pop-up</message>
+    </item>
+    <item id="Contact Name:">
+      <message>Contactpersoon:</message>
+    </item>
+    <item id="E-mail:">
+      <message>E-mail:</message>
+    </item>
+    <item id="Phone (Office):">
+      <message>Tel. (Kantoor):</message>
+    </item>
+    <item id="Phone (Mobile):">
+      <message>Tel. (GSM):</message>
+    </item>
+    <item id="Phone (Home):">
+      <message>Tel. (Privé):</message>
+    </item>
+    <item id="Company Name:">
+      <message>Bedrijfsnaam:</message>
+    </item>
+    <item id="Department:">
+      <message>Hoofdafdeling:</message>
+    </item>
+    <item id="Section:">
+      <message>Sub-afdeling:</message>
+    </item>
+    <item id="Address:">
+      <message>Adres:</message>
+    </item>
+    <item id="Postal Code:">
+      <message>Postcode:</message>
+    </item>
+    <item id="Fax:">
+      <message>Fax:</message>
+    </item>
+    <item id="1st URL:">
+      <message>1ste URL:</message>
+    </item>
+    <item id="2nd URL:">
+      <message>2e URL:</message>
+    </item>
+    <item id="3rd URL:">
+      <message>3e URL:</message>
+    </item>
+    <item id="Memo:">
+      <message>Memo:</message>
+    </item>
+    <item id="Profile">
+      <message>Profiel:</message>
+    </item>
+    <item id="Last Name:">
+      <message>Achternaam:</message>
+    </item>
+    <item id="First Name:">
+      <message>Voornaam:</message>
+    </item>
+    <item id="Type:">
+      <message>Type:</message>
+    </item>
+    <item id="Phone">
+      <message>Tel.</message>
+    </item>
+    <item id="Door">
+      <message>Deur</message>
+    </item>
+    <item id="Sensor">
+      <message>Sensor</message>
+    </item>
+    <item id="Door:">
+      <message>Deur:</message>
+    </item>
+    <item id="Sensor:">
+      <message>Sensor:</message>
+    </item>
+    <item id="Image File">
+      <message>Afbeelding Bestand</message>
+    </item>
+    <item id="Ring File">
+      <message>Beltoon Bestand</message>
+    </item>
+    <item id="URL">
+      <message>URL</message>
+    </item>
+    <item id="1st URL for Network Camera \n(Automatic pop-up for call/Automatic close after call)">
+      <message>1ste URL voor Netwerk Camera \n(Automatische Pop-up voor gesprek/Automatisch beëindigen)</message>
+    </item>
+    <item id="2nd URL for Database \n(Automatic pop-up for phone call)">
+      <message>2e URL voor Database \n(Automatische Pop-up voor telefoongesprekl)</message>
+    </item>
+    <item id="3rd URL for Database (Access from main menu)">
+      <message>3e URL voor Database (Toegang via hoofdmenu)</message>
+    </item>
+    <item id="Browse">
+      <message>Bladeren</message>
+    </item>
+    <item id="Image file not found">
+      <message>Afbeelding niet gevonden</message>
+    </item>
+    <item id="Please enter the Contact Name">
+      <message>Contactpersoon invoeren</message>
+    </item>
+    <item id="Contact Name too long. \n Please enter a shorter name.">
+      <message>Lengte van de naam is te lang. \n Verkort de naam.</message>
+    </item>
+    <item id="Contact Name not valid.\nMake sure the contact name does not contain any Chinese and Japanese characters.">
+      <message>Contactpersoon ongeldig.\nDe naam mag geen Chinese of  Japanse tekens bevatten.</message>
+    </item>
+    <item id="Please enter the Phone Number.">
+      <message>Voer telefoonnummer in.</message>
+    </item>
+    <item id="Please enter the Doorphone Number">
+      <message>Voer deurintercom-nummer in</message>
+    </item>
+    <item id="Please enter the Sensor Number">
+      <message>Voer sensornummer in</message>
+    </item>
+    <item id="Please enter the Image Path">
+      <message>Voer pad in voor Afbeeldingen</message>
+    </item>
+    <item id="Please enter the Sound Path">
+      <message>Voer pad in voor Geluid</message>
+    </item>
+    <item id="The image file path is not valid, CA is unable to load the image file.">
+      <message>Pad voor afbeelding ongeldig, CA kan de afbeelding niet openen.</message>
+    </item>
+    <item id="The sound file path is not valid, CA is unable to play the sound file.">
+      <message>Pad voor geluid ongeldig, CA kan geluidsbestand niet openen.</message>
+    </item>
+    <item id="The path will not be saved.">
+      <message>Pad zal niet worden opgeslagen.</message>
+    </item>
+    <item id="The file path is too long, it should be less than or equal to 256 characters.\n Please enter a shorter path.">
+      <message>De padnaam is te lang, deze mag niet langer zijn dan 256 tekens.\n Voer een kortere naam in.</message>
+    </item>
+    <item id="Unable to play the sound file. Maybe the file is invalid or there is a problem in your PC sound device.">
+      <message>Afspelen niet mogelijk. De file is mogelijk ongeldig of uw PC-geluidsapparatuur is defect.</message>
+    </item>
+    <item id="Image Files">
+      <message>Afbeeldingen</message>
+    </item>
+    <item id="Media Files">
+      <message>Media</message>
+    </item>
+    <item id="All Files">
+      <message>Alle bestanden</message>
+    </item>
+    <item id="Open">
+      <message>Openen</message>
+    </item>
+    <item id="Unable to load the database. CA Application had to be closed.">
+      <message>Kan database niet openen. CA-programma is daarom afgesloten.</message>
+    </item>
+    <item id="CA Application">
+      <message>CA-programma</message>
+    </item>
+    <item id="Connection to database failed">
+      <message>Verbinding met database mislukt</message>
+    </item>
+    <item id="History">
+      <message>Historie</message>
+    </item>
+    <item id="Contact &amp;List">
+      <message>&amp;Contactlijst</message>
+    </item>
+    <item id="S&amp;peed Dial">
+      <message>&amp;Verkort Kiezen</message>
+    </item>
+    <item id="&amp;Save to CSV">
+      <message>&amp; Opslaan naar CSV</message>
+    </item>
+    <item id="&amp;Memo Open">
+      <message>&amp; Open Memo</message>
+    </item>
+    <item id="&amp;Call">
+      <message>&amp;Kiezen</message>
+    </item>
+    <item id="Speed Dial">
+      <message>Verkort Kiezen</message>
+    </item>
+    <item id="Show:">
+      <message>Toon:</message>
+    </item>
+    <item id="Search">
+      <message>Zoek</message>
+    </item>
+    <item id="Search In:">
+      <message>Zoek in:</message>
+    </item>
+    <item id="Name">
+      <message>Naam</message>
+    </item>
+    <item id="Phone Number">
+      <message>Telefoonnummer</message>
+    </item>
+    <item id="Type">
+      <message>Type:</message>
+    </item>
+    <item id="Start Time">
+      <message>Starttijd</message>
+    </item>
+    <item id="Disconnect Time">
+      <message>Stoptijd</message>
+    </item>
+    <item id="Duration">
+      <message>Duur</message>
+    </item>
+    <item id="Ring">
+      <message>Belsignaal</message>
+    </item>
+    <item id="Call Condition">
+      <message>Gesprek Conditie</message>
+    </item>
+    <item id="Call For">
+      <message>Gesprek voor</message>
+    </item>
+    <item id="Memo">
+      <message>Memo</message>
+    </item>
+    <item id="Trunk Group Number">
+      <message>Netlijn-groepsnummer</message>
+    </item>
+    <item id="Intercom">
+      <message>Intercom</message>
+    </item>
+    <item id="Outside">
+      <message>Extern</message>
+    </item>
+    <item id="Blank">
+      <message>Leeg</message>
+    </item>
+    <item id="Transfer">
+      <message>Doorverbinden</message>
+    </item>
+    <item id="Park">
+      <message>Parkeer</message>
+    </item>
+    <item id="No Answer">
+      <message>Afwezig</message>
+    </item>
+    <item id="Import File">
+      <message>Importeer bestand</message>
+    </item>
+    <item id="Export File">
+      <message>Exporteer bestand</message>
+    </item>
+    <item id="Save As">
+      <message>Opslaan als</message>
+    </item>
+    <item id="min">
+      <message>min</message>
+    </item>
+    <item id="s">
+      <message>s</message>
+    </item>
+    <item id="All Calls">
+      <message>Alle gesprekken</message>
+    </item>
+    <item id="Incoming Missed Calls">
+      <message>Onbeantwoorde inkomende gesprekken</message>
+    </item>
+    <item id="Incoming Received Calls">
+      <message>Ontvangen inkomende gesprekken</message>
+    </item>
+    <item id="Outgoing Answered Calls">
+      <message>Beantwoorde uitgaande gesprekken</message>
+    </item>
+    <item id="Outgoing Unanswered Calls">
+      <message>Onbeantwoorde uitgaande gesprekken</message>
+    </item>
+    <item id="A file error has occurred in the export file">
+      <message>Fout in geëxporteerd bestand</message>
+    </item>
+    <item id="A file error has occurred in the text file">
+      <message>Fout in tekstbestand</message>
+    </item>
+    <item id="Unable to update the grid view setting. The grid view setting will not be saved.">
+      <message>Kan beeldraster niet vernieuwen. Opslaan van beeldraster is niet mogelijk.</message>
+    </item>
+    <item id="Specific data will be deleted">
+      <message>Bepaalde gegevens zullen worden verwijderd/</message>
+    </item>
+    <item id="Please fill in the Speed Dial No">
+      <message>Vul het verkorte kiesnummer in</message>
+    </item>
+    <item id="Please fill in the Speed Dial Name">
+      <message>Vul de naam in van het verkorte kiesnummer.</message>
+    </item>
+    <item id="Please fill in the Speed Dial Phone Number">
+      <message>Vul het telefoonnummer van het verkorte Kiesnummer in</message>
+    </item>
+    <item id="Illegal Request">
+      <message>Verzoek afgewezen</message>
+    </item>
+    <item id="The Speed Dial Number is already registered in the PBX.">
+      <message>Het verkorte kiesnummer is al aanwezig in het PBX-geheugen.</message>
+    </item>
+    <item id="The current contact list will be deleted and replaced by new data. Do you want to continue?">
+      <message>De huidige contactlijst zal worden verwijderd. Wilt u verder gaan?</message>
+    </item>
+    <item id="The composition of CSV content is either not correct or incorrect version, import fail.">
+      <message>Het importeren is mislukt omdat de samenstelling van de CSV-inhoud onjuist is, of een onjuiste versie heeft.</message>
+    </item>
+    <item id="The composition of XML content is either not correct or incorrect version, import fail.">
+      <message>Het importeren is mislukt omdat de samenstelling van de XML-inhoud onjuist is, of een onjuiste versie heeft.</message>
+    </item>
+    <item id="The contact list successfully imported">
+      <message>Importeren van contactlijst foutloos voltooid</message>
+    </item>
+    <item id="This operation will delete all data about ">
+      <message>Deze keuze zal alle gegevens wissen van</message>
+    </item>
+    <item id=". Do you wish to continue?">
+      <message>.Wilt u verder gaan?</message>
+    </item>
+    <item id=" successfully deleted.">
+      <message>foutloos verwijderd.</message>
+    </item>
+    <item id="Contact List successfully exported.">
+      <message>Contactlijst succesvol geëxporteerd.</message>
+    </item>
+    <item id="Contact List unable to export. A error occur during the exportation">
+      <message>Contactlijst kan niet worden geëxporteerd. Fout opgetreden tijdens exporteren.</message>
+    </item>
+    <item id="The maximum contacts ">
+      <message>Het maximum aantal contacten</message>
+    </item>
+    <item id=" had already registered. To make a new contact, please delete some contacts in the contact list.">
+      <message> is bereikt. Verwijder eerst een aantal contacten alvorens nieuwe aan te maken.</message>
+    </item>
+    <item id="Extension numbers from the PBX already exist in the contact list.">
+      <message>PBX-toestelnummers zijn al aanwezig in de contactlijst.</message>
+    </item>
+    <item id="No Extension found.">
+      <message>Geen toestel gevonden.</message>
+    </item>
+    <item id="Error occurs.">
+      <message>Fout opgetreden.</message>
+    </item>
+    <item id="Import is unable to proceed. The file is being used by another process.">
+      <message>Importeren is afgebroken. Het bestand is al door een andere toepassing geopend.</message>
+    </item>
+    <item id="Connection with PBX is disconnected">
+      <message>Verbinding met PBX wordt verbroken</message>
+    </item>
+    <item id="No Response from PBX">
+      <message>Geen respons van PBX</message>
+    </item>
+    <item id="Select language">
+      <message>Selecteer de taal</message>
+    </item>
+    <item id="Dial Modification for Dial Copy Setting">
+      <message>Nummermodificatie voor kopieerfunctie??</message>
+    </item>
+    <item id="Enter Access Code for International Call">
+      <message>Voer de landcode in</message>
+    </item>
+    <item id="Setting">
+      <message>Instelling</message>
+    </item>
+    <item id="International Call">
+      <message>Internationaal gesprek</message>
+    </item>
+    <item id="Enter International Area Code">
+      <message>Voer de landcode in</message>
+    </item>
+    <item id="For example '81' for Japan or '44' for UK">
+      <message>Bijv: ' 81' voor Japan of '31' voor NL</message>
+    </item>
+    <item id="CA User Mode">
+      <message>Gebruiksmode CA</message>
+    </item>
+    <item id="Standard user (CA Pro)">
+      <message>Standaard (CA Pro)</message>
+    </item>
+    <item id="Standard user (CA Basic)">
+      <message>Standaard (CA Basic)</message>
+    </item>
+    <item id="ICD Group Supervisor (CA Supervisor)">
+      <message>Supervisie ICD-groep (CA Supervisor)</message>
+    </item>
+    <item id="Use softphone">
+      <message>Gebruik Softphone</message>
+    </item>
+    <item id="Use ICD group agent feature">
+      <message>Gebruik ICD-groep</message>
+    </item>
+    <item id="&amp;Save">
+      <message>&amp;Opslaan</message>
+    </item>
+    <item id="&amp;Exit">
+      <message>&amp;Afsluit</message>
+    </item>
+    <item id="English">
+      <message>English</message>
+    </item>
+    <item id="Spanish">
+      <message>Español</message>
+    </item>
+    <item id="French">
+      <message>Français</message>
+    </item>
+    <item id="Portuguese">
+      <message>Português</message>
+    </item>
+    <item id="German">
+      <message>Deutsch</message>
+    </item>
+    <item id="Italian">
+      <message>Italiano</message>
+    </item>
+    <item id="Russian">
+      <message>Русский</message>
+    </item>
+    <item id="Ukrainian">
+      <message>Українська</message>
+    </item>
+    <item id="Chinese">
+      <message>中文</message>
+    </item>
+    <item id="IP address of PBX">
+      <message>IP-adres van PBX</message>
+    </item>
+    <item id="Extension Number">
+      <message>Toestelnummer</message>
+    </item>
+    <item id="Password">
+      <message>Wachtwoord</message>
+    </item>
+    <item id="&amp;Login">
+      <message>&amp;Log-in</message>
+    </item>
+    <item id="&amp;Quit">
+      <message>&amp;Stoppen</message>
+    </item>
+    <item id="User Login">
+      <message>Log-in van gebruiker</message>
+    </item>
+    <item id="Password must be assigned.">
+      <message>Wachtwoord moet zijn toegewezen.</message>
+    </item>
+    <item id="A-Z, a-z, 0-9, * and # can be used for password.">
+      <message>Voor het wachtwoord kunt u A-Z, a-z, 0-9, * en # gebruiken.</message>
+    </item>
+    <item id="New Password (Max.16 characters)">
+      <message>Nieuw wachtwoord (max. 16 tekens)</message>
+    </item>
+    <item id="Verify Password">
+      <message>Bevestig wachtwoord</message>
+    </item>
+    <item id="Communication Assistant - Password">
+      <message>Communication Assistant - wachtwoord</message>
+    </item>
+    <item id="You can log-in to Basic mode for now">
+      <message>U kunt nu inloggen in Basic mode</message>
+    </item>
+    <item id="Limitations for Basic mode:">
+      <message>Beperkingen voor Basic mode:</message>
+    </item>
+    <item id="- Contact List is limited to 10 calls.">
+      <message>­ Contactlijst is beperkt tot 10 gesprekken.</message>
+    </item>
+    <item id="- Contact History is limited to 10 calls.">
+      <message>­ Contacthistorie is beperkt tot 10 gesprekken.</message>
+    </item>
+    <item id="- Presence feature is not available.">
+      <message>­ Aanwezigheidsfunctie is niet beschikbaar</message>
+    </item>
+    <item id="You can log-in to Pro Trial for now">
+      <message>U kunt nu inloggen in Pro Trial mode</message>
+    </item>
+    <item id="After 60 days, license registration is required.">
+      <message>Na 60 dagen is licentieregistratie vereist.</message>
+    </item>
+    <item id="Installation Date:">
+      <message>Geïnstalleerd op:</message>
+    </item>
+    <item id="Expiration Date:">
+      <message>Afloopdatum:</message>
+    </item>
+    <item id="I agree to the above condition and continue to use this application">
+      <message>Ik ga accoord met bovenstaande voorwaarde en wil de software installeren</message>
+    </item>
+    <item id="IP Address is empty. Please enter a valid IP address">
+      <message>IP-adres leeg. Voer een geldig IP-adres in.</message>
+    </item>
+    <item id="Empty IP address">
+      <message>IP-adres niet ingevoerd</message>
+    </item>
+    <item id="No extension number has been entered. Please enter a valid extension number.">
+      <message>Geen toestelnummer ingevoerd. Voer een geldig toestelnummer in.</message>
+    </item>
+    <item id="Empty Extension number">
+      <message>Toestelnummer niet ingevoerd</message>
+    </item>
+    <item id="The password you entered is not valid.">
+      <message>Het ingevoerde wachtwoord is ongeldig.</message>
+    </item>
+    <item id="The extension number is incorrect.">
+      <message>Het toestelnummer is incorrect.</message>
+    </item>
+    <item id="Error Extension Number">
+      <message>Fout in toestelnummer</message>
+    </item>
+    <item id="Password is incorrect">
+      <message>Wachtwoord is incorrect</message>
+    </item>
+    <item id="Incorrect Password">
+      <message>Incorrect wachtwoord</message>
+    </item>
+    <item id="Password is locked.">
+      <message>Wachtwoord is geblokkeerd.</message>
+    </item>
+    <item id="Please contact your manager of PBX">
+      <message>Neem contact op met de beheerder van PBX</message>
+    </item>
+    <item id="Password Locked">
+      <message>Wachtwoord geblokkeerd</message>
+    </item>
+    <item id="This extension is restricted to use CA">
+      <message>Op dit toestel is geen CA mogelijk.</message>
+    </item>
+    <item id="by PBX setting">
+      <message>via PBX-programmering</message>
+    </item>
+    <item id="Please contact your manager of PBX.">
+      <message>Neem contact op met de beheerder van PBX.</message>
+    </item>
+    <item id="Invalid extension setting">
+      <message>Ongeldige toestelinstelling</message>
+    </item>
+    <item id="Number of users had exceeded the limit">
+      <message>Aantal gebruikers overschrijdt de limiet</message>
+    </item>
+    <item id="Exceed Maximum Users">
+      <message>Aantal gebruikers overschreden</message>
+    </item>
+    <item id="The number of license is not enough">
+      <message>Aantal licenties onvoldoende</message>
+    </item>
+    <item id="Exceed Maximum Licenses">
+      <message>Aantal licenties overschreden</message>
+    </item>
+    <item id="Failed to connect to server.">
+      <message>Verbinding met server is mislukt.</message>
+    </item>
+    <item id="API Failure">
+      <message>API-fout</message>
+    </item>
+    <item id="Connection device is not supported. Unable to create connection">
+      <message>Apparaat wordt niet ondersteund. Verbinding niet geslaagd.</message>
+    </item>
+    <item id="Non-support Connection Device">
+      <message>Apparaat niet ondersteund</message>
+    </item>
+    <item id="Password mismatch. Please enter your new password again">
+      <message>Wachtwoorden komen niet overeen. Voer het juiste wachtwoord in.</message>
+    </item>
+    <item id="Phone type is incorrect">
+      <message>Telefoon-type is incorrect</message>
+    </item>
+    <item id="New password is empty. Please enter the password">
+      <message>Veld voor Nieuw Wachtwoord is leeg. Voer het wachtwoord in</message>
+    </item>
+    <item id="Verify password is empty. Please enter the password">
+      <message>Wachtwoorden komen niet overeen. Voer het juiste wachtwoord in.</message>
+    </item>
+    <item id="The values entered in New Password and Verify Password do not match.">
+      <message>Wachtwoorden komen niet overeen. Voer het juiste wachtwoord in.</message>
+    </item>
+    <item id="The minimum password length is 6 characters.">
+      <message>Voer een wachtwoord in van minimaal 6 tekens.</message>
+    </item>
+    <item id="Are you sure you want to exit this application">
+      <message>Wilt u de toepassing beëindigen?</message>
+    </item>
+    <item id="Please Wait...">
+      <message>Een ogenblik …</message>
+    </item>
+    <item id="Forward/DND Setting">
+      <message>DSN/NS instellen</message>
+    </item>
+    <item id="Forward / DND">
+      <message>DSN/NS</message>
+    </item>
+    <item id="BroadCasting Group:">
+      <message>Broadcasting-groep</message>
+    </item>
+    <item id="&amp;Release">
+      <message>&amp;Vrijgeven</message>
+    </item>
+    <item id="Members (Dial Number)">
+      <message>Abonnees (Tel. nr.)</message>
+    </item>
+    <item id="Member Name">
+      <message>Naam van abonnee</message>
+    </item>
+    <item id="Call Status">
+      <message>Gespreksstatus</message>
+    </item>
+    <item id="Connected">
+      <message>Verbonden</message>
+    </item>
+    <item id="Not Connected">
+      <message>Niet verbonden</message>
+    </item>
+    <item id="Group Page">
+      <message>Groep oproepen</message>
+    </item>
+    <item id="Park Retrieve">
+      <message>GepGesp. Vrijg.</message>
+    </item>
+    <item id="Account">
+      <message>Account</message>
+    </item>
+    <item id="Copy &amp; Call">
+      <message>Kopieer &amp; Bel</message>
+    </item>
+    <item id="TRS Change">
+      <message>Wijziging TRS</message>
+    </item>
+    <item id="Time Service">
+      <message>Tijd Service</message>
+    </item>
+    <item id="Function Key">
+      <message>Functietoets</message>
+    </item>
+    <item id="Please enter Group No.(01-32)">
+      <message>Groepsnummer (01-32) invoeren</message>
+    </item>
+    <item id="A target's call status is not acceptable">
+      <message>Opvragen van gespreksstatus is niet geaccepteerd</message>
+    </item>
+    <item id="Invalid Group Paging">
+      <message>Ongeldige oproep van groep</message>
+    </item>
+    <item id="Please enter specific park area number">
+      <message>Voer een parkeerzone-nummer in</message>
+    </item>
+    <item id="(0-99)">
+      <message>(0-99)</message>
+    </item>
+    <item id="Specific call (connection) does not exist.">
+      <message>Specifieke gespreksverbinding is niet aanwezig.</message>
+    </item>
+    <item id="Error on Park Retrieve">
+      <message>Fout tijdens ophalen van een geparkeerd gesprek</message>
+    </item>
+    <item id="Please enter an account number">
+      <message>Voer een accountnummer in</message>
+    </item>
+    <item id="Not Valid and cannot make a call">
+      <message>Ongeldig en kan geen verbinding maken</message>
+    </item>
+    <item id="Please set TRS Level">
+      <message>Stel TRS-niveau in</message>
+    </item>
+    <item id="Error on TRS Change">
+      <message>Fout tijdens wijziging TRS</message>
+    </item>
+    <item id="Please Select System Mode">
+      <message>Selecteer Systeem mode</message>
+    </item>
+    <item id="Day">
+      <message>Dag</message>
+    </item>
+    <item id="Break">
+      <message>Pauze</message>
+    </item>
+    <item id="Night">
+      <message>Nacht</message>
+    </item>
+    <item id="Lunch">
+      <message>Lunch</message>
+    </item>
+    <item id="ICD Group Extension Number">
+      <message>Toestelnummer ICD-Groep</message>
+    </item>
+    <item id="ICD Group Name">
+      <message>Naam ICD-Groep</message>
+    </item>
+    <item id="My Status">
+      <message>Mijn status</message>
+    </item>
+    <item id="Ready">
+      <message>Gereed</message>
+    </item>
+    <item id="Not Ready">
+      <message>Niet gereed</message>
+    </item>
+    <item id="Wrap Up">
+      <message>Afwikkeltijd</message>
+    </item>
+    <item id="Busy">
+      <message>In gesprek</message>
+    </item>
+    <item id="All Log-in">
+      <message>Log-in: alle groepen</message>
+    </item>
+    <item id="All Log-out">
+      <message>Log-uit: alle groepen</message>
+    </item>
+    <item id="Log in">
+      <message>Log-in</message>
+    </item>
+    <item id="Log-in">
+      <message>Log-in</message>
+    </item>
+    <item id="Log out">
+      <message>Log-uit</message>
+    </item>
+    <item id="Log-out">
+      <message>Log-uit</message>
+    </item>
+    <item id="Start Wrap Up">
+      <message>Afwikkeltijd starten</message>
+    </item>
+    <item id="Stop Wrap Up">
+      <message>Afwikkeltijd stoppen</message>
+    </item>
+    <item id="Extend Wrap Up">
+      <message>Afwikkeltijd verlengen</message>
+    </item>
+    <item id="On the phone">
+      <message>In gesprek</message>
+    </item>
+    <item id="Ringing">
+      <message>Belsignaal</message>
+    </item>
+    <item id="Idle">
+      <message>Vrij</message>
+    </item>
+    <item id="Wrap up Status cannot be changed\n\rCause is one of followings\n\r- Wrap up feature number is not assigned in PBX\n\r- Paired telephone is not PT\n\rPT is not connected with PBX\n\r">
+      <message>De status van afwikkeltijd kan niet worden gewijzigd\n\De oorzaak is het volgende\n\r-Er is geen functienr. aan afwikkeltijd toegewezen in de PBX\n\r- Parallelle telefoon is geen PT\n\rPT is niet aangesloten op de PBX\n\r</message>
+    </item>
+    <item id="ICD Group">
+      <message>ICD-groep</message>
+    </item>
+    <item id="Phone Status">
+      <message>Telefoon-status</message>
+    </item>
+    <item id="Wrap up">
+      <message>Afwikkeltijd</message>
+    </item>
+    <item id="Redirect">
+      <message>Doorsturen</message>
+    </item>
+    <item id="Listen-In">
+      <message>Meeluisteren</message>
+    </item>
+    <item id="Busy Override">
+      <message>Inbreken op gesprek</message>
+    </item>
+    <item id="Take Over">
+      <message>Overnemen</message>
+    </item>
+    <item id="&amp;Redirect the incoming call">
+      <message>Inkomend gesprek &amp;doorsturen</message>
+    </item>
+    <item id="Log-&amp;in to the group">
+      <message>&amp;Bij groep inloggen</message>
+    </item>
+    <item id="Log-o&amp;ut from the group">
+      <message>&amp;Van groep uitloggen</message>
+    </item>
+    <item id="&amp;Listen in the talking">
+      <message>&amp;Meeluisteren</message>
+    </item>
+    <item id="Overri&amp;de the talking (Conference)">
+      <message>&amp;Gesprek onderbreken (Conferentie)</message>
+    </item>
+    <item id="&amp;Take over the talking">
+      <message>Gesprek &amp;overnemen</message>
+    </item>
+    <item id="Supervisor function was disabled">
+      <message>De Supervisorfunctie werd uitgeschakeld</message>
+    </item>
+    <item id="Are you sure you want to clear report?">
+      <message>Wilt u het rapport verwijderen?</message>
+    </item>
+    <item id="Supervisor">
+      <message>Supervisor</message>
+    </item>
+    <item id="Group">
+      <message>Groep</message>
+    </item>
+    <item id="Display only ICD Group Member">
+      <message>Toon alleen deelnemers van ICD-groep</message>
+    </item>
+    <item id="Group Call Monitor">
+      <message>Groep-Gesp.controle</message>
+    </item>
+    <item id="Current Waiting Call">
+      <message>Gesprek Wacht</message>
+    </item>
+    <item id="Longest Waiting Time">
+      <message>Langste wachttijd</message>
+    </item>
+    <item id="Current Member Status">
+      <message>Status van abonnee</message>
+    </item>
+    <item id="Group Call Report">
+      <message>Status groepsgesprek</message>
+    </item>
+    <item id="Lost Call">
+      <message>Verloren gesprek</message>
+    </item>
+    <item id="Report Start Date:">
+      <message>Datum rapport:</message>
+    </item>
+    <item id="Report Start Time:">
+      <message>Rapport gestart om:</message>
+    </item>
+    <item id="&amp;Utility">
+      <message>&amp;Hulpprogramma</message>
+    </item>
+    <item id="Get Latest Report">
+      <message>Toon laatste rapport</message>
+    </item>
+    <item id="&amp;Clear Report">
+      <message>&amp;Wis het rapport</message>
+    </item>
+    <item id="The Number of Current Call :">
+      <message>Nummer van huidige gesprek:</message>
+    </item>
+    <item id="Font Color :">
+      <message>Kleur van lettertype :</message>
+    </item>
+    <item id="Background Color :">
+      <message>Achtergrondkleur :</message>
+    </item>
+    <item id="Blink">
+      <message>Knipperen</message>
+    </item>
+    <item id="Preview :">
+      <message>Preview :</message>
+    </item>
+    <item id=" The Waiting Time (MM'SS) :">
+      <message> Wachttijd (min'sec) :</message>
+    </item>
+    <item id="Choose...(&amp;B)">
+      <message>Kies…(&amp;B)</message>
+    </item>
+    <item id="Choose ...(&amp;F)">
+      <message>Kies …(&amp;F)</message>
+    </item>
+    <item id="Supervisor Option">
+      <message>Supervisor optie</message>
+    </item>
+    <item id="When the number of current call is preprogrammed number or more, display changes for warning.">
+      <message>Waarschuw wanneer het max. aantal geprogrammeerde nummers is bereikt of overschreden.</message>
+    </item>
+    <item id="When the time of longest waiting call is preprogrammed number or more, display changes for warning.">
+      <message>Waarschuw wanneer maximale aantal van gesprekken in wachtstand is bereikt of overschreden.</message>
+    </item>
+    <item id="Dial">
+      <message>Kies nummer</message>
+    </item>
+    <item id="Contact Name">
+      <message>Contactnaam</message>
+    </item>
+    <item id="Incoming Missed Calls: ">
+      <message>Gemiste inkomende gesprekken:</message>
+    </item>
+    <item id="Message Waiting">
+      <message>Boodschap wacht</message>
+    </item>
+    <item id="Call VM">
+      <message>Bel Voice Mail</message>
+    </item>
+    <item id="&amp;Call Voice Mail">
+      <message>&amp;Bel naar Voice Mail</message>
+    </item>
+    <item id="&amp;Record my Voice Message">
+      <message>Mijn Voice Mail bericht &amp;opnemen</message>
+    </item>
+    <item id="&amp;Display Message Waiting List">
+      <message>Toon Boodschap &amp;Wacht-lijst</message>
+    </item>
+    <item id="Call &amp;Back">
+      <message>&amp;Terugbellen</message>
+    </item>
+    <item id="No Connection">
+      <message>Geen verbinding</message>
+    </item>
+    <item id="Dial or Answer">
+      <message>Bel of Beantwoord</message>
+    </item>
+    <item id="For internal calls :">
+      <message>Interne gesprekken:</message>
+    </item>
+    <item id="For external calls :">
+      <message>Externe gesprekken:</message>
+    </item>
+    <item id="Forward / DND :">
+      <message>DSN/NS:</message>
+    </item>
+    <item id="Not Assigned">
+      <message>Niet toegewezen</message>
+    </item>
+    <item id="Fwd All ">
+      <message>Alles Doorschakelen</message>
+    </item>
+    <item id="Fwd Busy ">
+      <message>DSN bij In gesprek</message>
+    </item>
+    <item id="Fwd N/A ">
+      <message>DSN bij Afwezig</message>
+    </item>
+    <item id="Fwd Busy / N/A ">
+      <message>DSN Bezet/Afwezig</message>
+    </item>
+    <item id="Do Not Disturb">
+      <message>Niet Storen (NS)</message>
+    </item>
+    <item id="&amp;Dial">
+      <message>&amp;Kiezen</message>
+    </item>
+    <item id="&amp;Copy &amp;&amp; Call">
+      <message>&amp;Kopieer&amp;&amp;Bel</message>
+    </item>
+    <item id="&amp;History">
+      <message>&amp;Historie</message>
+    </item>
+    <item id="&amp;All Calls">
+      <message>&amp;Alle gesprekken</message>
+    </item>
+    <item id="Incoming &amp;Missed Calls">
+      <message>Ingekomen&amp;Gemiste gesprekken</message>
+    </item>
+    <item id="Incoming &amp;Received Calls">
+      <message>Ingekomen&amp;Ontvangen gesprekken</message>
+    </item>
+    <item id="Outgoing A&amp;nswered Calls">
+      <message>Uitgaande &amp;Beantwoorde gesprekken</message>
+    </item>
+    <item id="Outgoing &amp;Unanswered Calls">
+      <message>Uitgaande &amp; Onbeantwoorde gesprekken</message>
+    </item>
+    <item id="&amp;Go To">
+      <message>&amp;Ga Naar</message>
+    </item>
+    <item id="&amp;Option">
+      <message>&amp;Optie</message>
+    </item>
+    <item id="&amp;Function Key">
+      <message>&amp;Functietoets</message>
+    </item>
+    <item id="&amp;ICD Group">
+      <message>&amp;ICD-Groep</message>
+    </item>
+    <item id="Modify">
+      <message>Wijzig</message>
+    </item>
+    <item id="New Setting">
+      <message>Nieuwe instelling</message>
+    </item>
+    <item id="Message left by">
+      <message>Boodschap ontvangen van</message>
+    </item>
+    <item id="Absent message is assigned automatically, when PC is not used pre programmed time.">
+      <message>Afwezigheidsbericht start automatisch als de PC niet binnen de geprogrammeerde tijd wordt gebruikt.</message>
+    </item>
+    <item id="Absent message is cleared automatically, when CA is started.">
+      <message>Nadat CA is gestart zal het afwezigheidsbericht automatisch worden gewist.</message>
+    </item>
+    <item id="Absent message is assigned automatically, when CA is closed.">
+      <message>Nadat CA is afgesloten zal het afwezigheidsbericht automatisch worden geactiveerd.</message>
+    </item>
+    <item id="Absent Message Options">
+      <message>Opties voor Afwezigheidsboodschap</message>
+    </item>
+    <item id="MM:SS:">
+      <message>M:S:</message>
+    </item>
+    <item id="Please enter phone number.">
+      <message>Voer telefoonnummer in.</message>
+    </item>
+    <item id="Phone (Office)">
+      <message>Tel. (Kantoor)</message>
+    </item>
+    <item id="Phone (Mobile)">
+      <message>Tel (GSM)</message>
+    </item>
+    <item id="Phone (Home)">
+      <message>Tel (Privé)</message>
+    </item>
+    <item id="Voice Message">
+      <message>Voice Bericht</message>
+    </item>
+    <item id="Send E-mail">
+      <message>Verstuur een E-mail</message>
+    </item>
+    <item id="More">
+      <message>Meer</message>
+    </item>
+    <item id="Send Chat">
+      <message>Verstuur een Chat Bericht</message>
+    </item>
+    <item id="Leave Voice Message">
+      <message>Laat Voice Bericht achter</message>
+    </item>
+    <item id="WEB Access">
+      <message>WEB-toegang</message>
+    </item>
+    <item id="Call phone (Office): ">
+      <message>Tel. (Kantoor):</message>
+    </item>
+    <item id="Call phone (Mobile): ">
+      <message>Tel. (GSM):</message>
+    </item>
+    <item id="Call phone (Home): ">
+      <message>Tel. (Privé):</message>
+    </item>
+    <item id="&amp;Pick up the incoming call">
+      <message>&amp;Beantwoord inkomend gesprek</message>
+    </item>
+    <item id="&amp;View and modify this contact">
+      <message>&amp;Wijzig contact</message>
+    </item>
+    <item id="&amp;Add new contact">
+      <message>&amp;Voeg nieuw contact toe</message>
+    </item>
+    <item id="&amp;Delete this contact ">
+      <message>V&amp;erwijder contact</message>
+    </item>
+    <item id="Add contact list from PB&amp;X extension">
+      <message>Voeg contactlijst uit PB&amp;X-lijst toe</message>
+    </item>
+    <item id="&amp;Copy contact list from CSV file">
+      <message>&amp;Contactlijst via CSV-bestand doorsturen</message>
+    </item>
+    <item id="&amp;Save contact list to CSV file">
+      <message>Contactlijst o&amp;pslaan in CSV-bestand</message>
+    </item>
+    <item id="Leave voice message">
+      <message>Laat een VM bericht achter</message>
+    </item>
+    <item id="Send E-mail: ">
+      <message>Stuur een E-mail:</message>
+    </item>
+    <item id="Access Web">
+      <message>Toegang tot WEB</message>
+    </item>
+    <item id="Start Chat">
+      <message>Start de Chat</message>
+    </item>
+    <item id="View and modify contact">
+      <message>Contact bekijken en wijzigen</message>
+    </item>
+    <item id="Absent Message">
+      <message>Afwezigheidsboodschap</message>
+    </item>
+    <item id="Function List">
+      <message>Functielijst</message>
+    </item>
+    <item id="Move &amp;Up">
+      <message>Verplaats&amp;Omhoog</message>
+    </item>
+    <item id="Move &amp;Down">
+      <message>Verplaats&amp;Omlaag</message>
+    </item>
+    <item id="&amp;Edit">
+      <message>&amp;Wijzig</message>
+    </item>
+    <item id="Edit">
+      <message>Bewerken</message>
+    </item>
+    <item id="Save to Function List">
+      <message>In Functielijst opslaan</message>
+    </item>
+    <item id="Function List Name (Max. 16 characters):">
+      <message>Naam van functielijst (max. 16 tekens):</message>
+    </item>
+    <item id="Same as function list name.">
+      <message>Identiek aan naam van functielijst.</message>
+    </item>
+    <item id="Set absent message (Max. 16 characters):">
+      <message>Voer afwezigheidsbericht in (max. 16 tekens):</message>
+    </item>
+    <item id="Do not change absent message.">
+      <message>Laat afwezigheidsbericht ongewijzigd.</message>
+    </item>
+    <item id="Clear absent message.">
+      <message>Wis het afwezigheidsbericht.</message>
+    </item>
+    <item id="Enable">
+      <message>Inschakelen</message>
+    </item>
+    <item id="Feature Number">
+      <message>Functienummer</message>
+    </item>
+    <item id="Change2">
+      <message>Wijzig</message>
+    </item>
+    <item id="For both external calls and internal calls">
+      <message>Voor zowel externe als interne gesprekken</message>
+    </item>
+    <item id="For external calls">
+      <message>Voor externe gesprekken</message>
+    </item>
+    <item id="For internal calls">
+      <message>Voor interne gesprekken</message>
+    </item>
+    <item id="Always (All)">
+      <message>Altijd (Alle)</message>
+    </item>
+    <item id="Busy / No Answer">
+      <message>Bezet/Geen antwoord</message>
+    </item>
+    <item id="Off">
+      <message>UIT</message>
+    </item>
+    <item id="The maximum 20 function lists have already been assigned. This new setting cannot be saved.">
+      <message>De functielijst bestaat al uit maximaal 20. U kunt de nieuwe instelling niet opslaan.</message>
+    </item>
+    <item id="&amp;Modify">
+      <message>&amp;Aanpassen</message>
+    </item>
+    <item id="&amp;Add New">
+      <message>&amp;Nieuwe invoegen</message>
+    </item>
+    <item id="Modify Speed Dial">
+      <message>Verkort Kiezen aanpassen</message>
+    </item>
+    <item id="Speed dial no.">
+      <message>Verkort kiesnummer</message>
+    </item>
+    <item id="Add Speed Dial">
+      <message>Verkort kiesnummer toevoegen</message>
+    </item>
+    <item id="Forward">
+      <message>Doorschakelen</message>
+    </item>
+    <item id="Exit">
+      <message>Afsluiten</message>
+    </item>
+    <item id="Show">
+      <message>Weergeven</message>
+    </item>
+    <item id="Mon">
+      <message>Ma</message>
+    </item>
+    <item id="Tue">
+      <message>Di</message>
+    </item>
+    <item id="Wed">
+      <message>Wo</message>
+    </item>
+    <item id="Thu">
+      <message>Do</message>
+    </item>
+    <item id="Fri">
+      <message>Vr</message>
+    </item>
+    <item id="Sat">
+      <message>Za</message>
+    </item>
+    <item id="Sun">
+      <message>Zo</message>
+    </item>
+    <item id="AM">
+      <message>VM</message>
+    </item>
+    <item id="PM">
+      <message>NM</message>
+    </item>
+    <item id="Enter password of your mailbox:">
+      <message>Voer mailbox-wachtwoord in:</message>
+    </item>
+    <item id="Voice Mail">
+      <message>Voice Mail</message>
+    </item>
+    <item id="Call Control">
+      <message>Gesprekscontrole</message>
+    </item>
+    <item id="Incoming Call">
+      <message>Inkomend gesprek</message>
+    </item>
+    <item id="Calling">
+      <message>Gt over</message>
+    </item>
+    <item id="Recall">
+      <message>Nummer herhalen</message>
+    </item>
+    <item id="Text Memo">
+      <message>Tekstmemo</message>
+    </item>
+    <item id="Text Memo Reminder">
+      <message>Let op: Tekstmemo!</message>
+    </item>
+    <item id="DTMF Tone">
+      <message>DTMF-toon</message>
+    </item>
+    <item id="Broadcasting Group:">
+      <message>Broadcasting-groep:</message>
+    </item>
+    <item id="Manual Park">
+      <message>Handmatig Parkeren</message>
+    </item>
+    <item id="Call Parked">
+      <message>Gsp. gepark.</message>
+    </item>
+    <item id="VM Transfer">
+      <message>VM doorverbinden</message>
+    </item>
+    <item id="Caller Information">
+      <message>Nr.-identificatie</message>
+    </item>
+    <item id="Redirect to">
+      <message>Doorsturen naar</message>
+    </item>
+    <item id="Active Calls">
+      <message>Act. gespr.</message>
+    </item>
+    <item id="Direct In:">
+      <message>Directe lijn:</message>
+    </item>
+    <item id="Outside Line:">
+      <message>Netlijn:</message>
+    </item>
+    <item id="Call For:">
+      <message>Gesprek voor:</message>
+    </item>
+    <item id="Duration:">
+      <message>Duur:</message>
+    </item>
+    <item id="On Hold">
+      <message>In Wachtstand</message>
+    </item>
+    <item id="Not Valid">
+      <message>Ongeldig</message>
+    </item>
+    <item id="Dial is incorrect.">
+      <message>Nummer is incorrect.</message>
+    </item>
+    <item id="Please enter specific park area">
+      <message>Voer gewenste parkeerzone in</message>
+    </item>
+    <item id="Parked number">
+      <message>Geparkeerd nr.</message>
+    </item>
+    <item id="Extension  number">
+      <message>Toestelnummer</message>
+    </item>
+    <item id="Paging Group">
+      <message>Oproep-groep</message>
+    </item>
+    <item id="Set call back">
+      <message>Terugbellen instellen</message>
+    </item>
+    <item id="Wait and send call waiting tone">
+      <message>Wacht en verstuur gesprek wacht-toon</message>
+    </item>
+    <item id="Leave message waiting">
+      <message>Laat Boodschap Wacht-bericht achter</message>
+    </item>
+    <item id="Listen in">
+      <message>Meeluisteren</message>
+    </item>
+    <item id="Override (Conference)">
+      <message>Inbreken (Conferentie)</message>
+    </item>
+    <item id="Take over">
+      <message>Overnemen</message>
+    </item>
+    <item id="Call by override">
+      <message>Inbreken op gesprek</message>
+    </item>
+    <item id="Send e-mail">
+      <message>Verstuur E-mail</message>
+    </item>
+    <item id="Transfer the call">
+      <message>Gesprek doorverbinden</message>
+    </item>
+    <item id="Put the call on hold">
+      <message>Plaats gesprek in wachtstand</message>
+    </item>
+    <item id="Make a conference">
+      <message>Conferentie </message>
+    </item>
+    <item id="Park the call (Automatic)">
+      <message>Gesprek parkeren (Automatisch)</message>
+    </item>
+    <item id="Park the call (Manual)">
+      <message>Gesprek parkeren (Handmatig)</message>
+    </item>
+    <item id="Transfer to VM">
+      <message>Doorverbinden naar VM</message>
+    </item>
+    <item id="Record to VM">
+      <message>Opnemen in VM</message>
+    </item>
+    <item id="Stop recording">
+      <message>Stop de opname</message>
+    </item>
+    <item id="Send DTMF">
+      <message>Verstuur DTMF</message>
+    </item>
+    <item id="Send Flash (EFA)">
+      <message>Verstuur Flash (EFA)</message>
+    </item>
+    <item id="Write memo">
+      <message>Schrijf memo</message>
+    </item>
+    <item id="Split the call">
+      <message>Verdeel gesprek</message>
+    </item>
+    <item id="Retrieve the call">
+      <message>Gesprek terughalen</message>
+    </item>
+    <item id="Hang up">
+      <message>Beëindig het gesprek</message>
+    </item>
+    <item id="Answer the call">
+      <message>Beantwoord het gesprek</message>
+    </item>
+    <item id="Redirect the call">
+      <message>Stuur het gesprek door</message>
+    </item>
+    <item id="Release">
+      <message>Vrijgeven</message>
+    </item>
+    <item id="VM:">
+      <message>VM:</message>
+    </item>
+    <item id="E-mail">
+      <message>E-mail</message>
+    </item>
+    <item id="Message">
+      <message>Boodschap</message>
+    </item>
+    <item id="Close">
+      <message>Sluiten</message>
+    </item>
+    <item id="Cancel">
+      <message>Annuleren</message>
+    </item>
+    <item id="OK">
+      <message>OK</message>
+    </item>
+    <item id="External">
+      <message>Extern</message>
+    </item>
+    <item id="Internal">
+      <message>Intern</message>
+    </item>
+    <item id="IN">
+      <message>IN</message>
+    </item>
+    <item id="OUT">
+      <message>UIT</message>
+    </item>
+    <item id="Total Time:">
+      <message>Totaaltijd:</message>
+    </item>
+    <item id="Ringing Time:">
+      <message>Rinkel tijd:</message>
+    </item>
+    <item id="Connecting Time:">
+      <message>Gespreksduur:</message>
+    </item>
+    <item id="Holding Time:">
+      <message>Wachttijd:</message>
+    </item>
+    <item id="Failed to set call back.">
+      <message>Instelling voor terugbellen is mislukt.</message>
+    </item>
+    <item id="Failed to send call waiting.">
+      <message>Versturen van gesprek wacht is mislukt.</message>
+    </item>
+    <item id="Failed to override the selected ongoing call.">
+      <message>Versturen van boodschap wacht is mislukt.</message>
+    </item>
+    <item id="Failed to make this call.">
+      <message>Bellen naar dit nummer is mislukt.</message>
+    </item>
+    <item id="Failed to answer the call.">
+      <message>Beantwoording van gesprek is mislukt.</message>
+    </item>
+    <item id="Failed to hang up the call.">
+      <message>Beëindiging van het gesprek is mislukt.</message>
+    </item>
+    <item id="The phone number you entered is not valid.">
+      <message>Het ingevoerde telefoonnummer is ongeldig.</message>
+    </item>
+    <item id="Options">
+      <message>Opties</message>
+    </item>
+    <item id="Key Assign">
+      <message>Toewijzing van toets</message>
+    </item>
+    <item id="Display">
+      <message>Display</message>
+    </item>
+    <item id="Preferences">
+      <message>Voorkeurinstellingen</message>
+    </item>
+    <item id="Key Mappings">
+      <message>Toets Index</message>
+    </item>
+    <item id="Sounds">
+      <message>Geluiden</message>
+    </item>
+    <item id="Dial Modification">
+      <message>Nummerwijziging</message>
+    </item>
+    <item id="PBX System Alarm">
+      <message>PBX-Systeemalarm</message>
+    </item>
+    <item id="Logon and Security">
+      <message>Logon en Beveiliging</message>
+    </item>
+    <item id="About">
+      <message>Meer info</message>
+    </item>
+    <item id="Disable">
+      <message>Deactiveer</message>
+    </item>
+    <item id="Language">
+      <message>Taal</message>
+    </item>
+    <item id="Minimise application to">
+      <message>Minimaliseer toepassing tot</message>
+    </item>
+    <item id="Incoming call pop-up for CA">
+      <message>Pop-up bij inkomende gesprekken voor CA</message>
+    </item>
+    <item id="Incoming call pop-up for Microsoft Outlook">
+      <message>Pop-up bij inkomende gesprekken voor MS Outlook</message>
+    </item>
+    <item id="Notice">
+      <message>Opmerking</message>
+    </item>
+    <item id="Software version">
+      <message>Software versie</message>
+    </item>
+    <item id="Pre-installed language">
+      <message>Geinstalleerde taal</message>
+    </item>
+    <item id="Additional language">
+      <message>Extra taal</message>
+    </item>
+    <item id="Taskbar">
+      <message>Taakbalk</message>
+    </item>
+    <item id="System tray">
+      <message>System tray</message>
+    </item>
+    <item id="Transfer automatically when new call is made during talking">
+      <message>Automatisch doorverbinden van nieuw gesprek tijdens gesprek</message>
+    </item>
+    <item id="Save ICD group incoming call to history">
+      <message>Gesprek voor ICD-groep opslaan in Historie</message>
+    </item>
+    <item id="Record to VM automatically">
+      <message>Automatisch in VM opslaan</message>
+    </item>
+    <item id="Use Voice Mail Assistant">
+      <message>Gebruik Voice Mail Assistant</message>
+    </item>
+    <item id="Remove \&quot;(0)\&quot;">
+      <message>Verwijder \"(0)\"</message>
+    </item>
+    <item id="Inform PBX system alarm using e-mail">
+      <message>Meld PBX-Systeemalarm via e-mail</message>
+    </item>
+    <item id="Automatically login">
+      <message>Automatisch inloggen</message>
+    </item>
+    <item id="Automatic minimise after automatically login">
+      <message>Automatisch verkleinen na automatische Log-in</message>
+    </item>
+    <item id="Key:">
+      <message>Toets:</message>
+    </item>
+    <item id="Key Name:">
+      <message>Toetsnaam:</message>
+    </item>
+    <item id="Doorphone">
+      <message>Deurintercom</message>
+    </item>
+    <item id="Call Back">
+      <message>Terugbellen</message>
+    </item>
+    <item id="Voice Mail:">
+      <message>Voice Mail:</message>
+    </item>
+    <item id="Minimum digits for public telephone number:">
+      <message>Min. aantal cijfers voor telefoonnummer:</message>
+    </item>
+    <item id="Telephone Number Modification">
+      <message>Telefoonnummer aanpassen</message>
+    </item>
+    <item id="No.">
+      <message>Nr.</message>
+    </item>
+    <item id="Leading Digits to Remove\n(Max. 16 digits)">
+      <message>Te verwijderen begincijfers\n(max. 16 cijfers)</message>
+    </item>
+    <item id="Added Number\n(Max. 8 digits)">
+      <message>Toegevoegd nummer\n(max. 8 cijfers)</message>
+    </item>
+    <item id="Other:">
+      <message>Overige:</message>
+    </item>
+    <item id="E-mail address">
+      <message>E-mail adres</message>
+    </item>
+    <item id="E-mail title">
+      <message>E-mail onderwerp</message>
+    </item>
+    <item id="Current Password">
+      <message>Huidige wachtwoord</message>
+    </item>
+    <item id="New Password">
+      <message>Nieuw wachtwoord</message>
+    </item>
+    <item id="Verify password">
+      <message>Bevestig wachtwoord</message>
+    </item>
+    <item id="When voice volume is not enough, adjustment of microphone and speaker of the PC is required using Control Panel.\nAdjustment for microphone using \&quot;Options\&quot; is also available.\nAdjustment for speaker using \&quot;Navigation Key\&quot; during talking is also available.\nPage key is available when IP softphone is connected with MPR card of KX-TDE PBX, VM-Menu on LCD is not supported. It is required to disable VM-Menu feature using COS programming of VM.">
+      <message>Indien het geluidsvolume te zacht is: ga op uw PC naar "Configuratiescherm" &gt; "Geluidsapparaten".\Microfoonvolume is ook instelbaar via \"Opties\".\nTijdens een gesprek is het luidsprekervolume ook instelbaar via \"Navigatietoets.n\De Oproeptoets is beschikbaar indien verbonden met de MPR-kaart van de KX-TDE PBX, VM-menu op LCD is niet mogelijk. Schakel hiertoe het VM-menu UIT via COS-programmering van de VM.</message>
+    </item>
+    <item id="Delete">
+      <message>Verwijder</message>
+    </item>
+    <item id="Change &amp;Password">
+      <message>Wijzig &amp;wachtwoord</message>
+    </item>
+    <item id="Key Name">
+      <message>Toetsnaam</message>
+    </item>
+    <item id="Assign Key">
+      <message>Toets twzn</message>
+    </item>
+    <item id="Dial/Answer">
+      <message>Kiezen/Beantwoorden</message>
+    </item>
+    <item id="Hold">
+      <message>Wachtstand</message>
+    </item>
+    <item id="Conference">
+      <message>Conferentie </message>
+    </item>
+    <item id="Auto Park">
+      <message>Automatisch Parkeren</message>
+    </item>
+    <item id="Redial">
+      <message>Herhalen</message>
+    </item>
+    <item id="Pick Up">
+      <message>Beantwoorden</message>
+    </item>
+    <item id="Transfer to Voice Mail">
+      <message>Naar VM doorverbinden</message>
+    </item>
+    <item id="Split">
+      <message>Splitsen</message>
+    </item>
+    <item id="Forward / Do Not Disturb">
+      <message>Doorschakelen/Niet Storen</message>
+    </item>
+    <item id="Record to Voice Mail">
+      <message>In Voice Mail opnemen</message>
+    </item>
+    <item id="Send Tone (DTMF)">
+      <message>Verstuur toon (DTMF)</message>
+    </item>
+    <item id="Copy &amp; Call &lt;Global Key&gt;">
+      <message>Kopieer &amp; bel &lt;Glob. key&gt;</message>
+    </item>
+    <item id="The function key (F1-F10) cannot be assigned.">
+      <message>Functietoets (F1-F10) is niet toewijsbaar.</message>
+    </item>
+    <item id="This character cannot be assigned.">
+      <message>Dit teken is niet toewijsbaar.</message>
+    </item>
+    <item id="Do you want to save your settings?">
+      <message>Wilt u de instellingen opslaan?</message>
+    </item>
+    <item id="Please enter a setting.">
+      <message>Voer een instelling in.</message>
+    </item>
+    <item id="Validation error">
+      <message>Validatiefout</message>
+    </item>
+    <item id="The specified path does not exist.">
+      <message>Het pad bestaat niet.</message>
+    </item>
+    <item id="Password mismatch. Please enter your new password again.">
+      <message>Wachtwoord incorrect. Voer uw nieuwe wachtwoord nogmaals in.</message>
+    </item>
+    <item id="Password changed successfully.">
+      <message>Wachtwoord is succesvol gewijzigd.</message>
+    </item>
+    <item id="Password change failed!">
+      <message>Wijziging van wachtwoord is mislukt!</message>
+    </item>
+    <item id="&amp;Send">
+      <message>&amp;Versturen</message>
+    </item>
+    <item id="&amp;Clear">
+      <message>&amp;Wissen</message>
+    </item>
+    <item id="Chat">
+      <message>Chat</message>
+    </item>
+    <item id="No Last Message...">
+      <message>Geen laatste bericht</message>
+    </item>
+    <item id="Last Message: ">
+      <message>Laatste bericht:</message>
+    </item>
+    <item id="Save to email software.">
+      <message>In e-mail software opslaan.</message>
+    </item>
+    <item id="Do you want to close chat?">
+      <message>Wilt u de Chat stoppen?</message>
+    </item>
+    <item id="Chat will close">
+      <message>Chat zal worden afgesloten</message>
+    </item>
+    <item id="You have reached 4 chat sessions.\nChat is not available.">
+      <message>U heeft reeds 4 Chat-sessies open.\nChat is niet mogelijk</message>
+    </item>
+    <item id="The other party has reached the maximum of 4 chat sessions.\nChat is not available.">
+      <message>De andere partij heeft reeds 4 Chat-sessies open.\nChat is niet mogelijk.</message>
+    </item>
+    <item id="The other party has logged off.">
+      <message>De andere partij heeft uitgelogd.</message>
+    </item>
+    <item id="Failed to establish chat with the other party.">
+      <message>De Chat-verbinding is mislukt.</message>
+    </item>
+    <item id="The other party is not logged in.">
+      <message>De andere partij is niet ingelogd.</message>
+    </item>
+    <item id="Unknown Error">
+      <message>Onbekende fout</message>
+    </item>
+    <item id="Unable Establish Chat with own extension number">
+      <message>Chat naar eigen toestelnummer is niet mogelijk</message>
+    </item>
+    <item id="Failed to launch VMA application.">
+      <message>Kan VMA-toepassing niet opstarten.</message>
+    </item>
+    <item id="Answer">
+      <message>Beantwoorden</message>
+    </item>
+    <item id="Drop">
+      <message>Verbreken</message>
+    </item>
+    <item id="Dial Number">
+      <message>Kies nummer</message>
+    </item>
+    <item id="Assistant">
+      <message>Assistent</message>
+    </item>
+    <item id="Business">
+      <message>Kantoor</message>
+    </item>
+    <item id="Business 2">
+      <message>Kantoor 2</message>
+    </item>
+    <item id="Callback">
+      <message>Terugbellen</message>
+    </item>
+    <item id="Car">
+      <message>Auto</message>
+    </item>
+    <item id="Company (Main)">
+      <message>Bedrijf (Hoofd)</message>
+    </item>
+    <item id="Home 2">
+      <message>Thuis 2</message>
+    </item>
+    <item id="ISDN">
+      <message>ISDN</message>
+    </item>
+    <item id="Mobile">
+      <message>Mobiel</message>
+    </item>
+    <item id="Other">
+      <message>Overig</message>
+    </item>
+    <item id="Primary">
+      <message>Primair</message>
+    </item>
+    <item id="Retrieving contact data.">
+      <message>Bezig met ophalen van contactgegevens.</message>
+    </item>
+    <item id="Contact data limit reached.">
+      <message>Limiet van contactgegevens is bereikt.</message>
+    </item>
+    <item id="Function name cannot be empty.">
+      <message>Veld voor functienaam mag niet leeg zijn.</message>
+    </item>
+    <item id="Absent message cannot be empty.">
+      <message>Veld voor afwezigheidsboodschap mag niet leeg zijn.</message>
+    </item>
+    <item id="Please enter feature number.">
+      <message>Voer het functienummer in.</message>
+    </item>
+    <item id="Are you sure you want to delete this function list?">
+      <message>Wilt u deze functielijst verwijderen?</message>
+    </item>
+    <item id="Redirect feature for incoming call does not work for ICD group call.">
+      <message>De doorschakelfunctie werkt niet voor een ICD groepsoproep</message>
+    </item>
+    <item id="Public telephone number is modified automatically, when dial is copied from other application or call is made using contact list or history.">
+      <message>Het openbare telefoonnummer wordt automatisch aangepast wanneer het nummer is gekopieerd vanuit een andere toepassing of wanneer de oproep wordt gemaakt vanuit de contactlijst of gesprekslog.</message>
+    </item>
+    <item id="&lt;Explanation&gt;">
+      <message>&lt;Uitleg&gt;</message>
+    </item>
+    <item id="PBX system alarm can be sent to programmed e-mail address. Local alarm feature should be enabled for your extension by PBX Unified Maintenance Console.">
+      <message>Een alarm van de PBX kan naar het voorgeprogrammeerde emailadres worden gestuurd. De alarmfunctie moet in de PBX voor uw toestel zijn geprogrammeerd.</message>
+    </item>
+    <item id="Extension Setting">
+      <message>Toestel instelling</message>
+    </item>
+    <item id="&amp;FWD/DND">
+      <message>&amp;Doorschakelen/Niet storen</message>
+    </item>
+    <item id="Ext Pin Clear">
+      <message>Verwijderen Toestel wachtwoord</message>
+    </item>
+    <item id="Wake Up Call">
+      <message>Wake Up Call</message>
+    </item>
+    <item id="Extension &amp;Lock">
+      <message>Toestel &amp;Slot</message>
+    </item>
+    <item id="Extension &amp;Unlock">
+      <message>Toestel &amp;Vrijgeven</message>
+    </item>
+    <item id="Clearing Extension PIN OK?">
+      <message>Verwijderen Toestel wachtwoord OK?</message>
+    </item>
+    <item id="PC Console">
+      <message>PC Bedienpost</message>
+    </item>
+    <item id="Wake Up Call Setting">
+      <message>Wake Up instelling</message>
+    </item>
+    <item id="h">
+      <message>h</message>
+    </item>
+    <item id="Daily Setting">
+      <message>Dagelijkse instelling</message>
+    </item>
+    <item id="Daily">
+      <message>Dagelijks</message>
+    </item>
+    <item id="Once">
+      <message>Eenmaal</message>
+    </item>
+    <item id="Number">
+      <message>Nummer</message>
+    </item>
+    <item id="FWD/DND (Internal)">
+      <message>DSN/NS (Intern)</message>
+    </item>
+    <item id="FWD/DND (External)">
+      <message>DSN/NS (Extern)</message>
+    </item>
+    <item id="Display Lock">
+      <message>Display slot</message>
+    </item>
+    <item id="Dial Lock">
+      <message>Kies slot</message>
+    </item>
+    <item id="Wake Up">
+      <message>Wake Up</message>
+    </item>
+    <item id="Lock">
+      <message>Slot</message>
+    </item>
+    <item id="&amp;Unlock">
+      <message>&amp;Vrijgeven</message>
+    </item>
+    <item id="On">
+      <message>Aan </message>
+    </item>
+    <item id="Outside Line Group">
+      <message>Netlijngroep</message>
+    </item>
+    <item id="Outside Line Number">
+      <message>Netlijnnummer</message>
+    </item>
+    <item id="Status">
+      <message>Status</message>
+    </item>
+    <item id="Call secretary">
+      <message>Bel assistente</message>
+    </item>
+    <item id="Contact List Group:">
+      <message>Contactlijst Groep:</message>
+    </item>
+    <item id="Contact List Groups">
+      <message>Contactlijst Groepen</message>
+    </item>
+    <item id="&amp;New">
+      <message>&amp;Nieuw</message>
+    </item>
+    <item id="Move D&amp;own">
+      <message>Verplaats O&amp;mlaag</message>
+    </item>
+    <item id="All">
+      <message>Alle</message>
+    </item>
+    <item id="Customise">
+      <message>Aanpassen</message>
+    </item>
+    <item id="Private">
+      <message>Prive</message>
+    </item>
+    <item id="Please enter a name">
+      <message>Voer de naam in</message>
+    </item>
+    <item id="Communication Assistant Pro">
+      <message>Communication Assistant Pro</message>
+    </item>
+    <item id="Are you sure you want to remove this record?">
+      <message>Weet u zeker dat u deze file wil verwijderen?</message>
+    </item>
+    <item id="Contact Group Name:">
+      <message>Contactgroep naam:</message>
+    </item>
+    <item id="Chat call back">
+      <message>Chat terugbellen</message>
+    </item>
+    <item id="is typing a message">
+      <message>is een bericht aan het intoetsen</message>
+    </item>
+    <item id="Operator Console (CA Operator Console)">
+      <message>PC Bedienpost (CA Operator Console)</message>
+    </item>
+    <item id="Use Network">
+      <message>Gebruik netwerk</message>
+    </item>
+    <item id="IP Address of CA Server">
+      <message>Adres van de CA Server</message>
+    </item>
+    <item id="Local Address">
+      <message>Eerste</message>
+    </item>
+    <item id="Remote Address">
+      <message>Tweede</message>
+    </item>
+    <item id="FQDN Error">
+      <message>FQDN Fout</message>
+    </item>
+    <item id="You can log-in to Operator Console Trial for now">
+      <message>U kunt nu inloggen in de PC Bedienpost test versie</message>
+    </item>
+    <item id="The number of license is not enough. Do you continue to login without network?">
+      <message>Het aantal licentie's is niet genoeg. Toch inloggen zonder netwerk?</message>
+    </item>
+    <item id="Function Name:">
+      <message>Functie naam:</message>
+    </item>
+    <item id="Function is executed automatically when CA is started.">
+      <message>Functie wordt uitgevoerd zodra CA gestart wordt</message>
+    </item>
+    <item id="Function is executed automatically when CA is closed.">
+      <message>Functie wordt uitgevoerd zodra CA gestopt wordt</message>
+    </item>
+    <item id="My Contact">
+      <message>Mijn Contactpersonen</message>
+    </item>
+    <item id="Paging (Flexible)">
+      <message>Omroep (Flexibel)</message>
+    </item>
+    <item id="Account Code">
+      <message>Account Code</message>
+    </item>
+    <item id="Extension Call">
+      <message>Toestel gesprek</message>
+    </item>
+    <item id="Group Call">
+      <message>Groep gesprek</message>
+    </item>
+    <item id="Paging (Fixed)">
+      <message>Omroep (Vast)</message>
+    </item>
+    <item id="Parameter:">
+      <message>Parameter:</message>
+    </item>
+    <item id="Label:">
+      <message>Label:</message>
+    </item>
+    <item id="Please enter Group No.">
+      <message>Voer het goepnummer in:</message>
+    </item>
+    <item id="CA Pro License is required">
+      <message>CA Pro licentie is nodig</message>
+    </item>
+    <item id="Missing or unregistered client.">
+      <message>Missende of niet geregistreerde Client</message>
+    </item>
+    <item id="Failed to open email software.">
+      <message>Niet gelukt om e-mail software te openen</message>
+    </item>
+    <item id="Name:">
+      <message>Naam:</message>
+    </item>
+    <item id="Find">
+      <message>Vind</message>
+    </item>
+    <item id="Call this contact">
+      <message>Bel deze contactpersoon</message>
+    </item>
+    <item id="Add to contact list">
+      <message>Voeg toe aan de contactenlijst</message>
+    </item>
+    <item id="Email Address">
+      <message>E-mail adres</message>
+    </item>
+    <item id="Cannot connect to server.">
+      <message>Kan niet verbinden met de server</message>
+    </item>
+    <item id="No results found.">
+      <message>Geen resultaten gevonden</message>
+    </item>
+    <item id="Number of search result exceeded the limit. Only first 100 results shown.">
+      <message>Het aantal resultaten zijn meer dan de limiet. Alleen de eerste 100 worden weergegeven.</message>
+    </item>
+    <item id="Error while searching for results.">
+      <message>Foutmelding bij het zoeken.</message>
+    </item>
+    <item id="Cannot make call. No telephone number.">
+      <message>Kan niet bellen. Geen telefoonnummer</message>
+    </item>
+    <item id="&amp;New...">
+      <message>&amp;Nieuw…</message>
+    </item>
+    <item id="Cannot add more than 10 servers to list.">
+      <message>Kan niet meer dan 10 servers aan de lijst toevoegen</message>
+    </item>
+    <item id="LDAP Server settings">
+      <message>LDAP Server instellingen</message>
+    </item>
+    <item id="Server Address:">
+      <message>Server Adres:</message>
+    </item>
+    <item id="Port Number:">
+      <message>Poortnummer:</message>
+    </item>
+    <item id="Account Name:">
+      <message>Accountnaam:</message>
+    </item>
+    <item id="Password:">
+      <message>Wachtwoord:</message>
+    </item>
+    <item id="Use SSL">
+      <message>Gebruik SSL</message>
+    </item>
+    <item id="Ok">
+      <message>OK</message>
+    </item>
+    <item id="Server address cannot be empty.">
+      <message>Server adres mag niet leeg zijn.</message>
+    </item>
+    <item id="Invalid port number.">
+      <message>Foutief poortnummer</message>
+    </item>
+    <item id="Account name / password cannot be empty.">
+      <message>Gebruikersnaam / wachtwoord mogen niet leeg zijn</message>
+    </item>
+    <item id="Park (Auto)">
+      <message>Parkeren (Auto)</message>
+    </item>
+    <item id="Park (Manual)">
+      <message>Parkeren (Handmatig)</message>
+    </item>
+    <item id="Call waiting tone">
+      <message>Gesprek wachttoon</message>
+    </item>
+    <item id="login now">
+      <message>log nu in</message>
+    </item>
+    <item id="chat is disabled. Callback is cancelled.">
+      <message>chat is uitgeschakeld. Terugbellen is geannuleerd</message>
+    </item>
+    <item id="Extension">
+      <message>Toestel</message>
+    </item>
+    <item id="Extension PIN Clear">
+      <message>Toestel wachtwoord wissen</message>
+    </item>
+    <item id="Transfer to phone (Office): ">
+      <message>Verbind door naar (Kantoor):</message>
+    </item>
+    <item id="Transfer to phone (Mobile): ">
+      <message>Verbind door naar (Mobiel):</message>
+    </item>
+    <item id="Transfer to phone (Home): ">
+      <message>Verbind door naar (Huis):</message>
+    </item>
+    <item id="Transfer to phone (secretary): ">
+      <message>Verbind door naar (Secretaresse):</message>
+    </item>
+    <item id="Email this contact">
+      <message>Stuur een e-mail </message>
+    </item>
+    <item id="Key-1">
+      <message>Toets 1</message>
+    </item>
+    <item id="Key-2">
+      <message>Toets 2</message>
+    </item>
+    <item id="Key-3">
+      <message>Toets 3</message>
+    </item>
+    <item id="Key-4">
+      <message>Toets 4</message>
+    </item>
+    <item id="Key-5">
+      <message>Toets 5</message>
+    </item>
+    <item id="Key-6">
+      <message>Toets 6</message>
+    </item>
+    <item id="Key-7">
+      <message>Toets 7</message>
+    </item>
+    <item id="Key-8">
+      <message>Toets 8</message>
+    </item>
+    <item id="Key-9">
+      <message>Toets 9</message>
+    </item>
+    <item id="Key-10">
+      <message>Toets 10</message>
+    </item>
+    <item id="Key-11">
+      <message>Toets 11</message>
+    </item>
+    <item id="Key-12">
+      <message>Toets 12</message>
+    </item>
+    <item id="Select by group number">
+      <message>Selecteer via groepnummer</message>
+    </item>
+    <item id="Group number: 01">
+      <message>Groepnummer: 01</message>
+    </item>
+    <item id="Group number: 02">
+      <message>Groepnummer: 02</message>
+    </item>
+    <item id="Group number: 03">
+      <message>Groepnummer: 03</message>
+    </item>
+    <item id="Group number: 04">
+      <message>Groepnummer: 04</message>
+    </item>
+    <item id="Group number: 05">
+      <message>Groepnummer: 05</message>
+    </item>
+    <item id="Group number: 06">
+      <message>Groepnummer: 06</message>
+    </item>
+    <item id="Group number: 07">
+      <message>Groepnummer: 07</message>
+    </item>
+    <item id="Group number: 08">
+      <message>Groepnummer: 08</message>
+    </item>
+    <item id="Group number: 09">
+      <message>Groepnummer: 09</message>
+    </item>
+    <item id="Group number: 10">
+      <message>Groepnummer: 10</message>
+    </item>
+    <item id="Group number: 11">
+      <message>Groepnummer: 11</message>
+    </item>
+    <item id="Group number: 12">
+      <message>Groepnummer: 12</message>
+    </item>
+    <item id="Group number: 13">
+      <message>Groepnummer: 13</message>
+    </item>
+    <item id="Group number: 14">
+      <message>Groepnummer: 14</message>
+    </item>
+    <item id="Group number: 15">
+      <message>Groepnummer: 15</message>
+    </item>
+    <item id="Group number: 16">
+      <message>Groepnummer: 16</message>
+    </item>
+    <item id="Group number: 17">
+      <message>Groepnummer: 17</message>
+    </item>
+    <item id="Group number: 18">
+      <message>Groepnummer: 18</message>
+    </item>
+    <item id="Group number: 19">
+      <message>Groepnummer: 19</message>
+    </item>
+    <item id="Group number: 20">
+      <message>Groepnummer: 20</message>
+    </item>
+    <item id="Group number: 21">
+      <message>Groepnummer: 21</message>
+    </item>
+    <item id="Group number: 22">
+      <message>Groepnummer: 22</message>
+    </item>
+    <item id="Group number: 23">
+      <message>Groepnummer: 23</message>
+    </item>
+    <item id="Group number: 24">
+      <message>Groepnummer: 24</message>
+    </item>
+    <item id="Group number: 25">
+      <message>Groepnummer: 25</message>
+    </item>
+    <item id="Group number: 26">
+      <message>Groepnummer: 26</message>
+    </item>
+    <item id="Group number: 27">
+      <message>Groepnummer: 27</message>
+    </item>
+    <item id="Group number: 28">
+      <message>Groepnummer: 28</message>
+    </item>
+    <item id="Group number: 29">
+      <message>Groepnummer: 29</message>
+    </item>
+    <item id="Group number: 30">
+      <message>Groepnummer: 30</message>
+    </item>
+    <item id="Group number: 31">
+      <message>Groepnummer: 31</message>
+    </item>
+    <item id="Group number: 32">
+      <message>Groepnummer: 32</message>
+    </item>
+    <item id="Please enter Group Number.">
+      <message>Voer het groepnummer in.</message>
+    </item>
+    <item id="&amp;Edit...">
+      <message>&amp;Wijzig</message>
+    </item>
+    <item id="Please enter a group name.">
+      <message>Voer een groepnummer in</message>
+    </item>
+    <item id="Unable load user Profile.">
+      <message>Niet mogelijk om het gebruikersprofiel te laden</message>
+    </item>
+    <item id="Request Fail.">
+      <message>Verzoek is mislukt</message>
+    </item>
+    <item id="Fail to connect to the selected Network Server.">
+      <message>Niet gelukt om de geselecteerde netwerk server te benaderen</message>
+    </item>
+    <item id="Network Call Flag">
+      <message>Netwerk gesprek Flag</message>
+    </item>
+    <item id="Connection with Network Server is Disconnected, CA will connect back to Own Server.">
+      <message>Verbinding met de netwerkserver is verbroken. CA gaat terug naar de eigen server.</message>
+    </item>
+    <item id="Call Park">
+      <message>Parkeren</message>
+    </item>
+    <item id="Park Number">
+      <message>Parkeernummer</message>
+    </item>
+    <item id="Function Name">
+      <message>Functie naam</message>
+    </item>
+    <item id="Start date and time">
+      <message>Start datum &amp; tijd</message>
+    </item>
+    <item id="End date and time">
+      <message>Einde datum &amp; tijd</message>
+    </item>
+    <item id="Function List - Schedule">
+      <message>Functielijst - Schema</message>
+    </item>
+    <item id="Function name for End :">
+      <message>Functienaam voor einde:</message>
+    </item>
+    <item id="Callback message was cancelled for the timeout.">
+      <message>Terugbelbericht is geannuleerd vanwege een timeout</message>
+    </item>
+    <item id="Outside Line : ">
+      <message>Buitenlijn:</message>
+    </item>
+    <item id="DEFAULT LDAP SRV">
+      <message>Std LDAP Serv</message>
+    </item>
+    <item id="Searching for LDAP contacts...">
+      <message>Zoeken naar LDAP contacten</message>
+    </item>
+    <item id="Connecting to LDAP server...">
+      <message>Verbinden met de LDAP server</message>
+    </item>
+    <item id="Location:">
+      <message>Locatie:</message>
+    </item>
+    <item id="LDAP Location List">
+      <message>LDAP Locatie lijst</message>
+    </item>
+    <item id="Are you sure you want to delete this location?">
+      <message>Weet u zeker dat deze locatie verwijderd kan worden?</message>
+    </item>
+    <item id="Cannot add new location. Location already exists. Do you want to edit existing location instead?">
+      <message>Kan geen nieuwe locatie toevoegen. Deze bestaat reeds. Wilt u de bestaande locatie wijzigen?</message>
+    </item>
+    <item id="Location cannot be empty.">
+      <message>Locatie mag niet leeg zijn.</message>
+    </item>
+    <item id="Location cannot be the same as server address.">
+      <message>Locatie mag niet hetzelfde zijn als het server adres</message>
+    </item>
+    <item id="&amp;LDAP Link">
+      <message>&amp;LDAP Link</message>
+    </item>
+    <item id="Function Key:">
+      <message>Functie toets:</message>
+    </item>
+    <item id="Outside &amp;Line Group">
+      <message>Buiten&amp;Lijn groep</message>
+    </item>
+    <item id="Incoming Group">
+      <message>Inkomende groep</message>
+    </item>
+    <item id="Icon">
+      <message>Icoon</message>
+    </item>
+    <item id="List">
+      <message>Lijst</message>
+    </item>
+    <item id="Contact List Display Format">
+      <message>Contactlijst weergave formaat</message>
+    </item>
+    <item id="This is the default group. Default group cannot be deleted.">
+      <message>Dit is de standaard groep. De standaard groep mag niet worden verwijderd.</message>
+    </item>
+    <item id="The password supplied does not meet the minimum complexity requirement. \n Please select another password that meet all of the following  criteria: \n -is at least 5 characters; \n-not same as extension number;\n-must contains different data types (nemera">
+      <message>Het ingevoerde wachtwoord voldoet niet aan de eisen. \nVoer een nieuwe in met de volgende criteria: Minimaal 5 karakters. \nNiet geljk aan het toestelnummer. \nMoet bestaan uit zowel karakters als cijfers</message>
+    </item>
+    <item id="The maximum contact group had been registered. To add a new contact group, please delete some contact group.">
+      <message>Het maximum van contactgroepen is bereikt. Om er 1 toe te voegen moet er 1 verwijderd worden.</message>
+    </item>
+    <item id="Cannot log in. This may be cause by one of the following causes: \n -you entered an incorrect password \n -The extension number does not exist.">
+      <message>Kan niet inloggen. Dit kan gebeuren vanwege: \nEr is een verkeer wachtwoord ingevoerd. \nHet toestelnummer bestaat niet.</message>
+    </item>
+    <item id="Unable to set user profile.">
+      <message>Niet mogelijk om een gebruikersprofiel in te stellen</message>
+    </item>
+    <item id="Uable to delete the selected user profile.">
+      <message>Niet mogelijk om een geselecteerde gebruikersprofiel te verwijderen.</message>
+    </item>
+    <item id="Available Contact">
+      <message>Beschikbaar contact</message>
+    </item>
+    <item id="Available Contact (External Server Mode Only)">
+      <message>Beschikbaar contact (Alleen Externe Server mode)</message>
+    </item>
+    <item id="Secretary">
+      <message>Secretaresse</message>
+    </item>
+    <item id="Duration : ">
+      <message>Tijdsduur:</message>
+    </item>
+    <item id="Absent Message Icon List">
+      <message>Afwezigheidsboodschap Icoonlijst</message>
+    </item>
+    <item id="Do Not Disturb Icon">
+      <message>Niet storen icoon</message>
+    </item>
+    <item id="Are you sure want to delete?">
+      <message>Weet u zeker dat u het wilt verwijderen?</message>
+    </item>
+    <item id="Add">
+      <message>Toevoegen</message>
+    </item>
+    <item id="Fail to forward. Phone number is exceeded 32 digits">
+      <message>Kan niet doorschakelen. Telefoonnummer is langer dan 32 cijfers</message>
+    </item>
+    <item id="Acquiring Ldap info from server.">
+      <message>LDAP informatie van de server aan het verkrijgen</message>
+    </item>
+    <item id="Unable to get Ldap info from Server.">
+      <message>Kan geen LDAP informatie van de server verkrijgen</message>
+    </item>
+    <item id="&amp;Location:">
+      <message>&amp;Locatie:</message>
+    </item>
+    <item id="Clear Forward / Do Not Disturb">
+      <message>Wissen doorschak./Niet storen</message>
+    </item>
+    <item id="Forward VM : ">
+      <message>Doorschakelen VoiceMail:</message>
+    </item>
+    <item id="Forward Phone (Home) : ">
+      <message>Doorschakelen nummer (Thuis):</message>
+    </item>
+    <item id="Forward Phone (Mobile) : ">
+      <message>Doorschakelen nummer (Mobiel):</message>
+    </item>
+    <item id="Forward Phone (Secretary) : ">
+      <message>Doorschak. Nr. (Secretaresse):</message>
+    </item>
+    <item id="Advanced setting">
+      <message>Uitgebreide instelling</message>
+    </item>
+    <item id="Connection to the PBX is lost. Call control functions will no longer work.">
+      <message>Verbinding met de PBX is verbroken. Gesprekscontrole functie's werken niet meer.</message>
+    </item>
+    <item id="Connection to the PBX has been regained.">
+      <message>Verbinding met de PBX is hersteld</message>
+    </item>
+    <item id="&amp;Log-in">
+      <message>&amp;Log-in</message>
+    </item>
+    <item id="Log-&amp;out">
+      <message>Log-&amp;out</message>
+    </item>
+    <item id="&amp;More">
+      <message>&amp;Meer</message>
+    </item>
+    <item id="Call phone (&amp;Office): ">
+      <message>Bel telefoon (&amp;Kantoor):</message>
+    </item>
+    <item id="Call phone (&amp;Mobile): ">
+      <message>Bel telefoon (&amp;Mobiel):</message>
+    </item>
+    <item id="Call phone (Hom&amp;e): ">
+      <message>Bel telefoon (&amp;Thuis):</message>
+    </item>
+    <item id="Transfer to phone (&amp;Office): ">
+      <message>Verbind door naar telefoon (&amp;Kantoor):</message>
+    </item>
+    <item id="Transfer to phone (&amp;Mobile): ">
+      <message>Verbind door naar telefoon (&amp;Mobiel):</message>
+    </item>
+    <item id="Transfer to phone (Hom&amp;e): ">
+      <message>Verbind door naar telefoon (&amp;Thuis):</message>
+    </item>
+    <item id="Call phone (Secretar&amp;y): ">
+      <message>Bel telefoon (&amp;Secretaresse):</message>
+    </item>
+    <item id="Leave vo&amp;ice message">
+      <message>Laat een &amp;VM bericht achter</message>
+    </item>
+    <item id="Se&amp;nd E-mail : ">
+      <message>Verstuur ee&amp;n E-mail:</message>
+    </item>
+    <item id="Access &amp;Web">
+      <message>Benader het &amp;Web</message>
+    </item>
+    <item id="Start c&amp;hat">
+      <message>Start c&amp;hat</message>
+    </item>
+    <item id="Chat call &amp;back">
+      <message>Chat terug&amp;bellen</message>
+    </item>
+    <item id="Transfer to phone (Secretar&amp;y): ">
+      <message>Verbind door naar telefoon (&amp;Secretaresse):</message>
+    </item>
+    <item id="&amp;Get Latest Report">
+      <message>&amp;Laad het laatste rapport</message>
+    </item>
+    <item id="Extension &amp;Pin Clear">
+      <message>Toestel &amp;wachtwoord wissen</message>
+    </item>
+    <item id="&amp;Wake Up">
+      <message>&amp;Wake Up</message>
+    </item>
+    <item id="&amp;Absent Message ">
+      <message>&amp;Afwezigheidsbericht</message>
+    </item>
+    <item id="&amp;Extension">
+      <message>&amp;Toestel</message>
+    </item>
+    <item id="&amp;Lock">
+      <message>&amp;Slot</message>
+    </item>
+    <item id="&amp;Wake Up Call">
+      <message>&amp;Wake Up gesprek</message>
+    </item>
+    <item id="Ext &amp;Pin Clear">
+      <message>Toestel &amp;wachtwoord wissen</message>
+    </item>
+    <item id="&amp;Call this contact">
+      <message>&amp;Bel dit contact</message>
+    </item>
+    <item id="&amp;Add to contact list">
+      <message>&amp;Voeg toe aan de contactenlijst</message>
+    </item>
+    <item id="&amp;Email this contact">
+      <message>&amp;E-mail dit contact</message>
+    </item>
+    <item id="&amp;Name:">
+      <message>&amp;Naam:</message>
+    </item>
+    <item id="Please select another password with at least 5 characters, not same as \nextension number, and contains at least two of the following three character \ngroups: English uppercase (A through Z) or lowercase (a through z) characters; \nNumerals (0-9); Non-alphabetic characters (*,#).">
+      <message>Selecteer een ander wachtwoord met minimaal 5 karakters, \nniet gelijk aan het toestelnummer. Het moet bestaan \nuit minimaal 2 van de 3 volgende groepen. \nHoofdletters, kleine letters, nummers e.d. (A..Z; a..z; 0..9; *, #)</message>
+    </item>
+    <item id="Server is busy. Please try to login later.">
+      <message>Server is bezet. Probeer later in te loggen.</message>
+    </item>
+    <item id="Option">
+      <message>Optie</message>
+    </item>
+    <item id="Forward/Do Not Disturb">
+      <message>Doorschakelen/Niet Storen</message>
+    </item>
+    <item id="Cannot log in. This may be caused by one of the following causes: \n - you entered an incorrect password \n - the extension number does not exist.">
+      <message>Kan niet inloggen. Dit kan de volgende oorzaken hebben: \n - U heeft een verkeerd wachtwoord ingevoerd. \n - Het toestelnummer bestaat niet.
+</message>
+    </item>
+    <item id="Unable to load User Profile.">
+      <message>Kan het gebruikersprofiel niet laden.</message>
+    </item>
+    <item id="Language file not found, CA will use default language (English)">
+      <message>Taalbestand niet gevonden. Standaardtaal (Engels) wordt gebruikt.</message>
+    </item>
+    <item id="&amp;Add">
+      <message>&amp;Toevoegen</message>
+    </item>
+    <item id="A&amp;dd">
+      <message>Toe&amp;voegen</message>
+    </item>
+    <item id="De&amp;lete">
+      <message>Verwij&amp;deren</message>
+    </item>
+    <item id="Dele&amp;te">
+      <message>Verwijde&amp;ren</message>
+    </item>
+    <item id="&amp;Server Address:">
+      <message>&amp;Serveradres:</message>
+    </item>
+    <item id="Port &amp;Number:">
+      <message>Poort&amp;nummer:</message>
+    </item>
+    <item id="&amp;Account Name:">
+      <message>&amp;Accountnaam:</message>
+    </item>
+    <item id="&amp;Password:">
+      <message>&amp;Wachtwoord:</message>
+    </item>
+    <item id="Advanced Setting">
+      <message>Geavanc.instellingen</message>
+    </item>
+    <item id="Server is busy, Please try later.">
+      <message>Server bezet. Probeer het later opnieuw.</message>
+    </item>
+    <item id="The image file is not valid, CA is unable to load the image file.">
+      <message>Het afbeeldingsbestand is ongeldig. CA kan het afbeeldingsbestand niet laden.</message>
+    </item>
+    <item id="Dutch">
+      <message>Nederlands</message>
+    </item>
+    <item id="Polish">
+      <message>Polski</message>
+    </item>
+    <item id="Croatian ">
+      <message>Hrvatski</message>
+    </item>
+    <item id="Hungarian ">
+      <message>Magyar</message>
+    </item>
+    <item id="Czech ">
+      <message>Česky</message>
+    </item>
+    <item id="PBX Connection Lost …">
+      <message>Verbinding met PBX verbroken…</message>
+    </item>
+    <item id="Log-in to the group">
+      <message>Bij groep inloggen</message>
+    </item>
+    <item id="Log-out from the group">
+      <message>Van groep uitloggen</message>
+    </item>
+    <item id="Se&amp;nd E-mail: ">
+      <message>Ver&amp;stuur E-mail</message>
+    </item>
+    <item id="Start C&amp;hat">
+      <message>Start de C&amp;hat</message>
+    </item>
+    <item id="Save">
+      <message>Opslaan</message>
+    </item>
+    <item id="&amp;Extension Setting">
+      <message>&amp;Toestel instelling</message>
+    </item>
+    <item id="Phone (Secretary):">
+      <message>Tel. (Secretaresse):</message>
+    </item>
+    <item id="Cannot login PBX mode in Thin Client environment.">
+      <message>Kan niet inloggen in PBX-modus in clientomgeving.</message>
+    </item>
+    <item id="Local Alarm Message:">
+      <message>Lokale alarmmelding:</message>
+    </item>
+    <item id="&amp;Speed Dial">
+      <message>&amp;Verkort Kiezen</message>
+    </item>
+    <item id="Call phone (Secretary): ">
+      <message>Bel telefoon (Secretaresse):</message>
+    </item>
+    <item id="&amp;Ok">
+      <message>&amp;OK</message>
+    </item>
+    <item id="Total Incoming Call">
+      <message>Tot. binnenk. gesp.</message>
+    </item>
+    <item id="Overflow Call">
+      <message>Doorgesch. gesp.</message>
+    </item>
+    <item id="Average Waiting Time">
+      <message>Gem. wachttijd</message>
+    </item>
+    <item id="This Console feature is beta version.">
+      <message>Deze consolefunctie is een bètaversie.</message>
+    </item>
+    <item id="Communication Assistant failed to log in.\nPlease try to log in again.">
+      <message>Communication Assistant kan niet inloggen.\nProbeer opnieuw in te loggen.</message>
+    </item>
+    <item id="&amp;View this contact">
+      <message>&amp;Contactpersoon weergeven</message>
+    </item>
+    <item id="Open Doo&amp;r">
+      <message>Deu&amp;r open</message>
+    </item>
+    <item id="Open Door">
+      <message>Deur open</message>
+    </item>
+    <item id="Call D&amp;oorphone">
+      <message>Deurinterc&amp;om</message>
+    </item>
+    <item id="Call Doorphone">
+      <message>Deurintercom</message>
+    </item>
+    <item id="Search / Dial">
+      <message>Zoeken/bellen</message>
+    </item>
+    <item id="Combine Search and Dial">
+      <message>Combineer zoeken en bellen </message>
+    </item>
+    <item id="Call Control Display Mode">
+      <message>Weergave oproepbeheer</message>
+    </item>
+    <item id="Extension Setting Authentication Setting">
+      <message>Verificatie toestelinstellingen</message>
+    </item>
+    <item id="Settings below are needed to get information from PBX">
+      <message>Deze instellingen zijn nodig voor info van PBX</message>
+    </item>
+    <item id="Maintenance Port Number">
+      <message>Onderhoudspoortnummer</message>
+    </item>
+    <item id="Absent message is assigned automatically when PC is not used pre programmed time.">
+      <message>Afwezigheidsbericht wordt automatisch geconfigureerd wanneer de pc een bepaalde tijd niet gebruikt wordt</message>
+    </item>
+    <item id="Unable to establish chat with own extension number.">
+      <message>Kan niet chatten met eigen toestelnummer.</message>
+    </item>
+    <item id="Contact list successfully exported.">
+      <message>Contactlijst succesvol geëxporteerd.</message>
+    </item>
+    <item id="Contact list unable to export. An error occur during the exportation">
+      <message>Kan lijst contactpersonen niet exporteren. Er is een fout opgetreden tijdenshet exporteren.</message>
+    </item>
+    <item id="Use Extension Setting feature">
+      <message>Gebruik toestel instellen functie</message>
+    </item>
+    <item id="\&quot;Extension Setting\&quot; menu is not available temporarily because PBX information is not retrieved.\nPlease ask your PBX administrator.">
+      <message>Het menu toestel instellen is tijdelijk niet beschikbaar, doordat geen PBX-gegevens zijn opgevraagd.\nInformeer bij PBX-beheerder.</message>
+    </item>
+    <item id="Automatic unscreened transfer">
+      <message>Automatisch doorschakelen zonder tussenkomst</message>
+    </item>
+    <item id="Automatic Unscreened Transfer for Operator Console">
+      <message>Automatisch doorschakelen voor Operator Console</message>
+    </item>
+    <item id="Standard user (CA Basic-Express)">
+      <message>Standaard (CA Basic-Express)</message>
+    </item>
+    <item id="You can log-in to Basic-Express mode for now">
+      <message>U kunt nu inloggen in Basic-Express mode</message>
+    </item>
+    <item id="Limitations for Basic-Express mode:">
+      <message>Beperkingen voor Basic-Express mode:</message>
+    </item>
+    <item id="Sound">
+      <message>Geluid</message>
+    </item>
+    <item id="Mute">
+      <message>Dempen</message>
+    </item>
+    <item id="Move to Dial Box">
+      <message>Verplaatsen naar kiesvak</message>
+    </item>
+    <item id="Answer">
+      <message>Beantwoorden</message>
+    </item>
+    <item id="Redirect">
+      <message>Doorsturen</message>
+    </item>
+    <item id="Write Memo">
+      <message>Memo schrijven</message>
+    </item>
+    <item id="Set Call Back">
+      <message>Instellen terugbellen</message>
+    </item>
+    <item id="Call waiting tone">
+      <message>Gesprek wachttoon</message>
+    </item>
+    <item id="Listen in">
+      <message>Meeluisteren</message>
+    </item>
+    <item id="Override(Conference)">
+      <message>Inbreken (Conferentie)</message>
+    </item>
+    <item id="Take Over">
+      <message>Overnemen</message>
+    </item>
+    <item id="Start Chat">
+      <message>Start de Chat</message>
+    </item>
+    <item id="Move Call focus(up)">
+      <message>Belfocus verplaatsen (omhoog)</message>
+    </item>
+    <item id="Move Call focus(down)">
+      <message>Belfocus verplaatsen (omlaag)</message>
+    </item>
+    <item id="Group Conference">
+      <message>Groepsconferentie</message>
+    </item>
+    <item id="Total length of Email-to-SMS address(es) exceeded the maximum limit.\n\nYour Email-to-SMS address(es) may be truncated.">
+      <message>De totale lengte van e-mail-naar-SMS-adres(sen) heeft de maximumlimiet overschreden.\n\nUw e-mail-naar-SMS-adres(sen) worden mogelijk afgekapt.</message>
+    </item>
+    <item id="Office">
+      <message>Kantoor</message>
+    </item>
+    <item id="PBX Code">
+      <message>PBX-code</message>
+    </item>
+    <item id="Mobile">
+      <message>Mobiel</message>
+    </item>
+    <item id="Home">
+      <message>Thuis</message>
+    </item>
+    <item id="Secretary">
+      <message>Secretaresse</message>
+    </item>
+    <item id="&amp;Office">
+      <message>&amp;Kantoor</message>
+    </item>
+    <item id="&amp;PBX Code">
+      <message>&amp;PBX-code</message>
+    </item>
+    <item id="Mo&amp;bile">
+      <message>Mo&amp;biel</message>
+    </item>
+    <item id="&amp;Home">
+      <message>&amp;Thuis</message>
+    </item>
+    <item id="&amp;Secretary">
+      <message>&amp;Secretaresse</message>
+    </item>
+    <item id="&amp;E-mail">
+      <message>&amp;E-mail</message>
+    </item>
+    <item id="S&amp;MS">
+      <message>S&amp;MS</message>
+    </item>
+    <item id="CRM Integration">
+      <message>CRM-integratie</message>
+    </item>
+    <item id="Add Member To Co&amp;nference">
+      <message>Deelnemer toevoegen aan co&amp;nferentie</message>
+    </item>
+    <item id="Conference Group">
+      <message>Conferentiegroep</message>
+    </item>
+    <item id="Conference Room">
+      <message>Conferentiezaal</message>
+    </item>
+    <item id="ID">
+      <message>ID</message>
+    </item>
+    <item id="Conference Setting">
+      <message>Conferentie-instelling</message>
+    </item>
+    <item id="Name:">
+      <message>Naam:</message>
+    </item>
+    <item id="PIN:">
+      <message>PIN:</message>
+    </item>
+    <item id="Number:">
+      <message>Nummer:</message>
+    </item>
+    <item id="Add New Member">
+      <message>Nieuwe deelnemer toevoegen</message>
+    </item>
+    <item id="Number already exist">
+      <message>Deelnemer bestaat al.</message>
+    </item>
+    <item id="&amp;End Conference">
+      <message>&amp;Conferentie beëindigen</message>
+    </item>
+    <item id="You are invited to this conference. Do you want to accept?">
+      <message>U bent uitgenodigd voor deze conferentie. Wilt u accepteren?</message>
+    </item>
+    <item id="Invitation">
+      <message>Uitnodiging</message>
+    </item>
+    <item id="Join">
+      <message>Deelnemen</message>
+    </item>
+    <item id="Start">
+      <message>Starten</message>
+    </item>
+    <item id="Disconnect">
+      <message>Verbreek</message>
+    </item>
+    <item id="32 (Default: one-way)">
+      <message>32 (standaard: eenrichtings)</message>
+    </item>
+    <item id="8 (Default: two-way)">
+      <message>8 (standaard: tweerichtings)</message>
+    </item>
+    <item id="I would like to join this conference.\nCould you please add me into this conference?">
+      <message>Ik wil graag deelnemen aan deze conferentie.\nKunt u me toevoegen aan deze conferentie?</message>
+    </item>
+    <item id="Empty Slot - Add Party">
+      <message>Lege plek - Partij toevoegen</message>
+    </item>
+    <item id="Empty Slot">
+      <message>Lege plek</message>
+    </item>
+    <item id="Invite">
+      <message>Uitnodigen</message>
+    </item>
+    <item id="Yes">
+      <message>Ja</message>
+    </item>
+    <item id="No">
+      <message>Nee</message>
+    </item>
+    <item id="Server is busy. Please try again later.">
+      <message>Server bezet. Probeer het later opnieuw.</message>
+    </item>
+    <item id="Conference members exceed the limit.">
+      <message>Conferentiedeelnemers overschrijden de limiet.</message>
+    </item>
+    <item id="Please wait...">
+      <message>Een ogenblik …</message>
+    </item>
+    <item id="Conference room is not available.">
+      <message>Conferentiezaal is niet beschikbaar.</message>
+    </item>
+    <item id="No member in conference room.">
+      <message>Geen deelnemers in de conferentiezaal.</message>
+    </item>
+    <item id="Invalid group number.">
+      <message>Ongeldig groepsnummer.</message>
+    </item>
+    <item id="Network is busy.">
+      <message>Netwerk is bezet.</message>
+    </item>
+    <item id="Failed to start conference.">
+      <message>De conferentie kan niet worden gestart.</message>
+    </item>
+    <item id="Do you want to remove this user from the conference?">
+      <message>Wilt u deze deelnemer verwijderen uit de conferentie?</message>
+    </item>
+    <item id="Do you want to disconnect this member from the conference?">
+      <message>Wilt u de verbinding van deze gebruiker verbreken voor de conferentie?</message>
+    </item>
+    <item id="Conference details already deleted.">
+      <message>Conferentiedetails zijn al verwijderd.</message>
+    </item>
+    <item id="The current members will be removed and replaced by new data. Do you want to continue?">
+      <message>De huidige deelnemers worden verwijderd en vervangen door nieuwe gegevens. Wilt u doorgaan?</message>
+    </item>
+    <item id="Exceed maximum no. of group.">
+      <message>Maximumaantal van groep is overschreden.</message>
+    </item>
+    <item id="Do you want to end the conference?">
+      <message>Wilt u de conferentie beëindigen?</message>
+    </item>
+    <item id="Own extension is not allowed.">
+      <message>Eigen extensie is niet toegestaan.</message>
+    </item>
+    <item id="The initiator is not CA user. Join cannot be done. Please dial the number which the conference initiator informed to you to join this conference.">
+      <message>De conferentiestarter is geen CA-gebruiker. Samenvoegen niet mogelijk. Kies om aan deze conferentie deel te nemen het nummer dat u van de persoon hebt gekregen die de conferentie is begonnen.</message>
+    </item>
+    <item id="Sorry, you are not able to join this conference.">
+      <message>U kunt helaas niet deelnemen aan deze conferentie.</message>
+    </item>
+    <item id="Are you sure you want to delete?">
+      <message>Weet u zeker dat u wilt verwijderen?</message>
+    </item>
+    <item id="Name already exist.">
+      <message>De naam bestaat al.</message>
+    </item>
+    <item id="Do you want to save conference member?">
+      <message>Wilt u de conferentiedeelnemer opslaan?</message>
+    </item>
+    <item id="Some of the items could not be added due to the reasons below:\n\n* Invalid contact type.\n* Duplicated phone number.\n* Own number is added.\n* Exceed the maximum member limit.\n* No phone number found.">
+      <message>Sommige items kunnen niet worden toegevoegd vanwege onderstaande redenen:\n\n* Ongeldig contacttype.\n* Dubbel telefoonnummer.\n* Eigen nummer toegevoegd.\n* De maximale deelnemerslimiet is overschreden.\n* Geen telefoonnummer gevonden.</message>
+    </item>
+    <item id="Normal">
+      <message>Normaal</message>
+    </item>
+    <item id="Mute">
+      <message>Dempen</message>
+    </item>
+    <item id="Send E-mail 1">
+      <message>E-mail 1 versturen</message>
+    </item>
+    <item id="Send E-mail 1:">
+      <message>E-mail 1 versturen:</message>
+    </item>
+    <item id="Send &amp;E-mail 1:">
+      <message>&amp;E-mail 1 versturen:</message>
+    </item>
+    <item id="Send E-mail 2:">
+      <message>E-mail 2 versturen:</message>
+    </item>
+    <item id="Se&amp;nd E-mail 2:">
+      <message>E-&amp;mail 2 versturen:</message>
+    </item>
+    <item id="E-mail 1:">
+      <message>E-mail 1:</message>
+    </item>
+    <item id="E-mail 1">
+      <message>E-mail 1</message>
+    </item>
+    <item id="&amp;E-mail 1">
+      <message>&amp;E-mail 1</message>
+    </item>
+    <item id="E-&amp;mail 2">
+      <message>E-&amp;mail 2</message>
+    </item>
+    <item id="E-mail 2:">
+      <message>E-mail 2:</message>
+    </item>
+    <item id="E-mail 2">
+      <message>E-mail 2</message>
+    </item>
+    <item id="Search All">
+      <message>Alles zoeken</message>
+    </item>
+    <item id="Search">
+      <message>Zoek</message>
+    </item>
+    <item id="Call">
+      <message>Kiezen</message>
+    </item>
+    <item id="E-mail">
+      <message>E-mail</message>
+    </item>
+    <item id="Contact List">
+      <message>Contactenlijst</message>
+    </item>
+    <item id="Search CA contacts">
+      <message>Zoeken van CA-contacten</message>
+    </item>
+    <item id="Search LDAP contacts from following LDAP server">
+      <message>LDAP-contacten zoeken binnen de volgende LDAP-server</message>
+    </item>
+    <item id="&amp;Call this contact">
+      <message>&amp;Bel dit contact</message>
+    </item>
+    <item id="&amp;Email this contact">
+      <message>&amp;E-mail dit contact</message>
+    </item>
+    <item id="&amp;Add to contact list">
+      <message>&amp;Voeg toe aan de contactenlijst</message>
+    </item>
+    <item id="Location">
+      <message>Locatie</message>
+    </item>
+    <item id="&amp;Location">
+      <message>&amp;Locatie</message>
+    </item>
+    <item id="No result found.">
+      <message>Geen resultaten gevonden.</message>
+    </item>
+    <item id="No contact available to export.">
+      <message>Geen contact beschikbaar om te exporteren.</message>
+    </item>
+    <item id="Changes on the Network Server setting will reflect only in the next login.">
+      <message>Wijzigingen in de instelling voor netwerkserver worden pas van kracht nadat de volgende keer wordt aangemeld.</message>
+    </item>
+    <item id="All the my list contacts belong to this group will be deleted. \nAre you sure you want to remove this record?">
+      <message>Alle contacten op de persoonlijke lijst die tot deze groep behoren, worden verwijderd. \nWeet u zeker dat u dit record wilt verwijderen?</message>
+    </item>
+    <item id="The maximum my list had been registered.To add a new my list,please delete some my list.">
+      <message>Het maximumaantal persoonlijke lijsten is geregistreerd. Indien u nieuwe persoonlijke lijsten wilt toevoegen, moet u enkele huidige lijsten verwijderen.</message>
+    </item>
+    <item id="Location:">
+      <message>Locatie:</message>
+    </item>
+    <item id="Amount of contacts that you attempt to add is over the limit. To make new contacts, please delete some contacts in the contact list.">
+      <message>Aantal contacten dat u wilt toevoegen, overschrijdt de limiet. Indien u nieuwe contacten wilt maken, moet u enkele contacten in de contactenlijst verwijderen.</message>
+    </item>
+    <item id="Please specify a value between 1 and 65535.">
+      <message>Voer een getal in tussen 1 en 65535.</message>
+    </item>
+    <item id="No port number has been entered. Please enter a valid port number.">
+      <message>Geen poortnummer ingevoerd. Voer een geldig poortnummer in.</message>
+    </item>
+    <item id="PBX Name">
+      <message>PBX-naam</message>
+    </item>
+    <item id="Add to My List">
+      <message>Toevoegen aan persoonlijke lijst</message>
+    </item>
+    <item id="Network Server">
+      <message>Netwerkserver</message>
+    </item>
+    <item id="Network Server Information">
+      <message>Netwerkservergegevens</message>
+    </item>
+    <item id="Current Status">
+      <message>Huidige status</message>
+    </item>
+    <item id="S&amp;earch All">
+      <message>Alles &amp;zoeken</message>
+    </item>
+    <item id="Items">
+      <message>Items</message>
+    </item>
+    <item id="My List">
+      <message>Persoonlijke lijst</message>
+    </item>
+    <item id="S&amp;earch All">
+      <message>Alles &amp;zoeken</message>
+    </item>
+    <item id="MPR version is not supported.">
+      <message>MPR-versie is niet ondersteund.</message>
+    </item>
+    <item id="Operation failed.">
+      <message>Bewerking mislukt.</message>
+    </item>
+    <item id="Pickup">
+      <message>Opnemen</message>
+    </item>
+    <item id="C&amp;onference">
+      <message>C&amp;onferentie</message>
+    </item>
+    <item id="CRM Integration">
+      <message>CRM-integratie</message>
+    </item>
+    <item id="Enable CRM Integration">
+      <message>CRM-integratie inschakelen</message>
+    </item>
+    <item id="Select format:">
+      <message>Indeling selecteren:</message>
+    </item>
+    <item id="Select folder:">
+      <message>Map selecteren:</message>
+    </item>
+    <item id="Browse...">
+      <message>Bladeren…</message>
+    </item>
+    <item id="The output file path is empty. Please try again!">
+      <message>Het pad voor het uitvoerbestand is leeg. Probeer het nogmaals.</message>
+    </item>
+    <item id="Invalid output file path. Please try again!">
+      <message>Ongeldig pad voor uitvoerbestand. Probeer het nogmaals.</message>
+    </item>
+    <item id="The output file path is not accessible. Please try again!">
+      <message>Het pad voor het uitvoerbestand is niet toegankelijk. Probeer het nogmaals.</message>
+    </item>
+    <item id="The CRM Integration output file path set in Option is not accessible. \nThe CRM Integration might not work correctly.">
+      <message>Het pad voor het uitvoerbestand voor CRM-integratie dat bij Optie is ingesteld, is niet toegankelijk. \nDe CRM-integratie werkt mogelijk niet correct.</message>
+    </item>
+    <item id="&amp;Edit Conference Setting">
+      <message>&amp;Conferentie-instelling bewerken</message>
+    </item>
+    <item id="&amp;Copy contact list from">
+      <message>&amp;Contactenlijst kopiëren van</message>
+    </item>
+    <item id="&amp;Save contact list to">
+      <message>&amp;Contactenlijst toevoegen aan</message>
+    </item>
+    <item id="CSV file">
+      <message>CSV-bestand</message>
+    </item>
+    <item id="XML file">
+      <message>XML-bestand</message>
+    </item>
+    <item id="The result grid view encountered error. Please try again!">
+      <message>Er is een fout opgetreden in de rasterweergave met resultaten. Probeer het nogmaals.</message>
+    </item>
+    <item id="There are data changes without save.\nDo you want to close?">
+      <message>De gegevenswijzigingen zijn niet opgeslagen.\nWeet u zeker dat u wilt afsluiten?</message>
+    </item>
+    <item id="row">
+      <message>rij</message>
+    </item>
+    <item id="column">
+      <message>kolom</message>
+    </item>
+    <item id="Input validation error">
+      <message>Invoervalidatiefout</message>
+    </item>
+    <item id="Maximum input length reached">
+      <message>Maximale invoerlengte bereikt</message>
+    </item>
+    <item id="The selected items contain contact(s) displayed with [ ], the contact(s) will not be removed.">
+      <message>De geselecteerde items bevatten contact(en) die worden weergegeven met [ ]; de contact(en) worden niet verwijderd.</message>
+    </item>
+    <item id="Searching for contacts...">
+      <message>Zoeken naar contacten…</message>
+    </item>
+    <item id="Error while searching for LDAP result.">
+      <message>Foutmelding bij het zoeken naar LDAP-resultaat.</message>
+    </item>
+    <item id="&amp;Extension Lock/Unlock">
+      <message>&amp;Toestel slot/vrijgeven</message>
+    </item>
+    <item id="Number of LDAP search result exceeds the limit. Only first 100 result entries displayed.">
+      <message>Aantal LDAP-zoekresultaten meer dan de limiet. Alleen de eerste 100 worden weergegeven.</message>
+    </item>
+    <item id="Connection to LDAP Server failed.">
+      <message>Verbinding met de LDAP-server mislukt.</message>
+    </item>
+    <item id="This character cannot be assigned. (For Operator Console only)">
+      <message>Dit teken is niet toewijsbaar. (Alleen voor Operator Console)</message>
+    </item>
+    <item id="Personal contact data will not be assured if you connect to different Server/PBX from previous login.\nPlease check the data again.">
+      <message>Persoonlijke contactgegevens niet gegarandeerd als u verbinding maakt met een andere server/PBX met een eerdere login.\nControleer de gegevens opnieuw.</message>
+    </item>
+    <item id="Add to">
+      <message>Toevoegen aan</message>
+    </item>
+    <item id="Conference Group Setting">
+      <message>Instellen Conferentiegroep</message>
+    </item>
+    <item id="Save Group">
+      <message>Groep opslaan</message>
+    </item>
+    <item id="Delete Group">
+      <message>Groep verwijderen</message>
+    </item>
+    <item id="Delete Member">
+      <message>Deelnemer verwijderen</message>
+    </item>
+    <item id="Enable (without new contact window popup)">
+      <message>Inschakelen (zonder venster voor nieuw contact)</message>
+    </item>
+    <item id="Enable (with new contact window popup)">
+      <message>Inschakelen (met venster voor nieuw contact)</message>
+    </item>
+    <item id="Redirect the incoming call">
+      <message>Inkomend gesprek doorsturen</message>
+    </item>
+    <item id="Remove the first \&quot;1\&quot; when caller ID is 11 digits">
+      <message>Eerste \"1\" verwijderen wanneer ID van beller uit 11 cijfers bestaat</message>
+    </item>
+    <item id="Disconnected">
+      <message>Verbroken</message>
+    </item>
+    <item id="Network Connected">
+      <message>Aangesloten</message>
+    </item>
+    <item id="Delete these contacts">
+      <message>Verwijder deze contacten</message>
+    </item>
+    <item id="Port">
+      <message>Poort</message>
+    </item>
+    <item id="Automatic contact name update for Hotel">
+      <message>Automatische contactnaam update voor hotelfunctie</message>
+    </item>
+    <item id="Note">
+      <message>Notitie</message>
+    </item>
+    <item id="The operation will delete selected contacts">
+      <message>Deze handeling verwijdert de geselecteerde contacten</message>
+    </item>
+    <item id="Network Note">
+      <message>U dient de Communication Assistant opnieuw op te starten om de nieuwe instellingen te kunnen gebruiken.</message>
+    </item>
+    <item id="Allow Join">
+      <message>Sta deelname toe</message>
+    </item>
+    <item id="UM Personal Greeting Number">
+      <message>UM Persoonlijk begroetingsnummer</message>
+    </item>
+    <item id="Change">
+      <message>Wijziging</message>
+    </item>
+    <item id="None">
+      <message>Geen</message>
+    </item>
+    <item id="Schedule Keyword">
+      <message>Agenda Zoekwoord</message>
+    </item>
+    <item id="Function List Name">
+      <message>Functielijst naam</message>
+    </item>
+    <item id="Keyword Mapping Setting">
+      <message>Zoekwoord instelling</message>
+    </item>
+    <item id="Call Control Window pop-up for CA">
+      <message>Gesprekscontrole pop-up voor CA</message>
+    </item>
+    <item id="TVA/TVM">
+      <message>TVM/TVA</message>
+    </item>
+    <item id="UM">
+      <message>UM</message>
+    </item>
+    <item id="IP Address">
+      <message>IP Adres</message>
+    </item>
+    <item id="Mailbox">
+      <message>Postbus</message>
+    </item>
+    <item id="WebMC URL">
+      <message>WebMC URL</message>
+    </item>
+    <item id="Automatically close playback window by Timer">
+      <message>Sluit afspeelscherm automatisch via timer</message>
+    </item>
+    <item id="seconds">
+      <message>seconden</message>
+    </item>
+    <item id="Limitless">
+      <message>Ongelimiteerd</message>
+    </item>
+    <item id="Please enter valid presence tile width value from 150 to 1500.">
+      <message>Voer een correct Presence waarde in tussen 150 en 1500</message>
+    </item>
+    <item id="Maximum 40 schedule keywords are registered. \nPlease delete existing schedule keyword to add a new schedule keyword.">
+      <message>Maximaal 40 zoekwoorden zijn geregistreerd. \nVerwijder een bestaand zoekwoord om een nieuw zoekwoord toe te kunnen voegen</message>
+    </item>
+    <item id="Third Party CRM Integration">
+      <message>CRM Integratie van derden</message>
+    </item>
+    <item id="MS Exchange Integration">
+      <message>MS Exchange integratie</message>
+    </item>
+    <item id="Enable Exchange Schedule Integration">
+      <message>Activeer Exchange Scheduler integratie</message>
+    </item>
+    <item id="Exchange User Account">
+      <message>Exchange User Account (abc@xyz)</message>
+    </item>
+    <item id="Outlook Integration">
+      <message>Outlook integratie</message>
+    </item>
+    <item id="Presence Tile Width">
+      <message>Breedte Presence scherm</message>
+    </item>
+    <item id="Enable Call Information File">
+      <message>Activeer Gespreksinformatie bestand</message>
+    </item>
+    <item id="Call Information File">
+      <message>Gespreksinformatie bestand</message>
+    </item>
+    <item id="The exchange user account has exceeded the maximum byte length.">
+      <message>De exchange user account is over de maximale lengte (byte) gegaan</message>
+    </item>
+    <item id="Failed to connect to iLink middleware. \nPlease check the iLink middleware and CRM connection. \nRelogin CA to connect to iLink middleware.">
+      <message>Het is niet gelukt om iLink te integreren. \nControleer aub de iLink software en de CRM connectie. \nLog opnieuw in bij CA om opnieuw te proberen</message>
+    </item>
+    <item id="Connection to iLink middleware is lost. \nThird Party CRM Integration will no longer work.">
+      <message>Verbinding met iLink is verbroken. \nCRM Integratie met derden zal niet langer functioneren</message>
+    </item>
+    <item id="ACD Report">
+      <message>ACD Report</message>
+    </item>
+    <item id="&amp;Call from Clipboard">
+      <message>&amp;Gesprek van klembord</message>
+    </item>
+    <item id="Call from Clipboard">
+      <message>Gesprek van klembord</message>
+    </item>
+    <item id="Phone  Number">
+      <message>Telefoonnummer</message>
+    </item>
+    <item id="Phone Number:">
+      <message>Telefoonnummer :</message>
+    </item>
+    <item id="Phone(Office) : ">
+      <message>Tel. (Kantoor) :</message>
+    </item>
+    <item id="Phone(Mobile) : ">
+      <message>Tel. (GSM) :</message>
+    </item>
+    <item id="Phone(Home) : ">
+      <message>Tel. (Privé) :</message>
+    </item>
+    <item id="Custom Phone Number ">
+      <message>Custom Telefoonnummer </message>
+    </item>
+    <item id="Custom Phone Number">
+      <message>Custom Telefoonnummer </message>
+    </item>
+    <item id="At Extension ...">
+      <message>Bij Ext ...</message>
+    </item>
+    <item id="Back at ...">
+      <message>Terug op ...</message>
+    </item>
+    <item id="Out until ...">
+      <message>Buiten tot ...</message>
+    </item>
+    <item id="User Custom">
+      <message>gebruikers Custom</message>
+    </item>
+    <item id="Cannot login. Cause is one of followings.\n- Extension number is incorrect.\n- Password is incorrect or expired.\n- CA operator console is not selected.\n- CA is disabled for this extension.\n- Login capacity is exceeded.\n- Required AK is not installed in PBX.">
+      <message>U kunt niet aanmelden. De oorzaak is mogelijks één van de volgende.\n   - Het extensienummer is niet juist.\n   - Het wachtwoord is niet juist of verlopen.\n   - De CA functie is ongeldig voor deze extensie.\n   - De aanmeldcapaciteit is overschreden.\n   - De vereiste AK is niet geïnstalleerd op de PBX. </message>
+    </item>
+    <item id="White">
+      <message>Wit</message>
+    </item>
+    <item id="Black">
+      <message>Zwart</message>
+    </item>
+    <item id="ICD">
+      <message>ICD</message>
+    </item>
+    <item id="\&quot;Conference Setting\&quot; menu is not available temporarily.\nPlease ask your PBX administrator.">
+      <message>Conferentie-instelling menu is tijdelijk niet beschikbaar.\nInformeer bij PBX-beheerder.</message>
+    </item>
+    <item id="Minimise">
+      <message>Minimalise</message>
+    </item>
+    <item id="Maximise">
+      <message>Maximaliseren</message>
+    </item>
+    <item id="Restore">
+      <message>Herstellen</message>
+    </item>
+    <item id="Close">
+      <message>Sluiten</message>
+    </item>
+  </category>
+</language>

@@ -1,0 +1,3358 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <descriptor>
+    <name>Italian</name>
+    <description>Italian</description>
+    <doc_ver>1.0.0</doc_ver>
+    <schema_ver>1.0.0</schema_ver>
+  </descriptor>
+  <category id="CIPTextBox">
+    <item id="IP">
+      <message>IP</message>
+    </item>
+    <item id="Please specify a value between 1 and 223">
+      <message>Specificare un valore compreso tra 1 e 223</message>
+    </item>
+    <item id="Please specify a value between 0 and 255">
+      <message>Specificare un valore compreso tra 0 e 255</message>
+    </item>
+  </category>
+  <category id="CMainForm">
+    <item id="Communication Assistant">
+      <message>Communication Assistant</message>
+    </item>
+  </category>
+  <category id="MailerInterface">
+    <item id="Failed to start Mail Client. Please try again.">
+      <message>Impossibile avviare il programma Email. Riprovare.</message>
+    </item>
+  </category>
+  <category id="CMessageBox">
+    <item id="Communication Assistant">
+      <message>Communication Assistant</message>
+    </item>
+    <item id="&amp;Ok">
+      <message>&amp;OK</message>
+    </item>
+    <item id="&amp;Cancel">
+      <message>&amp;Cancella</message>
+    </item>
+    <item id="&amp;Yes">
+      <message>&amp;Sì</message>
+    </item>
+    <item id="&amp;No">
+      <message>&amp;No</message>
+    </item>
+  </category>
+  <category id="CConstant">
+    <item id="Paging in progress">
+      <message>Chiamata Cercap</message>
+    </item>
+    <item id="Paging busy">
+      <message>Cercap Occupato</message>
+    </item>
+    <item id="Please make a call with the main window.">
+      <message>Chiamare con la finestra principale.</message>
+    </item>
+    <item id="Do not show this again.">
+      <message>Non mostrare in futuro.</message>
+    </item>
+    <item id="Available">
+      <message>Disponibile</message>
+    </item>
+    <item id="Urgent Only">
+      <message>Solo Urgenze</message>
+    </item>
+    <item id="Will Return Soon">
+      <message>Torno Subito</message>
+    </item>
+    <item id="In a meeting">
+      <message>In Riunione</message>
+    </item>
+    <item id="Not At My Desk">
+      <message>Assente</message>
+    </item>
+    <item id="Gone Home">
+      <message>A Casa</message>
+    </item>
+    <item id="Do you want to close CA?">
+      <message>Chiudere il programma?</message>
+    </item>
+    <item id="Communication Assistant">
+      <message>Communication Assistant</message>
+    </item>
+    <item id="&amp;OK">
+      <message>&amp;OK</message>
+    </item>
+    <item id="&amp;Cancel">
+      <message>&amp;Cancella</message>
+    </item>
+    <item id="&amp;Yes">
+      <message>&amp;Sì</message>
+    </item>
+    <item id="&amp;No">
+      <message>&amp;No</message>
+    </item>
+    <item id="&amp;Delete">
+      <message>&amp;Elimina</message>
+    </item>
+    <item id="&amp;Close">
+      <message>&amp;Chiudi</message>
+    </item>
+    <item id="General">
+      <message>Generale</message>
+    </item>
+    <item id="Contact">
+      <message>Contatto</message>
+    </item>
+    <item id="Company">
+      <message>Società</message>
+    </item>
+    <item id="Popup">
+      <message>Popup</message>
+    </item>
+    <item id="Contact Name:">
+      <message>Nome contatto:</message>
+    </item>
+    <item id="E-mail:">
+      <message>E-mail:</message>
+    </item>
+    <item id="Phone (Office):">
+      <message>Telefono (Ufficio):</message>
+    </item>
+    <item id="Phone (Mobile):">
+      <message>Telefono (Cellulare):</message>
+    </item>
+    <item id="Phone (Home):">
+      <message>Telefono (Abitazione):</message>
+    </item>
+    <item id="Company Name:">
+      <message>Società:</message>
+    </item>
+    <item id="Department:">
+      <message>Dipartimento:</message>
+    </item>
+    <item id="Section:">
+      <message>Sezione:</message>
+    </item>
+    <item id="Address:">
+      <message>Indirizzo:</message>
+    </item>
+    <item id="Postal Code:">
+      <message>C.A.P.:</message>
+    </item>
+    <item id="Fax:">
+      <message>Fax:</message>
+    </item>
+    <item id="1st URL:">
+      <message>1° URL:</message>
+    </item>
+    <item id="2nd URL:">
+      <message>2° URL:</message>
+    </item>
+    <item id="3rd URL:">
+      <message>3° URL:</message>
+    </item>
+    <item id="Memo:">
+      <message>Memo:</message>
+    </item>
+    <item id="Profile">
+      <message>Profilo</message>
+    </item>
+    <item id="Last Name:">
+      <message>Cognome:</message>
+    </item>
+    <item id="First Name:">
+      <message>Nome:</message>
+    </item>
+    <item id="Type:">
+      <message>Tipo:</message>
+    </item>
+    <item id="Phone">
+      <message>Telefono</message>
+    </item>
+    <item id="Door">
+      <message>Apriporta</message>
+    </item>
+    <item id="Sensor">
+      <message>Sensore</message>
+    </item>
+    <item id="Door:">
+      <message>Apriporta:</message>
+    </item>
+    <item id="Sensor:">
+      <message>Sensore:</message>
+    </item>
+    <item id="Image File">
+      <message>File immagine</message>
+    </item>
+    <item id="Ring File">
+      <message>File Audio</message>
+    </item>
+    <item id="URL">
+      <message>URL</message>
+    </item>
+    <item id="1st URL for Network Camera \n(Automatic pop-up for call/Automatic close after call)">
+      <message>1° URL per IP Camera \n(Pop-up automatico su chiamata e chiusura automatica)</message>
+    </item>
+    <item id="2nd URL for Database \n(Automatic pop-up for phone call)">
+      <message>2° URL per il database \n(Pop-up automatico su chiamata telefonica)</message>
+    </item>
+    <item id="3rd URL for Database (Access from main menu)">
+      <message>3° URL per il database (accesso dal menu principale)</message>
+    </item>
+    <item id="Browse">
+      <message>Sfoglia</message>
+    </item>
+    <item id="Image file not found">
+      <message>File immagine non trovato</message>
+    </item>
+    <item id="Please enter the Contact Name">
+      <message>Inserire nome del contatto</message>
+    </item>
+    <item id="Contact Name too long. \n Please enter a shorter name.">
+      <message>Nome contatto troppo lungo. \n Inserire un nome più corto.</message>
+    </item>
+    <item id="Contact Name not valid.\nMake sure the contact name does not contain any Chinese and Japanese characters.">
+      <message>Nome contatto non valido.\nAssicurarsi che il nome non contenga caratteri cinesi e giapponesi.</message>
+    </item>
+    <item id="Please enter the Phone Number.">
+      <message>Inserire il Numero di Telefono.</message>
+    </item>
+    <item id="Please enter the Doorphone Number">
+      <message>Inserire Numero di Citofono</message>
+    </item>
+    <item id="Please enter the Sensor Number">
+      <message>Inserire Numero di Sensore</message>
+    </item>
+    <item id="Please enter the Image Path">
+      <message>Inserire il percorso del file immagine</message>
+    </item>
+    <item id="Please enter the Sound Path">
+      <message>Scegliere il percorso del file audio</message>
+    </item>
+    <item id="The image file path is not valid, CA is unable to load the image file.">
+      <message>Il percorso del file di immagine non è valido, non è possibile  visualizzare l'immagine.</message>
+    </item>
+    <item id="The sound file path is not valid, CA is unable to play the sound file.">
+      <message>Il percorso del file audio non è valido, non è possibile riprodurre l'audio.</message>
+    </item>
+    <item id="The path will not be saved.">
+      <message>Il percorso non verrà salvato.</message>
+    </item>
+    <item id="The file path is too long, it should be less than or equal to 256 characters.\n Please enter a shorter path.">
+      <message>Il percorso del file è troppo lungo. numero massimo di caratteri è 256.\n Inserire un percorso più breve.</message>
+    </item>
+    <item id="Unable to play the sound file. Maybe the file is invalid or there is a problem in your PC sound device.">
+      <message>Impossibile riprodurre il file audio. Possibile file non valido o problema nella periferica audio del PC.</message>
+    </item>
+    <item id="Image Files">
+      <message>File immagine</message>
+    </item>
+    <item id="Media Files">
+      <message>File multimedia</message>
+    </item>
+    <item id="All Files">
+      <message>Tutti i File</message>
+    </item>
+    <item id="Open">
+      <message>Apri</message>
+    </item>
+    <item id="Unable to load the database. CA Application had to be closed.">
+      <message>Non è possibile caricare il database. È stato necessario chiudere Communication Assistant.</message>
+    </item>
+    <item id="CA Application">
+      <message>Applicazione CA</message>
+    </item>
+    <item id="Connection to database failed">
+      <message>Connessione al database non riuscita</message>
+    </item>
+    <item id="History">
+      <message>Cronologia</message>
+    </item>
+    <item id="Contact &amp;List">
+      <message>&amp;Lista contatti</message>
+    </item>
+    <item id="S&amp;peed Dial">
+      <message>&amp;Numeri Brevi</message>
+    </item>
+    <item id="&amp;Save to CSV">
+      <message>&amp;Salva su file CSV</message>
+    </item>
+    <item id="&amp;Memo Open">
+      <message>&amp;Apri Memo</message>
+    </item>
+    <item id="&amp;Call">
+      <message>&amp;Chiama</message>
+    </item>
+    <item id="Speed Dial">
+      <message>Numeri Brevi</message>
+    </item>
+    <item id="Show:">
+      <message>Mostra:</message>
+    </item>
+    <item id="Search">
+      <message>Ricerca</message>
+    </item>
+    <item id="Search In:">
+      <message>Ricerca in:</message>
+    </item>
+    <item id="Name">
+      <message>Nome</message>
+    </item>
+    <item id="Phone Number">
+      <message>Numero di telefono</message>
+    </item>
+    <item id="Type">
+      <message>Tipo</message>
+    </item>
+    <item id="Start Time">
+      <message>Inizio</message>
+    </item>
+    <item id="Disconnect Time">
+      <message>Tempo disconnessione</message>
+    </item>
+    <item id="Duration">
+      <message>Durata</message>
+    </item>
+    <item id="Ring">
+      <message>Squilli</message>
+    </item>
+    <item id="Call Condition">
+      <message>Condizione chiamata</message>
+    </item>
+    <item id="Call For">
+      <message>Chiama per</message>
+    </item>
+    <item id="Memo">
+      <message>Memo</message>
+    </item>
+    <item id="Trunk Group Number">
+      <message>Fascio linee esterne</message>
+    </item>
+    <item id="Intercom">
+      <message>Interno</message>
+    </item>
+    <item id="Outside">
+      <message>Esterna</message>
+    </item>
+    <item id="Blank">
+      <message>Vuoto</message>
+    </item>
+    <item id="Transfer">
+      <message>Trasferimento</message>
+    </item>
+    <item id="Park">
+      <message>Parcheggio</message>
+    </item>
+    <item id="No Answer">
+      <message>No Risposta</message>
+    </item>
+    <item id="Import File">
+      <message>Importa File</message>
+    </item>
+    <item id="Export File">
+      <message>Esporta File</message>
+    </item>
+    <item id="Save As">
+      <message>Salva con nome</message>
+    </item>
+    <item id="min">
+      <message>min</message>
+    </item>
+    <item id="s">
+      <message>s</message>
+    </item>
+    <item id="All Calls">
+      <message>Tutte le Chiamate</message>
+    </item>
+    <item id="Incoming Missed Calls">
+      <message>Chiamate Perse</message>
+    </item>
+    <item id="Incoming Received Calls">
+      <message>Chiamate Ricevute</message>
+    </item>
+    <item id="Outgoing Answered Calls">
+      <message>Chiamate Uscenti con Risposta</message>
+    </item>
+    <item id="Outgoing Unanswered Calls">
+      <message>Chiamate Uscenti Senza Risposta</message>
+    </item>
+    <item id="A file error has occurred in the export file">
+      <message>Errore nel file di esportazione</message>
+    </item>
+    <item id="A file error has occurred in the text file">
+      <message>Errore nel file di testo</message>
+    </item>
+    <item id="Unable to update the grid view setting. The grid view setting will not be saved.">
+      <message>Impossibile aggiornare l'impostazione visualizzazione griglia. L'impostazione non verrà salvata.</message>
+    </item>
+    <item id="Specific data will be deleted">
+      <message>I dati specificati verranno eliminati</message>
+    </item>
+    <item id="Please fill in the Speed Dial No">
+      <message>Inserire Numero Breve</message>
+    </item>
+    <item id="Please fill in the Speed Dial Name">
+      <message>Inserire Nome del Numero Breve</message>
+    </item>
+    <item id="Please fill in the Speed Dial Phone Number">
+      <message>Inserire il Numero di Telefono per il Numero Breve</message>
+    </item>
+    <item id="Illegal Request">
+      <message>Richiesta non consentita</message>
+    </item>
+    <item id="The Speed Dial Number is already registered in the PBX.">
+      <message>Il Numero Breve è già presente nella memoria della centrale.</message>
+    </item>
+    <item id="The current contact list will be deleted and replaced by new data. Do you want to continue?">
+      <message>La lista contatti corrente verrà eliminata ed verrà sostituita da dati nuovi. Procedere?</message>
+    </item>
+    <item id="The composition of CSV content is either not correct or incorrect version, import fail.">
+      <message>Importazione non riuscita. La composizione del contenuto CSV non è corretta oppure la versione non è corretta.</message>
+    </item>
+    <item id="The composition of XML content is either not correct or incorrect version, import fail.">
+      <message>Importazione non riuscita. La composizione del contenuto XML non è corretta oppure la versione non è corretta.</message>
+    </item>
+    <item id="The contact list successfully imported">
+      <message>La lista contatti è stata importata correttamente</message>
+    </item>
+    <item id="This operation will delete all data about ">
+      <message>Verranno eliminati tutti i dati di </message>
+    </item>
+    <item id=". Do you wish to continue?">
+      <message>. Procedere?</message>
+    </item>
+    <item id=" successfully deleted.">
+      <message> eliminazione completata.</message>
+    </item>
+    <item id="Contact List successfully exported.">
+      <message>Lista Contatti esportata correttamente.</message>
+    </item>
+    <item id="Contact List unable to export. A error occur during the exportation">
+      <message>Non è possibile esportare la Lista Contatti. Si è verificato un errore durante l'esportazione</message>
+    </item>
+    <item id="The maximum contacts ">
+      <message>Massimo dei contatti </message>
+    </item>
+    <item id=" had already registered. To make a new contact, please delete some contacts in the contact list.">
+      <message>Già registrato. Per creare un nuovo contatto, eliminare alcuni contatti da Lista Contatti.</message>
+    </item>
+    <item id="Extension numbers from the PBX already exist in the contact list.">
+      <message>I numeri di interno del centralino sono già presenti nella lista contatti.</message>
+    </item>
+    <item id="No Extension found.">
+      <message>Nessun interno trovato.</message>
+    </item>
+    <item id="Error occurs.">
+      <message>Si è verificato un errore.</message>
+    </item>
+    <item id="Import is unable to proceed. The file is being used by another process.">
+      <message>Impossibile continuare con l'importazione. Il file è in uso da un altro processo.</message>
+    </item>
+    <item id="Connection with PBX is disconnected">
+      <message>E' stata perso il collegamento con la centrale</message>
+    </item>
+    <item id="No Response from PBX">
+      <message>La centrale non risponde</message>
+    </item>
+    <item id="Select language">
+      <message>Selezione lingua</message>
+    </item>
+    <item id="Dial Modification for Dial Copy Setting">
+      <message>Modifica cifre Copia Selezione</message>
+    </item>
+    <item id="Enter Access Code for International Call">
+      <message>Inserire Codice di Accesso per Chiamata Internazionale</message>
+    </item>
+    <item id="Setting">
+      <message>Impostazione</message>
+    </item>
+    <item id="International Call">
+      <message>Chiamata Internazionale</message>
+    </item>
+    <item id="Enter International Area Code">
+      <message>Inserire Prefisso Internazionale</message>
+    </item>
+    <item id="For example '81' for Japan or '44' for UK">
+      <message>Ad esempio '81' for Giappone o '44' per Regno Unito</message>
+    </item>
+    <item id="CA User Mode">
+      <message>Modalità Utente CA</message>
+    </item>
+    <item id="Standard user (CA Pro)">
+      <message>Utente Standard (CA Pro)</message>
+    </item>
+    <item id="Standard user (CA Basic)">
+      <message>Utente Standard (CA Basic)</message>
+    </item>
+    <item id="ICD Group Supervisor (CA Supervisor)">
+      <message>ICD Group Supervisor (CA Supervisor)</message>
+    </item>
+    <item id="Use softphone">
+      <message>Usa Softphone</message>
+    </item>
+    <item id="Use ICD group agent feature">
+      <message>Utilizzare la funzione operatore gruppo ICD</message>
+    </item>
+    <item id="&amp;Save">
+      <message>&amp;Salva</message>
+    </item>
+    <item id="&amp;Exit">
+      <message>&amp;Esci</message>
+    </item>
+    <item id="English">
+      <message>English</message>
+    </item>
+    <item id="Spanish">
+      <message>Español</message>
+    </item>
+    <item id="French">
+      <message>Français</message>
+    </item>
+    <item id="Portuguese">
+      <message>Português</message>
+    </item>
+    <item id="German">
+      <message>Deutsch</message>
+    </item>
+    <item id="Italian">
+      <message>Italiano</message>
+    </item>
+    <item id="Russian">
+      <message>Русский</message>
+    </item>
+    <item id="Ukrainian">
+      <message>Українська</message>
+    </item>
+    <item id="Chinese">
+      <message>中文</message>
+    </item>
+    <item id="IP address of PBX">
+      <message>Indirizzo IP centrale</message>
+    </item>
+    <item id="Extension Number">
+      <message>Numero Interno</message>
+    </item>
+    <item id="Password">
+      <message>Password</message>
+    </item>
+    <item id="&amp;Login">
+      <message>&amp;Login</message>
+    </item>
+    <item id="&amp;Quit">
+      <message>&amp;Esci</message>
+    </item>
+    <item id="User Login">
+      <message>Login Utente</message>
+    </item>
+    <item id="Password must be assigned.">
+      <message>Deve essere assegnata una password.</message>
+    </item>
+    <item id="A-Z, a-z, 0-9, * and # can be used for password.">
+      <message>La password può contenere i caratteri A-Z, a-z, 0-9, * e #.</message>
+    </item>
+    <item id="New Password (Max.16 characters)">
+      <message>Nuova Password (Max. 16 caratteri)</message>
+    </item>
+    <item id="Verify Password">
+      <message>Verifica Password</message>
+    </item>
+    <item id="Communication Assistant - Password">
+      <message>Communication Assistant - Password</message>
+    </item>
+    <item id="You can log-in to Basic mode for now">
+      <message>Per ora è possibile accedere a alla modalità Base</message>
+    </item>
+    <item id="Limitations for Basic mode:">
+      <message>Limitazioni per la modalità di base:</message>
+    </item>
+    <item id="- Contact List is limited to 10 calls.">
+      <message>- Lista contatti limitata a 10 chiamate.</message>
+    </item>
+    <item id="- Contact History is limited to 10 calls.">
+      <message>- Cronologia contatti limitata a 10 chiamate.</message>
+    </item>
+    <item id="- Presence feature is not available.">
+      <message>- Funzione Presenza non disponibile.</message>
+    </item>
+    <item id="You can log-in to Pro Trial for now">
+      <message>Per ora è possibile accedere a Pro Trial</message>
+    </item>
+    <item id="After 60 days, license registration is required.">
+      <message>Dopo 60 giorni viene richiesta la registr. della licenza.</message>
+    </item>
+    <item id="Installation Date:">
+      <message>Data Installazione:</message>
+    </item>
+    <item id="Expiration Date:">
+      <message>Data Scadenza:</message>
+    </item>
+    <item id="I agree to the above condition and continue to use this application">
+      <message>Accetto le condizioni di cui sopra e desidero continuare l'uso dell'applicazione</message>
+    </item>
+    <item id="IP Address is empty. Please enter a valid IP address">
+      <message>L'indirizzo IP è vuoto. Inserire un indirizzo IP valido</message>
+    </item>
+    <item id="Empty IP address">
+      <message>Indirizzo IP vuoto</message>
+    </item>
+    <item id="No extension number has been entered. Please enter a valid extension number.">
+      <message>Non è stato immesso un numero di interno. Inserire un numero di interno valido.</message>
+    </item>
+    <item id="Empty Extension number">
+      <message>Numero di interno vuoto</message>
+    </item>
+    <item id="The password you entered is not valid.">
+      <message>La password inserita non è valida.</message>
+    </item>
+    <item id="The extension number is incorrect.">
+      <message>Il numero di interno non è valido.</message>
+    </item>
+    <item id="Error Extension Number">
+      <message>Errore numero di interno</message>
+    </item>
+    <item id="Password is incorrect">
+      <message>La password non è corretta</message>
+    </item>
+    <item id="Incorrect Password">
+      <message>Password errata</message>
+    </item>
+    <item id="Password is locked.">
+      <message>La password è bloccata.</message>
+    </item>
+    <item id="Please contact your manager of PBX">
+      <message>Contattare il manager della centrale</message>
+    </item>
+    <item id="Password Locked">
+      <message>Password bloccata</message>
+    </item>
+    <item id="This extension is restricted to use CA">
+      <message>Questo interno è limitato all'uso di CA</message>
+    </item>
+    <item id="by PBX setting">
+      <message>tramite l'impostazione da centrale</message>
+    </item>
+    <item id="Please contact your manager of PBX.">
+      <message>Contattare il manager della centrale.</message>
+    </item>
+    <item id="Invalid extension setting">
+      <message>Impostazione interno errata</message>
+    </item>
+    <item id="Number of users had exceeded the limit">
+      <message>Numero utenti oltre il limite consentito</message>
+    </item>
+    <item id="Exceed Maximum Users">
+      <message>Nr. massimo utenti superato</message>
+    </item>
+    <item id="The number of license is not enough">
+      <message>Il numero di licenze non è sufficiente</message>
+    </item>
+    <item id="Exceed Maximum Licenses">
+      <message>Nr. massimo licenze superato</message>
+    </item>
+    <item id="Failed to connect to server.">
+      <message>Impossibile connettersi al server.</message>
+    </item>
+    <item id="API Failure">
+      <message>Errore API</message>
+    </item>
+    <item id="Connection device is not supported. Unable to create connection">
+      <message>Il dispositivo di collegamento non supportato. Impossibile creare collegamento</message>
+    </item>
+    <item id="Non-support Connection Device">
+      <message>Dispositivo incompatibile</message>
+    </item>
+    <item id="Password mismatch. Please enter your new password again">
+      <message>La password non corrisponde. Inserire ancora la nuova password</message>
+    </item>
+    <item id="Phone type is incorrect">
+      <message>Il tipo di telefono non è corretto</message>
+    </item>
+    <item id="New password is empty. Please enter the password">
+      <message>La nuova password è vuota. Inserire la password.</message>
+    </item>
+    <item id="Verify password is empty. Please enter the password">
+      <message>Manca la password. Inserire la password</message>
+    </item>
+    <item id="The values entered in New Password and Verify Password do not match.">
+      <message>I dati inseriti nei campi Nuova password e Verifica password non corrispondono.</message>
+    </item>
+    <item id="The minimum password length is 6 characters.">
+      <message>La password deve avere almeno 6 caratteri.</message>
+    </item>
+    <item id="Are you sure you want to exit this application">
+      <message>Si desidera uscire dall'applicazione?</message>
+    </item>
+    <item id="Please Wait...">
+      <message>Attendere...</message>
+    </item>
+    <item id="Forward/DND Setting">
+      <message>Imposta Devia/ND</message>
+    </item>
+    <item id="Forward / DND">
+      <message>Devia/ND</message>
+    </item>
+    <item id="BroadCasting Group:">
+      <message>Gruppo Broadcasting:</message>
+    </item>
+    <item id="&amp;Release">
+      <message>&amp;Termina</message>
+    </item>
+    <item id="Members (Dial Number)">
+      <message>Membri (Numero)</message>
+    </item>
+    <item id="Member Name">
+      <message>Nome Membro</message>
+    </item>
+    <item id="Call Status">
+      <message>Stato Chiamata</message>
+    </item>
+    <item id="Connected">
+      <message>Connesso</message>
+    </item>
+    <item id="Not Connected">
+      <message>Non Connesso</message>
+    </item>
+    <item id="Group Page">
+      <message>Gruppo Cercap</message>
+    </item>
+    <item id="Park Retrieve">
+      <message>Recupero Parch</message>
+    </item>
+    <item id="Account">
+      <message>Conto</message>
+    </item>
+    <item id="Copy &amp; Call">
+      <message>Copia &amp; Chiama</message>
+    </item>
+    <item id="TRS Change">
+      <message>Modifica TRS</message>
+    </item>
+    <item id="Time Service">
+      <message>Servizio G/N</message>
+    </item>
+    <item id="Function Key">
+      <message>Tasti Funzione</message>
+    </item>
+    <item id="Please enter Group No.(01-32)">
+      <message>Inserire Numero del Gruppo (01-32)</message>
+    </item>
+    <item id="A target's call status is not acceptable">
+      <message>Lo stato di destinazione della chiamata non accettabile</message>
+    </item>
+    <item id="Invalid Group Paging">
+      <message>Gruppo Cercap non valido</message>
+    </item>
+    <item id="Please enter specific park area number">
+      <message>Inserire Numero di Area Parcheggio</message>
+    </item>
+    <item id="(0-99)">
+      <message>(0-99)</message>
+    </item>
+    <item id="Specific call (connection) does not exist.">
+      <message>La chiamata specificata non esiste.</message>
+    </item>
+    <item id="Error on Park Retrieve">
+      <message>Errore durante Recupero Parcheggio</message>
+    </item>
+    <item id="Please enter an account number">
+      <message>Inserire Codice Conto</message>
+    </item>
+    <item id="Not Valid and cannot make a call">
+      <message>Non valido! Non è possibile effettuare la chiamata</message>
+    </item>
+    <item id="Please set TRS Level">
+      <message>Impostare il livello TRS</message>
+    </item>
+    <item id="Error on TRS Change">
+      <message>Errore durante Modifica TRS</message>
+    </item>
+    <item id="Please Select System Mode">
+      <message>Selezionare la Modalità di Sistema</message>
+    </item>
+    <item id="Day">
+      <message>Giorno</message>
+    </item>
+    <item id="Break">
+      <message>Pausa</message>
+    </item>
+    <item id="Night">
+      <message>Notte</message>
+    </item>
+    <item id="Lunch">
+      <message>Pranzo</message>
+    </item>
+    <item id="ICD Group Extension Number">
+      <message>Numero Interno Gruppo ICD</message>
+    </item>
+    <item id="ICD Group Name">
+      <message>Nome Gruppo ICD</message>
+    </item>
+    <item id="My Status">
+      <message>Stato Personale</message>
+    </item>
+    <item id="Ready">
+      <message>Operativo</message>
+    </item>
+    <item id="Not Ready">
+      <message>Non Operativo</message>
+    </item>
+    <item id="Wrap Up">
+      <message>Wrap Up</message>
+    </item>
+    <item id="Busy">
+      <message>Occupato</message>
+    </item>
+    <item id="All Log-in">
+      <message>Tutti in Log-in</message>
+    </item>
+    <item id="All Log-out">
+      <message>Tutti in Log-out</message>
+    </item>
+    <item id="Log in">
+      <message>Log-in</message>
+    </item>
+    <item id="Log-in">
+      <message>Log-in</message>
+    </item>
+    <item id="Log out">
+      <message>Log-out</message>
+    </item>
+    <item id="Log-out">
+      <message>Log-out</message>
+    </item>
+    <item id="Start Wrap Up">
+      <message>Avvia Wrap Up</message>
+    </item>
+    <item id="Stop Wrap Up">
+      <message>Arresta Wrap Up</message>
+    </item>
+    <item id="Extend Wrap Up">
+      <message>Estendi Wrap Up</message>
+    </item>
+    <item id="On the phone">
+      <message>Al telefono</message>
+    </item>
+    <item id="Ringing">
+      <message>In Chiamata</message>
+    </item>
+    <item id="Idle">
+      <message>Libero</message>
+    </item>
+    <item id="Wrap up Status cannot be changed\n\rCause is one of followings\n\r- Wrap up feature number is not assigned in PBX\n\r- Paired telephone is not PT\n\rPT is not connected with PBX\n\r">
+      <message>Impossibile modificare lo stato Wrap up\n\rCause possibili\n\r- Numero funzione Wrap up non assegnato nella centrale\n\r- Telefono assegnato non Digitale\n\rTelefono digitale non connesso alla centrale\n\r</message>
+    </item>
+    <item id="ICD Group">
+      <message>Gruppo ICD</message>
+    </item>
+    <item id="Phone Status">
+      <message>Stato Telefono</message>
+    </item>
+    <item id="Wrap up">
+      <message>Wrap up</message>
+    </item>
+    <item id="Redirect">
+      <message>Trasferisci</message>
+    </item>
+    <item id="Listen-In">
+      <message>Ascolta</message>
+    </item>
+    <item id="Busy Override">
+      <message>Inclusione</message>
+    </item>
+    <item id="Take Over">
+      <message>Togli</message>
+    </item>
+    <item id="&amp;Redirect the incoming call">
+      <message>Trasferisci chiamata entrante</message>
+    </item>
+    <item id="Log-&amp;in to the group">
+      <message>Log-in nel gruppo</message>
+    </item>
+    <item id="Log-o&amp;ut from the group">
+      <message>Log-out dal gruppo</message>
+    </item>
+    <item id="&amp;Listen in the talking">
+      <message>Ascolta conversazione</message>
+    </item>
+    <item id="Overri&amp;de the talking (Conference)">
+      <message>Inclusione conversazione (conferenza)</message>
+    </item>
+    <item id="&amp;Take over the talking">
+      <message>Togli la conversazione</message>
+    </item>
+    <item id="Supervisor function was disabled">
+      <message>La funzione supervisore è stata disabilitata.</message>
+    </item>
+    <item id="Are you sure you want to clear report?">
+      <message>Cancellare il report?</message>
+    </item>
+    <item id="Supervisor">
+      <message>Supervisor</message>
+    </item>
+    <item id="Group">
+      <message>Gruppo</message>
+    </item>
+    <item id="Display only ICD Group Member">
+      <message>Visualizza solo Membro Gruppo ICD</message>
+    </item>
+    <item id="Group Call Monitor">
+      <message>Chiamate Gruppo</message>
+    </item>
+    <item id="Current Waiting Call">
+      <message>Chiamate in Coda</message>
+    </item>
+    <item id="Longest Waiting Time">
+      <message>Maggiore Attesa</message>
+    </item>
+    <item id="Current Member Status">
+      <message>Stato Utente</message>
+    </item>
+    <item id="Group Call Report">
+      <message>Report Gruppo</message>
+    </item>
+    <item id="Lost Call">
+      <message>Chiamata persa</message>
+    </item>
+    <item id="Report Start Date:">
+      <message>Data Inizio Report:</message>
+    </item>
+    <item id="Report Start Time:">
+      <message>Ora Inizio Report:</message>
+    </item>
+    <item id="&amp;Utility">
+      <message>Utilità</message>
+    </item>
+    <item id="Get Latest Report">
+      <message>Ultimo Report</message>
+    </item>
+    <item id="&amp;Clear Report">
+      <message>Cancella report</message>
+    </item>
+    <item id="The Number of Current Call :">
+      <message>Numero della chiamata corrente :</message>
+    </item>
+    <item id="Font Color :">
+      <message>Colore carattere :</message>
+    </item>
+    <item id="Background Color :">
+      <message>Colore Sfondo :</message>
+    </item>
+    <item id="Blink">
+      <message>Lampeggio</message>
+    </item>
+    <item id="Preview :">
+      <message>Anteprima :</message>
+    </item>
+    <item id=" The Waiting Time (MM'SS) :">
+      <message> Tempo di attesa (MM'SS) :</message>
+    </item>
+    <item id="Choose...(&amp;B)">
+      <message>Scegli...(&amp;B)</message>
+    </item>
+    <item id="Choose ...(&amp;F)">
+      <message>Scegli ...(&amp;F)</message>
+    </item>
+    <item id="Supervisor Option">
+      <message>Opzione Supervisore</message>
+    </item>
+    <item id="When the number of current call is preprogrammed number or more, display changes for warning.">
+      <message>Quando il numero della chiamata corrente è uguale o superiore al numero preprogrammato, le variazioni verranno visualizzate come avviso.</message>
+    </item>
+    <item id="When the time of longest waiting call is preprogrammed number or more, display changes for warning.">
+      <message>Quando il tempo della chiamata in attesa più lunga è il numero preprogrammato o superiore, le modifiche vengono visualizzate come avviso.</message>
+    </item>
+    <item id="Dial">
+      <message>Numero</message>
+    </item>
+    <item id="Contact Name">
+      <message>Nome Contatto</message>
+    </item>
+    <item id="Incoming Missed Calls: ">
+      <message>Chiamate Perse: </message>
+    </item>
+    <item id="Message Waiting">
+      <message>Messaggio in Attesa</message>
+    </item>
+    <item id="Call VM">
+      <message>Chiama VM</message>
+    </item>
+    <item id="&amp;Call Voice Mail">
+      <message>Chiama Casella Vocale</message>
+    </item>
+    <item id="&amp;Record my Voice Message">
+      <message>Registra Messaggio Vocale</message>
+    </item>
+    <item id="&amp;Display Message Waiting List">
+      <message>Visualizza Lista Messaggi</message>
+    </item>
+    <item id="Call &amp;Back">
+      <message>&amp;Richiama</message>
+    </item>
+    <item id="No Connection">
+      <message>Nessun Collegamento</message>
+    </item>
+    <item id="Dial or Answer">
+      <message>Componi o Rispondi</message>
+    </item>
+    <item id="For internal calls :">
+      <message>Per chiamate interne:</message>
+    </item>
+    <item id="For external calls :">
+      <message>Per chiamate esterne:</message>
+    </item>
+    <item id="Forward / DND :">
+      <message>Deviazione/ND:</message>
+    </item>
+    <item id="Not Assigned">
+      <message>Non Assegnato</message>
+    </item>
+    <item id="Fwd All ">
+      <message>Devia Tutte </message>
+    </item>
+    <item id="Fwd Busy ">
+      <message>Devia su Occupato </message>
+    </item>
+    <item id="Fwd N/A ">
+      <message>Devia Non Risposta </message>
+    </item>
+    <item id="Fwd Busy / N/A ">
+      <message>Devia Occupato/NR </message>
+    </item>
+    <item id="Do Not Disturb">
+      <message>Non Disturbare</message>
+    </item>
+    <item id="&amp;Dial">
+      <message>&amp;Numero</message>
+    </item>
+    <item id="&amp;Copy &amp;&amp; Call">
+      <message>&amp;Copia &amp;&amp; Chiama</message>
+    </item>
+    <item id="&amp;History">
+      <message>Crono&amp;logia</message>
+    </item>
+    <item id="&amp;All Calls">
+      <message>&amp;Tutte le Chiamate</message>
+    </item>
+    <item id="Incoming &amp;Missed Calls">
+      <message>Chiamate &amp;Perse</message>
+    </item>
+    <item id="Incoming &amp;Received Calls">
+      <message>Chiamate &amp;Ricevute</message>
+    </item>
+    <item id="Outgoing A&amp;nswered Calls">
+      <message>&amp;Chiamate Uscenti con Risposta</message>
+    </item>
+    <item id="Outgoing &amp;Unanswered Calls">
+      <message>Chiamate U&amp;scenti Senza Risposta</message>
+    </item>
+    <item id="&amp;Go To">
+      <message>&amp;Vai a</message>
+    </item>
+    <item id="&amp;Option">
+      <message>&amp;Opzione</message>
+    </item>
+    <item id="&amp;Function Key">
+      <message>&amp;Tasti Funzione</message>
+    </item>
+    <item id="&amp;ICD Group">
+      <message>&amp;Gruppo ICD</message>
+    </item>
+    <item id="Modify">
+      <message>Modifica</message>
+    </item>
+    <item id="New Setting">
+      <message>Nuova impostazione</message>
+    </item>
+    <item id="Message left by">
+      <message>Messaggio lasciato da</message>
+    </item>
+    <item id="Absent message is assigned automatically, when PC is not used pre programmed time.">
+      <message>Messaggio di assenza assegnato automaticamente quando il PC non viene utilizzato per il tempo preprogrammato.</message>
+    </item>
+    <item id="Absent message is cleared automatically, when CA is started.">
+      <message>Messaggio di assenza cancellato automaticamente all'avvio di CA.</message>
+    </item>
+    <item id="Absent message is assigned automatically, when CA is closed.">
+      <message>Messaggio di assenza assegnato automaticamente quando CA è chiuso.</message>
+    </item>
+    <item id="Absent Message Options">
+      <message>Opzioni Messaggio di Assenza</message>
+    </item>
+    <item id="MM:SS:">
+      <message>MM:SS:</message>
+    </item>
+    <item id="Please enter phone number.">
+      <message>Inserire il numero di telefono.</message>
+    </item>
+    <item id="Phone (Office)">
+      <message>Telefono (Ufficio)</message>
+    </item>
+    <item id="Phone (Mobile)">
+      <message>Telefono (Cellulare)</message>
+    </item>
+    <item id="Phone (Home)">
+      <message>Telefono (Abitazione)</message>
+    </item>
+    <item id="Voice Message">
+      <message>Messaggio Vocale</message>
+    </item>
+    <item id="Send E-mail">
+      <message>Invia E-mail</message>
+    </item>
+    <item id="More">
+      <message>Altro</message>
+    </item>
+    <item id="Send Chat">
+      <message>Invia Chat</message>
+    </item>
+    <item id="Leave Voice Message">
+      <message>Lascia Messaggio Vocale</message>
+    </item>
+    <item id="WEB Access">
+      <message>Accesso Web</message>
+    </item>
+    <item id="Call phone (Office): ">
+      <message>Chiamata telefono (Ufficio): </message>
+    </item>
+    <item id="Call phone (Mobile): ">
+      <message>Chiamata telefono (Cellulare): </message>
+    </item>
+    <item id="Call phone (Home): ">
+      <message>Chiamata telefono (Abitazione): </message>
+    </item>
+    <item id="&amp;Pick up the incoming call">
+      <message>&amp;Intercetta la chiamata</message>
+    </item>
+    <item id="&amp;View and modify this contact">
+      <message>&amp;Modifica contatto</message>
+    </item>
+    <item id="&amp;Add new contact">
+      <message>&amp;Aggiungi nuovo contatto</message>
+    </item>
+    <item id="&amp;Delete this contact ">
+      <message>&amp;Elimina contatto</message>
+    </item>
+    <item id="Add contact list from PB&amp;X extension">
+      <message>&amp;Copia lista contatti dalla centrale</message>
+    </item>
+    <item id="&amp;Copy contact list from CSV file">
+      <message>Copia &amp;lista contatti dal file CSV</message>
+    </item>
+    <item id="&amp;Save contact list to CSV file">
+      <message>&amp;Salva lista contatti su file CSV</message>
+    </item>
+    <item id="Leave voice message">
+      <message>Lascia messaggio vocale</message>
+    </item>
+    <item id="Send E-mail: ">
+      <message>Invia E-mail: </message>
+    </item>
+    <item id="Access Web">
+      <message>Accesso Web</message>
+    </item>
+    <item id="Start Chat">
+      <message>Avvia chat</message>
+    </item>
+    <item id="View and modify contact">
+      <message>Visualizza e modifica contatto</message>
+    </item>
+    <item id="Absent Message">
+      <message>Messaggio di assenza</message>
+    </item>
+    <item id="Function List">
+      <message>Elenco funzioni</message>
+    </item>
+    <item id="Move &amp;Up">
+      <message>Sposta &amp;Su</message>
+    </item>
+    <item id="Move &amp;Down">
+      <message>Sposta &amp;Giù</message>
+    </item>
+    <item id="&amp;Edit">
+      <message>&amp;Modifica</message>
+    </item>
+    <item id="Edit">
+      <message>Modifica</message>
+    </item>
+    <item id="Save to Function List">
+      <message>Salva su Elenco Funzioni</message>
+    </item>
+    <item id="Function List Name (Max. 16 characters):">
+      <message>Nome Elenco Funzioni (Max. 16 caratteri):</message>
+    </item>
+    <item id="Same as function list name.">
+      <message>Uguale al nome di elenco funzioni.</message>
+    </item>
+    <item id="Set absent message (Max. 16 characters):">
+      <message>Imposta messaggio di assenza (Max. 16 caratteri):</message>
+    </item>
+    <item id="Do not change absent message.">
+      <message>Non modificare il messaggio di assenza.</message>
+    </item>
+    <item id="Clear absent message.">
+      <message>Cancella messaggio di assenza.</message>
+    </item>
+    <item id="Enable">
+      <message>Abilita</message>
+    </item>
+    <item id="Feature Number">
+      <message>Numero Funzione</message>
+    </item>
+    <item id="Change2">
+      <message>Modifica</message>
+    </item>
+    <item id="For both external calls and internal calls">
+      <message>Sia chiamate esterne che interne</message>
+    </item>
+    <item id="For external calls">
+      <message>Per chiamate esterne</message>
+    </item>
+    <item id="For internal calls">
+      <message>Per chiamate interne</message>
+    </item>
+    <item id="Always (All)">
+      <message>Sempre (tutte)</message>
+    </item>
+    <item id="Busy / No Answer">
+      <message>Occupato/No Risposta</message>
+    </item>
+    <item id="Off">
+      <message>Off</message>
+    </item>
+    <item id="The maximum 20 function lists have already been assigned. This new setting cannot be saved.">
+      <message>20 elenchi funzioni sono già stati assegnati. Impossibile salvare questa nuova impostazione.</message>
+    </item>
+    <item id="&amp;Modify">
+      <message>&amp;Modifica</message>
+    </item>
+    <item id="&amp;Add New">
+      <message>&amp;Aggiungi</message>
+    </item>
+    <item id="Modify Speed Dial">
+      <message>Modifica Numero Breve</message>
+    </item>
+    <item id="Speed dial no.">
+      <message>Numero Breve:</message>
+    </item>
+    <item id="Add Speed Dial">
+      <message>Aggiungi Numero Breve</message>
+    </item>
+    <item id="Forward">
+      <message>Devia</message>
+    </item>
+    <item id="Exit">
+      <message>Esci</message>
+    </item>
+    <item id="Show">
+      <message>Mostra</message>
+    </item>
+    <item id="Mon">
+      <message>Lun</message>
+    </item>
+    <item id="Tue">
+      <message>Mar</message>
+    </item>
+    <item id="Wed">
+      <message>Mer</message>
+    </item>
+    <item id="Thu">
+      <message>Gio</message>
+    </item>
+    <item id="Fri">
+      <message>Ven</message>
+    </item>
+    <item id="Sat">
+      <message>Sab</message>
+    </item>
+    <item id="Sun">
+      <message>Dom</message>
+    </item>
+    <item id="AM">
+      <message>AM</message>
+    </item>
+    <item id="PM">
+      <message>PM</message>
+    </item>
+    <item id="Enter password of your mailbox:">
+      <message>Inserire password casella vocale:</message>
+    </item>
+    <item id="Voice Mail">
+      <message>Voice Mail</message>
+    </item>
+    <item id="Call Control">
+      <message>Chiamate</message>
+    </item>
+    <item id="Incoming Call">
+      <message>Entrante</message>
+    </item>
+    <item id="Calling">
+      <message>Chiama</message>
+    </item>
+    <item id="Recall">
+      <message>Richiama</message>
+    </item>
+    <item id="Text Memo">
+      <message>Testo Memo</message>
+    </item>
+    <item id="Text Memo Reminder">
+      <message>Promemoria</message>
+    </item>
+    <item id="DTMF Tone">
+      <message>Toni DTMF</message>
+    </item>
+    <item id="Broadcasting Group:">
+      <message>Gruppo Broadcasting:</message>
+    </item>
+    <item id="Manual Park">
+      <message>Parcheggio Manuale</message>
+    </item>
+    <item id="Call Parked">
+      <message>Parcheggiata</message>
+    </item>
+    <item id="VM Transfer">
+      <message>Trasferta Voice Mail</message>
+    </item>
+    <item id="Caller Information">
+      <message>Info Chiamante</message>
+    </item>
+    <item id="Redirect to">
+      <message>Redireziona a</message>
+    </item>
+    <item id="Active Calls">
+      <message>Chiamate</message>
+    </item>
+    <item id="Direct In:">
+      <message>Diretta in:</message>
+    </item>
+    <item id="Outside Line:">
+      <message>Linea Esterna:</message>
+    </item>
+    <item id="Call For:">
+      <message>Chiama Per:</message>
+    </item>
+    <item id="Duration:">
+      <message>Durata:</message>
+    </item>
+    <item id="On Hold">
+      <message>In Attesa</message>
+    </item>
+    <item id="Not Valid">
+      <message>Non Valido</message>
+    </item>
+    <item id="Dial is incorrect.">
+      <message>Numero errato.</message>
+    </item>
+    <item id="Please enter specific park area">
+      <message>Inserire l'area parcheggio</message>
+    </item>
+    <item id="Parked number">
+      <message>Parcheggiato</message>
+    </item>
+    <item id="Extension  number">
+      <message>Numero Interno</message>
+    </item>
+    <item id="Paging Group">
+      <message>Gruppo Cercap</message>
+    </item>
+    <item id="Set call back">
+      <message>Imposta richiamata</message>
+    </item>
+    <item id="Wait and send call waiting tone">
+      <message>Attendi e invia tono attesa</message>
+    </item>
+    <item id="Leave message waiting">
+      <message>Lascia messaggio in attesa</message>
+    </item>
+    <item id="Listen in">
+      <message>Ascolta</message>
+    </item>
+    <item id="Override (Conference)">
+      <message>Inclusione (conferenza)</message>
+    </item>
+    <item id="Take over">
+      <message>Togli</message>
+    </item>
+    <item id="Call by override">
+      <message>Chiama per inclusione</message>
+    </item>
+    <item id="Send e-mail">
+      <message>Invia E-mail</message>
+    </item>
+    <item id="Transfer the call">
+      <message>Trasferisci chiamata</message>
+    </item>
+    <item id="Put the call on hold">
+      <message>Metti in attesa</message>
+    </item>
+    <item id="Make a conference">
+      <message>Crea conferenza</message>
+    </item>
+    <item id="Park the call (Automatic)">
+      <message>Parcheggia (automaticamente)</message>
+    </item>
+    <item id="Park the call (Manual)">
+      <message>Parcheggia (manualmente)</message>
+    </item>
+    <item id="Transfer to VM">
+      <message>Trasferisci a Voice Mail</message>
+    </item>
+    <item id="Record to VM">
+      <message>Registra su Voice Mail</message>
+    </item>
+    <item id="Stop recording">
+      <message>Stop registrazione</message>
+    </item>
+    <item id="Send DTMF">
+      <message>Invia Toni DTMF</message>
+    </item>
+    <item id="Send Flash (EFA)">
+      <message>Invia Flash (ASE)</message>
+    </item>
+    <item id="Write memo">
+      <message>Scrivi memo</message>
+    </item>
+    <item id="Split the call">
+      <message>Alterna chiamata</message>
+    </item>
+    <item id="Retrieve the call">
+      <message>Recupera la chiamata</message>
+    </item>
+    <item id="Hang up">
+      <message>Termina</message>
+    </item>
+    <item id="Answer the call">
+      <message>Rispondi</message>
+    </item>
+    <item id="Redirect the call">
+      <message>Redirezione chiamata</message>
+    </item>
+    <item id="Release">
+      <message>Termina</message>
+    </item>
+    <item id="VM:">
+      <message>VM:</message>
+    </item>
+    <item id="E-mail">
+      <message>E-mail</message>
+    </item>
+    <item id="Message">
+      <message>Messaggio</message>
+    </item>
+    <item id="Close">
+      <message>Chiudi</message>
+    </item>
+    <item id="Cancel">
+      <message>Cancella</message>
+    </item>
+    <item id="OK">
+      <message>OK</message>
+    </item>
+    <item id="External">
+      <message>Esterna</message>
+    </item>
+    <item id="Internal">
+      <message>Interna</message>
+    </item>
+    <item id="IN">
+      <message>IN</message>
+    </item>
+    <item id="OUT">
+      <message>OUT</message>
+    </item>
+    <item id="Total Time:">
+      <message>Totale:</message>
+    </item>
+    <item id="Ringing Time:">
+      <message>Squillo:</message>
+    </item>
+    <item id="Connecting Time:">
+      <message>Connessione:</message>
+    </item>
+    <item id="Holding Time:">
+      <message>Attesa:</message>
+    </item>
+    <item id="Failed to set call back.">
+      <message>Impossibile impostare la richiamata.</message>
+    </item>
+    <item id="Failed to send call waiting.">
+      <message>Impossibile inviare la chiamata in attesa.</message>
+    </item>
+    <item id="Failed to override the selected ongoing call.">
+      <message>Impossibile includersi nella chiamata in corso.</message>
+    </item>
+    <item id="Failed to make this call.">
+      <message>Impossibile effettuare questa chiamata.</message>
+    </item>
+    <item id="Failed to answer the call.">
+      <message>Impossibile rispondere alla chiamata.</message>
+    </item>
+    <item id="Failed to hang up the call.">
+      <message>Impossibile terminare la chiamata.</message>
+    </item>
+    <item id="The phone number you entered is not valid.">
+      <message>Il numero di telefono inserito non è valido.</message>
+    </item>
+    <item id="Options">
+      <message>Opzioni</message>
+    </item>
+    <item id="Key Assign">
+      <message>Assegna Funzione</message>
+    </item>
+    <item id="Display">
+      <message>Visualizza</message>
+    </item>
+    <item id="Preferences">
+      <message>Preferenze</message>
+    </item>
+    <item id="Key Mappings">
+      <message>Mappa Tasti</message>
+    </item>
+    <item id="Sounds">
+      <message>Suoni</message>
+    </item>
+    <item id="Dial Modification">
+      <message>Modifica Selezione</message>
+    </item>
+    <item id="PBX System Alarm">
+      <message>Allarme Centrale</message>
+    </item>
+    <item id="Logon and Security">
+      <message>Accesso e Sicurezza</message>
+    </item>
+    <item id="About">
+      <message>Informazioni</message>
+    </item>
+    <item id="Disable">
+      <message>Disabilita</message>
+    </item>
+    <item id="Language">
+      <message>Lingua</message>
+    </item>
+    <item id="Minimise application to">
+      <message>Riduci a icona per</message>
+    </item>
+    <item id="Incoming call pop-up for CA">
+      <message>Pop-up chiamata entrante per CA</message>
+    </item>
+    <item id="Incoming call pop-up for Microsoft Outlook">
+      <message>Pop-up chiamata entrante per Microsoft Outlook</message>
+    </item>
+    <item id="Notice">
+      <message>Avviso</message>
+    </item>
+    <item id="Software version">
+      <message>Versione software</message>
+    </item>
+    <item id="Pre-installed language">
+      <message>Lingua preinstallata</message>
+    </item>
+    <item id="Additional language">
+      <message>Lingua aggiuntiva</message>
+    </item>
+    <item id="Taskbar">
+      <message>Barra applicazioni</message>
+    </item>
+    <item id="System tray">
+      <message>Programmi attivi </message>
+    </item>
+    <item id="Transfer automatically when new call is made during talking">
+      <message>Trasferimento automatico per nuova chiamata durante conversazione</message>
+    </item>
+    <item id="Save ICD group incoming call to history">
+      <message>Salva nella cronologia la chiamata in entrata del gruppo ICD</message>
+    </item>
+    <item id="Record to VM automatically">
+      <message>Registra automaticamente su Voice Mail</message>
+    </item>
+    <item id="Use Voice Mail Assistant">
+      <message>Usa Voice Mail Assistant</message>
+    </item>
+    <item id="Remove \&quot;(0)\&quot;">
+      <message>Rimuovi \"(0)\"</message>
+    </item>
+    <item id="Inform PBX system alarm using e-mail">
+      <message>Informa allarme centrale tramite e-mail</message>
+    </item>
+    <item id="Automatically login">
+      <message>Log-in automatico</message>
+    </item>
+    <item id="Automatic minimise after automatically login">
+      <message>Riduci a icona dopo log-in automatico</message>
+    </item>
+    <item id="Key:">
+      <message>Tasto:</message>
+    </item>
+    <item id="Key Name:">
+      <message>Funzione:</message>
+    </item>
+    <item id="Doorphone">
+      <message>Citofono</message>
+    </item>
+    <item id="Call Back">
+      <message>Richiamata</message>
+    </item>
+    <item id="Voice Mail:">
+      <message>Voice Mail:</message>
+    </item>
+    <item id="Minimum digits for public telephone number:">
+      <message>Cifre minime del numero di telefono esterno:</message>
+    </item>
+    <item id="Telephone Number Modification">
+      <message>Modifica Numero di Telefono</message>
+    </item>
+    <item id="No.">
+      <message>Num</message>
+    </item>
+    <item id="Leading Digits to Remove\n(Max. 16 digits)">
+      <message>Cifre iniziali da rimuovere\n(Max. 16 cifre)</message>
+    </item>
+    <item id="Added Number\n(Max. 8 digits)">
+      <message>Cifre da aggiungere\n(Max. 8 cifre)</message>
+    </item>
+    <item id="Other:">
+      <message>Altro:</message>
+    </item>
+    <item id="E-mail address">
+      <message>Indirizzo E-mail</message>
+    </item>
+    <item id="E-mail title">
+      <message>Titolo E-mail</message>
+    </item>
+    <item id="Current Password">
+      <message>Password corrente</message>
+    </item>
+    <item id="New Password">
+      <message>Nuova password</message>
+    </item>
+    <item id="Verify password">
+      <message>Verifica password</message>
+    </item>
+    <item id="When voice volume is not enough, adjustment of microphone and speaker of the PC is required using Control Panel.\nAdjustment for microphone using \&quot;Options\&quot; is also available.\nAdjustment for speaker using \&quot;Navigation Key\&quot; during talking is also available.\nPage key is available when IP softphone is connected with MPR card of KX-TDE PBX, VM-Menu on LCD is not supported. It is required to disable VM-Menu feature using COS programming of VM.">
+      <message>Se il volume voce è insufficiente, regolare microfono e altoparlante del PC con Pannello di controllo.\nIl microfono è regolabile anche con \"Opzioni\".\nLa ricezione è regolabile in conversazione con \"Tasto di navigazione\".\nIl tasto Ricerca è disponibile se l'IP softphone è connesso con la scheda CPU del KX-TDE, Il menu VM sul display non è supportato. Disabilitare la funzione menu VM con la programmazione classi di servizio del VM.</message>
+    </item>
+    <item id="Delete">
+      <message>Cancella</message>
+    </item>
+    <item id="Change &amp;Password">
+      <message>Modifica &amp;Password</message>
+    </item>
+    <item id="Key Name">
+      <message>Funzione</message>
+    </item>
+    <item id="Assign Key">
+      <message>Assegna</message>
+    </item>
+    <item id="Dial/Answer">
+      <message>Componi/Rispondi</message>
+    </item>
+    <item id="Hold">
+      <message>Attesa</message>
+    </item>
+    <item id="Conference">
+      <message>Conferenza</message>
+    </item>
+    <item id="Auto Park">
+      <message>Parcheggio Automatico</message>
+    </item>
+    <item id="Redial">
+      <message>Ripetizione Numero</message>
+    </item>
+    <item id="Pick Up">
+      <message>Intercetta</message>
+    </item>
+    <item id="Transfer to Voice Mail">
+      <message>Trasferisci a Voice Mail</message>
+    </item>
+    <item id="Split">
+      <message>Alterna</message>
+    </item>
+    <item id="Forward / Do Not Disturb">
+      <message>Devia/Non disturbare</message>
+    </item>
+    <item id="Record to Voice Mail">
+      <message>Registra su Voice Mail</message>
+    </item>
+    <item id="Send Tone (DTMF)">
+      <message>Invia Tono (DTMF)</message>
+    </item>
+    <item id="Copy &amp; Call &lt;Global Key&gt;">
+      <message>Copia &amp; Chiama &lt;Globale&gt;</message>
+    </item>
+    <item id="The function key (F1-F10) cannot be assigned.">
+      <message>Tasto funzione (F1-F10) non assegnabile.</message>
+    </item>
+    <item id="This character cannot be assigned.">
+      <message>Questo carattere non può essere assegnato.</message>
+    </item>
+    <item id="Do you want to save your settings?">
+      <message>Salvare le impostazioni?</message>
+    </item>
+    <item id="Please enter a setting.">
+      <message>Inserire un'impostazione.</message>
+    </item>
+    <item id="Validation error">
+      <message>Errore di convalida</message>
+    </item>
+    <item id="The specified path does not exist.">
+      <message>Il percorso specificato non esiste.</message>
+    </item>
+    <item id="Password mismatch. Please enter your new password again.">
+      <message>La password non corrisponde. Reinserire la nuova password.</message>
+    </item>
+    <item id="Password changed successfully.">
+      <message>Password modificata con successo.</message>
+    </item>
+    <item id="Password change failed!">
+      <message>Modifica password non riuscita!</message>
+    </item>
+    <item id="&amp;Send">
+      <message>&amp;Invia</message>
+    </item>
+    <item id="&amp;Clear">
+      <message>&amp;Cancella</message>
+    </item>
+    <item id="Chat">
+      <message>Chat</message>
+    </item>
+    <item id="No Last Message...">
+      <message>Nessun Ultimo Messaggio...</message>
+    </item>
+    <item id="Last Message: ">
+      <message>Ultimo Messaggio: </message>
+    </item>
+    <item id="Save to email software.">
+      <message>Salvataggio su programma Email.</message>
+    </item>
+    <item id="Do you want to close chat?">
+      <message>Chiudere la chat?</message>
+    </item>
+    <item id="Chat will close">
+      <message>La chat verrà chiusa</message>
+    </item>
+    <item id="You have reached 4 chat sessions.\nChat is not available.">
+      <message>Sono state raggiunte 4 sessioni chat.\nLa chat non è disponibile. </message>
+    </item>
+    <item id="The other party has reached the maximum of 4 chat sessions.\nChat is not available.">
+      <message>L'interlocutore ha raggiunto il numero massimo di 4 sessioni chat.\nLa chat non è disponibile.</message>
+    </item>
+    <item id="The other party has logged off.">
+      <message>L'utente si è disconnesso.</message>
+    </item>
+    <item id="Failed to establish chat with the other party.">
+      <message>Impossibile avviare chat con l'utente.</message>
+    </item>
+    <item id="The other party is not logged in.">
+      <message>L'utente non è connesso.</message>
+    </item>
+    <item id="Unknown Error">
+      <message>Erorre Sconosciuto</message>
+    </item>
+    <item id="Unable Establish Chat with own extension number">
+      <message>Nonè possibile eseguire una chat, con il proprio numero di interno</message>
+    </item>
+    <item id="Failed to launch VMA application.">
+      <message>Impossibile avviare applicazione VMA.</message>
+    </item>
+    <item id="Answer">
+      <message>Rispondi</message>
+    </item>
+    <item id="Drop">
+      <message>Rifiuta</message>
+    </item>
+    <item id="Dial Number">
+      <message>Numero</message>
+    </item>
+    <item id="Assistant">
+      <message>Assistente</message>
+    </item>
+    <item id="Business">
+      <message>Ufficio</message>
+    </item>
+    <item id="Business 2">
+      <message>Ufficio 2</message>
+    </item>
+    <item id="Callback">
+      <message>Richiama</message>
+    </item>
+    <item id="Car">
+      <message>Autovettura</message>
+    </item>
+    <item id="Company (Main)">
+      <message>Società (principale)</message>
+    </item>
+    <item id="Home 2">
+      <message>Abitazione 2</message>
+    </item>
+    <item id="ISDN">
+      <message>ISDN</message>
+    </item>
+    <item id="Mobile">
+      <message>Cellulare</message>
+    </item>
+    <item id="Other">
+      <message>Altro</message>
+    </item>
+    <item id="Primary">
+      <message>Principale</message>
+    </item>
+    <item id="Retrieving contact data.">
+      <message>Recupero dati contatto.</message>
+    </item>
+    <item id="Contact data limit reached.">
+      <message>Raggiunto limite dati contatto.</message>
+    </item>
+    <item id="Function name cannot be empty.">
+      <message>Nome funzione obbligatorio.</message>
+    </item>
+    <item id="Absent message cannot be empty.">
+      <message>Messaggio di assenza obbligatorio</message>
+    </item>
+    <item id="Please enter feature number.">
+      <message>Inserire il numero funzione.</message>
+    </item>
+    <item id="Are you sure you want to delete this function list?">
+      <message>Cancellare questo elenco funzioni?</message>
+    </item>
+    <item id="Redirect feature for incoming call does not work for ICD group call.">
+      <message>La redirezione per le chiamate entranti non funziona per Gruppo ICD.</message>
+    </item>
+    <item id="Public telephone number is modified automatically, when dial is copied from other application or call is made using contact list or history.">
+      <message>Il numero esterno viene modificato, quando viene copiato da un'altra applicazione o quando si chiama tramite lista contatti o cronologia.</message>
+    </item>
+    <item id="&lt;Explanation&gt;">
+      <message>&lt;Descrizione&gt;</message>
+    </item>
+    <item id="PBX system alarm can be sent to programmed e-mail address. Local alarm feature should be enabled for your extension by PBX Unified Maintenance Console.">
+      <message>L'allarme di centrale è possibile inviarlo tramite email. E' necessario aver abilitato la funzione di allarme locale sul proprio interno tramite la consolle di programmazione.</message>
+    </item>
+    <item id="Extension Setting">
+      <message>Impostazione Interno</message>
+    </item>
+    <item id="&amp;FWD/DND">
+      <message>&amp;DEV/ND</message>
+    </item>
+    <item id="Ext Pin Clear">
+      <message>Cancella PIN</message>
+    </item>
+    <item id="Wake Up Call">
+      <message>Imposta Sveglia</message>
+    </item>
+    <item id="Extension &amp;Lock">
+      <message>B&amp;locco Interno</message>
+    </item>
+    <item id="Extension &amp;Unlock">
+      <message>&amp;Sblocco Interno</message>
+    </item>
+    <item id="Clearing Extension PIN OK?">
+      <message>Cancellare il PIN?</message>
+    </item>
+    <item id="PC Console">
+      <message>PC Console</message>
+    </item>
+    <item id="Wake Up Call Setting">
+      <message>Impostazione Sveglia</message>
+    </item>
+    <item id="h">
+      <message>o</message>
+    </item>
+    <item id="Daily Setting">
+      <message>Impostazione giornaliera</message>
+    </item>
+    <item id="Daily">
+      <message>Giornaliera</message>
+    </item>
+    <item id="Once">
+      <message>1 Volta</message>
+    </item>
+    <item id="Number">
+      <message>Numero</message>
+    </item>
+    <item id="FWD/DND (Internal)">
+      <message>DEVIA/ND(Interno)</message>
+    </item>
+    <item id="FWD/DND (External)">
+      <message>DEVIA/ND(Esterno)</message>
+    </item>
+    <item id="Display Lock">
+      <message>Blocco Visualizzazione</message>
+    </item>
+    <item id="Dial Lock">
+      <message>Blocca Composizione</message>
+    </item>
+    <item id="Wake Up">
+      <message>Sveglia</message>
+    </item>
+    <item id="Lock">
+      <message>Blocca</message>
+    </item>
+    <item id="&amp;Unlock">
+      <message>&amp;Sblocco</message>
+    </item>
+    <item id="On">
+      <message>On</message>
+    </item>
+    <item id="Outside Line Group">
+      <message>Gruppo Linee Esterne</message>
+    </item>
+    <item id="Outside Line Number">
+      <message>Numero Linea Esterna</message>
+    </item>
+    <item id="Status">
+      <message>Stato</message>
+    </item>
+    <item id="Call secretary">
+      <message>Assistente</message>
+    </item>
+    <item id="Contact List Group:">
+      <message>Gruppi lista contatti:</message>
+    </item>
+    <item id="Contact List Groups">
+      <message>Gruppi Lista contatti</message>
+    </item>
+    <item id="&amp;New">
+      <message>&amp;Nuovo</message>
+    </item>
+    <item id="Move D&amp;own">
+      <message>Sposta &amp;Giù</message>
+    </item>
+    <item id="All">
+      <message>Tutti</message>
+    </item>
+    <item id="Customise">
+      <message>Personalizza</message>
+    </item>
+    <item id="Private">
+      <message>Privato</message>
+    </item>
+    <item id="Please enter a name">
+      <message>Immettere un nome</message>
+    </item>
+    <item id="Communication Assistant Pro">
+      <message>Communication Assistant Pro</message>
+    </item>
+    <item id="Are you sure you want to remove this record?">
+      <message>Rimuovere questo dato?</message>
+    </item>
+    <item id="Contact Group Name:">
+      <message>Nome gruppo:</message>
+    </item>
+    <item id="Chat call back">
+      <message>Richiamata chat</message>
+    </item>
+    <item id="is typing a message">
+      <message>stà scrivendo un messaggio</message>
+    </item>
+    <item id="Operator Console (CA Operator Console)">
+      <message>Console operatore (CA Operator Console)</message>
+    </item>
+    <item id="Use Network">
+      <message>Usa Rete</message>
+    </item>
+    <item id="IP Address of CA Server">
+      <message>Indirizzo CA Server</message>
+    </item>
+    <item id="Local Address">
+      <message>Primo</message>
+    </item>
+    <item id="Remote Address">
+      <message>Secondo</message>
+    </item>
+    <item id="FQDN Error">
+      <message>FQDN Errore</message>
+    </item>
+    <item id="You can log-in to Operator Console Trial for now">
+      <message>Per ora potete utilizzare Operator Console trial </message>
+    </item>
+    <item id="The number of license is not enough. Do you continue to login without network?">
+      <message>Numero di licenze non sufficienti. Proseguire con l'accesso senza la rete?</message>
+    </item>
+    <item id="Function Name:">
+      <message>Nome funzione:</message>
+    </item>
+    <item id="Function is executed automatically when CA is started.">
+      <message>La funzione viene eseguita automaticamente all'avvio di CA.</message>
+    </item>
+    <item id="Function is executed automatically when CA is closed.">
+      <message>La funzione viene eseguita automaticamente alla chiusura di CA.</message>
+    </item>
+    <item id="My Contact">
+      <message>Contatto personale</message>
+    </item>
+    <item id="Paging (Flexible)">
+      <message>Cercap(Fless)</message>
+    </item>
+    <item id="Account Code">
+      <message>Codice Conto</message>
+    </item>
+    <item id="Extension Call">
+      <message>Chiamata Interno</message>
+    </item>
+    <item id="Group Call">
+      <message>Chiamata Gruppo</message>
+    </item>
+    <item id="Paging (Fixed)">
+      <message>Cercap.(Fisso)</message>
+    </item>
+    <item id="Parameter:">
+      <message>Parametro:</message>
+    </item>
+    <item id="Label:">
+      <message>Etichetta:</message>
+    </item>
+    <item id="Please enter Group No.">
+      <message>Inserire il Numero del Gruppo</message>
+    </item>
+    <item id="CA Pro License is required">
+      <message>E' necessaria la licenza CA Pro</message>
+    </item>
+    <item id="Missing or unregistered client.">
+      <message>Client mancante o non registrato.</message>
+    </item>
+    <item id="Failed to open email software.">
+      <message>Impossibile aprire il programma Email.</message>
+    </item>
+    <item id="Name:">
+      <message>Nome:</message>
+    </item>
+    <item id="Find">
+      <message>Trova</message>
+    </item>
+    <item id="Call this contact">
+      <message>Chiama contatto</message>
+    </item>
+    <item id="Add to contact list">
+      <message>Aggiungi a lista contatti</message>
+    </item>
+    <item id="Email Address">
+      <message>Indirizzo Email</message>
+    </item>
+    <item id="Cannot connect to server.">
+      <message>Impossibile connettersi al server.</message>
+    </item>
+    <item id="No results found.">
+      <message>Nessun risultato.</message>
+    </item>
+    <item id="Number of search result exceeded the limit. Only first 100 results shown.">
+      <message>Numero di risultati di ricerca oltre il limite consentito. Sono visualizzati solo i primi 100.</message>
+    </item>
+    <item id="Error while searching for results.">
+      <message>Errore durante la ricerca di risultati.</message>
+    </item>
+    <item id="Cannot make call. No telephone number.">
+      <message>Non è possibile effettuare la chiamata. Nessun numero di telefono.</message>
+    </item>
+    <item id="&amp;New...">
+      <message>&amp;Nuovo...</message>
+    </item>
+    <item id="Cannot add more than 10 servers to list.">
+      <message>Non è possibile aggiungere più di 10 server alla lista.</message>
+    </item>
+    <item id="LDAP Server settings">
+      <message>Impostazioni Server LDAP</message>
+    </item>
+    <item id="Server Address:">
+      <message>Indirizzo Server:</message>
+    </item>
+    <item id="Port Number:">
+      <message>Numero Porta:</message>
+    </item>
+    <item id="Account Name:">
+      <message>Nome Account:</message>
+    </item>
+    <item id="Password:">
+      <message>Password :</message>
+    </item>
+    <item id="Use SSL">
+      <message>Usa SSL</message>
+    </item>
+    <item id="Ok">
+      <message>OK</message>
+    </item>
+    <item id="Server address cannot be empty.">
+      <message>Indirizzo server obbligatorio.</message>
+    </item>
+    <item id="Invalid port number.">
+      <message>Numero porta errato.</message>
+    </item>
+    <item id="Account name / password cannot be empty.">
+      <message>Nome account/password obbligatori.</message>
+    </item>
+    <item id="Park (Auto)">
+      <message>Parcheggio (Auto)</message>
+    </item>
+    <item id="Park (Manual)">
+      <message>Parcheggio (Manuale)</message>
+    </item>
+    <item id="Call waiting tone">
+      <message>Tono di avviso chiamata</message>
+    </item>
+    <item id="login now">
+      <message>accedi ora</message>
+    </item>
+    <item id="chat is disabled. Callback is cancelled.">
+      <message>chat disabilitata. Richiamata annullata.</message>
+    </item>
+    <item id="Extension">
+      <message>Interno</message>
+    </item>
+    <item id="Extension PIN Clear">
+      <message>Cancella PIN Interno</message>
+    </item>
+    <item id="Transfer to phone (Office): ">
+      <message>Trasferimento a telefono (Ufficio):</message>
+    </item>
+    <item id="Transfer to phone (Mobile): ">
+      <message>Trasferimento a telefono (Cellulare):</message>
+    </item>
+    <item id="Transfer to phone (Home): ">
+      <message>Trasferimento a telefono (Abitazione):</message>
+    </item>
+    <item id="Transfer to phone (secretary): ">
+      <message>Trasferta a Numero (Assistente):</message>
+    </item>
+    <item id="Email this contact">
+      <message>Invia un email al contatto</message>
+    </item>
+    <item id="Key-1">
+      <message>Tasto-1</message>
+    </item>
+    <item id="Key-2">
+      <message>Tasto-2</message>
+    </item>
+    <item id="Key-3">
+      <message>Tasto-3</message>
+    </item>
+    <item id="Key-4">
+      <message>Tasto-4</message>
+    </item>
+    <item id="Key-5">
+      <message>Tasto-5</message>
+    </item>
+    <item id="Key-6">
+      <message>Tasto-6</message>
+    </item>
+    <item id="Key-7">
+      <message>Tasto-7</message>
+    </item>
+    <item id="Key-8">
+      <message>Tasto-8</message>
+    </item>
+    <item id="Key-9">
+      <message>Tasto-9</message>
+    </item>
+    <item id="Key-10">
+      <message>Tasto-10</message>
+    </item>
+    <item id="Key-11">
+      <message>Tasto-11</message>
+    </item>
+    <item id="Key-12">
+      <message>Tasto-12</message>
+    </item>
+    <item id="Select by group number">
+      <message>Selezione per numero gruppo</message>
+    </item>
+    <item id="Group number: 01">
+      <message>Numero gruppo: 01</message>
+    </item>
+    <item id="Group number: 02">
+      <message>Numero gruppo: 02</message>
+    </item>
+    <item id="Group number: 03">
+      <message>Numero gruppo: 03</message>
+    </item>
+    <item id="Group number: 04">
+      <message>Numero gruppo: 04</message>
+    </item>
+    <item id="Group number: 05">
+      <message>Numero gruppo: 05</message>
+    </item>
+    <item id="Group number: 06">
+      <message>Numero gruppo: 06</message>
+    </item>
+    <item id="Group number: 07">
+      <message>Numero gruppo: 07</message>
+    </item>
+    <item id="Group number: 08">
+      <message>Numero gruppo: 08</message>
+    </item>
+    <item id="Group number: 09">
+      <message>Numero gruppo: 09</message>
+    </item>
+    <item id="Group number: 10">
+      <message>Numero gruppo: 10</message>
+    </item>
+    <item id="Group number: 11">
+      <message>Numero gruppo: 11</message>
+    </item>
+    <item id="Group number: 12">
+      <message>Numero gruppo: 12</message>
+    </item>
+    <item id="Group number: 13">
+      <message>Numero gruppo: 13</message>
+    </item>
+    <item id="Group number: 14">
+      <message>Numero gruppo: 14</message>
+    </item>
+    <item id="Group number: 15">
+      <message>Numero gruppo: 15</message>
+    </item>
+    <item id="Group number: 16">
+      <message>Numero gruppo: 16</message>
+    </item>
+    <item id="Group number: 17">
+      <message>Numero gruppo: 17</message>
+    </item>
+    <item id="Group number: 18">
+      <message>Numero gruppo: 18</message>
+    </item>
+    <item id="Group number: 19">
+      <message>Numero gruppo: 19</message>
+    </item>
+    <item id="Group number: 20">
+      <message>Numero gruppo: 20</message>
+    </item>
+    <item id="Group number: 21">
+      <message>Numero gruppo: 21</message>
+    </item>
+    <item id="Group number: 22">
+      <message>Numero gruppo: 22</message>
+    </item>
+    <item id="Group number: 23">
+      <message>Numero gruppo: 23</message>
+    </item>
+    <item id="Group number: 24">
+      <message>Numero gruppo: 24</message>
+    </item>
+    <item id="Group number: 25">
+      <message>Numero gruppo: 25</message>
+    </item>
+    <item id="Group number: 26">
+      <message>Numero gruppo: 26</message>
+    </item>
+    <item id="Group number: 27">
+      <message>Numero gruppo: 27</message>
+    </item>
+    <item id="Group number: 28">
+      <message>Numero gruppo: 28</message>
+    </item>
+    <item id="Group number: 29">
+      <message>Numero gruppo: 29</message>
+    </item>
+    <item id="Group number: 30">
+      <message>Numero gruppo: 30</message>
+    </item>
+    <item id="Group number: 31">
+      <message>Numero gruppo: 31</message>
+    </item>
+    <item id="Group number: 32">
+      <message>Numero gruppo: 32</message>
+    </item>
+    <item id="Please enter Group Number.">
+      <message>Immettere il numero del gruppo.</message>
+    </item>
+    <item id="&amp;Edit...">
+      <message>&amp;Modifica...</message>
+    </item>
+    <item id="Please enter a group name.">
+      <message>Immettere il nome di un gruppo.</message>
+    </item>
+    <item id="Unable load user Profile.">
+      <message>Impossibile caricare profilo utente.</message>
+    </item>
+    <item id="Request Fail.">
+      <message>Richiesta non riuscita.</message>
+    </item>
+    <item id="Fail to connect to the selected Network Server.">
+      <message>Impossibile connettersi al server di rete selezionato.</message>
+    </item>
+    <item id="Network Call Flag">
+      <message>Flag chiamata rete</message>
+    </item>
+    <item id="Connection with Network Server is Disconnected, CA will connect back to Own Server.">
+      <message>Connessione al server di rete non disponibile, CA si ricollegherà al proprio server.</message>
+    </item>
+    <item id="Call Park">
+      <message>Parcheggio</message>
+    </item>
+    <item id="Park Number">
+      <message>Numero parcheggio</message>
+    </item>
+    <item id="Function Name">
+      <message>Nome funzione</message>
+    </item>
+    <item id="Start date and time">
+      <message>Data e ora di inizio</message>
+    </item>
+    <item id="End date and time">
+      <message>Data e ora di fine</message>
+    </item>
+    <item id="Function List - Schedule">
+      <message>Elenco funzioni - Pianifica</message>
+    </item>
+    <item id="Function name for End :">
+      <message>Nome funzione per Fine:</message>
+    </item>
+    <item id="Callback message was cancelled for the timeout.">
+      <message>Richiesta di prenotazione cancellata per timeout.</message>
+    </item>
+    <item id="Outside Line : ">
+      <message>Linea esterna: </message>
+    </item>
+    <item id="DEFAULT LDAP SRV">
+      <message>SRV LDAP PREDEF.</message>
+    </item>
+    <item id="Searching for LDAP contacts...">
+      <message>Ricerca contatti LDAP in corso...</message>
+    </item>
+    <item id="Connecting to LDAP server...">
+      <message>Connessione al server LDAP in corso...</message>
+    </item>
+    <item id="Location:">
+      <message>Posizione:</message>
+    </item>
+    <item id="LDAP Location List">
+      <message>Elenco posizioni LDAP</message>
+    </item>
+    <item id="Are you sure you want to delete this location?">
+      <message>Eliminare questa posizione?</message>
+    </item>
+    <item id="Cannot add new location. Location already exists. Do you want to edit existing location instead?">
+      <message>Impossibile aggiungere la nuova posizione. Posizione già esistente. Modificare un nome di posizione esistente?</message>
+    </item>
+    <item id="Location cannot be empty.">
+      <message>La posizione non può essere vuota.</message>
+    </item>
+    <item id="Location cannot be the same as server address.">
+      <message>La posizione deve essere diversa dall'indirizzo server.</message>
+    </item>
+    <item id="&amp;LDAP Link">
+      <message>Collegamento &amp;LDAP</message>
+    </item>
+    <item id="Function Key:">
+      <message>Tasti funzione:</message>
+    </item>
+    <item id="Outside &amp;Line Group">
+      <message>Gruppo &amp;linee esterne</message>
+    </item>
+    <item id="Incoming Group">
+      <message>Gruppo (ICD)</message>
+    </item>
+    <item id="Icon">
+      <message>Icona</message>
+    </item>
+    <item id="List">
+      <message>Elenco</message>
+    </item>
+    <item id="Contact List Display Format">
+      <message>Formato visualizzazione lista contatti</message>
+    </item>
+    <item id="This is the default group. Default group cannot be deleted.">
+      <message>Questo è il gruppo predefinito e non può essere eliminato.</message>
+    </item>
+    <item id="The password supplied does not meet the minimum complexity requirement. \n Please select another password that meet all of the following  criteria: \n -is at least 5 characters; \n-not same as extension number;\n-must contains different data types (nemera">
+      <message>La password inserita non corrisponde ai requisiti richiesti. \n Inserire un'altra password con i seguenti criteri: \n -almeno 5 caratteri; \n-non uguale al numero di interno;\n-deve contenere dati differenti (numeri[0-9]; lettere[A-Z,a-z]; simboli[*,#].</message>
+    </item>
+    <item id="The maximum contact group had been registered. To add a new contact group, please delete some contact group.">
+      <message>È stata inserita la quantità massima di gruppi di contatti. Per aggiungere un nuovo gruppo contatti, eliminarne almeno uno.</message>
+    </item>
+    <item id="Cannot log in. This may be cause by one of the following causes: \n -you entered an incorrect password \n -The extension number does not exist.">
+      <message>Impossibile accedere. Possibili cause: \n -password non corretta \n -numero di interno non esistente. </message>
+    </item>
+    <item id="Unable to set user profile.">
+      <message>Impossibile impostare profilo utente</message>
+    </item>
+    <item id="Uable to delete the selected user profile.">
+      <message>Impossibile eliminare il profilo utente selezionato.</message>
+    </item>
+    <item id="Available Contact">
+      <message>Contatti disponibili</message>
+    </item>
+    <item id="Available Contact (External Server Mode Only)">
+      <message>Contatti disponibili (Solo modalità server esterno)</message>
+    </item>
+    <item id="Secretary">
+      <message>Segretaria</message>
+    </item>
+    <item id="Duration : ">
+      <message>Durata: </message>
+    </item>
+    <item id="Absent Message Icon List">
+      <message>Elenco icone Messaggio di Assenza</message>
+    </item>
+    <item id="Do Not Disturb Icon">
+      <message>Icona Non disturbare</message>
+    </item>
+    <item id="Are you sure want to delete?">
+      <message>Eliminare?</message>
+    </item>
+    <item id="Add">
+      <message>Aggiungi</message>
+    </item>
+    <item id="Fail to forward. Phone number is exceeded 32 digits">
+      <message>Deviazione non riuscita. Il numero di telefono supera le 32 cifre</message>
+    </item>
+    <item id="Acquiring Ldap info from server.">
+      <message>Acquisizione dati da LDAP Server</message>
+    </item>
+    <item id="Unable to get Ldap info from Server.">
+      <message>Non è possibile acquisire dati da LDAP Server</message>
+    </item>
+    <item id="&amp;Location:">
+      <message>&amp;Locazione:</message>
+    </item>
+    <item id="Clear Forward / Do Not Disturb">
+      <message>Annulla Devia/Non Disturbare</message>
+    </item>
+    <item id="Forward VM : ">
+      <message>Devia a Voice Mail: </message>
+    </item>
+    <item id="Forward Phone (Home) : ">
+      <message>Devia a Telefono (Abitaz.): </message>
+    </item>
+    <item id="Forward Phone (Mobile) : ">
+      <message>Devia a Telefono (Cellulare): </message>
+    </item>
+    <item id="Forward Phone (Secretary) : ">
+      <message>Devia a Telefono (Segr.): </message>
+    </item>
+    <item id="Advanced setting">
+      <message>Impostazioni avanzate</message>
+    </item>
+    <item id="Connection to the PBX is lost. Call control functions will no longer work.">
+      <message>Collegamento con la centrale perso. Il controllo delle chiamate non funziona.</message>
+    </item>
+    <item id="Connection to the PBX has been regained.">
+      <message>Il collegamento con la centrale è stato ristabilito.</message>
+    </item>
+    <item id="&amp;Log-in">
+      <message>&amp;Log-in</message>
+    </item>
+    <item id="Log-&amp;out">
+      <message>Log-&amp;out</message>
+    </item>
+    <item id="&amp;More">
+      <message>&amp;Altro</message>
+    </item>
+    <item id="Call phone (&amp;Office): ">
+      <message>Numero Telefono (&amp;Ufficio):</message>
+    </item>
+    <item id="Call phone (&amp;Mobile): ">
+      <message>Numero Telefono (&amp;Cellulare):</message>
+    </item>
+    <item id="Call phone (Hom&amp;e): ">
+      <message>Numero Telefono (&amp;Abitazione):</message>
+    </item>
+    <item id="Transfer to phone (&amp;Office): ">
+      <message>Trasferta a Numero (&amp;Ufficio):</message>
+    </item>
+    <item id="Transfer to phone (&amp;Mobile): ">
+      <message>Trasferta a Numero (&amp;Cellulare):</message>
+    </item>
+    <item id="Transfer to phone (Hom&amp;e): ">
+      <message>Trasferta a Numero (&amp;Abitazione):</message>
+    </item>
+    <item id="Call phone (Secretar&amp;y): ">
+      <message>Numero Telefono (Assistent&amp;e):</message>
+    </item>
+    <item id="Leave vo&amp;ice message">
+      <message>Lascia Messaggio Vo&amp;cale</message>
+    </item>
+    <item id="Se&amp;nd E-mail : ">
+      <message>Invia E&amp;mail:</message>
+    </item>
+    <item id="Access &amp;Web">
+      <message>Accesso &amp;Web</message>
+    </item>
+    <item id="Start c&amp;hat">
+      <message>Avvia C&amp;hat</message>
+    </item>
+    <item id="Chat call &amp;back">
+      <message>&amp;Richiamata Chat</message>
+    </item>
+    <item id="Transfer to phone (Secretar&amp;y): ">
+      <message>Trasferta a Numero (Assistent&amp;e):</message>
+    </item>
+    <item id="&amp;Get Latest Report">
+      <message>&amp;Ultimo Report</message>
+    </item>
+    <item id="Extension &amp;Pin Clear">
+      <message>Cancellazione &amp;PIN Interno </message>
+    </item>
+    <item id="&amp;Wake Up">
+      <message>Pro&amp;memoria</message>
+    </item>
+    <item id="&amp;Absent Message ">
+      <message>Messaggio &amp;Assenza</message>
+    </item>
+    <item id="&amp;Extension">
+      <message>Int&amp;erno</message>
+    </item>
+    <item id="&amp;Lock">
+      <message>B&amp;locco</message>
+    </item>
+    <item id="&amp;Wake Up Call">
+      <message>Chiamata Pro&amp;memoria</message>
+    </item>
+    <item id="Ext &amp;Pin Clear">
+      <message>Elimina &amp;PIN Interno</message>
+    </item>
+    <item id="&amp;Call this contact">
+      <message>&amp;Chiama questo contatto</message>
+    </item>
+    <item id="&amp;Add to contact list">
+      <message>&amp;Aggiungi a lista contatti</message>
+    </item>
+    <item id="&amp;Email this contact">
+      <message>&amp;Email questo contatto</message>
+    </item>
+    <item id="&amp;Name:">
+      <message>&amp;Nome:</message>
+    </item>
+    <item id="Please select another password with at least 5 characters, not same as \nextension number, and contains at least two of the following three character \ngroups: English uppercase (A through Z) or lowercase (a through z) characters; \nNumerals (0-9); Non-alphabetic characters (*,#).">
+      <message>Selezionare un'altra password che contenga almeno 5 caratteri, diversa dal \nnumero di estensione e che contenga almeno due dei tre gruppi di caratteri \nseguenti: caratteri maiuscoli (da A a Z) o minuscoli (da a a z); \nnumeri (0-9); caratteri non alfabetici (*,#).</message>
+    </item>
+    <item id="Server is busy. Please try to login later.">
+      <message>Server occupato. Riprovare più tardi.</message>
+    </item>
+    <item id="Option">
+      <message>Opzioni</message>
+    </item>
+    <item id="Forward/Do Not Disturb">
+      <message>Devia/Non disturbare</message>
+    </item>
+    <item id="Cannot log in. This may be caused by one of the following causes: \n - you entered an incorrect password \n - the extension number does not exist.">
+      <message>Impossibile effettuare il log in. Possibili cause: \n - la password digitata non è corretta \n - numero di interno inesistente.</message>
+    </item>
+    <item id="Unable to load User Profile.">
+      <message>Impossibile caricare Profilo Utente.</message>
+    </item>
+    <item id="Language file not found, CA will use default language (English)">
+      <message>File della lingua non trovato. La centrale utilizzerà l'impostazione predefinita della lingua (Inglese)</message>
+    </item>
+    <item id="&amp;Add">
+      <message>&amp;Aggiungi</message>
+    </item>
+    <item id="A&amp;dd">
+      <message>A&amp;ggiungi</message>
+    </item>
+    <item id="De&amp;lete">
+      <message>El&amp;imina</message>
+    </item>
+    <item id="Dele&amp;te">
+      <message>Elimi&amp;na</message>
+    </item>
+    <item id="&amp;Server Address:">
+      <message>&amp;Indirizzo Server:</message>
+    </item>
+    <item id="Port &amp;Number:">
+      <message>Numero &amp;Porta:</message>
+    </item>
+    <item id="&amp;Account Name:">
+      <message>&amp;Nome Account:</message>
+    </item>
+    <item id="&amp;Password:">
+      <message>&amp;Password:</message>
+    </item>
+    <item id="Advanced Setting">
+      <message>Impostaz. Avanzate</message>
+    </item>
+    <item id="Server is busy, Please try later.">
+      <message>Server occupato. Riprovare più tardi.</message>
+    </item>
+    <item id="The image file is not valid, CA is unable to load the image file.">
+      <message>Il file immagine non è valido. La centrale non è in grado di caricare il file immagine.</message>
+    </item>
+    <item id="Dutch">
+      <message>Nederlands</message>
+    </item>
+    <item id="Polish">
+      <message>Polski</message>
+    </item>
+    <item id="Croatian ">
+      <message>Hrvatski</message>
+    </item>
+    <item id="Hungarian ">
+      <message>Magyar</message>
+    </item>
+    <item id="Czech ">
+      <message>Česky</message>
+    </item>
+    <item id="PBX Connection Lost …">
+      <message>Collegamento con la centrale perso...</message>
+    </item>
+    <item id="Log-in to the group">
+      <message>Log-in nel gruppo</message>
+    </item>
+    <item id="Log-out from the group">
+      <message>Log-out dal gruppo</message>
+    </item>
+    <item id="Se&amp;nd E-mail: ">
+      <message>Invia E-mail</message>
+    </item>
+    <item id="Start C&amp;hat">
+      <message>Avvia chat</message>
+    </item>
+    <item id="Save">
+      <message>Salva</message>
+    </item>
+    <item id="&amp;Extension Setting">
+      <message>Impostazione Interno</message>
+    </item>
+    <item id="Phone (Secretary):">
+      <message>Telefono (Segretaria):</message>
+    </item>
+    <item id="Cannot login PBX mode in Thin Client environment.">
+      <message>Impossibile effettuare il login in modalità PBX in ambiente Thin Client.</message>
+    </item>
+    <item id="Local Alarm Message:">
+      <message>Messaggio Allarme Locale:</message>
+    </item>
+    <item id="&amp;Speed Dial">
+      <message>&amp;Numeri Brevi</message>
+    </item>
+    <item id="Call phone (Secretary): ">
+      <message>Chiamata telefono (Segretaria): </message>
+    </item>
+    <item id="&amp;Ok">
+      <message>&amp;OK</message>
+    </item>
+    <item id="Total Incoming Call">
+      <message>Totale Entranti</message>
+    </item>
+    <item id="Overflow Call">
+      <message>Chiamate eccessive</message>
+    </item>
+    <item id="Average Waiting Time">
+      <message>Tempo Attesa Media</message>
+    </item>
+    <item id="This Console feature is beta version.">
+      <message>Questa funzione della console è in versione beta.</message>
+    </item>
+    <item id="Communication Assistant failed to log in.\nPlease try to log in again.">
+      <message>Communication Assistant non può accedere.\nRiprovare l'accesso.</message>
+    </item>
+    <item id="&amp;View this contact">
+      <message>&amp;Visualizza questo contatto</message>
+    </item>
+    <item id="Open Doo&amp;r">
+      <message>ApriPor&amp;ta</message>
+    </item>
+    <item id="Open Door">
+      <message>ApriPorta</message>
+    </item>
+    <item id="Call D&amp;oorphone">
+      <message>ChiamaC&amp;itofono</message>
+    </item>
+    <item id="Call Doorphone">
+      <message>ChiamaCitofono</message>
+    </item>
+    <item id="Search / Dial">
+      <message>Cerca/Compos.</message>
+    </item>
+    <item id="Combine Search and Dial">
+      <message>Combina Cerca e Compos.</message>
+    </item>
+    <item id="Call Control Display Mode">
+      <message>Modo visual./Contr.chiam.</message>
+    </item>
+    <item id="Extension Setting Authentication Setting">
+      <message>Impostaz. autenticaz./Impostaz. interno</message>
+    </item>
+    <item id="Settings below are needed to get information from PBX">
+      <message>Impost. seguenti necessarie per ottenere info da PBX</message>
+    </item>
+    <item id="Maintenance Port Number">
+      <message>Numero porta manutenz.</message>
+    </item>
+    <item id="Absent message is assigned automatically when PC is not used pre programmed time.">
+      <message>Se non si usa il computer per la durata impostata, è configurato "Msg Assenza".</message>
+    </item>
+    <item id="Unable to establish chat with own extension number.">
+      <message>Imposs. avviare chat con proprio num. di interno.</message>
+    </item>
+    <item id="Contact list successfully exported.">
+      <message>Esportaz. lista contatti riuscita.</message>
+    </item>
+    <item id="Contact list unable to export. An error occur during the exportation">
+      <message>Si è verificato un errore. Impossibile esportare lista contatti.</message>
+    </item>
+    <item id="Use Extension Setting feature">
+      <message>Usa Impostazione estensione</message>
+    </item>
+    <item id="\&quot;Extension Setting\&quot; menu is not available temporarily because PBX information is not retrieved.\nPlease ask your PBX administrator.">
+      <message>\"Impostazione estensione\" non è disponibile perché non sono state recuperate le info PBX.\nContattare l'amministratore PBX.</message>
+    </item>
+    <item id="Automatic unscreened transfer">
+      <message>Trasfer. non schermato autom</message>
+    </item>
+    <item id="Automatic Unscreened Transfer for Operator Console">
+      <message>Trasfer. non scherm. autom. per console operatore</message>
+    </item>
+    <item id="Standard user (CA Basic-Express)">
+      <message>Utente Standard (CA Basic-Express)</message>
+    </item>
+    <item id="You can log-in to Basic-Express mode for now">
+      <message>Per ora è possibile accedere a alla modalità Basic-Express </message>
+    </item>
+    <item id="Limitations for Basic-Express mode:">
+      <message>Limitazioni per la modalità Basic-Express:</message>
+    </item>
+    <item id="Sound">
+      <message>Audio</message>
+    </item>
+    <item id="Mute">
+      <message>Disattiva audio</message>
+    </item>
+    <item id="Move to Dial Box">
+      <message>Sposta nella tastiera virtuale</message>
+    </item>
+    <item id="Answer">
+      <message>Rispondi</message>
+    </item>
+    <item id="Redirect">
+      <message>Trasferisci</message>
+    </item>
+    <item id="Write Memo">
+      <message>Scrivi memo</message>
+    </item>
+    <item id="Set Call Back">
+      <message>Imposta richiamata</message>
+    </item>
+    <item id="Call waiting tone">
+      <message>Tono di avviso chiamata</message>
+    </item>
+    <item id="Listen in">
+      <message>Ascolta</message>
+    </item>
+    <item id="Override(Conference)">
+      <message>Inclusione (conferenza)</message>
+    </item>
+    <item id="Take Over">
+      <message>Togli</message>
+    </item>
+    <item id="Start Chat">
+      <message>Avvia chat</message>
+    </item>
+    <item id="Move Call focus(up)">
+      <message>Sposta destinazione chiamata (verso l’alto)</message>
+    </item>
+    <item id="Move Call focus(down)">
+      <message>Sposta destinazione chiamata (verso il basso)</message>
+    </item>
+    <item id="Group Conference">
+      <message>Conferenza di gruppo</message>
+    </item>
+    <item id="Total length of Email-to-SMS address(es) exceeded the maximum limit.\n\nYour Email-to-SMS address(es) may be truncated.">
+      <message>La lunghezza totale degli indirizzi E-mail a SMS supera il limite massimo.\n\nGli indirizzi E-mail a SMS possono risultare troncati.</message>
+    </item>
+    <item id="Office">
+      <message>Ufficio</message>
+    </item>
+    <item id="PBX Code">
+      <message>Codice PBX</message>
+    </item>
+    <item id="Mobile">
+      <message>Cellulare</message>
+    </item>
+    <item id="Home">
+      <message>Abitazione</message>
+    </item>
+    <item id="Secretary">
+      <message>Segretaria</message>
+    </item>
+    <item id="&amp;Office">
+      <message>&amp;Ufficio</message>
+    </item>
+    <item id="&amp;PBX Code">
+      <message>Codice &amp;PBX</message>
+    </item>
+    <item id="Mo&amp;bile">
+      <message>Ce&amp;llulare</message>
+    </item>
+    <item id="&amp;Home">
+      <message>&amp;Abitazione</message>
+    </item>
+    <item id="&amp;Secretary">
+      <message>&amp;Segretaria</message>
+    </item>
+    <item id="&amp;E-mail">
+      <message>&amp;E-mail</message>
+    </item>
+    <item id="S&amp;MS">
+      <message>S&amp;MS</message>
+    </item>
+    <item id="CRM Integration">
+      <message>Integrazione CRM</message>
+    </item>
+    <item id="Add Member To Co&amp;nference">
+      <message>Aggiungi membro a co&amp;nferenza</message>
+    </item>
+    <item id="Conference Group">
+      <message>Gruppo conferenza</message>
+    </item>
+    <item id="Conference Room">
+      <message>Conference Room</message>
+    </item>
+    <item id="ID">
+      <message>ID</message>
+    </item>
+    <item id="Conference Setting">
+      <message>Impostazioni conferenza</message>
+    </item>
+    <item id="Name:">
+      <message>Nome:</message>
+    </item>
+    <item id="PIN:">
+      <message>PIN:</message>
+    </item>
+    <item id="Number:">
+      <message>Numero:</message>
+    </item>
+    <item id="Add New Member">
+      <message>Aggiungi nuovo membro</message>
+    </item>
+    <item id="Number already exist">
+      <message>Il numero esiste già.</message>
+    </item>
+    <item id="&amp;End Conference">
+      <message>T&amp;ermina conferenza</message>
+    </item>
+    <item id="You are invited to this conference. Do you want to accept?">
+      <message>Siete stati invitati a questa conferenza. Accettare?</message>
+    </item>
+    <item id="Invitation">
+      <message>Invito</message>
+    </item>
+    <item id="Join">
+      <message>Partecipa</message>
+    </item>
+    <item id="Start">
+      <message>Avvia</message>
+    </item>
+    <item id="Disconnect">
+      <message>Termina</message>
+    </item>
+    <item id="32 (Default: one-way)">
+      <message>32 (predefinito: unidirezionale)</message>
+    </item>
+    <item id="8 (Default: two-way)">
+      <message>8 (predefinito: bidirezionale)</message>
+    </item>
+    <item id="I would like to join this conference.\nCould you please add me into this conference?">
+      <message>Vorrei partecipare alla conferenza.\nPotreste aggiungermi alla conferenza?</message>
+    </item>
+    <item id="Empty Slot - Add Party">
+      <message>Spazio vuoto - Aggiungi utente</message>
+    </item>
+    <item id="Empty Slot">
+      <message>Spazio vuoto</message>
+    </item>
+    <item id="Invite">
+      <message>Invita</message>
+    </item>
+    <item id="Yes">
+      <message>Sì</message>
+    </item>
+    <item id="No">
+      <message>No</message>
+    </item>
+    <item id="Server is busy. Please try again later.">
+      <message>Server occupato. Riprovare più tardi.</message>
+    </item>
+    <item id="Conference members exceed the limit.">
+      <message>Il numero dei membri della conferenza supera il limite massimo.</message>
+    </item>
+    <item id="Please wait...">
+      <message>Attendere prego…</message>
+    </item>
+    <item id="Conference room is not available.">
+      <message>Conference room non disponibile.</message>
+    </item>
+    <item id="No member in conference room.">
+      <message>Nessun membro nella Conference room.</message>
+    </item>
+    <item id="Invalid group number.">
+      <message>Numero di gruppo non valido.</message>
+    </item>
+    <item id="Network is busy.">
+      <message>Rete occupata.</message>
+    </item>
+    <item id="Failed to start conference.">
+      <message>Impossibile avviare la conferenza.</message>
+    </item>
+    <item id="Do you want to remove this user from the conference?">
+      <message>Rimuovere questo utente dalla conferenza?</message>
+    </item>
+    <item id="Do you want to disconnect this member from the conference?">
+      <message>Scollegare questo membro dalla conferenza?</message>
+    </item>
+    <item id="Conference details already deleted.">
+      <message>I dettagli sulla conferenza sono già stati eliminati.</message>
+    </item>
+    <item id="The current members will be removed and replaced by new data. Do you want to continue?">
+      <message>I membri correnti verranno eliminati e verranno sostituiti da dati nuovi. Continuare?</message>
+    </item>
+    <item id="Exceed maximum no. of group.">
+      <message>È stato superato il numero di gruppi massimo.</message>
+    </item>
+    <item id="Do you want to end the conference?">
+      <message>Terminare la conferenza?</message>
+    </item>
+    <item id="Own extension is not allowed.">
+      <message>Numeri di interni personali non consentiti.</message>
+    </item>
+    <item id="The initiator is not CA user. Join cannot be done. Please dial the number which the conference initiator informed to you to join this conference.">
+      <message>L'iniziatore non è un utente CA. Impossibile partecipare. Comporre il numero inviato dall'iniziatore per partecipare a questa conferenza.</message>
+    </item>
+    <item id="Sorry, you are not able to join this conference.">
+      <message>Impossibile partecipare a questa conferenza.</message>
+    </item>
+    <item id="Are you sure you want to delete?">
+      <message>Cancellare?</message>
+    </item>
+    <item id="Name already exist.">
+      <message>Il nome esiste già.</message>
+    </item>
+    <item id="Do you want to save conference member?">
+      <message>Salvare il membro della conferenza?</message>
+    </item>
+    <item id="Some of the items could not be added due to the reasons below:\n\n* Invalid contact type.\n* Duplicated phone number.\n* Own number is added.\n* Exceed the maximum member limit.\n* No phone number found.">
+      <message>Non è stato possibile aggiungere alcune delle voci a causa delle ragioni seguenti:\n\n* Tipo di contatto non valido.\n* Numero di telefono duplicato.\n* È stato aggiunto il proprio numero di telefono.\n* È stato superato il limite massimo di membri.\n* Non è stato individuato alcun numero di telefono.</message>
+    </item>
+    <item id="Normal">
+      <message>Normale</message>
+    </item>
+    <item id="Mute">
+      <message>Disattiva audio</message>
+    </item>
+    <item id="Send E-mail 1">
+      <message>Invia E-mail 1</message>
+    </item>
+    <item id="Send E-mail 1:">
+      <message>Invia E-mail 1:</message>
+    </item>
+    <item id="Send &amp;E-mail 1:">
+      <message>Invia &amp;E-mail 1:</message>
+    </item>
+    <item id="Send E-mail 2:">
+      <message>Invia E-mail 2:</message>
+    </item>
+    <item id="Se&amp;nd E-mail 2:">
+      <message>I&amp;nvia E-mail 2:</message>
+    </item>
+    <item id="E-mail 1:">
+      <message>E-mail 1:</message>
+    </item>
+    <item id="E-mail 1">
+      <message>E-mail 1</message>
+    </item>
+    <item id="&amp;E-mail 1">
+      <message>&amp;E-mail 1</message>
+    </item>
+    <item id="E-&amp;mail 2">
+      <message>E-&amp;mail 2</message>
+    </item>
+    <item id="E-mail 2:">
+      <message>E-mail 2:</message>
+    </item>
+    <item id="E-mail 2">
+      <message>E-mail 2</message>
+    </item>
+    <item id="Search All">
+      <message>Cerca tutto</message>
+    </item>
+    <item id="Search">
+      <message>Ricerca</message>
+    </item>
+    <item id="Call">
+      <message>Chiama</message>
+    </item>
+    <item id="E-mail">
+      <message>E-mail</message>
+    </item>
+    <item id="Contact List">
+      <message>Lista contatti</message>
+    </item>
+    <item id="Search CA contacts">
+      <message>Cerca contatti CA</message>
+    </item>
+    <item id="Search LDAP contacts from following LDAP server">
+      <message>Cerca contatti LDAP dal server LDAP seguente</message>
+    </item>
+    <item id="&amp;Call this contact">
+      <message>&amp;Chiama questo contatto</message>
+    </item>
+    <item id="&amp;Email this contact">
+      <message>&amp;Email questo contatto</message>
+    </item>
+    <item id="&amp;Add to contact list">
+      <message>&amp;Aggiungi a lista contatti</message>
+    </item>
+    <item id="Location">
+      <message>Locazione</message>
+    </item>
+    <item id="&amp;Location">
+      <message>&amp;Locazione</message>
+    </item>
+    <item id="No result found.">
+      <message>Nessun risultato.</message>
+    </item>
+    <item id="No contact available to export.">
+      <message>Nessun contatto disponibile per l’esportazione.</message>
+    </item>
+    <item id="Changes on the Network Server setting will reflect only in the next login.">
+      <message>Le modifiche alle impostazioni del server di rete verranno applicate solo dopo l’accesso successivo.</message>
+    </item>
+    <item id="All the my list contacts belong to this group will be deleted. \nAre you sure you want to remove this record?">
+      <message>Verranno eliminati tutti i contatti della lista personale che appartengono a questo gruppo. \Rimuovere questo record?</message>
+    </item>
+    <item id="The maximum my list had been registered.To add a new my list,please delete some my list.">
+      <message>È stato raggiunto il numero massimo di liste personali. Per aggiungere nuove liste, eliminare alcune delle liste esistenti.</message>
+    </item>
+    <item id="Location:">
+      <message>Locazione:</message>
+    </item>
+    <item id="Amount of contacts that you attempt to add is over the limit. To make new contacts, please delete some contacts in the contact list.">
+      <message>È stato superato il limite massimo di numeri di contatti da aggiungere. Per creare nuovi contatti, eliminare alcuni dei contatti presenti nella lista.</message>
+    </item>
+    <item id="Please specify a value between 1 and 65535.">
+      <message>Specificare un valore compreso tra 1 e 65535.</message>
+    </item>
+    <item id="No port number has been entered. Please enter a valid port number.">
+      <message>Numero di porta non inserito. Inserire un numero di porta valido.</message>
+    </item>
+    <item id="PBX Name">
+      <message>Nome PBX</message>
+    </item>
+    <item id="Add to My List">
+      <message>Aggiungi a lista personale</message>
+    </item>
+    <item id="Network Server">
+      <message>Server di rete</message>
+    </item>
+    <item id="Network Server Information">
+      <message>Informazioni sul server di rete</message>
+    </item>
+    <item id="Current Status">
+      <message>Stato corrente</message>
+    </item>
+    <item id="S&amp;earch All">
+      <message>C&amp;erca tutto</message>
+    </item>
+    <item id="Items">
+      <message>Voci</message>
+    </item>
+    <item id="My List">
+      <message>Lista personale</message>
+    </item>
+    <item id="S&amp;earch All">
+      <message>C&amp;erca tutto</message>
+    </item>
+    <item id="MPR version is not supported.">
+      <message>Versione MPR non supportata.</message>
+    </item>
+    <item id="Operation failed.">
+      <message>Operazione non riuscita.</message>
+    </item>
+    <item id="Pickup">
+      <message>Rilascia risposta</message>
+    </item>
+    <item id="C&amp;onference">
+      <message>C&amp;onferenza</message>
+    </item>
+    <item id="CRM Integration">
+      <message>Integrazione CRM</message>
+    </item>
+    <item id="Enable CRM Integration">
+      <message>Abilita integrazione CRM</message>
+    </item>
+    <item id="Select format:">
+      <message>Seleziona formato:</message>
+    </item>
+    <item id="Select folder:">
+      <message>Seleziona cartella:</message>
+    </item>
+    <item id="Browse...">
+      <message>Sfoglia…</message>
+    </item>
+    <item id="The output file path is empty. Please try again!">
+      <message>Percorso file di output vuoto. Riprovare.</message>
+    </item>
+    <item id="Invalid output file path. Please try again!">
+      <message>Percorso file di output non valido. Riprovare.</message>
+    </item>
+    <item id="The output file path is not accessible. Please try again!">
+      <message>Impossibile accedere al percorso del file di output. Riprovare.</message>
+    </item>
+    <item id="The CRM Integration output file path set in Option is not accessible. \nThe CRM Integration might not work correctly.">
+      <message>Impossibile accedere al percorso del file di output di integrazione CRM impostato in Opzione. \nL'integrazione CRM potrebbe non funzionare correttamente.</message>
+    </item>
+    <item id="&amp;Edit Conference Setting">
+      <message>&amp;Modifica impostazioni conferenza</message>
+    </item>
+    <item id="&amp;Copy contact list from">
+      <message>&amp;Copia lista contatti da</message>
+    </item>
+    <item id="&amp;Save contact list to">
+      <message>&amp;Salva lista contatti in</message>
+    </item>
+    <item id="CSV file">
+      <message>File CSV</message>
+    </item>
+    <item id="XML file">
+      <message>File XML</message>
+    </item>
+    <item id="The result grid view encountered error. Please try again!">
+      <message>Errore nella visualizzazione dei risultati della griglia. Riprovare.</message>
+    </item>
+    <item id="There are data changes without save.\nDo you want to close?">
+      <message>Le modifiche dei dati non sono state salvate.\nChiudere?</message>
+    </item>
+    <item id="row">
+      <message>riga</message>
+    </item>
+    <item id="column">
+      <message>colonna</message>
+    </item>
+    <item id="Input validation error">
+      <message>Errore di Inserimento</message>
+    </item>
+    <item id="Maximum input length reached">
+      <message>È stata raggiunta la lunghezza di inserimento massima</message>
+    </item>
+    <item id="The selected items contain contact(s) displayed with [ ], the contact(s) will not be removed.">
+      <message>Le voci selezionate contengono contatti visualizzati con [ ]. I contatti non verranno rimossi.</message>
+    </item>
+    <item id="Searching for contacts...">
+      <message>Ricerca dei contatti in corso…</message>
+    </item>
+    <item id="Error while searching for LDAP result.">
+      <message>Errore durante la ricerca di risultati LDAP.</message>
+    </item>
+    <item id="&amp;Extension Lock/Unlock">
+      <message>Blocco/Sblocco &amp;Interno</message>
+    </item>
+    <item id="Number of LDAP search result exceeds the limit. Only first 100 result entries displayed.">
+      <message>Numero di risultati di ricerca LDAP oltre il limite consentito. Vengono visualizzati solo i primi 100 risultati.</message>
+    </item>
+    <item id="Connection to LDAP Server failed.">
+      <message>Connessione al server LDAP non riuscita.</message>
+    </item>
+    <item id="This character cannot be assigned. (For Operator Console only)">
+      <message>Impossibile assegnare questo carattere. (Solo per Operator Console)</message>
+    </item>
+    <item id="Personal contact data will not be assured if you connect to different Server/PBX from previous login.\nPlease check the data again.">
+      <message>I dati dei contatti personali non verranno garantiti se il collegamento viene effettuato a un server/PBX diverso dal login precedente.\nRicontrollare i dati.</message>
+    </item>
+    <item id="Add to">
+      <message>Aggiungi a</message>
+    </item>
+    <item id="Conference Group Setting">
+      <message>Impostazioni gruppo conferenza</message>
+    </item>
+    <item id="Save Group">
+      <message>Salva gruppo</message>
+    </item>
+    <item id="Delete Group">
+      <message>Elimina gruppo</message>
+    </item>
+    <item id="Delete Member">
+      <message>Elimina membro</message>
+    </item>
+    <item id="Enable (without new contact window popup)">
+      <message>Abilita (senza finestra popup nuovo contatto)</message>
+    </item>
+    <item id="Enable (with new contact window popup)">
+      <message>Abilita (con finestra popup nuovo contatto)</message>
+    </item>
+    <item id="Redirect the incoming call">
+      <message>Trasferisci chiamata entrante</message>
+    </item>
+    <item id="Remove the first \&quot;1\&quot; when caller ID is 11 digits">
+      <message>Rimuovi il primo \"1\" quando l'ID chiamante è composto da 11 cifre</message>
+    </item>
+    <item id="Disconnected">
+      <message>Disconnesso</message>
+    </item>
+    <item id="Network Connected">
+      <message>Connesso</message>
+    </item>
+    <item id="Delete these contacts">
+      <message>Eliminare questi contatti?</message>
+    </item>
+    <item id="Port">
+      <message>Porta</message>
+    </item>
+    <item id="Automatic contact name update for Hotel">
+      <message>Aggiornamento automatico nome contatto per applicazione Hotel</message>
+    </item>
+    <item id="Note">
+      <message>Note</message>
+    </item>
+    <item id="The operation will delete selected contacts">
+      <message>Con questa operazione saranno cancellati i contatti selezionati</message>
+    </item>
+    <item id="Network Note">
+      <message>E' neccessario riavviare il Communication Assistant per caricare le nuove impostazioni.</message>
+    </item>
+    <item id="Allow Join">
+      <message>Permetti partecipazione</message>
+    </item>
+    <item id="UM Personal Greeting Number">
+      <message>UM Msg di Benvenuto Personale Nr.</message>
+    </item>
+    <item id="Change">
+      <message>Cambia</message>
+    </item>
+    <item id="None">
+      <message>Nessuno</message>
+    </item>
+    <item id="Schedule Keyword">
+      <message>Parola Chiave Pianificazione</message>
+    </item>
+    <item id="Function List Name">
+      <message>Lista Nomi Funzione</message>
+    </item>
+    <item id="Keyword Mapping Setting">
+      <message>Impostazione Mapping Parola Chiave</message>
+    </item>
+    <item id="Call Control Window pop-up for CA">
+      <message>Pop-up Controllo Chiamata per CA</message>
+    </item>
+    <item id="TVA/TVM">
+      <message>TVM/TVA</message>
+    </item>
+    <item id="UM">
+      <message>UM</message>
+    </item>
+    <item id="IP Address">
+      <message>Indirizzo IP</message>
+    </item>
+    <item id="Mailbox">
+      <message>Casella Vocale</message>
+    </item>
+    <item id="WebMC URL">
+      <message>URL WebMC</message>
+    </item>
+    <item id="Automatically close playback window by Timer">
+      <message>Chiusura automatica finestra di riproduzione temporizzata</message>
+    </item>
+    <item id="seconds">
+      <message>secondi</message>
+    </item>
+    <item id="Limitless">
+      <message>Nessun Limite</message>
+    </item>
+    <item id="Please enter valid presence tile width value from 150 to 1500.">
+      <message>I valori permessi sono  da 150 a 1500</message>
+    </item>
+    <item id="Maximum 40 schedule keywords are registered. \nPlease delete existing schedule keyword to add a new schedule keyword.">
+      <message>E' già stato registrato il massimo di 40 parole chiave per la Pianificazione.\nPer aggiungere nuove parole chiave cancellare prima le esistenti. </message>
+    </item>
+    <item id="Third Party CRM Integration">
+      <message>Integrazione CRM Terze Parti</message>
+    </item>
+    <item id="MS Exchange Integration">
+      <message>Integrazione MS Exchange</message>
+    </item>
+    <item id="Enable Exchange Schedule Integration">
+      <message>Abilita Integrazione Pianificazione Exchange</message>
+    </item>
+    <item id="Exchange User Account">
+      <message>Account Utente Exchange (abc@xyz)</message>
+    </item>
+    <item id="Outlook Integration">
+      <message>Integrazione Outlook</message>
+    </item>
+    <item id="Presence Tile Width">
+      <message>Larghezza Icona Presenza</message>
+    </item>
+    <item id="Enable Call Information File">
+      <message>Abilita File Informazioni Chiamata</message>
+    </item>
+    <item id="Call Information File">
+      <message>File Informazioni Chiamata</message>
+    </item>
+    <item id="The exchange user account has exceeded the maximum byte length.">
+      <message>L'account utente exchange ha superato la lunghezza massima di byte </message>
+    </item>
+    <item id="Failed to connect to iLink middleware. \nPlease check the iLink middleware and CRM connection. \nRelogin CA to connect to iLink middleware.">
+      <message>Connessione con dispositivo iLink fallita. \nVerificare il dispositivo iLink e la connessione al CRM. \nEffettuare nuovamente il login al CA per connettersi al dispositivo iLink.</message>
+    </item>
+    <item id="Connection to iLink middleware is lost. \nThird Party CRM Integration will no longer work.">
+      <message>Connessione con dispositivo iLink perduta. \nL'Integrazione CRM di Terze Parti non è attiva.</message>
+    </item>
+    <item id="ACD Report">
+      <message>Report ACD</message>
+    </item>
+    <item id="&amp;Call from Clipboard">
+      <message>&amp;Chiama da Clipboard</message>
+    </item>
+    <item id="Call from Clipboard">
+      <message>Chiama da Clipboard</message>
+    </item>
+    <item id="Phone  Number">
+      <message>Numero di Telefono</message>
+    </item>
+    <item id="Phone Number:">
+      <message>Numero di Telefono :</message>
+    </item>
+    <item id="Phone(Office) : ">
+      <message>Telefono (Ufficio) :</message>
+    </item>
+    <item id="Phone(Mobile) : ">
+      <message>Telefono (Cellulare) :</message>
+    </item>
+    <item id="Phone(Home) : ">
+      <message>Telefono (Abitazione) :</message>
+    </item>
+    <item id="Custom Phone Number ">
+      <message>Numero di telefono personalizzato </message>
+    </item>
+    <item id="Custom Phone Number">
+      <message>Numero di telefono personalizzato </message>
+    </item>
+    <item id="At Extension ...">
+      <message>All'interno ...</message>
+    </item>
+    <item id="Back at ...">
+      <message>Torno alle ...</message>
+    </item>
+    <item id="Out until ...">
+      <message>Assente fino al ...</message>
+    </item>
+    <item id="User Custom">
+      <message>personalizzata dell'utente</message>
+    </item>
+    <item id="Cannot login. Cause is one of followings.\n- Extension number is incorrect.\n- Password is incorrect or expired.\n- CA operator console is not selected.\n- CA is disabled for this extension.\n- Login capacity is exceeded.\n- Required AK is not installed in PBX.">
+      <message>Impossibile effettuare il log in . Possibili cause :\n-Il Numero di Interno non è corretto.\n-La password non è corretta o è scaduta .\n-CA non valido per questo interno.\n-E' stata superata la capacità di log in.\n-La Chiave di Attivazione richeista non è installata nel PBX.</message>
+    </item>
+    <item id="White">
+      <message>Bianco</message>
+    </item>
+    <item id="Black">
+      <message>Nero</message>
+    </item>
+    <item id="ICD">
+      <message>ICD</message>
+    </item>
+    <item id="\&quot;Conference Setting\&quot; menu is not available temporarily.\nPlease ask your PBX administrator.">
+      <message>\"Impostazioni conferenza\" non è disponibile.\nContattare l'amministratore PBX.</message>
+    </item>
+    <item id="Minimise">
+      <message>Minimizzare</message>
+    </item>
+    <item id="Maximise">
+      <message>Massimizzare</message>
+    </item>
+    <item id="Restore">
+      <message>Ristabilire</message>
+    </item>
+    <item id="Close">
+      <message>Chiudi</message>
+    </item>
+  </category>
+</language>

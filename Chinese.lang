@@ -1,0 +1,3358 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<language>
+  <descriptor>
+    <name>Chinese</name>
+    <description>Chinese</description>
+    <doc_ver>1.0.0</doc_ver>
+    <schema_ver>1.0.0</schema_ver>
+  </descriptor>
+  <category id="CIPTextBox">
+    <item id="IP">
+      <message>IP</message>
+    </item>
+    <item id="Please specify a value between 1 and 223">
+      <message>请指定1和223之间的1个数值</message>
+    </item>
+    <item id="Please specify a value between 0 and 255">
+      <message>请指定0和255之间的1个数值</message>
+    </item>
+  </category>
+  <category id="CMainForm">
+    <item id="Communication Assistant">
+      <message>Communication Assistant</message>
+    </item>
+  </category>
+  <category id="MailerInterface">
+    <item id="Failed to start Mail Client. Please try again.">
+      <message>启动邮件客户端失败。请重试。</message>
+    </item>
+  </category>
+  <category id="CMessageBox">
+    <item id="Communication Assistant">
+      <message>Communication Assistant</message>
+    </item>
+    <item id="&amp;Ok">
+      <message>确定 (&amp;O)</message>
+    </item>
+    <item id="&amp;Cancel">
+      <message>取消 (&amp;C)</message>
+    </item>
+    <item id="&amp;Yes">
+      <message>是 (&amp;Y)</message>
+    </item>
+    <item id="&amp;No">
+      <message>否 (&amp;N)</message>
+    </item>
+  </category>
+  <category id="CConstant">
+    <item id="Paging in progress">
+      <message>正在广播</message>
+    </item>
+    <item id="Paging busy">
+      <message>广播占线</message>
+    </item>
+    <item id="Please make a call with the main window.">
+      <message>请使用主窗口拨打电话。</message>
+    </item>
+    <item id="Do not show this again.">
+      <message>不再显示该内容。</message>
+    </item>
+    <item id="Available">
+      <message>Available</message>
+    </item>
+    <item id="Urgent Only">
+      <message>Urgent Only</message>
+    </item>
+    <item id="Will Return Soon">
+      <message>Will Return Soon</message>
+    </item>
+    <item id="In a meeting">
+      <message>In a meeting</message>
+    </item>
+    <item id="Not At My Desk">
+      <message>Not At My Desk</message>
+    </item>
+    <item id="Gone Home">
+      <message>Gone Home</message>
+    </item>
+    <item id="Do you want to close CA?">
+      <message>您想关闭CA吗?</message>
+    </item>
+    <item id="Communication Assistant">
+      <message>Communication Assistant</message>
+    </item>
+    <item id="&amp;OK">
+      <message>确定 (&amp;O)</message>
+    </item>
+    <item id="&amp;Cancel">
+      <message>取消 (&amp;C)</message>
+    </item>
+    <item id="&amp;Yes">
+      <message>是 (&amp;Y)</message>
+    </item>
+    <item id="&amp;No">
+      <message>否 (&amp;N)</message>
+    </item>
+    <item id="&amp;Delete">
+      <message>删除 (&amp;D)</message>
+    </item>
+    <item id="&amp;Close">
+      <message>关闭 (&amp;C)</message>
+    </item>
+    <item id="General">
+      <message>概要</message>
+    </item>
+    <item id="Contact">
+      <message>联系</message>
+    </item>
+    <item id="Company">
+      <message>公司</message>
+    </item>
+    <item id="Popup">
+      <message>弹出</message>
+    </item>
+    <item id="Contact Name:">
+      <message>联系人名称:</message>
+    </item>
+    <item id="E-mail:">
+      <message>E-mail:</message>
+    </item>
+    <item id="Phone (Office):">
+      <message>办公电话:</message>
+    </item>
+    <item id="Phone (Mobile):">
+      <message>移动电话:</message>
+    </item>
+    <item id="Phone (Home):">
+      <message>家庭电话:</message>
+    </item>
+    <item id="Company Name:">
+      <message>公司名称:</message>
+    </item>
+    <item id="Department:">
+      <message>部门:</message>
+    </item>
+    <item id="Section:">
+      <message>科、处:</message>
+    </item>
+    <item id="Address:">
+      <message>地址:</message>
+    </item>
+    <item id="Postal Code:">
+      <message>邮政编码:</message>
+    </item>
+    <item id="Fax:">
+      <message>传真:</message>
+    </item>
+    <item id="1st URL:">
+      <message>第一URL:</message>
+    </item>
+    <item id="2nd URL:">
+      <message>第二URL:</message>
+    </item>
+    <item id="3rd URL:">
+      <message>第三URL:</message>
+    </item>
+    <item id="Memo:">
+      <message>备忘录:</message>
+    </item>
+    <item id="Profile">
+      <message>配置文件</message>
+    </item>
+    <item id="Last Name:">
+      <message>姓:</message>
+    </item>
+    <item id="First Name:">
+      <message>名:</message>
+    </item>
+    <item id="Type:">
+      <message>类型:</message>
+    </item>
+    <item id="Phone">
+      <message>电话</message>
+    </item>
+    <item id="Door">
+      <message>门</message>
+    </item>
+    <item id="Sensor">
+      <message>传感器</message>
+    </item>
+    <item id="Door:">
+      <message>门:</message>
+    </item>
+    <item id="Sensor:">
+      <message>传感器:</message>
+    </item>
+    <item id="Image File">
+      <message>图像文件</message>
+    </item>
+    <item id="Ring File">
+      <message>振铃文件</message>
+    </item>
+    <item id="URL">
+      <message>URL</message>
+    </item>
+    <item id="1st URL for Network Camera \n(Automatic pop-up for call/Automatic close after call)">
+      <message>第一URL用于网络摄像机\n（为呼叫自动弹出/呼叫后自动关闭）</message>
+    </item>
+    <item id="2nd URL for Database \n(Automatic pop-up for phone call)">
+      <message>第二URL用于数据库\n（为电话呼叫自动弹出）</message>
+    </item>
+    <item id="3rd URL for Database (Access from main menu)">
+      <message>第三URL用于数据库（从主菜单接入）</message>
+    </item>
+    <item id="Browse">
+      <message>浏览</message>
+    </item>
+    <item id="Image file not found">
+      <message>找不到映像文件</message>
+    </item>
+    <item id="Please enter the Contact Name">
+      <message>请输入联系人名称</message>
+    </item>
+    <item id="Contact Name too long. \n Please enter a shorter name.">
+      <message>联系人名称过长。\n请输入较短的名称。</message>
+    </item>
+    <item id="Contact Name not valid.\nMake sure the contact name does not contain any Chinese and Japanese characters.">
+      <message>联系人名称无效。\n确保联系人名称不包含任何中文和日文字符。</message>
+    </item>
+    <item id="Please enter the Phone Number.">
+      <message>请输入电话号码。</message>
+    </item>
+    <item id="Please enter the Doorphone Number">
+      <message>请输入门电话号码</message>
+    </item>
+    <item id="Please enter the Sensor Number">
+      <message>请输入传感器号码</message>
+    </item>
+    <item id="Please enter the Image Path">
+      <message>请输入图像路径</message>
+    </item>
+    <item id="Please enter the Sound Path">
+      <message>请输入声音路径</message>
+    </item>
+    <item id="The image file path is not valid, CA is unable to load the image file.">
+      <message>图像文件路径无效，CA无法导入映像文件。</message>
+    </item>
+    <item id="The sound file path is not valid, CA is unable to play the sound file.">
+      <message>声音文件路径无效，CA无法播放声音文件。</message>
+    </item>
+    <item id="The path will not be saved.">
+      <message>无法保存路径。</message>
+    </item>
+    <item id="The file path is too long, it should be less than or equal to 256 characters.\n Please enter a shorter path.">
+      <message>文件路径过长，其必须不多于256个字符。\n请输入较短的路径。</message>
+    </item>
+    <item id="Unable to play the sound file. Maybe the file is invalid or there is a problem in your PC sound device.">
+      <message>无法播放声音文件。文件可能无效或者PC音频设备有问题。</message>
+    </item>
+    <item id="Image Files">
+      <message>图像文件</message>
+    </item>
+    <item id="Media Files">
+      <message>媒体文件</message>
+    </item>
+    <item id="All Files">
+      <message>所有文件</message>
+    </item>
+    <item id="Open">
+      <message>打开</message>
+    </item>
+    <item id="Unable to load the database. CA Application had to be closed.">
+      <message>无法导入数据库。必须将CA应用程序关闭。</message>
+    </item>
+    <item id="CA Application">
+      <message>CA应用程序</message>
+    </item>
+    <item id="Connection to database failed">
+      <message>连接到数据库失败</message>
+    </item>
+    <item id="History">
+      <message>历史</message>
+    </item>
+    <item id="Contact &amp;List">
+      <message>联系列表 (&amp;C)</message>
+    </item>
+    <item id="S&amp;peed Dial">
+      <message>速拨 (&amp;S)</message>
+    </item>
+    <item id="&amp;Save to CSV">
+      <message>保存到CSV (&amp;S)</message>
+    </item>
+    <item id="&amp;Memo Open">
+      <message>备忘录打开 (&amp;M)</message>
+    </item>
+    <item id="&amp;Call">
+      <message>呼叫 (&amp;C)</message>
+    </item>
+    <item id="Speed Dial">
+      <message>速拨</message>
+    </item>
+    <item id="Show:">
+      <message>显示:</message>
+    </item>
+    <item id="Search">
+      <message>搜索</message>
+    </item>
+    <item id="Search In:">
+      <message>搜索:</message>
+    </item>
+    <item id="Name">
+      <message>姓名</message>
+    </item>
+    <item id="Phone Number">
+      <message>电话号码</message>
+    </item>
+    <item id="Type">
+      <message>类型</message>
+    </item>
+    <item id="Start Time">
+      <message>启动时间</message>
+    </item>
+    <item id="Disconnect Time">
+      <message>断开连接时间</message>
+    </item>
+    <item id="Duration">
+      <message>持续时间</message>
+    </item>
+    <item id="Ring">
+      <message>振铃</message>
+    </item>
+    <item id="Call Condition">
+      <message>呼叫条件</message>
+    </item>
+    <item id="Call For">
+      <message>呼叫对象</message>
+    </item>
+    <item id="Memo">
+      <message>备忘录</message>
+    </item>
+    <item id="Trunk Group Number">
+      <message>中继线群号码</message>
+    </item>
+    <item id="Intercom">
+      <message>内线</message>
+    </item>
+    <item id="Outside">
+      <message>外线</message>
+    </item>
+    <item id="Blank">
+      <message>空白</message>
+    </item>
+    <item id="Transfer">
+      <message>转移</message>
+    </item>
+    <item id="Park">
+      <message>寄存</message>
+    </item>
+    <item id="No Answer">
+      <message>无应答</message>
+    </item>
+    <item id="Import File">
+      <message>输入文件</message>
+    </item>
+    <item id="Export File">
+      <message>输出文件</message>
+    </item>
+    <item id="Save As">
+      <message>另存为</message>
+    </item>
+    <item id="min">
+      <message>分</message>
+    </item>
+    <item id="s">
+      <message>s</message>
+    </item>
+    <item id="All Calls">
+      <message>全部呼叫</message>
+    </item>
+    <item id="Incoming Missed Calls">
+      <message>未接来电</message>
+    </item>
+    <item id="Incoming Received Calls">
+      <message>已接来电</message>
+    </item>
+    <item id="Outgoing Answered Calls">
+      <message>已接拨出呼叫</message>
+    </item>
+    <item id="Outgoing Unanswered Calls">
+      <message>未接拨出呼叫</message>
+    </item>
+    <item id="A file error has occurred in the export file">
+      <message>在输出文件中发生文件出错</message>
+    </item>
+    <item id="A file error has occurred in the text file">
+      <message>在文本文件中发生文件出错</message>
+    </item>
+    <item id="Unable to update the grid view setting. The grid view setting will not be saved.">
+      <message>无法更新网格视图设定。网格视图设定不能保存。</message>
+    </item>
+    <item id="Specific data will be deleted">
+      <message>指定的数据将被删除</message>
+    </item>
+    <item id="Please fill in the Speed Dial No">
+      <message>请填写速拨号码</message>
+    </item>
+    <item id="Please fill in the Speed Dial Name">
+      <message>请填写速拨名称</message>
+    </item>
+    <item id="Please fill in the Speed Dial Phone Number">
+      <message>请填写速拨电话号码</message>
+    </item>
+    <item id="Illegal Request">
+      <message>不合法请求</message>
+    </item>
+    <item id="The Speed Dial Number is already registered in the PBX.">
+      <message>速拨号码已在集团电话中注册。</message>
+    </item>
+    <item id="The current contact list will be deleted and replaced by new data. Do you want to continue?">
+      <message>当前联系列表将被删除并被替换为新数据。您想继续吗?</message>
+    </item>
+    <item id="The composition of CSV content is either not correct or incorrect version, import fail.">
+      <message>由于该CSV内容的组成不正确或者为错误的版本，导入失败。</message>
+    </item>
+    <item id="The composition of XML content is either not correct or incorrect version, import fail.">
+      <message>由于该XML内容的组成不正确或者为错误的版本，导入失败。</message>
+    </item>
+    <item id="The contact list successfully imported">
+      <message>联系列表成功输入</message>
+    </item>
+    <item id="This operation will delete all data about ">
+      <message>此操作将删除相关所有数据 </message>
+    </item>
+    <item id=". Do you wish to continue?">
+      <message>。您想继续吗?</message>
+    </item>
+    <item id=" successfully deleted.">
+      <message> 成功删除。</message>
+    </item>
+    <item id="Contact List successfully exported.">
+      <message>联系列表成功输出。</message>
+    </item>
+    <item id="Contact List unable to export. A error occur during the exportation">
+      <message>联系列表无法输出。输出过程中出错</message>
+    </item>
+    <item id="The maximum contacts ">
+      <message>联系人最大数量</message>
+    </item>
+    <item id=" had already registered. To make a new contact, please delete some contacts in the contact list.">
+      <message> 已注册。要添加新的联系人，请删除联系列表中的某些联系人。</message>
+    </item>
+    <item id="Extension numbers from the PBX already exist in the contact list.">
+      <message>联系列表中已存在集团电话的分机号码。</message>
+    </item>
+    <item id="No Extension found.">
+      <message>找不到分机。</message>
+    </item>
+    <item id="Error occurs.">
+      <message>出错。</message>
+    </item>
+    <item id="Import is unable to proceed. The file is being used by another process.">
+      <message>无法进行输入。文件正在被另一进程使用。</message>
+    </item>
+    <item id="Connection with PBX is disconnected">
+      <message>与集团电话的连接已断开</message>
+    </item>
+    <item id="No Response from PBX">
+      <message>集团电话无响应</message>
+    </item>
+    <item id="Select language">
+      <message>选择语言</message>
+    </item>
+    <item id="Dial Modification for Dial Copy Setting">
+      <message>为拨号复制设定进行拨号修改</message>
+    </item>
+    <item id="Enter Access Code for International Call">
+      <message>输入国际呼叫的接入码</message>
+    </item>
+    <item id="Setting">
+      <message>设定</message>
+    </item>
+    <item id="International Call">
+      <message>国际呼叫</message>
+    </item>
+    <item id="Enter International Area Code">
+      <message>输入国际地区代码</message>
+    </item>
+    <item id="For example '81' for Japan or '44' for UK">
+      <message>例如，‘81’代表日本或者‘44’代表英国</message>
+    </item>
+    <item id="CA User Mode">
+      <message>CA用户方式</message>
+    </item>
+    <item id="Standard user (CA Pro)">
+      <message>标准用户 (CA Pro)</message>
+    </item>
+    <item id="Standard user (CA Basic)">
+      <message>标准用户 (CA Basic)</message>
+    </item>
+    <item id="ICD Group Supervisor (CA Supervisor)">
+      <message>ICD群监督人（CA Supervisor）</message>
+    </item>
+    <item id="Use softphone">
+      <message>使用软电话</message>
+    </item>
+    <item id="Use ICD group agent feature">
+      <message>使用ICD群代理功能</message>
+    </item>
+    <item id="&amp;Save">
+      <message>保存 (&amp;S)</message>
+    </item>
+    <item id="&amp;Exit">
+      <message>退出 (&amp;E)</message>
+    </item>
+    <item id="English">
+      <message>English</message>
+    </item>
+    <item id="Spanish">
+      <message>Español</message>
+    </item>
+    <item id="French">
+      <message>Français</message>
+    </item>
+    <item id="Portuguese">
+      <message>Português</message>
+    </item>
+    <item id="German">
+      <message>Deutsch</message>
+    </item>
+    <item id="Italian">
+      <message>Italiano</message>
+    </item>
+    <item id="Russian">
+      <message>Русский</message>
+    </item>
+    <item id="Ukrainian">
+      <message>Українська</message>
+    </item>
+    <item id="Chinese">
+      <message>中文</message>
+    </item>
+    <item id="IP address of PBX">
+      <message>集团电话的IP地址</message>
+    </item>
+    <item id="Extension Number">
+      <message>分机号码</message>
+    </item>
+    <item id="Password">
+      <message>密码</message>
+    </item>
+    <item id="&amp;Login">
+      <message>注册(&amp;L)</message>
+    </item>
+    <item id="&amp;Quit">
+      <message>退出 (&amp;Q)</message>
+    </item>
+    <item id="User Login">
+      <message>用户注册</message>
+    </item>
+    <item id="Password must be assigned.">
+      <message>必须指定密码。</message>
+    </item>
+    <item id="A-Z, a-z, 0-9, * and # can be used for password.">
+      <message>A-Z、a-z、0-9、*和#可以用于密码。</message>
+    </item>
+    <item id="New Password (Max.16 characters)">
+      <message>新密码（最多16个字符）</message>
+    </item>
+    <item id="Verify Password">
+      <message>校验密码</message>
+    </item>
+    <item id="Communication Assistant - Password">
+      <message>Communication Assistant - 密码</message>
+    </item>
+    <item id="You can log-in to Basic mode for now">
+      <message>您现在可以注册到基本方式</message>
+    </item>
+    <item id="Limitations for Basic mode:">
+      <message>基本方式的限制:</message>
+    </item>
+    <item id="- Contact List is limited to 10 calls.">
+      <message>- 联系列表被限制为10个呼叫。</message>
+    </item>
+    <item id="- Contact History is limited to 10 calls.">
+      <message>- 联系历史被限制为10个呼叫。</message>
+    </item>
+    <item id="- Presence feature is not available.">
+      <message>- 出席功能不可用。</message>
+    </item>
+    <item id="You can log-in to Pro Trial for now">
+      <message>您现在可以注册到Pro Trial</message>
+    </item>
+    <item id="After 60 days, license registration is required.">
+      <message>60天后，需要进行许可证注册。</message>
+    </item>
+    <item id="Installation Date:">
+      <message>安装日期:</message>
+    </item>
+    <item id="Expiration Date:">
+      <message>过期日期:</message>
+    </item>
+    <item id="I agree to the above condition and continue to use this application">
+      <message>我同意上述条件，并继续使用此应用程序</message>
+    </item>
+    <item id="IP Address is empty. Please enter a valid IP address">
+      <message>IP地址为空。请输入有效的IP地址。</message>
+    </item>
+    <item id="Empty IP address">
+      <message>IP地址空</message>
+    </item>
+    <item id="No extension number has been entered. Please enter a valid extension number.">
+      <message>未输入分机号码。请输入有效的分机号码。</message>
+    </item>
+    <item id="Empty Extension number">
+      <message>分机号码空</message>
+    </item>
+    <item id="The password you entered is not valid.">
+      <message>输入的密码无效。</message>
+    </item>
+    <item id="The extension number is incorrect.">
+      <message>分机号码不正确。</message>
+    </item>
+    <item id="Error Extension Number">
+      <message>分机号码错误</message>
+    </item>
+    <item id="Password is incorrect">
+      <message>密码不正确</message>
+    </item>
+    <item id="Incorrect Password">
+      <message>密码错误</message>
+    </item>
+    <item id="Password is locked.">
+      <message>密码被锁定。</message>
+    </item>
+    <item id="Please contact your manager of PBX">
+      <message>请与集团电话的管理员联系</message>
+    </item>
+    <item id="Password Locked">
+      <message>密码锁定</message>
+    </item>
+    <item id="This extension is restricted to use CA">
+      <message>此分机被限制使用CA</message>
+    </item>
+    <item id="by PBX setting">
+      <message>通过集团电话设定</message>
+    </item>
+    <item id="Please contact your manager of PBX.">
+      <message>请与集团电话的管理员联系。</message>
+    </item>
+    <item id="Invalid extension setting">
+      <message>无效分机设定</message>
+    </item>
+    <item id="Number of users had exceeded the limit">
+      <message>用户数超出了限制</message>
+    </item>
+    <item id="Exceed Maximum Users">
+      <message>超出最大用户数</message>
+    </item>
+    <item id="The number of license is not enough">
+      <message>许可证的数量不足</message>
+    </item>
+    <item id="Exceed Maximum Licenses">
+      <message>超出最大许可数</message>
+    </item>
+    <item id="Failed to connect to server.">
+      <message>连接到服务器失败。</message>
+    </item>
+    <item id="API Failure">
+      <message>API故障</message>
+    </item>
+    <item id="Connection device is not supported. Unable to create connection">
+      <message>连接的设备不支持。无法创建连接</message>
+    </item>
+    <item id="Non-support Connection Device">
+      <message>非支持连接设备</message>
+    </item>
+    <item id="Password mismatch. Please enter your new password again">
+      <message>密码不匹配。请再次输入新密码</message>
+    </item>
+    <item id="Phone type is incorrect">
+      <message>电话类型不正确</message>
+    </item>
+    <item id="New password is empty. Please enter the password">
+      <message>新密码为空。请输入密码</message>
+    </item>
+    <item id="Verify password is empty. Please enter the password">
+      <message>再次输入密码为空。请输入密码</message>
+    </item>
+    <item id="The values entered in New Password and Verify Password do not match.">
+      <message>新密码和再次输入密码不匹配。</message>
+    </item>
+    <item id="The minimum password length is 6 characters.">
+      <message>最小的密码长度为6个字符。</message>
+    </item>
+    <item id="Are you sure you want to exit this application">
+      <message>您想退出此应用程序吗</message>
+    </item>
+    <item id="Please Wait...">
+      <message>请等待...</message>
+    </item>
+    <item id="Forward/DND Setting">
+      <message>转送/免打扰设定</message>
+    </item>
+    <item id="Forward / DND">
+      <message>转送/免打扰</message>
+    </item>
+    <item id="BroadCasting Group:">
+      <message>广播组:</message>
+    </item>
+    <item id="&amp;Release">
+      <message>释放 (&amp;R)</message>
+    </item>
+    <item id="Members (Dial Number)">
+      <message>成员（拨号）</message>
+    </item>
+    <item id="Member Name">
+      <message>成员名</message>
+    </item>
+    <item id="Call Status">
+      <message>呼叫状态</message>
+    </item>
+    <item id="Connected">
+      <message>连接</message>
+    </item>
+    <item id="Not Connected">
+      <message>不连接</message>
+    </item>
+    <item id="Group Page">
+      <message>群广播</message>
+    </item>
+    <item id="Park Retrieve">
+      <message>寄存恢复</message>
+    </item>
+    <item id="Account">
+      <message>帐户</message>
+    </item>
+    <item id="Copy &amp; Call">
+      <message>拷贝和呼叫</message>
+    </item>
+    <item id="TRS Change">
+      <message>TRS更改</message>
+    </item>
+    <item id="Time Service">
+      <message>定时服务</message>
+    </item>
+    <item id="Function Key">
+      <message>功能键</message>
+    </item>
+    <item id="Please enter Group No.(01-32)">
+      <message>请输入群号码(01-32)</message>
+    </item>
+    <item id="A target's call status is not acceptable">
+      <message>目标的呼叫状态不可接受</message>
+    </item>
+    <item id="Invalid Group Paging">
+      <message>无效群广播</message>
+    </item>
+    <item id="Please enter specific park area number">
+      <message>请输入指定的寄存区号码</message>
+    </item>
+    <item id="(0-99)">
+      <message>(0-99)</message>
+    </item>
+    <item id="Specific call (connection) does not exist.">
+      <message>指定的呼叫（连接）不存在。</message>
+    </item>
+    <item id="Error on Park Retrieve">
+      <message>寄存恢复出错</message>
+    </item>
+    <item id="Please enter an account number">
+      <message>请输入帐号 </message>
+    </item>
+    <item id="Not Valid and cannot make a call">
+      <message>无效并无法拨打电话</message>
+    </item>
+    <item id="Please set TRS Level">
+      <message>请设定TRS级别</message>
+    </item>
+    <item id="Error on TRS Change">
+      <message>TRS更改出错</message>
+    </item>
+    <item id="Please Select System Mode">
+      <message>请选择系统方式</message>
+    </item>
+    <item id="Day">
+      <message>白天</message>
+    </item>
+    <item id="Break">
+      <message>休息</message>
+    </item>
+    <item id="Night">
+      <message>夜间</message>
+    </item>
+    <item id="Lunch">
+      <message>午餐</message>
+    </item>
+    <item id="ICD Group Extension Number">
+      <message>ICD群分机号码</message>
+    </item>
+    <item id="ICD Group Name">
+      <message>ICD群名称</message>
+    </item>
+    <item id="My Status">
+      <message>我的状态</message>
+    </item>
+    <item id="Ready">
+      <message>就绪</message>
+    </item>
+    <item id="Not Ready">
+      <message>未就绪</message>
+    </item>
+    <item id="Wrap Up">
+      <message>收转</message>
+    </item>
+    <item id="Busy">
+      <message>占线</message>
+    </item>
+    <item id="All Log-in">
+      <message>全部注册</message>
+    </item>
+    <item id="All Log-out">
+      <message>全部注销</message>
+    </item>
+    <item id="Log in">
+      <message>注册</message>
+    </item>
+    <item id="Log-in">
+      <message>注册</message>
+    </item>
+    <item id="Log out">
+      <message>注销</message>
+    </item>
+    <item id="Log-out">
+      <message>注销</message>
+    </item>
+    <item id="Start Wrap Up">
+      <message>启动收转</message>
+    </item>
+    <item id="Stop Wrap Up">
+      <message>停止收转</message>
+    </item>
+    <item id="Extend Wrap Up">
+      <message>扩展收转</message>
+    </item>
+    <item id="On the phone">
+      <message>打电话</message>
+    </item>
+    <item id="Ringing">
+      <message>振铃</message>
+    </item>
+    <item id="Idle">
+      <message>空闲</message>
+    </item>
+    <item id="Wrap up Status cannot be changed\n\rCause is one of followings\n\r- Wrap up feature number is not assigned in PBX\n\r- Paired telephone is not PT\n\rPT is not connected with PBX\n\r">
+      <message>无法更改收转状态\n\r可能是下列原因之一\n\r- 未在集团电话中指定收转功能号码\n\r- 配对电话不是PT\n\rPT未与集团电话连接\n\r</message>
+    </item>
+    <item id="ICD Group">
+      <message>ICD群</message>
+    </item>
+    <item id="Phone Status">
+      <message>电话状态</message>
+    </item>
+    <item id="Wrap up">
+      <message>收转</message>
+    </item>
+    <item id="Redirect">
+      <message>重新定向</message>
+    </item>
+    <item id="Listen-In">
+      <message>收听</message>
+    </item>
+    <item id="Busy Override">
+      <message>占线优先插入</message>
+    </item>
+    <item id="Take Over">
+      <message>接管</message>
+    </item>
+    <item id="&amp;Redirect the incoming call">
+      <message>重新定向来电 (&amp;R)</message>
+    </item>
+    <item id="Log-&amp;in to the group">
+      <message>注册到群 (&amp;i)</message>
+    </item>
+    <item id="Log-o&amp;ut from the group">
+      <message>从群注销 (&amp;u)</message>
+    </item>
+    <item id="&amp;Listen in the talking">
+      <message>通话中收听 (&amp;L)</message>
+    </item>
+    <item id="Overri&amp;de the talking (Conference)">
+      <message>优先插入通话（会议）(&amp;T)</message>
+    </item>
+    <item id="&amp;Take over the talking">
+      <message>接管通话 (&amp;T)</message>
+    </item>
+    <item id="Supervisor function was disabled">
+      <message>监控员功能被禁用</message>
+    </item>
+    <item id="Are you sure you want to clear report?">
+      <message>您想清除报告吗?</message>
+    </item>
+    <item id="Supervisor">
+      <message>监督人</message>
+    </item>
+    <item id="Group">
+      <message>群</message>
+    </item>
+    <item id="Display only ICD Group Member">
+      <message>仅显示ICD群成员</message>
+    </item>
+    <item id="Group Call Monitor">
+      <message>群呼叫监听</message>
+    </item>
+    <item id="Current Waiting Call">
+      <message>当前等待呼叫</message>
+    </item>
+    <item id="Longest Waiting Time">
+      <message>最长等待时间</message>
+    </item>
+    <item id="Current Member Status">
+      <message>当前成员状态</message>
+    </item>
+    <item id="Group Call Report">
+      <message>群呼叫报告</message>
+    </item>
+    <item id="Lost Call">
+      <message>未接呼叫</message>
+    </item>
+    <item id="Report Start Date:">
+      <message>报告开始日期:</message>
+    </item>
+    <item id="Report Start Time:">
+      <message>报告开始时间:</message>
+    </item>
+    <item id="&amp;Utility">
+      <message>实用程序 (&amp;U)</message>
+    </item>
+    <item id="Get Latest Report">
+      <message>获取最新报告</message>
+    </item>
+    <item id="&amp;Clear Report">
+      <message>清除报告 (&amp;C)</message>
+    </item>
+    <item id="The Number of Current Call :">
+      <message>当前呼叫数 :</message>
+    </item>
+    <item id="Font Color :">
+      <message>字体颜色 :</message>
+    </item>
+    <item id="Background Color :">
+      <message>背景颜色 :</message>
+    </item>
+    <item id="Blink">
+      <message>闪烁</message>
+    </item>
+    <item id="Preview :">
+      <message>预览 :</message>
+    </item>
+    <item id=" The Waiting Time (MM'SS) :">
+      <message> 等待时间 (MM'SS) :</message>
+    </item>
+    <item id="Choose...(&amp;B)">
+      <message>选择...(&amp;B)</message>
+    </item>
+    <item id="Choose ...(&amp;F)">
+      <message>选择 ...(&amp;F)</message>
+    </item>
+    <item id="Supervisor Option">
+      <message>监督人选项</message>
+    </item>
+    <item id="When the number of current call is preprogrammed number or more, display changes for warning.">
+      <message>当前呼叫数为预编程数或更多时，显示更改进行警告。</message>
+    </item>
+    <item id="When the time of longest waiting call is preprogrammed number or more, display changes for warning.">
+      <message>最长等待呼叫的时间为预编程数或更长时，显示更改进行警告。</message>
+    </item>
+    <item id="Dial">
+      <message>拨号</message>
+    </item>
+    <item id="Contact Name">
+      <message>联系人名称</message>
+    </item>
+    <item id="Incoming Missed Calls: ">
+      <message>未接来电: </message>
+    </item>
+    <item id="Message Waiting">
+      <message>留言待取</message>
+    </item>
+    <item id="Call VM">
+      <message>呼叫语音信箱</message>
+    </item>
+    <item id="&amp;Call Voice Mail">
+      <message>呼叫语音信箱 (&amp;C)</message>
+    </item>
+    <item id="&amp;Record my Voice Message">
+      <message>录制我的语音留言 (&amp;R)</message>
+    </item>
+    <item id="&amp;Display Message Waiting List">
+      <message>显示留言待取列表 (&amp;D)</message>
+    </item>
+    <item id="Call &amp;Back">
+      <message>回叫 (&amp;B)</message>
+    </item>
+    <item id="No Connection">
+      <message>无连接</message>
+    </item>
+    <item id="Dial or Answer">
+      <message>拨号或应答</message>
+    </item>
+    <item id="For internal calls :">
+      <message>对于内部呼叫:</message>
+    </item>
+    <item id="For external calls :">
+      <message>对于外部呼叫:</message>
+    </item>
+    <item id="Forward / DND :">
+      <message>转送/免打扰:</message>
+    </item>
+    <item id="Not Assigned">
+      <message>不分配</message>
+    </item>
+    <item id="Fwd All ">
+      <message>全部转送 </message>
+    </item>
+    <item id="Fwd Busy ">
+      <message>占线转送 </message>
+    </item>
+    <item id="Fwd N/A ">
+      <message>不使用转送 </message>
+    </item>
+    <item id="Fwd Busy / N/A ">
+      <message>占线转送 / 不使用 </message>
+    </item>
+    <item id="Do Not Disturb">
+      <message>免打扰</message>
+    </item>
+    <item id="&amp;Dial">
+      <message>拨号 (&amp;D)</message>
+    </item>
+    <item id="&amp;Copy &amp;&amp; Call">
+      <message>拷贝和呼叫 (&amp;C)</message>
+    </item>
+    <item id="&amp;History">
+      <message>历史 (&amp;H)</message>
+    </item>
+    <item id="&amp;All Calls">
+      <message>全部呼叫 (&amp;A)</message>
+    </item>
+    <item id="Incoming &amp;Missed Calls">
+      <message>未接来电 (&amp;M)</message>
+    </item>
+    <item id="Incoming &amp;Received Calls">
+      <message>已接来电 (&amp;R)</message>
+    </item>
+    <item id="Outgoing A&amp;nswered Calls">
+      <message>已接拨出呼叫 (&amp;A)</message>
+    </item>
+    <item id="Outgoing &amp;Unanswered Calls">
+      <message>未接拨出呼叫 (&amp;U)</message>
+    </item>
+    <item id="&amp;Go To">
+      <message>转到 (&amp;G)</message>
+    </item>
+    <item id="&amp;Option">
+      <message>选项 (&amp;O)</message>
+    </item>
+    <item id="&amp;Function Key">
+      <message>功能键 (&amp;F)</message>
+    </item>
+    <item id="&amp;ICD Group">
+      <message>ICD群 (&amp;I)</message>
+    </item>
+    <item id="Modify">
+      <message>修改</message>
+    </item>
+    <item id="New Setting">
+      <message>新设定</message>
+    </item>
+    <item id="Message left by">
+      <message>留言者</message>
+    </item>
+    <item id="Absent message is assigned automatically, when PC is not used pre programmed time.">
+      <message>不使用PC预编程时间时，缺席留言被自动分配。</message>
+    </item>
+    <item id="Absent message is cleared automatically, when CA is started.">
+      <message>CA启动时，缺席留言被自动清除。</message>
+    </item>
+    <item id="Absent message is assigned automatically, when CA is closed.">
+      <message>CA关闭时，缺席留言被自动分配。</message>
+    </item>
+    <item id="Absent Message Options">
+      <message>缺席留言选项</message>
+    </item>
+    <item id="MM:SS:">
+      <message>MM:SS:</message>
+    </item>
+    <item id="Please enter phone number.">
+      <message>请输入电话号码。</message>
+    </item>
+    <item id="Phone (Office)">
+      <message>办公电话</message>
+    </item>
+    <item id="Phone (Mobile)">
+      <message>移动电话</message>
+    </item>
+    <item id="Phone (Home)">
+      <message>家庭电话</message>
+    </item>
+    <item id="Voice Message">
+      <message>语音留言</message>
+    </item>
+    <item id="Send E-mail">
+      <message>发送E-mail</message>
+    </item>
+    <item id="More">
+      <message>更多</message>
+    </item>
+    <item id="Send Chat">
+      <message>发送聊天</message>
+    </item>
+    <item id="Leave Voice Message">
+      <message>留下语音留言</message>
+    </item>
+    <item id="WEB Access">
+      <message>网络接入</message>
+    </item>
+    <item id="Call phone (Office): ">
+      <message>呼叫办公电话: </message>
+    </item>
+    <item id="Call phone (Mobile): ">
+      <message>呼叫移动电话: </message>
+    </item>
+    <item id="Call phone (Home): ">
+      <message>呼叫家庭电话: </message>
+    </item>
+    <item id="&amp;Pick up the incoming call">
+      <message>接听来电 (&amp;P)</message>
+    </item>
+    <item id="&amp;View and modify this contact">
+      <message>浏览并修改联系人 (&amp;V)</message>
+    </item>
+    <item id="&amp;Add new contact">
+      <message>添加新联系人 (&amp;A)</message>
+    </item>
+    <item id="&amp;Delete this contact ">
+      <message>删除此联系人 (&amp;D)</message>
+    </item>
+    <item id="Add contact list from PB&amp;X extension">
+      <message>从集团电话分机添加联系列表 (&amp;X)</message>
+    </item>
+    <item id="&amp;Copy contact list from CSV file">
+      <message>从CSV文件复制联系列表 (&amp;C)</message>
+    </item>
+    <item id="&amp;Save contact list to CSV file">
+      <message>将联系列表保存到CSV文件 (&amp;S)</message>
+    </item>
+    <item id="Leave voice message">
+      <message>留下语音留言</message>
+    </item>
+    <item id="Send E-mail: ">
+      <message>发送E-mail: </message>
+    </item>
+    <item id="Access Web">
+      <message>网络接入</message>
+    </item>
+    <item id="Start Chat">
+      <message>启动聊天</message>
+    </item>
+    <item id="View and modify contact">
+      <message>查看并修改联系人</message>
+    </item>
+    <item id="Absent Message">
+      <message>缺席留言</message>
+    </item>
+    <item id="Function List">
+      <message>功能列表</message>
+    </item>
+    <item id="Move &amp;Up">
+      <message>向上移动 (&amp;U)</message>
+    </item>
+    <item id="Move &amp;Down">
+      <message>向下移动 (&amp;D)</message>
+    </item>
+    <item id="&amp;Edit">
+      <message>编辑 (&amp;E)</message>
+    </item>
+    <item id="Edit">
+      <message>编辑</message>
+    </item>
+    <item id="Save to Function List">
+      <message>保存到功能列表</message>
+    </item>
+    <item id="Function List Name (Max. 16 characters):">
+      <message>功能列表名称（最多16个字符）:</message>
+    </item>
+    <item id="Same as function list name.">
+      <message>与功能列表名称相同。</message>
+    </item>
+    <item id="Set absent message (Max. 16 characters):">
+      <message>设定缺席留言（最多16个字符）:</message>
+    </item>
+    <item id="Do not change absent message.">
+      <message>请勿更改缺席留言。</message>
+    </item>
+    <item id="Clear absent message.">
+      <message>清除缺席留言。</message>
+    </item>
+    <item id="Enable">
+      <message>启用</message>
+    </item>
+    <item id="Feature Number">
+      <message>功能号码</message>
+    </item>
+    <item id="Change2">
+      <message>更改</message>
+    </item>
+    <item id="For both external calls and internal calls">
+      <message>对于外部呼叫和内部呼叫</message>
+    </item>
+    <item id="For external calls">
+      <message>对于外部呼叫</message>
+    </item>
+    <item id="For internal calls">
+      <message>对于内部呼叫</message>
+    </item>
+    <item id="Always (All)">
+      <message>总是（全部）</message>
+    </item>
+    <item id="Busy / No Answer">
+      <message>占线 / 无应答</message>
+    </item>
+    <item id="Off">
+      <message>关闭</message>
+    </item>
+    <item id="The maximum 20 function lists have already been assigned. This new setting cannot be saved.">
+      <message>已分配了最多20个功能列表。无法保存这个新设定。</message>
+    </item>
+    <item id="&amp;Modify">
+      <message>修改 (&amp;M)</message>
+    </item>
+    <item id="&amp;Add New">
+      <message>添加新值 (&amp;A)</message>
+    </item>
+    <item id="Modify Speed Dial">
+      <message>修改速拨</message>
+    </item>
+    <item id="Speed dial no.">
+      <message>速拨号码</message>
+    </item>
+    <item id="Add Speed Dial">
+      <message>添加速拨</message>
+    </item>
+    <item id="Forward">
+      <message>转送</message>
+    </item>
+    <item id="Exit">
+      <message>退出</message>
+    </item>
+    <item id="Show">
+      <message>显示</message>
+    </item>
+    <item id="Mon">
+      <message>Mon</message>
+    </item>
+    <item id="Tue">
+      <message>Tue</message>
+    </item>
+    <item id="Wed">
+      <message>Wed</message>
+    </item>
+    <item id="Thu">
+      <message>Thu</message>
+    </item>
+    <item id="Fri">
+      <message>Fri</message>
+    </item>
+    <item id="Sat">
+      <message>Sat</message>
+    </item>
+    <item id="Sun">
+      <message>Sun</message>
+    </item>
+    <item id="AM">
+      <message>AM</message>
+    </item>
+    <item id="PM">
+      <message>PM</message>
+    </item>
+    <item id="Enter password of your mailbox:">
+      <message>输入信箱的密码:</message>
+    </item>
+    <item id="Voice Mail">
+      <message>语音信箱</message>
+    </item>
+    <item id="Call Control">
+      <message>呼叫控制</message>
+    </item>
+    <item id="Incoming Call">
+      <message>来电</message>
+    </item>
+    <item id="Calling">
+      <message>正在呼叫</message>
+    </item>
+    <item id="Recall">
+      <message>重呼</message>
+    </item>
+    <item id="Text Memo">
+      <message>文本备忘录</message>
+    </item>
+    <item id="Text Memo Reminder">
+      <message>文本备忘录提醒</message>
+    </item>
+    <item id="DTMF Tone">
+      <message>DTMF音</message>
+    </item>
+    <item id="Broadcasting Group:">
+      <message>广播通信群:</message>
+    </item>
+    <item id="Manual Park">
+      <message>人工寄存</message>
+    </item>
+    <item id="Call Parked">
+      <message>呼叫寄存</message>
+    </item>
+    <item id="VM Transfer">
+      <message>语音信箱转移</message>
+    </item>
+    <item id="Caller Information">
+      <message>来电信息</message>
+    </item>
+    <item id="Redirect to">
+      <message>重新定向到</message>
+    </item>
+    <item id="Active Calls">
+      <message>主动呼叫</message>
+    </item>
+    <item id="Direct In:">
+      <message>直接接入:</message>
+    </item>
+    <item id="Outside Line:">
+      <message>外线:</message>
+    </item>
+    <item id="Call For:">
+      <message>呼叫对象:</message>
+    </item>
+    <item id="Duration:">
+      <message>持续时间:</message>
+    </item>
+    <item id="On Hold">
+      <message>保持</message>
+    </item>
+    <item id="Not Valid">
+      <message>无效</message>
+    </item>
+    <item id="Dial is incorrect.">
+      <message>拨号不正确。</message>
+    </item>
+    <item id="Please enter specific park area">
+      <message>请输入指定的寄存区</message>
+    </item>
+    <item id="Parked number">
+      <message>寄存的号码</message>
+    </item>
+    <item id="Extension  number">
+      <message>分机号码</message>
+    </item>
+    <item id="Paging Group">
+      <message>广播群</message>
+    </item>
+    <item id="Set call back">
+      <message>设定回叫</message>
+    </item>
+    <item id="Wait and send call waiting tone">
+      <message>等待并发送呼叫等待音</message>
+    </item>
+    <item id="Leave message waiting">
+      <message>留下留言待取</message>
+    </item>
+    <item id="Listen in">
+      <message>收听</message>
+    </item>
+    <item id="Override (Conference)">
+      <message>优先插入（会议）</message>
+    </item>
+    <item id="Take over">
+      <message>接管</message>
+    </item>
+    <item id="Call by override">
+      <message>优先插入呼叫</message>
+    </item>
+    <item id="Send e-mail">
+      <message>发送E-mail</message>
+    </item>
+    <item id="Transfer the call">
+      <message>转移呼叫</message>
+    </item>
+    <item id="Put the call on hold">
+      <message>保持呼叫</message>
+    </item>
+    <item id="Make a conference">
+      <message>进行会议</message>
+    </item>
+    <item id="Park the call (Automatic)">
+      <message>寄存呼叫（自动）</message>
+    </item>
+    <item id="Park the call (Manual)">
+      <message>寄存呼叫（手动）</message>
+    </item>
+    <item id="Transfer to VM">
+      <message>转移到语音信箱</message>
+    </item>
+    <item id="Record to VM">
+      <message>录制到语音信箱</message>
+    </item>
+    <item id="Stop recording">
+      <message>停止录音</message>
+    </item>
+    <item id="Send DTMF">
+      <message>发送DTMF</message>
+    </item>
+    <item id="Send Flash (EFA)">
+      <message>发送闪断(EFA)</message>
+    </item>
+    <item id="Write memo">
+      <message>写备忘录</message>
+    </item>
+    <item id="Split the call">
+      <message>分离呼叫</message>
+    </item>
+    <item id="Retrieve the call">
+      <message>恢复呼叫</message>
+    </item>
+    <item id="Hang up">
+      <message>挂机</message>
+    </item>
+    <item id="Answer the call">
+      <message>应答呼叫</message>
+    </item>
+    <item id="Redirect the call">
+      <message>重新定向呼叫</message>
+    </item>
+    <item id="Release">
+      <message>释放</message>
+    </item>
+    <item id="VM:">
+      <message>语音信箱:</message>
+    </item>
+    <item id="E-mail">
+      <message>E-mail</message>
+    </item>
+    <item id="Message">
+      <message>留言</message>
+    </item>
+    <item id="Close">
+      <message>关闭</message>
+    </item>
+    <item id="Cancel">
+      <message>取消</message>
+    </item>
+    <item id="OK">
+      <message>确定</message>
+    </item>
+    <item id="External">
+      <message>外部</message>
+    </item>
+    <item id="Internal">
+      <message>内部</message>
+    </item>
+    <item id="IN">
+      <message>接入</message>
+    </item>
+    <item id="OUT">
+      <message>拨出</message>
+    </item>
+    <item id="Total Time:">
+      <message>总时间:</message>
+    </item>
+    <item id="Ringing Time:">
+      <message>振铃时间:</message>
+    </item>
+    <item id="Connecting Time:">
+      <message>连接时间:</message>
+    </item>
+    <item id="Holding Time:">
+      <message>保持时间:</message>
+    </item>
+    <item id="Failed to set call back.">
+      <message>设定回叫失败。</message>
+    </item>
+    <item id="Failed to send call waiting.">
+      <message>发送呼叫等待失败。</message>
+    </item>
+    <item id="Failed to override the selected ongoing call.">
+      <message>优先插入所选进行呼叫失败。</message>
+    </item>
+    <item id="Failed to make this call.">
+      <message>拨打此呼叫失败。</message>
+    </item>
+    <item id="Failed to answer the call.">
+      <message>应答呼叫失败。</message>
+    </item>
+    <item id="Failed to hang up the call.">
+      <message>挂机失败。</message>
+    </item>
+    <item id="The phone number you entered is not valid.">
+      <message>输入的电话号码无效。</message>
+    </item>
+    <item id="Options">
+      <message>选项</message>
+    </item>
+    <item id="Key Assign">
+      <message>键分配</message>
+    </item>
+    <item id="Display">
+      <message>显示</message>
+    </item>
+    <item id="Preferences">
+      <message>首选项</message>
+    </item>
+    <item id="Key Mappings">
+      <message>键映射</message>
+    </item>
+    <item id="Sounds">
+      <message>声音</message>
+    </item>
+    <item id="Dial Modification">
+      <message>拨号修改</message>
+    </item>
+    <item id="PBX System Alarm">
+      <message>集团电话系统报警</message>
+    </item>
+    <item id="Logon and Security">
+      <message>登录和安全</message>
+    </item>
+    <item id="About">
+      <message>关于</message>
+    </item>
+    <item id="Disable">
+      <message>禁用</message>
+    </item>
+    <item id="Language">
+      <message>语言</message>
+    </item>
+    <item id="Minimise application to">
+      <message>最小化应用程序到</message>
+    </item>
+    <item id="Incoming call pop-up for CA">
+      <message>来电为CA弹出</message>
+    </item>
+    <item id="Incoming call pop-up for Microsoft Outlook">
+      <message>来电为Microsoft Outlook弹出</message>
+    </item>
+    <item id="Notice">
+      <message>注意事项</message>
+    </item>
+    <item id="Software version">
+      <message>软件版本</message>
+    </item>
+    <item id="Pre-installed language">
+      <message>预装语言</message>
+    </item>
+    <item id="Additional language">
+      <message>附加语言</message>
+    </item>
+    <item id="Taskbar">
+      <message>任务栏</message>
+    </item>
+    <item id="System tray">
+      <message>系统托盘</message>
+    </item>
+    <item id="Transfer automatically when new call is made during talking">
+      <message>通话期间新来电自动转移</message>
+    </item>
+    <item id="Save ICD group incoming call to history">
+      <message>将ICD群来电保存到历史记录</message>
+    </item>
+    <item id="Record to VM automatically">
+      <message>自动录制到语音信箱</message>
+    </item>
+    <item id="Use Voice Mail Assistant">
+      <message>使用Voice Mail Assistant</message>
+    </item>
+    <item id="Remove \&quot;(0)\&quot;">
+      <message>删除\"(0)\"</message>
+    </item>
+    <item id="Inform PBX system alarm using e-mail">
+      <message>使用e-mail发出集团电话系统警报</message>
+    </item>
+    <item id="Automatically login">
+      <message>自动注册</message>
+    </item>
+    <item id="Automatic minimise after automatically login">
+      <message>自动注册后自动最小化</message>
+    </item>
+    <item id="Key:">
+      <message>键:</message>
+    </item>
+    <item id="Key Name:">
+      <message>键名:</message>
+    </item>
+    <item id="Doorphone">
+      <message>门电话</message>
+    </item>
+    <item id="Call Back">
+      <message>回叫</message>
+    </item>
+    <item id="Voice Mail:">
+      <message>语音信箱:</message>
+    </item>
+    <item id="Minimum digits for public telephone number:">
+      <message>公共电话号码的最小位数:</message>
+    </item>
+    <item id="Telephone Number Modification">
+      <message>电话号码修改</message>
+    </item>
+    <item id="No.">
+      <message>号码</message>
+    </item>
+    <item id="Leading Digits to Remove\n(Max. 16 digits)">
+      <message>删除字头\n（最多16位）</message>
+    </item>
+    <item id="Added Number\n(Max. 8 digits)">
+      <message>添加号码\n（最大8位）</message>
+    </item>
+    <item id="Other:">
+      <message>其他:</message>
+    </item>
+    <item id="E-mail address">
+      <message>E-mail地址</message>
+    </item>
+    <item id="E-mail title">
+      <message>E-mail标题</message>
+    </item>
+    <item id="Current Password">
+      <message>当前密码</message>
+    </item>
+    <item id="New Password">
+      <message>新密码</message>
+    </item>
+    <item id="Verify password">
+      <message>再次输入密码</message>
+    </item>
+    <item id="When voice volume is not enough, adjustment of microphone and speaker of the PC is required using Control Panel.\nAdjustment for microphone using \&quot;Options\&quot; is also available.\nAdjustment for speaker using \&quot;Navigation Key\&quot; during talking is also available.\nPage key is available when IP softphone is connected with MPR card of KX-TDE PBX, VM-Menu on LCD is not supported. It is required to disable VM-Menu feature using COS programming of VM.">
+      <message>音量不足时，需要使用控制面板对PC麦克风和扬声器进行调节。\n也可以使用\"选项\"对麦克风进行调节。\n另外，还可以在通话期间用\"导航键\"对扬声器进行调节。\nIP softphone与KX-TDE集团电话的MPR卡连接时，可以使用广播键，但是不支持LCD上的语音信箱菜单。需要使用语音信箱的COS编程将语音信箱菜单禁用。</message>
+    </item>
+    <item id="Delete">
+      <message>删除</message>
+    </item>
+    <item id="Change &amp;Password">
+      <message>更改密码 (&amp;P)</message>
+    </item>
+    <item id="Key Name">
+      <message>键名</message>
+    </item>
+    <item id="Assign Key">
+      <message>分配键</message>
+    </item>
+    <item id="Dial/Answer">
+      <message>拨号/应答</message>
+    </item>
+    <item id="Hold">
+      <message>保持</message>
+    </item>
+    <item id="Conference">
+      <message>会议</message>
+    </item>
+    <item id="Auto Park">
+      <message>自动寄存</message>
+    </item>
+    <item id="Redial">
+      <message>重拨</message>
+    </item>
+    <item id="Pick Up">
+      <message>接听</message>
+    </item>
+    <item id="Transfer to Voice Mail">
+      <message>转移到语音信箱</message>
+    </item>
+    <item id="Split">
+      <message>分离</message>
+    </item>
+    <item id="Forward / Do Not Disturb">
+      <message>转送/免打扰</message>
+    </item>
+    <item id="Record to Voice Mail">
+      <message>录制到语音信箱</message>
+    </item>
+    <item id="Send Tone (DTMF)">
+      <message>发送音（DTMF）</message>
+    </item>
+    <item id="Copy &amp; Call &lt;Global Key&gt;">
+      <message>复制和呼叫&lt;全局按键&gt;</message>
+    </item>
+    <item id="The function key (F1-F10) cannot be assigned.">
+      <message>不能分配功能键(F1-F10)。</message>
+    </item>
+    <item id="This character cannot be assigned.">
+      <message>不能分配此字符。</message>
+    </item>
+    <item id="Do you want to save your settings?">
+      <message>您想保存设定吗?</message>
+    </item>
+    <item id="Please enter a setting.">
+      <message>请输入设定。</message>
+    </item>
+    <item id="Validation error">
+      <message>校验错误</message>
+    </item>
+    <item id="The specified path does not exist.">
+      <message>指定的路径不存在。</message>
+    </item>
+    <item id="Password mismatch. Please enter your new password again.">
+      <message>密码不匹配。请再次输入新密码。</message>
+    </item>
+    <item id="Password changed successfully.">
+      <message>密码更改成功。</message>
+    </item>
+    <item id="Password change failed!">
+      <message>密码更改失败!</message>
+    </item>
+    <item id="&amp;Send">
+      <message>发送 (&amp;S)</message>
+    </item>
+    <item id="&amp;Clear">
+      <message>清除 (&amp;C)</message>
+    </item>
+    <item id="Chat">
+      <message>聊天</message>
+    </item>
+    <item id="No Last Message...">
+      <message>无最后留言...</message>
+    </item>
+    <item id="Last Message: ">
+      <message>最后留言: </message>
+    </item>
+    <item id="Save to email software.">
+      <message>保存到email软件。</message>
+    </item>
+    <item id="Do you want to close chat?">
+      <message>您想关闭聊天吗?</message>
+    </item>
+    <item id="Chat will close">
+      <message>聊天将关闭</message>
+    </item>
+    <item id="You have reached 4 chat sessions.\nChat is not available.">
+      <message>您已达到4个聊天会话的限制。\n无法进行聊天。</message>
+    </item>
+    <item id="The other party has reached the maximum of 4 chat sessions.\nChat is not available.">
+      <message>另一方已达到4个聊天会话的最大数。\n无法进行聊天。</message>
+    </item>
+    <item id="The other party has logged off.">
+      <message>另一方已退出。</message>
+    </item>
+    <item id="Failed to establish chat with the other party.">
+      <message>与另一方建立聊天失败。</message>
+    </item>
+    <item id="The other party is not logged in.">
+      <message>另一方未注册。</message>
+    </item>
+    <item id="Unknown Error">
+      <message>未知错误</message>
+    </item>
+    <item id="Unable Establish Chat with own extension number">
+      <message>无法与自己的分机号码建立聊天</message>
+    </item>
+    <item id="Failed to launch VMA application.">
+      <message>启动VMA应用程序失败。</message>
+    </item>
+    <item id="Answer">
+      <message>应答</message>
+    </item>
+    <item id="Drop">
+      <message>挂掉</message>
+    </item>
+    <item id="Dial Number">
+      <message>拨号</message>
+    </item>
+    <item id="Assistant">
+      <message>助理</message>
+    </item>
+    <item id="Business">
+      <message>商务</message>
+    </item>
+    <item id="Business 2">
+      <message>商务 2</message>
+    </item>
+    <item id="Callback">
+      <message>回叫</message>
+    </item>
+    <item id="Car">
+      <message>汽车</message>
+    </item>
+    <item id="Company (Main)">
+      <message>公司（主）</message>
+    </item>
+    <item id="Home 2">
+      <message>家庭 2</message>
+    </item>
+    <item id="ISDN">
+      <message>ISDN</message>
+    </item>
+    <item id="Mobile">
+      <message>移动</message>
+    </item>
+    <item id="Other">
+      <message>其他</message>
+    </item>
+    <item id="Primary">
+      <message>初级的</message>
+    </item>
+    <item id="Retrieving contact data.">
+      <message>找回联系人数据。</message>
+    </item>
+    <item id="Contact data limit reached.">
+      <message>已达到联系人数据限额。</message>
+    </item>
+    <item id="Function name cannot be empty.">
+      <message>功能名称不能为空。</message>
+    </item>
+    <item id="Absent message cannot be empty.">
+      <message>缺席留言不能为空。</message>
+    </item>
+    <item id="Please enter feature number.">
+      <message>请输入功能号码。</message>
+    </item>
+    <item id="Are you sure you want to delete this function list?">
+      <message>您想删除此功能列表吗？</message>
+    </item>
+    <item id="Redirect feature for incoming call does not work for ICD group call.">
+      <message>来电转接功能对ICD群呼叫不起作用。</message>
+    </item>
+    <item id="Public telephone number is modified automatically, when dial is copied from other application or call is made using contact list or history.">
+      <message>从其它应用程序复制拨号号码或使用联系列表或历史记录拨打电话时，公共电话号码会被自动修改。</message>
+    </item>
+    <item id="&lt;Explanation&gt;">
+      <message>&lt;说明&gt;</message>
+    </item>
+    <item id="PBX system alarm can be sent to programmed e-mail address. Local alarm feature should be enabled for your extension by PBX Unified Maintenance Console.">
+      <message>可以将集团电话系统警报发送到编程好的电子邮件地址。 应使用集团电话统一维护控制台启用分机的本机告警功能。</message>
+    </item>
+    <item id="Extension Setting">
+      <message>分机设定</message>
+    </item>
+    <item id="&amp;FWD/DND">
+      <message>转送/免打扰 (&amp;F)</message>
+    </item>
+    <item id="Ext Pin Clear">
+      <message>分机PIN清除</message>
+    </item>
+    <item id="Wake Up Call">
+      <message>唤醒呼叫</message>
+    </item>
+    <item id="Extension &amp;Lock">
+      <message>分机锁定 (&amp;L)</message>
+    </item>
+    <item id="Extension &amp;Unlock">
+      <message>分机解锁 (&amp;U)</message>
+    </item>
+    <item id="Clearing Extension PIN OK?">
+      <message>清除分机PIN可以吗?</message>
+    </item>
+    <item id="PC Console">
+      <message>PC控制台</message>
+    </item>
+    <item id="Wake Up Call Setting">
+      <message>唤醒呼叫设定</message>
+    </item>
+    <item id="h">
+      <message>小时</message>
+    </item>
+    <item id="Daily Setting">
+      <message>每天设定</message>
+    </item>
+    <item id="Daily">
+      <message>每天</message>
+    </item>
+    <item id="Once">
+      <message>一次</message>
+    </item>
+    <item id="Number">
+      <message>号码</message>
+    </item>
+    <item id="FWD/DND (Internal)">
+      <message>FWD/DND（内部）</message>
+    </item>
+    <item id="FWD/DND (External)">
+      <message>FWD/DND（外部）</message>
+    </item>
+    <item id="Display Lock">
+      <message>显示锁定</message>
+    </item>
+    <item id="Dial Lock">
+      <message>拨号锁定</message>
+    </item>
+    <item id="Wake Up">
+      <message>唤醒</message>
+    </item>
+    <item id="Lock">
+      <message>锁定</message>
+    </item>
+    <item id="&amp;Unlock">
+      <message>解锁 (&amp;U)</message>
+    </item>
+    <item id="On">
+      <message>接通</message>
+    </item>
+    <item id="Outside Line Group">
+      <message>外线群</message>
+    </item>
+    <item id="Outside Line Number">
+      <message>外线号码</message>
+    </item>
+    <item id="Status">
+      <message>状态</message>
+    </item>
+    <item id="Call secretary">
+      <message> 呼叫秘书</message>
+    </item>
+    <item id="Contact List Group:">
+      <message>联系列表群：</message>
+    </item>
+    <item id="Contact List Groups">
+      <message>联系列表群</message>
+    </item>
+    <item id="&amp;New">
+      <message>新建 (&amp;N)</message>
+    </item>
+    <item id="Move D&amp;own">
+      <message>向下移动 (&amp;O)</message>
+    </item>
+    <item id="All">
+      <message>全部</message>
+    </item>
+    <item id="Customise">
+      <message>自定义</message>
+    </item>
+    <item id="Private">
+      <message>私人</message>
+    </item>
+    <item id="Please enter a name">
+      <message>请输入名称</message>
+    </item>
+    <item id="Communication Assistant Pro">
+      <message>Communication Assistant Pro</message>
+    </item>
+    <item id="Are you sure you want to remove this record?">
+      <message>您想移除此记录吗?</message>
+    </item>
+    <item id="Contact Group Name:">
+      <message>联系人群名称:</message>
+    </item>
+    <item id="Chat call back">
+      <message>聊天回叫</message>
+    </item>
+    <item id="is typing a message">
+      <message>正在输入信息</message>
+    </item>
+    <item id="Operator Console (CA Operator Console)">
+      <message>操作员控制台（CA Operator Console）</message>
+    </item>
+    <item id="Use Network">
+      <message>使用网络</message>
+    </item>
+    <item id="IP Address of CA Server">
+      <message>CA服务器的地址</message>
+    </item>
+    <item id="Local Address">
+      <message>第一</message>
+    </item>
+    <item id="Remote Address">
+      <message>第二</message>
+    </item>
+    <item id="FQDN Error">
+      <message>FQDN 錯誤</message>
+    </item>
+    <item id="You can log-in to Operator Console Trial for now">
+      <message>您现在可以登录操作员控制台试用</message>
+    </item>
+    <item id="The number of license is not enough. Do you continue to login without network?">
+      <message>许可证的数量不足。您想在没有网络的情况下继续注册吗?</message>
+    </item>
+    <item id="Function Name:">
+      <message>功能名称：</message>
+    </item>
+    <item id="Function is executed automatically when CA is started.">
+      <message>CA启动时，功能被自动执行。</message>
+    </item>
+    <item id="Function is executed automatically when CA is closed.">
+      <message>CA关闭时，功能被自动执行。</message>
+    </item>
+    <item id="My Contact">
+      <message>我的联系人</message>
+    </item>
+    <item id="Paging (Flexible)">
+      <message>广播（可变）</message>
+    </item>
+    <item id="Account Code">
+      <message>帐户代码</message>
+    </item>
+    <item id="Extension Call">
+      <message>分机呼叫</message>
+    </item>
+    <item id="Group Call">
+      <message>群呼叫</message>
+    </item>
+    <item id="Paging (Fixed)">
+      <message>广播（固定）</message>
+    </item>
+    <item id="Parameter:">
+      <message>参数：</message>
+    </item>
+    <item id="Label:">
+      <message>标签：</message>
+    </item>
+    <item id="Please enter Group No.">
+      <message>请输入群号码</message>
+    </item>
+    <item id="CA Pro License is required">
+      <message>需要CA Pro证书</message>
+    </item>
+    <item id="Missing or unregistered client.">
+      <message>客户端丢失或未注册。</message>
+    </item>
+    <item id="Failed to open email software.">
+      <message>打开email软件失败。</message>
+    </item>
+    <item id="Name:">
+      <message>姓名：</message>
+    </item>
+    <item id="Find">
+      <message>查找</message>
+    </item>
+    <item id="Call this contact">
+      <message>呼叫此联系人</message>
+    </item>
+    <item id="Add to contact list">
+      <message>添加到联系列表</message>
+    </item>
+    <item id="Email Address">
+      <message>Email地址</message>
+    </item>
+    <item id="Cannot connect to server.">
+      <message>无法连接到服务器。</message>
+    </item>
+    <item id="No results found.">
+      <message>未找到结果。</message>
+    </item>
+    <item id="Number of search result exceeded the limit. Only first 100 results shown.">
+      <message>搜索结果的数目超出了限制。仅能显示前100个结果。</message>
+    </item>
+    <item id="Error while searching for results.">
+      <message>搜索结果时出错。</message>
+    </item>
+    <item id="Cannot make call. No telephone number.">
+      <message>无法拨打电话。无电话号码。</message>
+    </item>
+    <item id="&amp;New...">
+      <message>新建 (&amp;N)...</message>
+    </item>
+    <item id="Cannot add more than 10 servers to list.">
+      <message>最多只能将10个服务器添加到列表。</message>
+    </item>
+    <item id="LDAP Server settings">
+      <message>LDAP服务器设定</message>
+    </item>
+    <item id="Server Address:">
+      <message>服务器地址：</message>
+    </item>
+    <item id="Port Number:">
+      <message>端口号：</message>
+    </item>
+    <item id="Account Name:">
+      <message>帐户名称：</message>
+    </item>
+    <item id="Password:">
+      <message>密码：</message>
+    </item>
+    <item id="Use SSL">
+      <message>使用SSL</message>
+    </item>
+    <item id="Ok">
+      <message>确定</message>
+    </item>
+    <item id="Server address cannot be empty.">
+      <message>服务器地址不能为空。</message>
+    </item>
+    <item id="Invalid port number.">
+      <message>无效端口号。</message>
+    </item>
+    <item id="Account name / password cannot be empty.">
+      <message>帐户名称／密码不能为空。</message>
+    </item>
+    <item id="Park (Auto)">
+      <message>寄存（自动）</message>
+    </item>
+    <item id="Park (Manual)">
+      <message>寄存（人工）</message>
+    </item>
+    <item id="Call waiting tone">
+      <message>呼叫等待音</message>
+    </item>
+    <item id="login now">
+      <message>现在注册</message>
+    </item>
+    <item id="chat is disabled. Callback is cancelled.">
+      <message>聊天被禁用。回叫被取消。</message>
+    </item>
+    <item id="Extension">
+      <message>分机</message>
+    </item>
+    <item id="Extension PIN Clear">
+      <message>分机PIN清除</message>
+    </item>
+    <item id="Transfer to phone (Office): ">
+      <message>转移到办公电话:</message>
+    </item>
+    <item id="Transfer to phone (Mobile): ">
+      <message>转移到移动电话:</message>
+    </item>
+    <item id="Transfer to phone (Home): ">
+      <message>转移到家庭电话:</message>
+    </item>
+    <item id="Transfer to phone (secretary): ">
+      <message>转移到秘书电话:</message>
+    </item>
+    <item id="Email this contact">
+      <message>给此联系人发Email</message>
+    </item>
+    <item id="Key-1">
+      <message>键-1</message>
+    </item>
+    <item id="Key-2">
+      <message>键-2</message>
+    </item>
+    <item id="Key-3">
+      <message>键-3</message>
+    </item>
+    <item id="Key-4">
+      <message>键-4</message>
+    </item>
+    <item id="Key-5">
+      <message>键-5</message>
+    </item>
+    <item id="Key-6">
+      <message>键-6</message>
+    </item>
+    <item id="Key-7">
+      <message>键-7</message>
+    </item>
+    <item id="Key-8">
+      <message>键-8</message>
+    </item>
+    <item id="Key-9">
+      <message>键-9</message>
+    </item>
+    <item id="Key-10">
+      <message>键-10</message>
+    </item>
+    <item id="Key-11">
+      <message>键-11</message>
+    </item>
+    <item id="Key-12">
+      <message>键-12</message>
+    </item>
+    <item id="Select by group number">
+      <message>按群号码选择</message>
+    </item>
+    <item id="Group number: 01">
+      <message>群号码：01</message>
+    </item>
+    <item id="Group number: 02">
+      <message>群号码：02</message>
+    </item>
+    <item id="Group number: 03">
+      <message>群号码：03</message>
+    </item>
+    <item id="Group number: 04">
+      <message>群号码：04</message>
+    </item>
+    <item id="Group number: 05">
+      <message>群号码：05</message>
+    </item>
+    <item id="Group number: 06">
+      <message>群号码：06</message>
+    </item>
+    <item id="Group number: 07">
+      <message>群号码：07</message>
+    </item>
+    <item id="Group number: 08">
+      <message>群号码：08</message>
+    </item>
+    <item id="Group number: 09">
+      <message>群号码：09</message>
+    </item>
+    <item id="Group number: 10">
+      <message>群号码：10</message>
+    </item>
+    <item id="Group number: 11">
+      <message>群号码：11</message>
+    </item>
+    <item id="Group number: 12">
+      <message>群号码：12</message>
+    </item>
+    <item id="Group number: 13">
+      <message>群号码：13</message>
+    </item>
+    <item id="Group number: 14">
+      <message>群号码：14</message>
+    </item>
+    <item id="Group number: 15">
+      <message>群号码：15</message>
+    </item>
+    <item id="Group number: 16">
+      <message>群号码：16</message>
+    </item>
+    <item id="Group number: 17">
+      <message>群号码：17</message>
+    </item>
+    <item id="Group number: 18">
+      <message>群号码：18</message>
+    </item>
+    <item id="Group number: 19">
+      <message>群号码：19</message>
+    </item>
+    <item id="Group number: 20">
+      <message>群号码：20</message>
+    </item>
+    <item id="Group number: 21">
+      <message>群号码：21</message>
+    </item>
+    <item id="Group number: 22">
+      <message>群号码：22</message>
+    </item>
+    <item id="Group number: 23">
+      <message>群号码：23</message>
+    </item>
+    <item id="Group number: 24">
+      <message>群号码：24</message>
+    </item>
+    <item id="Group number: 25">
+      <message>群号码：25</message>
+    </item>
+    <item id="Group number: 26">
+      <message>群号码：26</message>
+    </item>
+    <item id="Group number: 27">
+      <message>群号码：27</message>
+    </item>
+    <item id="Group number: 28">
+      <message>群号码：28</message>
+    </item>
+    <item id="Group number: 29">
+      <message>群号码：29</message>
+    </item>
+    <item id="Group number: 30">
+      <message>群号码：30</message>
+    </item>
+    <item id="Group number: 31">
+      <message>群号码：31</message>
+    </item>
+    <item id="Group number: 32">
+      <message>群号码：32</message>
+    </item>
+    <item id="Please enter Group Number.">
+      <message>请输入群号码。</message>
+    </item>
+    <item id="&amp;Edit...">
+      <message>编辑 (&amp;E)...</message>
+    </item>
+    <item id="Please enter a group name.">
+      <message>请输入群名称。</message>
+    </item>
+    <item id="Unable load user Profile.">
+      <message>无法导入用户配置文件。</message>
+    </item>
+    <item id="Request Fail.">
+      <message>请求失败。</message>
+    </item>
+    <item id="Fail to connect to the selected Network Server.">
+      <message>连接到所选网络服务器失败。</message>
+    </item>
+    <item id="Network Call Flag">
+      <message>网络呼叫标记</message>
+    </item>
+    <item id="Connection with Network Server is Disconnected, CA will connect back to Own Server.">
+      <message>与网络服务器的连接断开，CA将连接回自己的服务器。</message>
+    </item>
+    <item id="Call Park">
+      <message>呼叫寄存</message>
+    </item>
+    <item id="Park Number">
+      <message>寄存号码</message>
+    </item>
+    <item id="Function Name">
+      <message>功能名称</message>
+    </item>
+    <item id="Start date and time">
+      <message>启动日期和时间</message>
+    </item>
+    <item id="End date and time">
+      <message>结束日期和时间</message>
+    </item>
+    <item id="Function List - Schedule">
+      <message>功能列表 - 日程安排</message>
+    </item>
+    <item id="Function name for End :">
+      <message>结束的功能名称：</message>
+    </item>
+    <item id="Callback message was cancelled for the timeout.">
+      <message>由于超时，回叫留言被取消。</message>
+    </item>
+    <item id="Outside Line : ">
+      <message>外线： </message>
+    </item>
+    <item id="DEFAULT LDAP SRV">
+      <message>默认LDAP SRV</message>
+    </item>
+    <item id="Searching for LDAP contacts...">
+      <message>正在搜索LDAP联系人...</message>
+    </item>
+    <item id="Connecting to LDAP server...">
+      <message>正在连接到LDAP服务器...</message>
+    </item>
+    <item id="Location:">
+      <message>位置：</message>
+    </item>
+    <item id="LDAP Location List">
+      <message>LDAP位置列表</message>
+    </item>
+    <item id="Are you sure you want to delete this location?">
+      <message>您想删除此位置吗?</message>
+    </item>
+    <item id="Cannot add new location. Location already exists. Do you want to edit existing location instead?">
+      <message>无法添加新位置。位置已存在。您想编辑已有位置吗?</message>
+    </item>
+    <item id="Location cannot be empty.">
+      <message>位置不能为空。</message>
+    </item>
+    <item id="Location cannot be the same as server address.">
+      <message>位置不能与服务器地址相同。</message>
+    </item>
+    <item id="&amp;LDAP Link">
+      <message>LDAP链接 (&amp;L)</message>
+    </item>
+    <item id="Function Key:">
+      <message>功能键：</message>
+    </item>
+    <item id="Outside &amp;Line Group">
+      <message>外线群 (&amp;L)</message>
+    </item>
+    <item id="Incoming Group">
+      <message>来电群</message>
+    </item>
+    <item id="Icon">
+      <message>图标</message>
+    </item>
+    <item id="List">
+      <message>一览表</message>
+    </item>
+    <item id="Contact List Display Format">
+      <message>联系列表显示格式</message>
+    </item>
+    <item id="This is the default group. Default group cannot be deleted.">
+      <message>这是默认群。不能删除默认群。</message>
+    </item>
+    <item id="The password supplied does not meet the minimum complexity requirement. \n Please select another password that meet all of the following  criteria: \n -is at least 5 characters; \n-not same as extension number;\n-must contains different data types (nemera">
+      <message>提供的密码不满足最低的复杂性要求。\n请选择满足所有下列条件的其它密码：\n-至少含有5个字符；\n-与分机号码不同；\n-必须含有不同的数据类型（数字[0-9]）；字母[A-Z、a-z]；符号[*、#]。</message>
+    </item>
+    <item id="The maximum contact group had been registered. To add a new contact group, please delete some contact group.">
+      <message>已注册了最大数量的联系人群。要添加新的联系人群，请删除某些联系人群。</message>
+    </item>
+    <item id="Cannot log in. This may be cause by one of the following causes: \n -you entered an incorrect password \n -The extension number does not exist.">
+      <message>无法注册。可能由于下列原因之一造成：\n -输入了错误的密码\n -分机号码不存在。 </message>
+    </item>
+    <item id="Unable to set user profile.">
+      <message>无法设定用户配置文件。</message>
+    </item>
+    <item id="Uable to delete the selected user profile.">
+      <message>无法删除所选的用户配置文件。</message>
+    </item>
+    <item id="Available Contact">
+      <message>可用联系人</message>
+    </item>
+    <item id="Available Contact (External Server Mode Only)">
+      <message>可用联系人（仅限外部服务器方式）</message>
+    </item>
+    <item id="Secretary">
+      <message>秘书</message>
+    </item>
+    <item id="Duration : ">
+      <message>持续时间: </message>
+    </item>
+    <item id="Absent Message Icon List">
+      <message>缺席留言图标列表</message>
+    </item>
+    <item id="Do Not Disturb Icon">
+      <message>免打扰图标</message>
+    </item>
+    <item id="Are you sure want to delete?">
+      <message>您想删除吗？</message>
+    </item>
+    <item id="Add">
+      <message>添加</message>
+    </item>
+    <item id="Fail to forward. Phone number is exceeded 32 digits">
+      <message>转送失败。电话号码超过32位</message>
+    </item>
+    <item id="Acquiring Ldap info from server.">
+      <message>正在由服务器获取LDAP信息</message>
+    </item>
+    <item id="Unable to get Ldap info from Server.">
+      <message>无法由服务器获取LDAP信息</message>
+    </item>
+    <item id="&amp;Location:">
+      <message>位置 (&amp;L)：</message>
+    </item>
+    <item id="Clear Forward / Do Not Disturb">
+      <message>清除转送/免打扰</message>
+    </item>
+    <item id="Forward VM : ">
+      <message>转送语音信箱: </message>
+    </item>
+    <item id="Forward Phone (Home) : ">
+      <message>转送家庭电话： </message>
+    </item>
+    <item id="Forward Phone (Mobile) : ">
+      <message>转送移动电话: </message>
+    </item>
+    <item id="Forward Phone (Secretary) : ">
+      <message>转送秘书电话： </message>
+    </item>
+    <item id="Advanced setting">
+      <message>高级设定</message>
+    </item>
+    <item id="Connection to the PBX is lost. Call control functions will no longer work.">
+      <message>与集团电话的连接丢失,呼叫控制功能不再工作</message>
+    </item>
+    <item id="Connection to the PBX has been regained.">
+      <message>与集团电话的连接恢复</message>
+    </item>
+    <item id="&amp;Log-in">
+      <message>注册 (&amp;L)</message>
+    </item>
+    <item id="Log-&amp;out">
+      <message>注销 (&amp;O)</message>
+    </item>
+    <item id="&amp;More">
+      <message>更多 (&amp;M)</message>
+    </item>
+    <item id="Call phone (&amp;Office): ">
+      <message>呼叫办公电话(&amp;O):</message>
+    </item>
+    <item id="Call phone (&amp;Mobile): ">
+      <message>呼叫移动电话(&amp;M):</message>
+    </item>
+    <item id="Call phone (Hom&amp;e): ">
+      <message>呼叫家庭电话(&amp;E):</message>
+    </item>
+    <item id="Transfer to phone (&amp;Office): ">
+      <message>转送到办公电话(&amp;O)：</message>
+    </item>
+    <item id="Transfer to phone (&amp;Mobile): ">
+      <message>转送到移动电话(&amp;M): </message>
+    </item>
+    <item id="Transfer to phone (Hom&amp;e): ">
+      <message>转送到家庭电话(&amp;E)： </message>
+    </item>
+    <item id="Call phone (Secretar&amp;y): ">
+      <message>呼叫秘书电话(&amp;Y)：</message>
+    </item>
+    <item id="Leave vo&amp;ice message">
+      <message>留下语音留言(&amp;C)</message>
+    </item>
+    <item id="Se&amp;nd E-mail : ">
+      <message>发送E-mail(&amp;N)：</message>
+    </item>
+    <item id="Access &amp;Web">
+      <message>访问网络(&amp;W)</message>
+    </item>
+    <item id="Start c&amp;hat">
+      <message>启动聊天(&amp;H)</message>
+    </item>
+    <item id="Chat call &amp;back">
+      <message>聊天呼叫回拨(&amp;R)</message>
+    </item>
+    <item id="Transfer to phone (Secretar&amp;y): ">
+      <message>转送到秘书电话(&amp;Y):</message>
+    </item>
+    <item id="&amp;Get Latest Report">
+      <message>得到最新报告(&amp;U)</message>
+    </item>
+    <item id="Extension &amp;Pin Clear">
+      <message>分机pin清除(&amp;P)</message>
+    </item>
+    <item id="&amp;Wake Up">
+      <message>唤醒(&amp;M)</message>
+    </item>
+    <item id="&amp;Absent Message ">
+      <message>缺席留言(&amp;A)</message>
+    </item>
+    <item id="&amp;Extension">
+      <message>分机(&amp;E)</message>
+    </item>
+    <item id="&amp;Lock">
+      <message>锁定(&amp;L)</message>
+    </item>
+    <item id="&amp;Wake Up Call">
+      <message>呼叫唤醒(&amp;W)</message>
+    </item>
+    <item id="Ext &amp;Pin Clear">
+      <message>分机pin清除(&amp;P)</message>
+    </item>
+    <item id="&amp;Call this contact">
+      <message>呼叫此联系人(&amp;C)</message>
+    </item>
+    <item id="&amp;Add to contact list">
+      <message>填加到联系列表(&amp;A)</message>
+    </item>
+    <item id="&amp;Email this contact">
+      <message>发E-mail给此联系人(&amp;E)</message>
+    </item>
+    <item id="&amp;Name:">
+      <message>姓名(&amp;N):</message>
+    </item>
+    <item id="Please select another password with at least 5 characters, not same as \nextension number, and contains at least two of the following three character \ngroups: English uppercase (A through Z) or lowercase (a through z) characters; \nNumerals (0-9); Non-alphabetic characters (*,#).">
+      <message>请选择另外一个至少5位字符、与\n分机号码不同、并且至少包含下面三个字符\n组中两种的密码：英语大写（A到Z）或小写（a到z）字符；\n数字 (0-9)；非字母字符 (*,#)。</message>
+    </item>
+    <item id="Server is busy. Please try to login later.">
+      <message>服务器正忙,请稍后再尝试注册</message>
+    </item>
+    <item id="Option">
+      <message>选项</message>
+    </item>
+    <item id="Forward/Do Not Disturb">
+      <message>转送/免打扰</message>
+    </item>
+    <item id="Cannot log in. This may be caused by one of the following causes: \n - you entered an incorrect password \n - the extension number does not exist.">
+      <message>无法注册。可能由于下列原因之一造成：\n -输入了错误的密码\n -分机号码不存在。 </message>
+    </item>
+    <item id="Unable to load User Profile.">
+      <message>无法导入用户配置文件。</message>
+    </item>
+    <item id="Language file not found, CA will use default language (English)">
+      <message>找不到语言文件，CA将使用默认语言（英语）</message>
+    </item>
+    <item id="&amp;Add">
+      <message>添加(&amp;A)</message>
+    </item>
+    <item id="A&amp;dd">
+      <message>添加(&amp;D)</message>
+    </item>
+    <item id="De&amp;lete">
+      <message>删除(&amp;L)</message>
+    </item>
+    <item id="Dele&amp;te">
+      <message>删除(&amp;T)</message>
+    </item>
+    <item id="&amp;Server Address:">
+      <message>服务器地址(&amp;S)：</message>
+    </item>
+    <item id="Port &amp;Number:">
+      <message>端口号(&amp;N)：</message>
+    </item>
+    <item id="&amp;Account Name:">
+      <message>帐户名称(&amp;A)：</message>
+    </item>
+    <item id="&amp;Password:">
+      <message>密码(&amp;P)：</message>
+    </item>
+    <item id="Advanced Setting">
+      <message>高级设定</message>
+    </item>
+    <item id="Server is busy, Please try later.">
+      <message>服务器正忙，请稍后再尝试注册。</message>
+    </item>
+    <item id="The image file is not valid, CA is unable to load the image file.">
+      <message>映像文件无效，CA无法导入该映像文件。</message>
+    </item>
+    <item id="Dutch">
+      <message>Nederlands</message>
+    </item>
+    <item id="Polish">
+      <message>Polski</message>
+    </item>
+    <item id="Croatian ">
+      <message>Hrvatski</message>
+    </item>
+    <item id="Hungarian ">
+      <message>Magyar</message>
+    </item>
+    <item id="Czech ">
+      <message>Česky</message>
+    </item>
+    <item id="PBX Connection Lost …">
+      <message>集团电话连接丢失…</message>
+    </item>
+    <item id="Log-in to the group">
+      <message>注册到群</message>
+    </item>
+    <item id="Log-out from the group">
+      <message>从群注销</message>
+    </item>
+    <item id="Se&amp;nd E-mail: ">
+      <message>发送E-mail (&amp;N)</message>
+    </item>
+    <item id="Start C&amp;hat">
+      <message>启动聊天(&amp;H)</message>
+    </item>
+    <item id="Save">
+      <message>保存</message>
+    </item>
+    <item id="&amp;Extension Setting">
+      <message>分机设定(&amp;E)</message>
+    </item>
+    <item id="Phone (Secretary):">
+      <message>秘书电话:</message>
+    </item>
+    <item id="Cannot login PBX mode in Thin Client environment.">
+      <message>无法在瘦客户端环境中注册集团电话方式。</message>
+    </item>
+    <item id="Local Alarm Message:">
+      <message>本地告警信息：</message>
+    </item>
+    <item id="&amp;Speed Dial">
+      <message>速拨 (&amp;S)</message>
+    </item>
+    <item id="Call phone (Secretary): ">
+      <message>呼叫秘书电话: </message>
+    </item>
+    <item id="&amp;Ok">
+      <message>确定 (&amp;O)</message>
+    </item>
+    <item id="Total Incoming Call">
+      <message>全部来电</message>
+    </item>
+    <item id="Overflow Call">
+      <message>溢出通话</message>
+    </item>
+    <item id="Average Waiting Time">
+      <message>平均等待时间</message>
+    </item>
+    <item id="This Console feature is beta version.">
+      <message>该控制台功能为测试版。</message>
+    </item>
+    <item id="Communication Assistant failed to log in.\nPlease try to log in again.">
+      <message>Communication Assistant登陆失败。\n请重新登陆。</message>
+    </item>
+    <item id="&amp;View this contact">
+      <message>查看此联系人 (&amp;V)</message>
+    </item>
+    <item id="Open Doo&amp;r">
+      <message>打开门(&amp;r)</message>
+    </item>
+    <item id="Open Door">
+      <message>打开门</message>
+    </item>
+    <item id="Call D&amp;oorphone">
+      <message>呼叫门电话(&amp;o)</message>
+    </item>
+    <item id="Call Doorphone">
+      <message>呼叫门电话</message>
+    </item>
+    <item id="Search / Dial">
+      <message>搜索/拨号</message>
+    </item>
+    <item id="Combine Search and Dial">
+      <message>组合搜索和拨号</message>
+    </item>
+    <item id="Call Control Display Mode">
+      <message>呼叫控制显示模式</message>
+    </item>
+    <item id="Extension Setting Authentication Setting">
+      <message>分机设定验证设定</message>
+    </item>
+    <item id="Settings below are needed to get information from PBX">
+      <message>需要进行以下设定以从集团电话获取信息</message>
+    </item>
+    <item id="Maintenance Port Number">
+      <message>维护端口号</message>
+    </item>
+    <item id="Absent message is assigned automatically when PC is not used pre programmed time.">
+      <message>如果在设定的时间内不使用PC，“缺席留言”被自动分配。</message>
+    </item>
+    <item id="Unable to establish chat with own extension number.">
+      <message>无法建立与自己分机号的聊天。</message>
+    </item>
+    <item id="Contact list successfully exported.">
+      <message>联系人列表已成功导出。</message>
+    </item>
+    <item id="Contact list unable to export. An error occur during the exportation">
+      <message>联系人列表无法导出。导出期间出错</message>
+    </item>
+    <item id="Use Extension Setting feature">
+      <message>使用分机设置功能</message>
+    </item>
+    <item id="\&quot;Extension Setting\&quot; menu is not available temporarily because PBX information is not retrieved.\nPlease ask your PBX administrator.">
+      <message>由于集团电话信息没有恢复，\"分机设置\"会暂时不可用。\n请咨询集团电话管理员。</message>
+    </item>
+    <item id="Automatic unscreened transfer">
+      <message>自动未过滤转移</message>
+    </item>
+    <item id="Automatic Unscreened Transfer for Operator Console">
+      <message>话务员控制台的自动未过滤转移</message>
+    </item>
+    <item id="Standard user (CA Basic-Express)">
+      <message>标准用户 (CA Basic-Express)</message>
+    </item>
+    <item id="You can log-in to Basic-Express mode for now">
+      <message>您现在可以暂时注册到Basic-Express</message>
+    </item>
+    <item id="Limitations for Basic-Express mode:">
+      <message>Basic-Express的限制:</message>
+    </item>
+    <item id="Sound">
+      <message>取消静音</message>
+    </item>
+    <item id="Mute">
+      <message>静音</message>
+    </item>
+    <item id="Move to Dial Box">
+      <message>移动到拨号框</message>
+    </item>
+    <item id="Answer">
+      <message>应答</message>
+    </item>
+    <item id="Redirect">
+      <message>重新定向</message>
+    </item>
+    <item id="Write Memo">
+      <message>写备忘录</message>
+    </item>
+    <item id="Set Call Back">
+      <message>设定回叫</message>
+    </item>
+    <item id="Call waiting tone">
+      <message>呼叫等待音</message>
+    </item>
+    <item id="Listen in">
+      <message>收听</message>
+    </item>
+    <item id="Override(Conference)">
+      <message>优先插入（会议）</message>
+    </item>
+    <item id="Take Over">
+      <message>接管</message>
+    </item>
+    <item id="Start Chat">
+      <message>启动聊天</message>
+    </item>
+    <item id="Move Call focus(up)">
+      <message>向上移动通话焦点</message>
+    </item>
+    <item id="Move Call focus(down)">
+      <message>向下移动通话焦点</message>
+    </item>
+    <item id="Group Conference">
+      <message>群会议</message>
+    </item>
+    <item id="Total length of Email-to-SMS address(es) exceeded the maximum limit.\n\nYour Email-to-SMS address(es) may be truncated.">
+      <message>Email短信地址的总长度超出了最大限制。\n\n您的Email短信地址可能会被删节。</message>
+    </item>
+    <item id="Office">
+      <message>办公</message>
+    </item>
+    <item id="PBX Code">
+      <message>集团电话代码</message>
+    </item>
+    <item id="Mobile">
+      <message>移动</message>
+    </item>
+    <item id="Home">
+      <message>家庭</message>
+    </item>
+    <item id="Secretary">
+      <message>秘书</message>
+    </item>
+    <item id="&amp;Office">
+      <message>办公(&amp;O)</message>
+    </item>
+    <item id="&amp;PBX Code">
+      <message>集团电话代码(&amp;P)</message>
+    </item>
+    <item id="Mo&amp;bile">
+      <message>移动(&amp;B)</message>
+    </item>
+    <item id="&amp;Home">
+      <message>家庭(&amp;H)</message>
+    </item>
+    <item id="&amp;Secretary">
+      <message>秘书(&amp;S)</message>
+    </item>
+    <item id="&amp;E-mail">
+      <message>E-mail(&amp;E)</message>
+    </item>
+    <item id="S&amp;MS">
+      <message>短信(&amp;M)</message>
+    </item>
+    <item id="CRM Integration">
+      <message>CRM集成</message>
+    </item>
+    <item id="Add Member To Co&amp;nference">
+      <message>添加成员到会议(&amp;N)</message>
+    </item>
+    <item id="Conference Group">
+      <message>会议群</message>
+    </item>
+    <item id="Conference Room">
+      <message>会议室</message>
+    </item>
+    <item id="ID">
+      <message>ID</message>
+    </item>
+    <item id="Conference Setting">
+      <message>会议设定</message>
+    </item>
+    <item id="Name:">
+      <message>姓名：</message>
+    </item>
+    <item id="PIN:">
+      <message>PIN：</message>
+    </item>
+    <item id="Number:">
+      <message>号码：</message>
+    </item>
+    <item id="Add New Member">
+      <message>添加新成员</message>
+    </item>
+    <item id="Number already exist">
+      <message>号码已存在。</message>
+    </item>
+    <item id="&amp;End Conference">
+      <message>结束会议(&amp;E)</message>
+    </item>
+    <item id="You are invited to this conference. Do you want to accept?">
+      <message>您被邀请参加此会议。您想接受吗?</message>
+    </item>
+    <item id="Invitation">
+      <message>邀请</message>
+    </item>
+    <item id="Join">
+      <message>参加</message>
+    </item>
+    <item id="Start">
+      <message>启动</message>
+    </item>
+    <item id="Disconnect">
+      <message>断开连接</message>
+    </item>
+    <item id="32 (Default: one-way)">
+      <message>32（默认：单向）</message>
+    </item>
+    <item id="8 (Default: two-way)">
+      <message>8（默认：双向）</message>
+    </item>
+    <item id="I would like to join this conference.\nCould you please add me into this conference?">
+      <message>我想要参加此会议。\n能将我添加到此会议中吗？</message>
+    </item>
+    <item id="Empty Slot - Add Party">
+      <message>空位 - 添加通话方</message>
+    </item>
+    <item id="Empty Slot">
+      <message>空位</message>
+    </item>
+    <item id="Invite">
+      <message>邀请</message>
+    </item>
+    <item id="Yes">
+      <message>是</message>
+    </item>
+    <item id="No">
+      <message>否</message>
+    </item>
+    <item id="Server is busy. Please try again later.">
+      <message>服务器正忙。请稍后重试。</message>
+    </item>
+    <item id="Conference members exceed the limit.">
+      <message>会议成员已超出限制。</message>
+    </item>
+    <item id="Please wait...">
+      <message>请等待...</message>
+    </item>
+    <item id="Conference room is not available.">
+      <message>会议室不可用。</message>
+    </item>
+    <item id="No member in conference room.">
+      <message>会议室中无成员。</message>
+    </item>
+    <item id="Invalid group number.">
+      <message>无效群号。</message>
+    </item>
+    <item id="Network is busy.">
+      <message>网络正忙。</message>
+    </item>
+    <item id="Failed to start conference.">
+      <message>无法启动会议。</message>
+    </item>
+    <item id="Do you want to remove this user from the conference?">
+      <message>您想将此用户从会议中移除吗？</message>
+    </item>
+    <item id="Do you want to disconnect this member from the conference?">
+      <message>您想将此成员从会议断开吗？</message>
+    </item>
+    <item id="Conference details already deleted.">
+      <message>已删除会议详情。</message>
+    </item>
+    <item id="The current members will be removed and replaced by new data. Do you want to continue?">
+      <message>当前成员将被删除并使用新数据替换。您想继续吗?</message>
+    </item>
+    <item id="Exceed maximum no. of group.">
+      <message>已超出群的最大数量。</message>
+    </item>
+    <item id="Do you want to end the conference?">
+      <message>您想结束会议吗?</message>
+    </item>
+    <item id="Own extension is not allowed.">
+      <message>不允许使用自己的分机。</message>
+    </item>
+    <item id="The initiator is not CA user. Join cannot be done. Please dial the number which the conference initiator informed to you to join this conference.">
+      <message>发起人不是CA用户。无法完成加入。请拨打会议发起人告知您的号码以加入此会议。</message>
+    </item>
+    <item id="Sorry, you are not able to join this conference.">
+      <message>对不起，您不能加入到此会议。</message>
+    </item>
+    <item id="Are you sure you want to delete?">
+      <message>您想删除吗？</message>
+    </item>
+    <item id="Name already exist.">
+      <message>名称已存在。</message>
+    </item>
+    <item id="Do you want to save conference member?">
+      <message>您想保存会议成员吗?</message>
+    </item>
+    <item id="Some of the items could not be added due to the reasons below:\n\n* Invalid contact type.\n* Duplicated phone number.\n* Own number is added.\n* Exceed the maximum member limit.\n* No phone number found.">
+      <message>由于以下原因，无法添加某些项目。\n\n* 无效的联系人类型。\n* 重复的电话号码。\n* 添加了自己的号码。\n* 超出了最大成员限制。\n* 没有找到电话号码。</message>
+    </item>
+    <item id="Normal">
+      <message>正常</message>
+    </item>
+    <item id="Mute">
+      <message>静音</message>
+    </item>
+    <item id="Send E-mail 1">
+      <message>发送 E-mail 1</message>
+    </item>
+    <item id="Send E-mail 1:">
+      <message>发送 E-mail 1：</message>
+    </item>
+    <item id="Send &amp;E-mail 1:">
+      <message>发送 E-mail 1(&amp;E)：</message>
+    </item>
+    <item id="Send E-mail 2:">
+      <message>发送 E-mail 2：</message>
+    </item>
+    <item id="Se&amp;nd E-mail 2:">
+      <message>发送 E-mail 2(&amp;N)：</message>
+    </item>
+    <item id="E-mail 1:">
+      <message>E-mail 1：</message>
+    </item>
+    <item id="E-mail 1">
+      <message>E-mail 1</message>
+    </item>
+    <item id="&amp;E-mail 1">
+      <message>E-mail 1(&amp;E)</message>
+    </item>
+    <item id="E-&amp;mail 2">
+      <message>E-mail 2(&amp;M)</message>
+    </item>
+    <item id="E-mail 2:">
+      <message>E-mail 2：</message>
+    </item>
+    <item id="E-mail 2">
+      <message>E-mail 2</message>
+    </item>
+    <item id="Search All">
+      <message>搜索全部</message>
+    </item>
+    <item id="Search">
+      <message>搜索</message>
+    </item>
+    <item id="Call">
+      <message>呼叫</message>
+    </item>
+    <item id="E-mail">
+      <message>E-mail</message>
+    </item>
+    <item id="Contact List">
+      <message>联系列表</message>
+    </item>
+    <item id="Search CA contacts">
+      <message>搜索CA联系人</message>
+    </item>
+    <item id="Search LDAP contacts from following LDAP server">
+      <message>从以下LDAP服务器搜索LDAP联系人</message>
+    </item>
+    <item id="&amp;Call this contact">
+      <message>呼叫此联系人(&amp;C)</message>
+    </item>
+    <item id="&amp;Email this contact">
+      <message>发E-mail给此联系人(&amp;E)</message>
+    </item>
+    <item id="&amp;Add to contact list">
+      <message>填加到联系列表(&amp;A)</message>
+    </item>
+    <item id="Location">
+      <message>位置</message>
+    </item>
+    <item id="&amp;Location">
+      <message>位置(&amp;L)</message>
+    </item>
+    <item id="No result found.">
+      <message>未找到结果。</message>
+    </item>
+    <item id="No contact available to export.">
+      <message>无联系人可导出。</message>
+    </item>
+    <item id="Changes on the Network Server setting will reflect only in the next login.">
+      <message>网络服务器设定上所做的更改只有在下一次登录时才会生效。</message>
+    </item>
+    <item id="All the my list contacts belong to this group will be deleted. \nAre you sure you want to remove this record?">
+      <message>属于该群的所有我的列表联系人将被删除。\n您想删除此记录吗？</message>
+    </item>
+    <item id="The maximum my list had been registered.To add a new my list,please delete some my list.">
+      <message>已注册了我的列表的最大数量。要添加新的我的列表，请删除一些已有的我的列表。</message>
+    </item>
+    <item id="Location:">
+      <message>位置：</message>
+    </item>
+    <item id="Amount of contacts that you attempt to add is over the limit. To make new contacts, please delete some contacts in the contact list.">
+      <message>您尝试添加的联系人数量已超过了限制。要添加新联系人，请删除联系列表中的一些联系人。</message>
+    </item>
+    <item id="Please specify a value between 1 and 65535.">
+      <message>请指定1和65535之间的1个数值。</message>
+    </item>
+    <item id="No port number has been entered. Please enter a valid port number.">
+      <message>未输入端口号。请输入有效的端口号。</message>
+    </item>
+    <item id="PBX Name">
+      <message>集团电话名称</message>
+    </item>
+    <item id="Add to My List">
+      <message>添加到我的列表</message>
+    </item>
+    <item id="Network Server">
+      <message>网络服务器</message>
+    </item>
+    <item id="Network Server Information">
+      <message>网络服务器信息</message>
+    </item>
+    <item id="Current Status">
+      <message>当前状态</message>
+    </item>
+    <item id="S&amp;earch All">
+      <message>搜索全部(&amp;E)</message>
+    </item>
+    <item id="Items">
+      <message>项目</message>
+    </item>
+    <item id="My List">
+      <message>我的列表</message>
+    </item>
+    <item id="S&amp;earch All">
+      <message>搜索全部(&amp;E)</message>
+    </item>
+    <item id="MPR version is not supported.">
+      <message>不支持该MPR版本。</message>
+    </item>
+    <item id="Operation failed.">
+      <message>操作失败。</message>
+    </item>
+    <item id="Pickup">
+      <message>已接听</message>
+    </item>
+    <item id="C&amp;onference">
+      <message>会议(&amp;O)</message>
+    </item>
+    <item id="CRM Integration">
+      <message>CRM集成</message>
+    </item>
+    <item id="Enable CRM Integration">
+      <message>启用CRM集成</message>
+    </item>
+    <item id="Select format:">
+      <message>选择格式：</message>
+    </item>
+    <item id="Select folder:">
+      <message>选择文件夹：</message>
+    </item>
+    <item id="Browse...">
+      <message>浏览…</message>
+    </item>
+    <item id="The output file path is empty. Please try again!">
+      <message>输出文件路径为空。请重试！</message>
+    </item>
+    <item id="Invalid output file path. Please try again!">
+      <message>无效的输出文件路径。请重试！</message>
+    </item>
+    <item id="The output file path is not accessible. Please try again!">
+      <message>输出文件路径无法访问。请重试！</message>
+    </item>
+    <item id="The CRM Integration output file path set in Option is not accessible. \nThe CRM Integration might not work correctly.">
+      <message>无法访问在选项中设定的CRM集成输出文件路径。\nCRM集成可能无法正确工作。</message>
+    </item>
+    <item id="&amp;Edit Conference Setting">
+      <message>编辑会议设定(&amp;E)</message>
+    </item>
+    <item id="&amp;Copy contact list from">
+      <message>联系列表复制来源(&amp;C)</message>
+    </item>
+    <item id="&amp;Save contact list to">
+      <message>联系列表保存位置(&amp;S)</message>
+    </item>
+    <item id="CSV file">
+      <message>CSV文件</message>
+    </item>
+    <item id="XML file">
+      <message>XML文件</message>
+    </item>
+    <item id="The result grid view encountered error. Please try again!">
+      <message>结果网格视图出错。请重试！</message>
+    </item>
+    <item id="There are data changes without save.\nDo you want to close?">
+      <message>数据更改未保存。\n您想关闭吗？</message>
+    </item>
+    <item id="row">
+      <message>行</message>
+    </item>
+    <item id="column">
+      <message>列</message>
+    </item>
+    <item id="Input validation error">
+      <message>输入有效性错误</message>
+    </item>
+    <item id="Maximum input length reached">
+      <message>已达到最大输入长度</message>
+    </item>
+    <item id="The selected items contain contact(s) displayed with [ ], the contact(s) will not be removed.">
+      <message>所选项目中含有用[ ]显示的联系人，该联系人将不会被删除。</message>
+    </item>
+    <item id="Searching for contacts...">
+      <message>正在搜索联系人…</message>
+    </item>
+    <item id="Error while searching for LDAP result.">
+      <message>搜索LDAP结果时出错。</message>
+    </item>
+    <item id="&amp;Extension Lock/Unlock">
+      <message>分机锁定/解锁 (&amp;E)</message>
+    </item>
+    <item id="Number of LDAP search result exceeds the limit. Only first 100 result entries displayed.">
+      <message>LDAP搜索结果的数目超出了限制。仅能显示前100个结果条目。</message>
+    </item>
+    <item id="Connection to LDAP Server failed.">
+      <message>无法连接到LDAP服务器。</message>
+    </item>
+    <item id="This character cannot be assigned. (For Operator Console only)">
+      <message>不能分配此字符。（仅限Operator Console）</message>
+    </item>
+    <item id="Personal contact data will not be assured if you connect to different Server/PBX from previous login.\nPlease check the data again.">
+      <message>如果连接到不同于上次登录的服务器/集团电话，则无法保证个人联系人数据的准确性。\n请重新检查数据。</message>
+    </item>
+    <item id="Add to">
+      <message>添加到</message>
+    </item>
+    <item id="Conference Group Setting">
+      <message>会议群设定</message>
+    </item>
+    <item id="Save Group">
+      <message>保存群</message>
+    </item>
+    <item id="Delete Group">
+      <message>删除群</message>
+    </item>
+    <item id="Delete Member">
+      <message>删除成员</message>
+    </item>
+    <item id="Enable (without new contact window popup)">
+      <message>启用（不弹出新联系人窗口）</message>
+    </item>
+    <item id="Enable (with new contact window popup)">
+      <message>启用（弹出新联系人窗口）</message>
+    </item>
+    <item id="Redirect the incoming call">
+      <message>重新定向来电</message>
+    </item>
+    <item id="Remove the first \&quot;1\&quot; when caller ID is 11 digits">
+      <message>来电显示为11位时，删除首个\"1\"</message>
+    </item>
+    <item id="Disconnected">
+      <message>不连接</message>
+    </item>
+    <item id="Network Connected">
+      <message>连接</message>
+    </item>
+    <item id="Delete these contacts">
+      <message>删除联系人</message>
+    </item>
+    <item id="Port">
+      <message>端口</message>
+    </item>
+    <item id="Automatic contact name update for Hotel">
+      <message>供酒店自动更新联系人名称</message>
+    </item>
+    <item id="Note">
+      <message>注文</message>
+    </item>
+    <item id="The operation will delete selected contacts">
+      <message>此举将删除指定的联系人</message>
+    </item>
+    <item id="Network Note">
+      <message>新的设定在重新启动Communication Assistant后才会生效。</message>
+    </item>
+    <item id="Allow Join">
+      <message>允许加入</message>
+    </item>
+    <item id="UM Personal Greeting Number">
+      <message>UM 个人问候语序号</message>
+    </item>
+    <item id="Change">
+      <message>更改 </message>
+    </item>
+    <item id="None">
+      <message>无</message>
+    </item>
+    <item id="Schedule Keyword">
+      <message>日程关键词</message>
+    </item>
+    <item id="Function List Name">
+      <message>功能表名称</message>
+    </item>
+    <item id="Keyword Mapping Setting">
+      <message>关键词映射设定</message>
+    </item>
+    <item id="Call Control Window pop-up for CA">
+      <message>CA用弹屏显示呼叫控制窗口</message>
+    </item>
+    <item id="TVA/TVM">
+      <message>TVM/TVA</message>
+    </item>
+    <item id="UM">
+      <message>UM</message>
+    </item>
+    <item id="IP Address">
+      <message>IP地址</message>
+    </item>
+    <item id="Mailbox">
+      <message>语音信箱</message>
+    </item>
+    <item id="WebMC URL">
+      <message>WebMC 链接</message>
+    </item>
+    <item id="Automatically close playback window by Timer">
+      <message>定时自动退出回放界面</message>
+    </item>
+    <item id="seconds">
+      <message>秒</message>
+    </item>
+    <item id="Limitless">
+      <message>无限制</message>
+    </item>
+    <item id="Please enter valid presence tile width value from 150 to 1500.">
+      <message>请输入有效的显示块宽度（150-1500）</message>
+    </item>
+    <item id="Maximum 40 schedule keywords are registered. \nPlease delete existing schedule keyword to add a new schedule keyword.">
+      <message>最大可注册40个日程关键词。\n如需添加新关键词，请先删除已有的关键词。</message>
+    </item>
+    <item id="Third Party CRM Integration">
+      <message>第三方CRM集成</message>
+    </item>
+    <item id="MS Exchange Integration">
+      <message>MS Exchange 集成</message>
+    </item>
+    <item id="Enable Exchange Schedule Integration">
+      <message>允许Exchange 日程表集成</message>
+    </item>
+    <item id="Exchange User Account">
+      <message>Exchange 用户账号 (abc@xyz)</message>
+    </item>
+    <item id="Outlook Integration">
+      <message>Outlook 集成</message>
+    </item>
+    <item id="Presence Tile Width">
+      <message>显示块宽度</message>
+    </item>
+    <item id="Enable Call Information File">
+      <message>允许呼叫信息记录</message>
+    </item>
+    <item id="Call Information File">
+      <message>呼叫信息记录</message>
+    </item>
+    <item id="The exchange user account has exceeded the maximum byte length.">
+      <message>Exchange用户账号超过最大字节长度</message>
+    </item>
+    <item id="Failed to connect to iLink middleware. \nPlease check the iLink middleware and CRM connection. \nRelogin CA to connect to iLink middleware.">
+      <message>无法连接iLink中间件。\n请检查iLink 中间件及CRM的连接。\n并重新登录CA以连接iLink。</message>
+    </item>
+    <item id="Connection to iLink middleware is lost. \nThird Party CRM Integration will no longer work.">
+      <message>与iLink中间件的连接断开。\n第三方CRM集成将会停止工作。</message>
+    </item>
+    <item id="ACD Report">
+      <message>ACD 报告</message>
+    </item>
+    <item id="&amp;Call from Clipboard">
+      <message>从剪贴板拨号(&amp;C)</message>
+    </item>
+    <item id="Call from Clipboard">
+      <message>从剪贴板拨号</message>
+    </item>
+    <item id="Phone  Number">
+      <message>电话号码</message>
+    </item>
+    <item id="Phone Number:">
+      <message>电话号码 :</message>
+    </item>
+    <item id="Phone(Office) : ">
+      <message>办公电话 :</message>
+    </item>
+    <item id="Phone(Mobile) : ">
+      <message>移动电话 :</message>
+    </item>
+    <item id="Phone(Home) : ">
+      <message>家庭电话 :</message>
+    </item>
+    <item id="Custom Phone Number ">
+      <message>自定义电话号码 </message>
+    </item>
+    <item id="Custom Phone Number">
+      <message>自定义电话号码 </message>
+    </item>
+    <item id="At Extension ...">
+      <message>At Extension ...</message>
+    </item>
+    <item id="Back at ...">
+      <message>Back at ...</message>
+    </item>
+    <item id="Out until ...">
+      <message>Out until ...</message>
+    </item>
+    <item id="User Custom">
+      <message>User Custom</message>
+    </item>
+    <item id="Cannot login. Cause is one of followings.\n- Extension number is incorrect.\n- Password is incorrect or expired.\n- CA operator console is not selected.\n- CA is disabled for this extension.\n- Login capacity is exceeded.\n- Required AK is not installed in PBX.">
+      <message>无法登录。原因是下列之一。\n    - 分机号码不正确。\n    - 密码不正确或过期。\n    - CA在此分机无效。\n    - 超出登录容量。\n    - 所需的AK未安装在集团电话上。</message>
+    </item>
+    <item id="White">
+      <message>白色</message>
+    </item>
+    <item id="Black">
+      <message>黑色</message>
+    </item>
+    <item id="ICD">
+      <message>ICD</message>
+    </item>
+    <item id="\&quot;Conference Setting\&quot; menu is not available temporarily.\nPlease ask your PBX administrator.">
+      <message>\“会议设置\”菜单暂时不可用。\n请咨询集团电话管理员。</message>
+    </item>
+    <item id="Minimise">
+      <message>最小化</message>
+    </item>
+    <item id="Maximise">
+      <message>最大化</message>
+    </item>
+    <item id="Restore">
+      <message>恢复</message>
+    </item>
+    <item id="Close">
+      <message>关闭</message>
+    </item>
+  </category>
+</language>

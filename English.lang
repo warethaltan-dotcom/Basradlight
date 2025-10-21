@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Language>English-US</Language>
+  <Control>
+    <CLogin>Voice Mail Assistant</CLogin>
+    <lblIPAdd>IP Address of VM:</lblIPAdd>
+    <lblMailboxNum>Mailbox Number:</lblMailboxNum>
+    <lblPwd>Password of Mailbox:</lblPwd>
+    <chkLogin>Automatically login</chkLogin>
+    <btnLogin>&amp;Login</btnLogin>
+    <btnQuit>&amp;Quit</btnQuit>
+    <CVMA>Voice Mail Assistant (ver.1.0.31.1)</CVMA>
+    <lblPlaySpeed>Playback speed</lblPlaySpeed>
+    <btnCallback>&amp;Callback</btnCallback>
+    <btnEmail>&amp;E-mail Transfer</btnEmail>
+    <btnDelete>&amp;Delete</btnDelete>
+    <btnMoreAction>&amp;More Actions</btnMoreAction>
+    <btnFindNext>Find &amp;Next</btnFindNext>
+    <btnHangUp>&amp;Hang Up</btnHangUp>
+    <linkMoreMenu>&amp;More Actions</linkMoreMenu>
+    <tabRecv>Received</tabRecv>
+    <tabDel>Deleted</tabDel>
+    <ColName>Caller Name</ColName>
+    <ColID>Phone Number</ColID>
+    <ColRecvDate>Received Date</ColRecvDate>
+    <ColLength>Length</ColLength>
+    <ColRetDate>Retention Date</ColRetDate>
+    <ColMode>Mode</ColMode>
+    <playToolStripMenuItem>&amp;Play</playToolStripMenuItem>
+    <markAsReadToolStripMenuItem>Mark as &amp;Read</markAsReadToolStripMenuItem>
+    <markAsUnreadToolStripMenuItem>Mark as Un&amp;read</markAsUnreadToolStripMenuItem>
+    <moveToReceivedFolderToolStripMenuItem>Move to Recei&amp;ved Folder</moveToReceivedFolderToolStripMenuItem>
+    <moveToDeletedFolderToolStripMenuItem>Move to &amp;Deleted Folder</moveToDeletedFolderToolStripMenuItem>
+    <deleteToolStripMenuItem>&amp;Delete</deleteToolStripMenuItem>
+    <emailTransferToolStripMenuItem>&amp;E-mail Transfer</emailTransferToolStripMenuItem>
+    <exportMessageToolStripMenuItem>&amp;Save Message to PC</exportMessageToolStripMenuItem>
+    <callbackToolStripMenuItem>&amp;Callback</callbackToolStripMenuItem>
+    <menuMarkRead>Mark as &amp;Read</menuMarkRead>
+    <menuMarkUnread>Mark as Un&amp;read</menuMarkUnread>
+    <menuMoveToRecv>Move to Recei&amp;ved Folder</menuMoveToRecv>
+    <menuMoveToDel>Move to &amp;Deleted Folder</menuMoveToDel>
+    <menuExport>&amp;Save Message to PC</menuExport>
+    <menuOption>&amp;Option</menuOption>
+    <CTransferInfo>Transfer Information</CTransferInfo>
+    <COption>Voice Mail Assistant</COption>
+    <Logon_and_Security>Logon and Security</Logon_and_Security>
+    <Incomplete_Call_Handling>Incomplete Call Handling</Incomplete_Call_Handling>
+    <Notification_Parameters>Notification Parameters</Notification_Parameters>
+    <Notification_Schedule>Notification Schedule</Notification_Schedule>
+    <Auto_Forwarding>Auto Forwarding</Auto_Forwarding>
+    <E-mail_Options>E-mail Options</E-mail_Options>
+    <Personal_Custom_Service>Personal Custom Service</Personal_Custom_Service>
+    <lblMbxNo>Mailbox Number</lblMbxNo>
+    <grpPassword>Password Setting</grpPassword>
+    <lblNewPassword>New Password (Up to 16 digits)</lblNewPassword>
+    <lblVerifyPassword>Verify Password (Up to 16 digits)</lblVerifyPassword>
+    <btnChangePassword>Change &amp;Password</btnChangePassword>
+    <chkAutoLogin>Automatically login</chkAutoLogin>
+    <grpLogoutTimer>Automatically Logout by Timer</grpLogoutTimer>
+    <cmbLogoutTimer>30 seconds|1 min|3 min|5 min|10 min|30 min|Limitless</cmbLogoutTimer>
+    <lblLogon>You can password protect your mailbox to prevent unauthorised access to your mailbox.\nIf your mailbox has a password, you must enter it using the dial keys (0-9) whenever you\nlog in to your mailbox.\nThe password for the telephone and the password for Voice Mail Assistant are common.</lblLogon>
+    <tabNoAnswer>for No Answer</tabNoAnswer>
+    <tabBusy>for Busy</tabBusy>
+    <chkLeaveMessageA>Leave a message</chkLeaveMessageA>
+    <chkTransferExtA>Transfer to a covering extension</chkTransferExtA>
+    <chkPageOwnerA>Page the mailbox owner by intercom paging</chkPageOwnerA>
+    <chkNotifyOwnerA>Notify the mailbox owner via a beeper</chkNotifyOwnerA>
+    <chkTransferOperatorA>Transfer to operator</chkTransferOperatorA>
+    <chkReturnTopA>Return to top menu</chkReturnTopA>
+    <chkTransferCustomA>Transfer to specified custom service menu</chkTransferCustomA>
+    <lblServiceNoA>Custom Service Number</lblServiceNoA>
+    <lblRangeA>(range: 1-100)</lblRangeA>
+    <chkLeaveMessageB>Leave a message</chkLeaveMessageB>
+    <chkTransferExtB>Transfer to a covering extension</chkTransferExtB>
+    <chkPageOwnerB>Page the mailbox owner by intercom paging</chkPageOwnerB>
+    <chkNotifyOwnerB>Notify the mailbox owner via a beeper</chkNotifyOwnerB>
+    <chkTransferOperatorB>Transfer to operator</chkTransferOperatorB>
+    <chkReturnTopB>Return to top menu</chkReturnTopB>
+    <chkTransferCustomB>Transfer to specified custom service menu</chkTransferCustomB>
+    <lblServiceNoB>Custom Service Number</lblServiceNoB>
+    <lblRangeB>(range: 1-100)</lblRangeB>
+    <lblIncompleteCallHandling>When a call is directed to your extension via the Automated Attendant service, Incomplete\nCall Handling will handle the calls if:\na) You do not answer the call.\n   (These calls are considered "no answer" calls.)\nb) You are on another call.\n   (These calls are considered "busy" calls.)</lblIncompleteCallHandling>
+    <grpWaitingLamp>Message Waiting Lamp</grpWaitingLamp>
+    <rdEnable>Enable</rdEnable>
+    <rdDisable>Disable</rdDisable>
+    <grpDeviceNotification>Device Notification for Unreceived Message</grpDeviceNotification>
+    <rdYes>Yes</rdYes>
+    <rdNo>No</rdNo>
+    <grpCallbackMode>Beeper Callback Number Entry Mode</grpCallbackMode>
+    <cmbCallbackMode>Caller select|Without|Before|After|Disable</cmbCallbackMode>
+    <grpTimer>Device Notification Timer</grpTimer>
+    <lblStartDelay>Device Start Delay Time [0-120 min]</lblStartDelay>
+    <lblInterval1>Device Interval Time between Device 1 and Next Device [0-120 min]</lblInterval1>
+    <lblInterval2>Device Interval Time between Device 2 and Next Device [0-120 min]</lblInterval2>
+    <lblInterval3>Device Interval Time between Device 3 and Next Device [0-120 min]</lblInterval3>
+    <lblNotificationParameters>The Message Waiting Notification feature lets you know you have received new messages\nin your mailbox.</lblNotificationParameters>
+    <tabDevice1>Device No. 1</tabDevice1>
+    <tabDevice2>Device No. 2</tabDevice2>
+    <tabDevice3>Device No. 3</tabDevice3>
+    <grpUseMode>Use Mode</grpUseMode>
+    <rdNotUse>Not Use</rdNotUse>
+    <rdContinuously>Continuously</rdContinuously>
+    <rdScheduled>Scheduled</rdScheduled>
+    <grpNotificationType>Notification Type</grpNotificationType>
+    <cmbNotificationType>All Messages|Only Urgent Messages</cmbNotificationType>
+    <grpDeviceType>Type of Device</grpDeviceType>
+    <cmbDeviceType>Telephone|Beeper</cmbDeviceType>
+    <lblDialNumber>Dial Number (Up to 32 chars / [0-9*#T,;X])</lblDialNumber>
+    <lblRetries>No. of Retries</lblRetries>
+    <lblBusyDelay>Busy Delay Time</lblBusyDelay>
+    <lblNoAnswerDelay>No Answer Delay Time</lblNoAnswerDelay>
+    <tabScheduleSun>Sunday</tabScheduleSun>
+    <tabScheduleMon>Monday</tabScheduleMon>
+    <tabScheduleTue>Tuesday</tabScheduleTue>
+    <tabScheduleWed>Wednesday</tabScheduleWed>
+    <tabScheduleThu>Thursday</tabScheduleThu>
+    <tabScheduleFri>Friday</tabScheduleFri>
+    <tabScheduleSat>Saturday</tabScheduleSat>
+    <rdNone>None</rdNone>
+    <rdOne>Only Time Frame 1</rdOne>
+    <rdBoth>Both Time Frame 1 and 2</rdBoth>
+    <lblTimeFrame1>Time Frame 1</lblTimeFrame1>
+    <lblStart1>Start at:</lblStart1>
+    <lblEnd1>End at:</lblEnd1>
+    <lblTimeFrame2>Time Frame 2</lblTimeFrame2>
+    <lblStart2>Start at:</lblStart2>
+    <lblEnd2>End at:</lblEnd2>
+    <grpActive>Active</grpActive>
+    <rdActiveYes>Yes</rdActiveYes>
+    <rdActiveNo>No</rdActiveNo>
+    <grpMbxNo>Mailbox Number</grpMbxNo>
+    <grpDelayTime>Delay Time</grpDelayTime>
+    <lblDelayTime>(HH:MM / [00:05-99:59])</lblDelayTime>
+    <grpForwardingMode>Forwarding Mode</grpForwardingMode>
+    <rdMove>Move</rdMove>
+    <rdCopy>Copy</rdCopy>
+    <lblAutoForwarding>You can move or copy unplayed messages from one mailbox to another after a specified\nperiod of time has passed.</lblAutoForwarding>
+    <grpSendEmail>Send E-mail with New Messages</grpSendEmail>
+    <rdEmailEnable>Enable</rdEmailEnable>
+    <rdEmailDisable>Disable</rdEmailDisable>
+    <grpUsername>Username</grpUsername>
+    <lblUsername>[Up to 64 ASCII characters]</lblUsername>
+    <grpEmailAdd>E-mail Address</grpEmailAdd>
+    <lblEmailAdd>[Up to 128 ASCII characters]</lblEmailAdd>
+    <grpAttachVoice>Attach Voice File</grpAttachVoice>
+    <rdVoiceEnable>Enable</rdVoiceEnable>
+    <rdVoiceDisable>Disable</rdVoiceDisable>
+    <grpEmailSchedule>E-mail Schedule</grpEmailSchedule>
+    <tabEmailSun>Sunday</tabEmailSun>
+    <tabEmailMon>Monday</tabEmailMon>
+    <tabEmailTue>Tuesday</tabEmailTue>
+    <tabEmailWed>Wednesday</tabEmailWed>
+    <tabEmailThu>Thursday</tabEmailThu>
+    <tabEmailFri>Friday</tabEmailFri>
+    <tabEmailSat>Saturday</tabEmailSat>
+    <rdEmailNotUse>Not Use</rdEmailNotUse>
+    <rdEmailAllDay>All Day</rdEmailAllDay>
+    <rdEmailScheduled>Scheduled</rdEmailScheduled>
+    <chkDelete>Delete After Send</chkDelete>
+    <lblTimeFrame>Time Frame</lblTimeFrame>
+    <lblStart>Start at:</lblStart>
+    <lblEnd>End at:</lblEnd>
+    <chkReversal>Reversal</chkReversal>
+    <lblEmailOptions>When you receive new messages in your mailbox, you can receive notification by email.</lblEmailOptions>
+    <grpKeyAssignment>Key Assignment</grpKeyAssignment>
+    <lblKey>Key</lblKey>
+    <lblOperation>Assigned Operation</lblOperation>
+    <lblValue>Value</lblValue>
+    <cmbOpKey>None|Transfer to specified mailbox|Transfer to specified extension|Transfer to Voice Mail Service|Transfer to Automated Attendant Service|Transfer to specified Custom Service menu (1-100)|Transfer to operator|Transfer to outside(specified number)|Page the party|Repeat greeting</cmbOpKey>
+    <cmbValKey>Outside number #1|Outside number #2|Outside number #3|Outside number #4</cmbValKey>
+    <lblNotes>NOTE 1: The following keys are assigned and cannot be changed [1], [2], [*]\nNOTE 2: In order to use this function, it is necessary to record Personal Greeting\nMessages. Refer to Subscriber's Manual for the recording method.</lblNotes>
+    <grpOutsideNumbers>Outside Numbers</grpOutsideNumbers>
+    <lblOutNo1>Outside Number #1 (Up to 32 chars / [0-9*#T,;])</lblOutNo1>
+    <lblOutNo2>Outside Number #2 (Up to 32 chars / [0-9*#T,;])</lblOutNo2>
+    <lblOutNo3>Outside Number #3 (Up to 32 chars / [0-9*#T,;])</lblOutNo3>
+    <lblOutNo4>Outside Number #4 (Up to 32 chars / [0-9*#T,;])</lblOutNo4>
+    <grpNoInput>No DTMF Input Operation</grpNoInput>
+    <cmbNoInput>Recording|Disconnect (All Day)|Disconnect (Only After Hours)</cmbNoInput>
+    <lblPersonalCustomService>A Personal Custom Service is a set of options you can present to your callers, allowing them\nto press buttons on their telephones in order to access certain features.</lblPersonalCustomService>
+    <btnOK>&amp;OK</btnOK>
+    <btnCancel>&amp;Cancel</btnCancel>
+    <CProgressBar>Voice Mail Assistant</CProgressBar>
+    <CWaitDlg>Voice Mail Assistant</CWaitDlg>
+    <CMsgDlg>Voice Mail Assistant</CMsgDlg>
+    <lblMessage>Unknown Error.</lblMessage>
+    <btnYes>&amp;Yes</btnYes>
+    <btnNo>&amp;No</btnNo>
+    <minutes>min</minutes>
+  </Control>
+  <Message>
+    <EA10001>Invalid API Status.</EA10001>
+    <EA10002>Parameter value range error.</EA10002>
+    <EA10003>Invalid address pointer.</EA10003>
+    <EA10004>Structure error.</EA10004>
+    <EA10005>Specified mailbox is not found.</EA10005>
+    <EA10006>Specified extension is not found.</EA10006>
+    <EA20001>Local receive error.</EA20001>
+    <EA20002>Multiple processing error.</EA20002>
+    <EA20003>Not login error.</EA20003>
+    <EA20004>Time setting error.</EA20004>
+    <EA20005>Internal storage error.</EA20005>
+    <EA20006>Data number error.</EA20006>
+    <EA20007>Message status error.</EA20007>
+    <EA20008>Message type error.</EA20008>
+    <EA20009>Message export type error.</EA20009>
+    <EA20010>Wav file write sequence error.</EA20010>
+    <EA20011>Wav file access error.</EA20011>
+    <EA20012>Parameter count error.</EA20012>
+    <EA20013>File export cancelled.</EA20013>
+    <EA21001>Login receive timeout.</EA21001>
+    <EA21002>Login receive id error.</EA21002>
+    <EA21011>Data read receive timeout.</EA21011>
+    <EA21012>Data read receive id error.</EA21012>
+    <EA21021>Get message list data receive timeout.</EA21021>
+    <EA21022>Get message list data receive id error.</EA21022>
+    <EA21031>Get message ID receive timeout.</EA21031>
+    <EA21032>Get message ID receive id error.</EA21032>
+    <EA21041>Change message status receive timeout.</EA21041>
+    <EA21042>Change message status receive id error.</EA21042>
+    <EA21051>Data write receive timeout.</EA21051>
+    <EA21052>Data write receive id error.</EA21052>
+    <EA21061>Play message receive timeout.</EA21061>
+    <EA21062>Play message receive id error.</EA21062>
+    <EA21071>Stop or pause message receive timeout.</EA21071>
+    <EA21072>Stop or pause message receive id error.</EA21072>
+    <EA21081>Fast forward message receive timeout.</EA21081>
+    <EA21082>Fast forward message receive id error.</EA21082>
+    <EA21091>Rewind message receive timeout.</EA21091>
+    <EA21092>Rewind message receive id error.</EA21092>
+    <EA21101>Set play speed receive timeout.</EA21101>
+    <EA21102>Set play speed receive id error.</EA21102>
+    <EA21111>Delete Message receive timeout.</EA21111>
+    <EA21112>Delete Message receive id error.</EA21112>
+    <EA21121>Get authority receive timeout.</EA21121>
+    <EA21122>Get authority receive id error.</EA21122>
+    <EA21131>Is callback available receive timeout.</EA21131>
+    <EA21132>Is callback available receive id error.</EA21132>
+    <EA21141>Callback receive timeout.</EA21141>
+    <EA21142>Callback receive id error.</EA21142>
+    <EA21151>Export message receive timeout.</EA21151>
+    <EA21152>Export message receive id error.</EA21152>
+    <EA30001>LAN connection error.</EA30001>
+    <EA30002>LAN transmission error.</EA30002>
+    <EA30003>LAN reception error.</EA30003>
+    <EA30004>LAN reception timeout error.</EA30004>
+    <EA30005>No LAN connection error.</EA30005>
+    <EA30006>LAN disconnection.</EA30006>
+    <EAFFFFF>Physical disconnection error.</EAFFFFF>
+    <W000001>Your mailbox is almost full.\nPlease erase some of your messages.</W000001>
+    <W000002>Are you sure that you want to delete the selected message(s)?</W000002>
+    <W000003>Do you want to save your settings?</W000003>
+    <W000004>Are you sure you want to logout?</W000004>
+    <E003009>Login failed.\nThere are no free call trunk.</E003009>
+    <E003029>Login failed.\nLogin count is full.</E003029>
+    <E003001>Login failed.\nSpecified Mailbox Number is not found.</E003001>
+    <E003026>Login failed.\nAccess by Message Manager not allowed.</E003026>
+    <E003005>Login failed.\nMailbox is locked up because the number of password failures has reached the specified value.</E003005>
+    <E003004>Login failed.\nMailbox password is invalid.</E003004>
+    <E003003>Login failed.\nLogin is not allowed as the specified Mailbox is being used by another subscriber or the system.</E003003>
+    <E003006>Login failed.\nMailbox tutorial has not been conducted yet.</E003006>
+    <E11B00E>Message list retrieval failed.\nMessage ID type is out of value range.</E11B00E>
+    <E11B00F>Message list retrieval failed.\nSpecified message type is not found.</E11B00F>
+    <E10000E>Message list retrieval failed.\nMessage list type is out of value range.</E10000E>
+    <E10000F>Message list retrieval failed.\nThere are no messages in the specified list.</E10000F>
+    <E11800E>Change message status failed.\nParameter is out of value range. Specified ID is not found.</E11800E>
+    <E10200E>Play failed.\nSpecified Message ID is not found.</E10200E>
+    <E10200A>Play failed.\nThe specified message does not have playable messages, or prompt is not recorded.</E10200A>
+    <E11700E>Message speed change failed.\nSpecified playing speed is out of value range.</E11700E>
+    <E11900E>Delete message failed.\nSpecified Message ID is not found.</E11900E>
+    <E10100E>Get message failed.\nSpecified Message ID is not found.</E10100E>
+    <E10100A>Get message failed.\nThe specified message does not have playable messages, or prompt is not recorded.</E10100A>
+    <E101029>Get message failed.\nThe number of clients sending and receiving WAV files has reached the specified value so sending and receiving of WAV files is not available.</E101029>
+    <E30500E>Specified message ID is not found.</E30500E>
+    <E30400E>Callback to message sender failed.\nSpecified Message ID is not found, or the telephone number is not used.</E30400E>
+    <E30400C>Callback to message sender failed.\nThe line is busy.</E30400C>
+    <E30400B>Callback to message sender failed.\nThere is no response within the specified time (shorter than No Answer Time of PBX or VM).</E30400B>
+    <E20000E>Data retrieval failed.\nData table number is out of specified value range.</E20000E>
+    <E20200E>Data setting failed.\nData table number is out of specified value range.</E20200E>
+    <E202010>Data setting failed.\nThe value (Mailbox data etc) is out of the specified range.\nThe offset of the member variable that has become an error is set in ERROR_CODE.wErrorDetail.</E202010>
+    <E20201B>Data setting failed.\nRelevance between data is incorrect.</E20201B>
+    <E406004>Delete message failed.\nManager password is invalid.</E406004>
+    <E406023>Delete message failed.\nIt is not allowed to login because System Manager authority is in use.</E406023>
+    <E406001>Delete message failed.\nThe specified mailbox number is not found.</E406001>
+    <E406003>Delete message failed.\nThe specified mailbox cannot be deleted because it is being used by another subscriber or the system.</E406003>
+    <E40600E>Delete message failed.\nThe specified deletion type is out of value range.</E40600E>
+    <E000007>Fatal error.</E000007>
+    <E000008>The specified command is not defined.</E000008>
+    <G003001>Login failed.\nInvalid IP address.</G003001>
+    <G003002>Login failed.\nInvalid Mailbox Number.</G003002>
+    <G003003>Login failed.\nInvalid password.</G003003>
+    <G202001>The password entered is too short.</G202001>
+    <G202002>Password mismatch. Please enter your password again.</G202002>
+    <G101001>Default email client not found.</G101001>
+    <G000004>Language specified is not supported.</G000004>
+    <G000005>Writing system setting failed.</G000005>
+    <G000006>Call connection failed.\nCall connection timeout.</G000006>
+    <G000007>Call disconnected.\nVMA will be logged out.</G000007>
+    <G000008>Keep login response not received.\nVMA client will be logged out.</G000008>
+    <G000009>Abnormal disconnection detected.\nVMA client will be logged out.</G000009>
+    <G000011>Callback to message sender failed.\nThe message sender is not available for callback.</G000011>
+    <GA00001>PARAM0 is not a valid entry. Please specify a value between PARAM1 and PARAM2.</GA00001>
+    <I304001>Calling back...</I304001>
+    <I202001>Password changed successfully. Please use the new password for the next login.</I202001>
+    <I000001>Please wait...</I000001>
+    <I000003>No operation detected within determined interval.\nVMA client will be logged out.</I000003>
+    <IA00001>Transferring message PARAM0 of PARAM1...</IA00001>
+    <E502010>The password entered is too short.</E502010>
+    <E2B201B>Transfer mailbox number of Personal Custom Service does not exist.</E2B201B>
+    <E29201B>The Auto Forward mailbox number does not exist.</E29201B>
+  </Message>
+  <ToolTip>
+    <btnCallback>Callback</btnCallback>
+    <btnEmail>E-mail Transfer</btnEmail>
+    <btnDelete>Delete</btnDelete>
+    <btnMoreAction>More Actions</btnMoreAction>
+    <btnFindNext>Find Next</btnFindNext>
+    <btnHangUp>Hang Up</btnHangUp>
+    <linkMoreMenu>More Actions</linkMoreMenu>
+    <btnPlay>Play</btnPlay>
+    <btnPause>Pause</btnPause>
+    <btnStop>Stop</btnStop>
+    <btnRewind>Rewind</btnRewind>
+    <btnForward>Forward</btnForward>
+    <status2>Urgent</status2>
+    <status3>Private</status3>
+    <status4>Private and Urgent</status4>
+    <status5>Read</status5>
+    <status6>Unread</status6>
+    <status7>Read, Transferred</status7>
+    <status8>Unread, Transferred</status8>
+    <status9>Read, Transferred, Attached Comment</status9>
+    <status10>Unread, Transferred, Attached Comment</status10>
+  </ToolTip>
+  <MsgList>
+    <mode00>2 Way Record</mode00>
+    <mode10>2 Way Transfer</mode10>
+    <mode20>Transferred</mode20>
+    <mode30>Interview</mode30>
+    <mode40>Broadcast</mode40>
+    <mode50>Receipt</mode50>
+    <modeF0>Normal</modeF0>
+    <comment>Comment</comment>
+    <mbx>Mailbox</mbx>
+    <mbxDel>Deleted Mailbox</mbxDel>
+    <nonSub>Non Subscriber</nonSub>
+  </MsgList>
+</Root>
